@@ -1,0 +1,324 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Open Calls</title>
+<link rel="alternate" type="application/rss+xml" title="Open Calls" href="feed.xml">
+<style>
+  :root{
+    --ink:#141210;
+    --paper:#e8e4dc;
+    --wash:#d6d0c4;
+    --rule:#b3aa99;
+    --live:#1f5c3d;
+    --soon:#8a3312;
+  }
+  *{box-sizing:border-box}
+  body{
+    margin:0; background:var(--paper); color:var(--ink);
+    font:16px/1.55 ui-sans-serif,"Helvetica Neue",Arial,sans-serif;
+    -webkit-font-smoothing:antialiased;
+  }
+  .wrap{max-width:900px;margin:0 auto;padding:32px 20px 80px}
+  header{border-bottom:3px solid var(--ink);padding-bottom:14px;margin-bottom:22px}
+  h1{
+    margin:0; font-size:clamp(34px,8vw,64px); line-height:.95;
+    font-weight:800; letter-spacing:-.03em; text-transform:uppercase;
+  }
+  .meta{display:flex;gap:14px;flex-wrap:wrap;margin-top:10px;font-size:12px;
+    text-transform:uppercase;letter-spacing:.12em;color:#5c554a}
+  /* filter toolbar */
+  .bar{display:flex;gap:12px;flex-wrap:wrap;align-items:flex-end;margin-bottom:20px}
+  .fld{display:flex;flex-direction:column;gap:5px;font-size:10px;
+    text-transform:uppercase;letter-spacing:.13em;color:#5c554a}
+  select{
+    font:inherit;font-size:13px;padding:9px 11px;background:var(--wash);
+    border:1.5px solid var(--ink);color:var(--ink);border-radius:0;cursor:pointer;
+    min-width:150px
+  }
+  .grow{flex:1 1 200px}
+  input.q{
+    width:100%;padding:10px 13px;font:inherit;
+    background:var(--wash);border:1.5px solid var(--ink);color:var(--ink)
+  }
+  button.add{
+    font:inherit;font-size:12px;font-weight:700;letter-spacing:.08em;
+    text-transform:uppercase;padding:10px 16px;border:1.5px solid var(--ink);
+    background:var(--ink);color:var(--paper);cursor:pointer;border-radius:0;white-space:nowrap
+  }
+  button.add:hover{background:#000}
+  select:focus-visible,input:focus-visible,button:focus-visible,textarea:focus-visible{
+    outline:3px solid var(--soon);outline-offset:2px}
+  ol{list-style:none;margin:0;padding:0;counter-reset:n}
+  li{
+    counter-increment:n; display:grid; grid-template-columns:46px 1fr; gap:16px;
+    padding:18px 0; border-top:1px solid var(--rule);
+  }
+  li::before{
+    content:counter(n,decimal-leading-zero);
+    font-variant-numeric:tabular-nums;font-size:12px;color:#7d7466;padding-top:5px
+  }
+  a.t{
+    font-size:19px;font-weight:650;line-height:1.25;color:var(--ink);
+    text-decoration:none;display:inline-block;letter-spacing:-.01em
+  }
+  a.t:hover,a.t:focus-visible{text-decoration:underline;text-underline-offset:3px}
+  .sum{margin:6px 0 0;font-size:14px;color:#4a443b}
+  .row{margin-top:9px;display:flex;gap:8px;flex-wrap:wrap;align-items:center;
+    font-size:11px;text-transform:uppercase;letter-spacing:.11em}
+  .tag{border:1px solid var(--rule);padding:2px 7px;color:#5c554a}
+  .tag.mine{border-color:var(--ink);color:var(--ink);font-weight:700}
+  .src{color:#7d7466}
+  .dl{color:var(--live);font-weight:700}
+  .dl.soon{color:var(--soon)}
+  .empty{padding:40px 0;color:#5c554a}
+  /* modal */
+  .modal{position:fixed;inset:0;background:rgba(20,18,16,.55);display:flex;
+    align-items:flex-start;justify-content:center;padding:40px 16px;overflow:auto;z-index:10}
+  .modal[hidden]{display:none}
+  .card{background:var(--paper);border:2px solid var(--ink);max-width:520px;width:100%;
+    padding:26px 24px 22px}
+  .card h2{margin:0 0 4px;font-size:24px;text-transform:uppercase;letter-spacing:-.02em}
+  .card p.hint{margin:0 0 18px;font-size:13px;color:#5c554a}
+  .card label{display:block;margin-bottom:13px;font-size:11px;text-transform:uppercase;
+    letter-spacing:.12em;color:#5c554a}
+  .card input,.card textarea,.card select{
+    display:block;width:100%;margin-top:5px;padding:9px 11px;font:inherit;font-size:14px;
+    background:var(--wash);border:1.5px solid var(--rule);color:var(--ink);border-radius:0;
+    text-transform:none;letter-spacing:normal}
+  .card .two{display:flex;gap:12px}
+  .card .two label{flex:1}
+  .actions{display:flex;gap:10px;justify-content:flex-end;margin-top:8px}
+  .actions button{font:inherit;font-size:12px;font-weight:700;letter-spacing:.08em;
+    text-transform:uppercase;padding:10px 16px;border:1.5px solid var(--ink);cursor:pointer;border-radius:0}
+  .actions .ghost{background:transparent;color:var(--ink)}
+  .actions .go{background:var(--ink);color:var(--paper)}
+  @media (prefers-reduced-motion:no-preference){
+    li{animation:in .35s ease both}
+    @keyframes in{from{opacity:0;transform:translateY(6px)}}
+  }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <h1>Open<br>Calls</h1>
+    <div class="meta">
+      <span id="count">Loading</span>
+      <span id="updated"></span>
+      <span><a href="feed.xml" style="color:inherit">RSS</a></span>
+    </div>
+  </header>
+
+  <div class="bar">
+    <label class="fld">Feed
+      <select id="mode">
+        <option value="opportunity">Opportunities</option>
+        <option value="archive">Public Art</option>
+      </select>
+    </label>
+    <label class="fld" id="catFld">Category
+      <select id="cat"></select>
+    </label>
+    <label class="fld">Region
+      <select id="region"></select>
+    </label>
+    <label class="fld grow">Search
+      <input class="q" id="q" type="search" placeholder="Search titles, sources, keywords">
+    </label>
+    <button class="add" id="addBtn" type="button">+ Add opportunity</button>
+  </div>
+
+  <ol id="list"></ol>
+  <p class="empty" id="empty" hidden>Nothing matches yet. Clear the search or pick another filter.</p>
+</div>
+
+<div class="modal" id="modal" hidden>
+  <div class="card" role="dialog" aria-modal="true" aria-labelledby="mTitle">
+    <h2 id="mTitle">Add an opportunity</h2>
+    <p class="hint">Share a call, grant, job, or residency. It's saved in your browser and appears at the top of your feed.</p>
+    <form id="addForm">
+      <label>Title *
+        <input name="title" required maxlength="180" placeholder="e.g. Spring Mural Commission">
+      </label>
+      <label>Link (URL) *
+        <input name="link" type="url" required placeholder="https://...">
+      </label>
+      <div class="two">
+        <label>Category
+          <select name="type">
+            <option value="opportunity">opportunity</option>
+            <option value="grant">grant</option>
+            <option value="job">job</option>
+            <option value="rfp">rfp</option>
+            <option value="residency">residency</option>
+            <option value="commission">commission</option>
+          </select>
+        </label>
+        <label>Region
+          <select name="region">
+            <option value="">— unspecified —</option>
+            <option>Remote</option>
+            <option>Northeast</option>
+            <option>South</option>
+            <option>Midwest</option>
+            <option>West</option>
+            <option>International</option>
+          </select>
+        </label>
+      </div>
+      <label>Deadline (optional)
+        <input name="deadline" type="date">
+      </label>
+      <label>Summary (optional)
+        <textarea name="summary" rows="3" maxlength="600" placeholder="A sentence or two of detail."></textarea>
+      </label>
+      <div class="actions">
+        <button type="button" class="ghost" id="cancel">Cancel</button>
+        <button type="submit" class="go">Add to feed</button>
+      </div>
+    </form>
+  </div>
+</div>
+
+<script>
+const TAGS = ["all","grant","job","rfp","residency","commission","announcement"];
+const REGION_ORDER = ["Remote","Northeast","South","Midwest","West","International"];
+const LS_KEY = "artfeed_user_items";
+let fetched = [], userItems = [], items = [];
+let mode = "opportunity", tag = "all", region = "all", q = "";
+const kindOf = i => i.kind || "opportunity";
+const esc = s => (s||"").replace(/[&<>"]/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+const days = d => Math.ceil((new Date(d) - new Date()) / 864e5);
+
+function rebuild(){
+  // Your own submissions pin to the top; everything else is newest-first.
+  items = [...userItems, ...fetched].sort((a,b) =>
+    (b.userAdded ? 1 : 0) - (a.userAdded ? 1 : 0) ||
+    new Date(b.published) - new Date(a.published));
+}
+
+function render(){
+  const list = document.getElementById("list");
+  const needle = q.toLowerCase();
+  const rows = items.filter(i =>
+    kindOf(i) === mode &&
+    (mode === "archive" || tag === "all" || i.tags.includes(tag)) &&
+    (region === "all" || i.region === region) &&
+    (!needle || (i.title + " " + i.summary + " " + i.source).toLowerCase().includes(needle))
+  );
+  document.getElementById("empty").hidden = rows.length > 0;
+  list.innerHTML = rows.map(i => {
+    const n = i.deadline ? days(i.deadline) : null;
+    const dl = i.deadline
+      ? `<span class="dl ${n !== null && n <= 21 ? "soon" : ""}">Closes ${i.deadline}${n !== null && n >= 0 ? ` &middot; ${n}d` : ""}</span>`
+      : "";
+    return `<li>
+      <div>
+        <a class="t" href="${esc(i.link)}" target="_blank" rel="noopener">${esc(i.title)}</a>
+        ${i.summary ? `<p class="sum">${esc(i.summary.slice(0,190))}</p>` : ""}
+        <div class="row">
+          ${i.tags.map(t => `<span class="tag">${esc(t)}</span>`).join("")}
+          ${i.region ? `<span class="tag">${esc(i.region)}</span>` : ""}
+          <span class="src ${i.userAdded ? "" : ""}">${esc(i.source)}</span>${dl}
+        </div>
+      </div></li>`;
+  }).join("");
+  document.getElementById("count").textContent =
+    rows.length + (mode === "opportunity" ? " open" : " works");
+}
+
+// ---- dropdown filters ----
+const modeSel = document.getElementById("mode");
+const catSel = document.getElementById("cat");
+const regionSel = document.getElementById("region");
+const catFld = document.getElementById("catFld");
+
+catSel.innerHTML = TAGS.map(t =>
+  `<option value="${t}">${t === "all" ? "all categories" : t}</option>`).join("");
+
+function buildRegions(){
+  const present = new Set(items.filter(i => kindOf(i) === mode).map(i => i.region).filter(Boolean));
+  const opts = ["all", ...REGION_ORDER.filter(r => present.has(r))];
+  regionSel.innerHTML = opts.map(r =>
+    `<option value="${r}">${r === "all" ? "everywhere" : r}</option>`).join("");
+  regionSel.value = "all";
+}
+
+modeSel.addEventListener("change", e => {
+  mode = e.target.value; tag = "all"; region = "all";
+  catSel.value = "all";
+  catFld.style.visibility = mode === "opportunity" ? "visible" : "hidden";
+  buildRegions();
+  render();
+});
+catSel.addEventListener("change", e => { tag = e.target.value; render(); });
+regionSel.addEventListener("change", e => { region = e.target.value; render(); });
+document.getElementById("q").addEventListener("input", e => { q = e.target.value; render(); });
+
+// ---- add-opportunity modal ----
+const modal = document.getElementById("modal");
+const form = document.getElementById("addForm");
+const openModal = () => { modal.hidden = false; form.title.focus(); };
+const closeModal = () => { modal.hidden = true; form.reset(); };
+document.getElementById("addBtn").addEventListener("click", openModal);
+document.getElementById("cancel").addEventListener("click", closeModal);
+modal.addEventListener("click", e => { if (e.target === modal) closeModal(); });
+document.addEventListener("keydown", e => { if (e.key === "Escape" && !modal.hidden) closeModal(); });
+
+form.addEventListener("submit", e => {
+  e.preventDefault();
+  const f = new FormData(form);
+  const item = {
+    id: "user-" + Date.now(),
+    title: (f.get("title") || "").trim(),
+    link: (f.get("link") || "").trim(),
+    summary: (f.get("summary") || "").trim(),
+    source: "Added by you",
+    published: new Date().toISOString(),
+    deadline: f.get("deadline") || null,
+    tags: [f.get("type") || "opportunity"],
+    region: f.get("region") || null,
+    kind: "opportunity",
+    userAdded: true
+  };
+  if (!item.title || !item.link) return;
+  userItems.unshift(item);
+  localStorage.setItem(LS_KEY, JSON.stringify(userItems));
+  rebuild();
+  // surface the new item: jump to Opportunities, clear filters
+  mode = "opportunity"; tag = "all"; region = "all"; q = "";
+  modeSel.value = "opportunity"; catSel.value = "all";
+  catFld.style.visibility = "visible";
+  document.getElementById("q").value = "";
+  buildRegions();
+  render();
+  closeModal();
+});
+
+// ---- load ----
+try { userItems = JSON.parse(localStorage.getItem(LS_KEY)) || []; } catch (_) { userItems = []; }
+
+fetch("feed.json")
+  .then(r => r.json())
+  .then(d => {
+    fetched = d.items;
+    document.getElementById("updated").textContent =
+      "Updated " + new Date(d.updated).toLocaleDateString();
+    rebuild();
+    buildRegions();
+    render();
+  })
+  .catch(() => {
+    rebuild();            // still show any user-added items offline
+    buildRegions();
+    render();
+    if (!items.length) {
+      document.getElementById("count").textContent = "Feed not built yet";
+      document.getElementById("empty").hidden = false;
+    }
+  });
+</script>
+</body>
+</html>

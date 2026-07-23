@@ -1,0 +1,194 @@
+# Add or remove sources freely. type is the default tag applied to items
+# from that source. Items also get auto tagged by keyword.
+#
+# Handy patterns:
+#   WordPress site       https://example.com/tag/opportunities/feed/
+#   Reddit               https://www.reddit.com/r/artbusiness/.rss
+#   Reddit search        https://www.reddit.com/search.rss?q=artist+grant&sort=new
+#   Substack             https://someletter.substack.com/feed
+#   Craigslist           https://newyork.craigslist.org/search/med?format=rss
+#   Google Alerts        create an alert, choose "Deliver to: RSS feed"
+
+sources:
+  # Reddit and Craigslist return 403 to datacenter IPs, which is what GitHub
+  # Actions runs on. They work from your laptop. To get the same coverage in
+  # CI, make a Google Alert for each query, set delivery to RSS, paste the
+  # feed URL here. Uncomment if you run the script locally.
+  # - name: Reddit ArtBusiness
+  #   url: https://www.reddit.com/r/artbusiness/.rss
+  #   type: announcement
+  # - name: Craigslist NYC art and media gigs
+  #   url: https://newyork.craigslist.org/search/cpg?format=rss
+  #   type: job
+
+  - name: Hyperallergic Opportunities
+    url: https://hyperallergic.com/tag/opportunities/feed/
+    type: opportunity
+
+  - name: ArtDeadline
+    url: https://www.artdeadline.com/feed/
+    type: opportunity
+
+  # Whole site feed, narrowed with keywords
+  - name: NYFA
+    url: https://www.nyfa.org/feed/
+    type: opportunity
+    require: ["open call", "deadline", "apply", "grant", "fellowship",
+              "residency", "submission", "hiring", "job"]
+
+# Grants.gov keyword searches. No API key required.
+grants_gov:
+  enabled: true
+  keywords:
+    - art
+    - arts
+    - museum
+    - humanities
+    - creative
+  rows: 40
+
+# USAJOBS federal job board. Free, official open API. Covers both fine-arts
+# roles and the skilled trades, with real "City, State" locations that feed
+# the region filter. Get a key in ~2 minutes at https://developer.usajobs.gov
+# (register with your email), then set it as an env var / GitHub Actions secret:
+#     export USAJOBS_API_KEY=...
+# Leave enabled: true — it self-skips cleanly if no key is present.
+usajobs:
+  enabled: true
+  contact: jonathanfriedman@gmail.com   # USAJOBS wants a contact in User-Agent
+  rows: 25
+  keywords:
+    # fine arts / museum
+    - arts specialist
+    - museum curator
+    - museum technician
+    - museum specialist
+    - exhibits specialist
+    - illustrator
+    - photographer
+    - audiovisual production
+    - art conservator
+    # trades / fabrication / installation
+    - carpenter
+    - welder
+    - electrician
+    - painter
+    - metal fabrication
+    - locksmith
+    - maintenance mechanic
+    - machinist
+
+# Public-art archives from municipal open-data (Socrata) portals. These are
+# records of EXISTING works and their creators (murals, percent-for-art,
+# temporary installations), not opportunities — the viewer shows them in a
+# separate "Public Art" mode. All free, open-licensed, no API key, no scraping.
+# Field names differ per city, so each dataset maps its columns below.
+public_art:
+  - name: Chicago Mural Registry
+    domain: data.cityofchicago.org
+    id: we8h-apcf
+    city: Chicago
+    limit: 40
+    fields:
+      title: artwork_title
+      artist: artist_credit
+      year: year_installed
+      location: street_address
+
+  - name: Chicago Park Art
+    domain: data.cityofchicago.org
+    id: pxyq-qhyd
+    city: Chicago
+    limit: 30
+    fields:
+      title: name
+      artist: artist
+      location: park
+
+  - name: NYC Percent for Art
+    domain: data.cityofnewyork.us
+    id: gzdv-qiga
+    city: New York
+    limit: 40
+    fields:
+      title: percent_project
+      artist: artist
+      location: address
+
+  - name: NYC Temporary Public Art
+    domain: data.cityofnewyork.us
+    id: 3r2x-bnmj
+    city: New York
+    limit: 40
+    fields:
+      title: title
+      artist: artist
+      year: year
+      location: site_location
+      description: project_type
+
+  - name: MTA Permanent Art Catalog
+    domain: data.ny.gov
+    id: 4y8j-9pkd
+    city: New York
+    limit: 40
+    fields:
+      title: art_title
+      artist: artist
+      medium: art_material
+      description: art_description
+      location: station_name
+      year: art_date
+      image: art_image_link
+      link: art_image_link
+
+  - name: Cambridge Public Art
+    domain: data.cambridgema.gov
+    id: taa9-avfg
+    city: Cambridge
+    limit: 40
+    fields:
+      title: piece_title
+      artist: artist_last_name
+      medium: medium
+      description: object_description
+      location: neighborhood
+
+  # Templates for datasets the report recommends but whose Socrata IDs need
+  # confirming from their portals before enabling (San Francisco is the
+  # report's #1 pick and would add West-coast coverage):
+  # - name: San Francisco Civic Art Collection
+  #   domain: data.sfgov.org
+  #   id: <confirm-id>
+  #   city: San Francisco
+  #   fields: { title: title, artist: artist, medium: medium, location: location_description }
+  # - name: Philadelphia Percent for Art
+  #   domain: <opendataphilly Socrata/ArcGIS host>
+  #   id: <confirm-id>
+  #   city: Philadelphia
+  # - name: Tempe Public Art
+  #   domain: <data.tempe.gov host>
+  #   id: <confirm-id>
+  #   city: Tempe
+
+# Sites with no feed. Selectors live here so a site redesign is a config edit.
+# Verify a selector quickly:
+#   python -c "from scrape import scrape; print(scrape({'name':'t','url':'URL','item':'SELECTOR','title':'SELECTOR'})[:2])"
+scrape:
+  - name: Artist Communities Alliance
+    url: https://artistcommunities.org/residencies
+    type: residency
+    item: article.node--type-residency
+    title: span.field--name-title
+    summary: div.field--name-field-residency-description
+    delay: 3
+
+  # CaFE and Res Artis sit behind bot protection and return no usable HTML to
+  # a plain request. Left here as templates. Confirm selectors in your browser
+  # devtools before enabling, and check each site terms of use first.
+  # - name: CaFE Calls
+  #   url: https://artist.callforentry.org/festivals.php
+  #   type: rfp
+  #   item: .cfe-listing
+  #   title: .cfe-listing-title
+  #   deadline: .cfe-deadline
