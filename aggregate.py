@@ -341,6 +341,7 @@ def pull_public_art(datasets):
 
 def write_json(items, path):
     payload = {
+        "contract_version": "artelier_opportunities_feed_v1",
         "title": SITE_TITLE,
         "updated": datetime.now(timezone.utc).isoformat(),
         "count": len(items),

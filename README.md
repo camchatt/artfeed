@@ -4,6 +4,11 @@ Aggregates jobs, grants, RFPs, residencies and open calls for artists into
 `docs/feed.json` and `docs/feed.xml`. Runs free on GitHub Actions, serves free
 on GitHub Pages.
 
+`feed.json` declares `contract_version: artelier_opportunities_feed_v1` so
+Artelier can reject incompatible feed shapes instead of silently misreading
+them. Additive item fields are allowed; existing field meanings remain stable
+within v1.
+
 ## Setup
 
 1. Create a repo, drop these files in, push to `main`.
