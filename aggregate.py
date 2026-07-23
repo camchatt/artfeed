@@ -24,6 +24,7 @@ import yaml
 from scrape import scrape
 from socrata import pull_dataset
 from geo import region_of
+from enrich import enrich_items
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 OUT_DIR = os.path.join(HERE, "docs")
@@ -204,7 +205,7 @@ def pull_grants_gov(cfg):
                     close = None if d.year >= 2090 else d.isoformat()
                 except ValueError:
                     close = None
-            items.append({
+            row = {
                 "id": norm_key(title, link),
                 "title": title,
                 "link": link,
@@ -214,7 +215,10 @@ def pull_grants_gov(cfg):
                 "deadline": close,
                 "tags": tag_item(title, summary, "grant"),
                 "region": region_of(f"{title} {agency}"),
-            })
+                "opportunity_type": "grant_or_funding",
+            }
+            # Thin search hit — detail page enrich fills description later.
+            items.append(row)
         time.sleep(0.5)
     print(f"  Grants.gov: {len(items)}")
     return items
@@ -255,13 +259,22 @@ def pull_usajobs(cfg):
             org = clean(d.get("OrganizationName"))
             loc = clean(d.get("PositionLocationDisplay"))
             summary = f"{org} | {loc}".strip(" |")
+            # Prefer structured job text from the search payload so Artelier
+            # gets a real "what" without an extra page fetch when possible.
+            user_area = (d.get("UserArea") or {}).get("Details") or {}
+            description = clean(
+                d.get("QualificationSummary")
+                or user_area.get("JobSummary")
+                or user_area.get("MajorDuties")
+                or ""
+            )
             close = d.get("ApplicationCloseDate")
             if close:
                 close = close[:10]  # ISO date already
             pub = d.get("PublicationStartDate")
             published = (pub[:10] + "T00:00:00+00:00") if pub else \
                 datetime.now(timezone.utc).isoformat()
-            items.append({
+            row = {
                 "id": norm_key(title, link),
                 "title": title,
                 "link": link,
@@ -271,7 +284,15 @@ def pull_usajobs(cfg):
                 "deadline": close,
                 "tags": tag_item(title, summary, "job"),
                 "region": region_of(loc),
-            })
+                "opportunity_type": "job",
+            }
+            if description:
+                row["description"] = description[:8000]
+            if re.search(r"\btelework|remote\b", f"{loc} {description}", re.I):
+                row["location_mode"] = "remote"
+            elif loc:
+                row["location_mode"] = "onsite"
+            items.append(row)
         time.sleep(0.4)
     print(f"  USAJOBS: {len(items)}")
     return items
@@ -417,14 +438,21 @@ def main():
             and (it["kind"] == "archive" or it["published"] >= cutoff)]
 
     live = live[:MAX_ITEMS]
+    print("Enriching opportunities (description + structured fields)")
+    live = enrich_items(live)
     os.makedirs(OUT_DIR, exist_ok=True)
     write_json(live, os.path.join(OUT_DIR, "feed.json"))
     # RSS stays an open-calls subscription: opportunities only.
     write_rss([it for it in live if it["kind"] == "opportunity"],
               os.path.join(OUT_DIR, "feed.xml"))
     opp = sum(1 for it in live if it["kind"] == "opportunity")
+    with_desc = sum(
+        1 for it in live
+        if it.get("kind") == "opportunity" and len(it.get("description") or "") >= 160
+    )
     print(f"\n{len(live)} items written to docs/ ({opp} opportunities, "
-          f"{len(live) - opp} public-art records)")
+          f"{len(live) - opp} public-art records; "
+          f"{with_desc}/{opp} opportunities have a longer description)")
 
 
 if __name__ == "__main__":

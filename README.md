@@ -9,6 +9,24 @@ Artelier can reject incompatible feed shapes instead of silently misreading
 them. Additive item fields are allowed; existing field meanings remain stable
 within v1.
 
+### Additive fields for Artelier
+
+After aggregation, `enrich.py` fills optional fields Artelier maps into richer
+opportunity detail + matching:
+
+| Field | Purpose |
+|-------|---------|
+| `description` | Longer “what” (eligibility / duties / deliverables) |
+| `location_mode` | `onsite` \| `remote` \| `hybrid` \| `flexible` \| `not_specified` |
+| `required_roles` | Guided-vocab roles when detectable (e.g. Artist, Fabricator) |
+| `project_types` | Guided-vocab project types (e.g. Public Art, Sculpture) |
+| `materials` | Guided-vocab materials when mentioned |
+| `opportunity_type` | Artelier type enum when classifiable |
+
+`summary` stays short for the Artfeed viewer. Thin API rows (USAJOBS /
+Grants.gov) prefer structured API text first, then a capped detail-page fetch
+(≤80 per run) so GitHub Actions stays bounded.
+
 ## Setup
 
 1. Create a repo, drop these files in, push to `main`.
