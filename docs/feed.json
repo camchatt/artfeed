@@ -1,8 +1,8 @@
 {
   "contract_version": "artelier_opportunities_feed_v1",
   "title": "Creative Opportunities",
-  "updated": "2026-08-03T20:23:13.509923+00:00",
-  "count": 265,
+  "updated": "2026-08-04T09:36:21.218903+00:00",
+  "count": 264,
   "items": [
     {
       "id": "5c569d5cf6f698ff7bf0605d8598fb8ad5d8431e",
@@ -10,7 +10,7 @@
       "link": "https://www.grants.gov/search-results-detail/363225",
       "summary": "Bureau Of Educational and Cultural Affairs | opportunity DFOP0017180",
       "source": "Grants.gov",
-      "published": "2026-08-03T20:22:42.092015+00:00",
+      "published": "2026-08-04T09:36:01.386141+00:00",
       "deadline": null,
       "tags": [
         "grant"
@@ -27,7 +27,7 @@
       "link": "https://www.grants.gov/search-results-detail/363269",
       "summary": "U.S. Mission to Nigeria | opportunity PDS-APS-FY26-01",
       "source": "Grants.gov",
-      "published": "2026-08-03T20:22:42.090808+00:00",
+      "published": "2026-08-04T09:36:01.384584+00:00",
       "deadline": "2026-08-20",
       "tags": [
         "grant"
@@ -44,7 +44,7 @@
       "link": "https://www.grants.gov/search-results-detail/363293",
       "summary": "U.S. Mission to Indonesia | opportunity PAS-JAKARTA-FY26-08",
       "source": "Grants.gov",
-      "published": "2026-08-03T20:22:42.090250+00:00",
+      "published": "2026-08-04T09:36:01.383983+00:00",
       "deadline": "2026-08-30",
       "tags": [
         "grant"
@@ -61,7 +61,7 @@
       "link": "https://www.grants.gov/search-results-detail/362939",
       "summary": "U.S. Mission to Indonesia | opportunity PAS-JAKARTA-FY26-05",
       "source": "Grants.gov",
-      "published": "2026-08-03T20:22:42.089693+00:00",
+      "published": "2026-08-04T09:36:01.383282+00:00",
       "deadline": "2026-08-07",
       "tags": [
         "grant",
@@ -79,7 +79,7 @@
       "link": "https://www.grants.gov/search-results-detail/363084",
       "summary": "National Endowment for the Humanities | opportunity 20260916-RZ",
       "source": "Grants.gov",
-      "published": "2026-08-03T20:22:40.689562+00:00",
+      "published": "2026-08-04T09:36:00.765293+00:00",
       "deadline": "2026-09-16",
       "tags": [
         "grant"
@@ -99,7 +99,7 @@
       "link": "https://www.grants.gov/search-results-detail/363014",
       "summary": "National Endowment for the Humanities | opportunity 20260916-RQ",
       "source": "Grants.gov",
-      "published": "2026-08-03T20:22:40.689064+00:00",
+      "published": "2026-08-04T09:36:00.764568+00:00",
       "deadline": "2026-09-16",
       "tags": [
         "grant"
@@ -116,7 +116,7 @@
       "link": "https://www.grants.gov/search-results-detail/361480",
       "summary": "National Endowment for the Humanities | opportunity 20260511-PCS",
       "source": "Grants.gov",
-      "published": "2026-08-03T20:22:40.688642+00:00",
+      "published": "2026-08-04T09:36:00.764036+00:00",
       "deadline": "2026-12-15",
       "tags": [
         "grant"
@@ -133,7 +133,7 @@
       "link": "https://www.grants.gov/search-results-detail/362828",
       "summary": "Bureau Of Educational and Cultural Affairs | opportunity DFOP0018696",
       "source": "Grants.gov",
-      "published": "2026-08-03T20:22:39.970231+00:00",
+      "published": "2026-08-04T09:36:00.103010+00:00",
       "deadline": "2026-08-14",
       "tags": [
         "grant"
@@ -150,7 +150,7 @@
       "link": "https://www.grants.gov/search-results-detail/289185",
       "summary": "National Park Service | opportunity P17AS00001",
       "source": "Grants.gov",
-      "published": "2026-08-03T20:22:39.968603+00:00",
+      "published": "2026-08-04T09:36:00.100833+00:00",
       "deadline": null,
       "tags": [
         "grant"
@@ -167,7 +167,7 @@
       "link": "https://www.grants.gov/search-results-detail/322314",
       "summary": "U.S. Mission to Cambodia | opportunity PAS-CB-600-20-PAS-0003",
       "source": "Grants.gov",
-      "published": "2026-08-03T20:22:39.968064+00:00",
+      "published": "2026-08-04T09:36:00.100086+00:00",
       "deadline": null,
       "tags": [
         "grant"
@@ -184,7 +184,7 @@
       "link": "https://www.grants.gov/search-results-detail/362984",
       "summary": "National Endowment for the Arts | opportunity 2027FCAHDOM02",
       "source": "Grants.gov",
-      "published": "2026-08-03T20:22:39.248176+00:00",
+      "published": "2026-08-04T09:35:59.488651+00:00",
       "deadline": "2027-06-07",
       "tags": [
         "grant"
@@ -201,7 +201,7 @@
       "link": "https://www.grants.gov/search-results-detail/362981",
       "summary": "National Endowment for the Arts | opportunity 2027FCAH01",
       "source": "Grants.gov",
-      "published": "2026-08-03T20:22:39.247725+00:00",
+      "published": "2026-08-04T09:35:59.488062+00:00",
       "deadline": "2026-09-14",
       "tags": [
         "grant"
@@ -218,7 +218,7 @@
       "link": "https://www.grants.gov/search-results-detail/362982",
       "summary": "National Endowment for the Arts | opportunity 2027FCAHDOM01",
       "source": "Grants.gov",
-      "published": "2026-08-03T20:22:39.247234+00:00",
+      "published": "2026-08-04T09:35:59.487463+00:00",
       "deadline": "2026-12-07",
       "tags": [
         "grant"
@@ -235,7 +235,7 @@
       "link": "https://www.grants.gov/search-results-detail/362983",
       "summary": "National Endowment for the Arts | opportunity 2027FCAH02",
       "source": "Grants.gov",
-      "published": "2026-08-03T20:22:39.246775+00:00",
+      "published": "2026-08-04T09:35:59.486821+00:00",
       "deadline": "2027-03-08",
       "tags": [
         "grant"
@@ -252,7 +252,7 @@
       "link": "https://www.grants.gov/search-results-detail/361554",
       "summary": "Bureau Of Educational and Cultural Affairs | opportunity DFOP0017204",
       "source": "Grants.gov",
-      "published": "2026-08-03T20:22:39.245453+00:00",
+      "published": "2026-08-04T09:35:59.485133+00:00",
       "deadline": null,
       "tags": [
         "grant"
@@ -269,7 +269,7 @@
       "link": "https://www.grants.gov/search-results-detail/362676",
       "summary": "National Endowment for the Arts | opportunity 2027NEA04PA",
       "source": "Grants.gov",
-      "published": "2026-08-03T20:22:39.244520+00:00",
+      "published": "2026-08-04T09:35:59.483882+00:00",
       "deadline": "2026-09-29",
       "tags": [
         "grant"
@@ -286,7 +286,7 @@
       "link": "https://artistcommunities.org/directory/residencies/alaska-air-bunnell-street-arts-center-artist-residence",
       "summary": "Bunnell Street Arts Center's \"Alaska AIR\" Artist-in-Residency program seeks international, US and Alaska artists looking to create new work and deeply engage Bunnell’s community.",
       "source": "Artist Communities Alliance",
-      "published": "2026-08-03T20:22:37.992819+00:00",
+      "published": "2026-08-04T09:35:58.671274+00:00",
       "deadline": null,
       "tags": [
         "residency"
@@ -306,7 +306,7 @@
       "link": "https://artistcommunities.org/directory/residencies/alaska-chulitna-lodge-wilderness-retreat-creative-residency",
       "summary": "Chulitna Lodge Wilderness Retreat seeks to provide the time, space, clarity and facilities for all forms of creative professionals or enthusiastic hobbyists to make and meditate.",
       "source": "Artist Communities Alliance",
-      "published": "2026-08-03T20:22:37.992567+00:00",
+      "published": "2026-08-04T09:35:58.670939+00:00",
       "deadline": null,
       "tags": [
         "residency"
@@ -323,7 +323,7 @@
       "link": "https://artistcommunities.org/directory/residencies/al-mickey-quinlan-artist-residency",
       "summary": "Whitefish Bay, located on Wisconsin's Door Peninsula , has long been a creative haven for artists who were an important part of the local community and brought the process of creating art into daily life.",
       "source": "Artist Communities Alliance",
-      "published": "2026-08-03T20:22:37.992434+00:00",
+      "published": "2026-08-04T09:35:58.670779+00:00",
       "deadline": null,
       "tags": [
         "residency"
@@ -343,7 +343,7 @@
       "link": "https://artistcommunities.org/directory/residencies/airnewport",
       "summary": "The Newport artist residency, AiR/Newport is designed to encourage the creative, intellectual and personal growth of emerging to established visual artists and designers by giving them the time, space and solitude needed to create, apart from the daily demands of production and deadlines.",
       "source": "Artist Communities Alliance",
-      "published": "2026-08-03T20:22:37.991653+00:00",
+      "published": "2026-08-04T09:35:58.669755+00:00",
       "deadline": null,
       "tags": [
         "residency"
@@ -364,7 +364,7 @@
       "link": "https://artistcommunities.org/directory/residencies/adriftproject-residency-inc",
       "summary": "adriftproject hosts artist residencies aboard SV Hawa for up to two residents at a time as we transit the lovely and diverse US east coast following good weather.",
       "source": "Artist Communities Alliance",
-      "published": "2026-08-03T20:22:37.991061+00:00",
+      "published": "2026-08-04T09:35:58.669000+00:00",
       "deadline": null,
       "tags": [
         "residency"
@@ -384,7 +384,7 @@
       "link": "https://artistcommunities.org/directory/residencies/activate-residency",
       "summary": "Boston Center for the Arts’ ACTivate Residency will award seven-day residencies to individuals and small groups of artists to create site-responsive work in the historic Cyclorama. The work can be performative and/or visual in nature and is meant to activate artists and our spaces.",
       "source": "Artist Communities Alliance",
-      "published": "2026-08-03T20:22:37.990687+00:00",
+      "published": "2026-08-04T09:35:58.668502+00:00",
       "deadline": null,
       "tags": [
         "grant",
@@ -405,7 +405,7 @@
       "link": "https://artistcommunities.org/directory/residencies/acre-academic-and-creative-research-residency-programme",
       "summary": "The ACRE (Academic and Creative Research) Residency Programme invites artists, researchers, writers, and creative practitioners to live and work at Braziers Park while developing independent projects.",
       "source": "Artist Communities Alliance",
-      "published": "2026-08-03T20:22:37.989984+00:00",
+      "published": "2026-08-04T09:35:58.667570+00:00",
       "deadline": null,
       "tags": [
         "residency"
@@ -428,7 +428,7 @@
       "link": "https://artistcommunities.org/directory/residencies/acre",
       "summary": "ACRE’s Residency Program takes place every summer in the Driftless region of Wisconsin.",
       "source": "Artist Communities Alliance",
-      "published": "2026-08-03T20:22:37.989899+00:00",
+      "published": "2026-08-04T09:35:58.667462+00:00",
       "deadline": null,
       "tags": [
         "residency"
@@ -464,7 +464,7 @@
       "link": "https://artistcommunities.org/directory/residencies/ace-ashevillechicago-exchange-choreographic-fellowship",
       "summary": "An ACE Fellowship in Dance provides immersive creative time and space to selected artists, free of charge.",
       "source": "Artist Communities Alliance",
-      "published": "2026-08-03T20:22:37.989650+00:00",
+      "published": "2026-08-04T09:35:58.667145+00:00",
       "deadline": null,
       "tags": [
         "grant",
@@ -490,7 +490,7 @@
       "link": "https://artistcommunities.org/directory/residencies/aca-soundscape-field-station-canaveral-national-seashore",
       "summary": "ACA Soundscape Field Station at Canaveral National Seashore is a partnership between Atlantic Center for the Arts and Canaveral National Seashore.",
       "source": "Artist Communities Alliance",
-      "published": "2026-08-03T20:22:37.988983+00:00",
+      "published": "2026-08-04T09:35:58.666362+00:00",
       "deadline": null,
       "tags": [
         "residency"
@@ -514,7 +514,7 @@
       "link": "https://artistcommunities.org/directory/residencies/aca-sample-residency-0",
       "summary": "Description here.",
       "source": "Artist Communities Alliance",
-      "published": "2026-08-03T20:22:37.988685+00:00",
+      "published": "2026-08-04T09:35:58.665975+00:00",
       "deadline": null,
       "tags": [
         "residency"
@@ -537,7 +537,7 @@
       "link": "https://artistcommunities.org/directory/residencies/aca-residency-196-feb-8-28-2026",
       "summary": "The Mentoring Artist Residency was the core program at our founding, and it has served over 3,500 emerging and mid-career artists from many disciplines.",
       "source": "Artist Communities Alliance",
-      "published": "2026-08-03T20:22:37.988002+00:00",
+      "published": "2026-08-04T09:35:58.665087+00:00",
       "deadline": null,
       "tags": [
         "residency"
@@ -569,7 +569,7 @@
       "link": "https://artistcommunities.org/directory/residencies/aca-mentoring-artist-residency-program",
       "summary": "Atlantic Center for the Arts offers an immersive, inter-disciplinary, tuition-free residency with artists only paying for room and board. Financial assistance is available for those who qualify.",
       "source": "Artist Communities Alliance",
-      "published": "2026-08-03T20:22:37.987315+00:00",
+      "published": "2026-08-04T09:35:58.664217+00:00",
       "deadline": null,
       "tags": [
         "residency"
@@ -589,7 +589,7 @@
       "link": "https://artistcommunities.org/directory/residencies/abbey-foundation-studio-grant",
       "summary": "Beginning in 2025, The Abbey Foundation will begin to offer 6 month residencies for day use of the 850 square foot studio space. There is also a screened in area attached to the indoor studio which is available for large scale works.",
       "source": "Artist Communities Alliance",
-      "published": "2026-08-03T20:22:37.986595+00:00",
+      "published": "2026-08-04T09:35:58.663234+00:00",
       "deadline": null,
       "tags": [
         "grant",
@@ -607,7 +607,7 @@
       "link": "https://artistcommunities.org/directory/residencies/ap-residency",
       "summary": "For 20 years, Proyecto´ace has welcomed thousands of artists from around the world.",
       "source": "Artist Communities Alliance",
-      "published": "2026-08-03T20:22:37.986151+00:00",
+      "published": "2026-08-04T09:35:58.662661+00:00",
       "deadline": null,
       "tags": [
         "residency"
@@ -632,7 +632,7 @@
       "link": "https://artistcommunities.org/directory/residencies/2027-eutopia-art-residencies-greece",
       "summary": "Eutopia — from the Greek εὖ (good) and τόπος (place). Not a utopia. A real place, with real conditions, designed for the kind of creative work that requires time, atmosphere, and human connection.",
       "source": "Artist Communities Alliance",
-      "published": "2026-08-03T20:22:37.985508+00:00",
+      "published": "2026-08-04T09:35:58.661848+00:00",
       "deadline": null,
       "tags": [
         "residency"
@@ -649,7 +649,7 @@
       "link": "https://artistcommunities.org/directory/residencies/2027-edgar-heap-birds-family-artist-residency",
       "summary": "The Tyler School of Art and Architecture invites applications for a spring 2027 residency in the Art Department, which encompasses undergraduate and graduate programs in Ceramics, Fibers and Material Studies, Glass, Metals/Jewelry/CAD-CAM, Painting, Photography, Printmaking, and Sculpture.",
       "source": "Artist Communities Alliance",
-      "published": "2026-08-03T20:22:37.984644+00:00",
+      "published": "2026-08-04T09:35:58.660702+00:00",
       "deadline": null,
       "tags": [
         "residency"
@@ -678,7 +678,7 @@
       "link": "https://artistcommunities.org/directory/residencies/2026-springsummer-ceramics-artist-residency-program",
       "summary": "The Eureka Springs School of the arts is looking for practicing ceramics artists who are seeking focused time to refine their skills, create work and/or explore new avenues within their medium.",
       "source": "Artist Communities Alliance",
-      "published": "2026-08-03T20:22:37.983958+00:00",
+      "published": "2026-08-04T09:35:58.659784+00:00",
       "deadline": null,
       "tags": [
         "residency"
@@ -701,7 +701,7 @@
       "link": "https://artistcommunities.org/directory/residencies/2026-mentored-woodworking-residency-doug-stowe",
       "summary": "The Eureka Springs School of the Arts is looking for practicing woodworkers and craftspeople seeking focused time to refine their abilities, create new work, and expand their knowledge in a Mentored Residency under Master Woodcrafter, Doug Stowe.",
       "source": "Artist Communities Alliance",
-      "published": "2026-08-03T20:22:37.983177+00:00",
+      "published": "2026-08-04T09:35:58.658767+00:00",
       "deadline": null,
       "tags": [
         "residency"
@@ -721,7 +721,7 @@
       "link": "https://artistcommunities.org/directory/residencies/2025-oolite-arts-liveinart-residency-program",
       "summary": "The Oolite Arts’ Live.In.Art Residency Program provides artists with the time, space, and resources to reach new levels of excellence.",
       "source": "Artist Communities Alliance",
-      "published": "2026-08-03T20:22:37.982477+00:00",
+      "published": "2026-08-04T09:35:58.657918+00:00",
       "deadline": null,
       "tags": [
         "residency"
@@ -745,7 +745,7 @@
       "link": "https://artistcommunities.org/directory/residencies/2025-artist-writer-residencies-gibraltar-point-toronto-island",
       "summary": "Are you an artist or writer seeking a space to focus on your next project? Look no further! We're thrilled to share that we have just opened applications for self-directed residencies for 2025.",
       "source": "Artist Communities Alliance",
-      "published": "2026-08-03T20:22:37.981746+00:00",
+      "published": "2026-08-04T09:35:58.656958+00:00",
       "deadline": null,
       "tags": [
         "residency"
@@ -765,7 +765,7 @@
       "link": "https://artistcommunities.org/directory/residencies/100-west-corsicana-artist-writer-residency",
       "summary": "CORSICANA ARTIST & WRITER RESIDENCY supports the creation and presentation of art and literature with generous provisions and historic space. Founded in 2012 at 100 West, and organized in 2017 as a 501(c)(3) nonprofit.",
       "source": "Artist Communities Alliance",
-      "published": "2026-08-03T20:22:37.980984+00:00",
+      "published": "2026-08-04T09:35:58.655947+00:00",
       "deadline": null,
       "tags": [
         "residency"
@@ -785,7 +785,7 @@
       "link": "https://artistcommunities.org/directory/residencies/kathmandu-international-artist-residency-kiar-2027",
       "summary": "Nestled between India and China, Nepal is a land of breathtaking landscapes, rich traditions, and diverse cultures. Home to the majestic Himalayas—including Mount Everest—Nepal offers everything from subtropical valleys with banana trees to alpine forests with grazing yaks.",
       "source": "Artist Communities Alliance",
-      "published": "2026-08-03T20:22:37.980095+00:00",
+      "published": "2026-08-04T09:35:58.654820+00:00",
       "deadline": null,
       "tags": [
         "residency"
@@ -805,7 +805,7 @@
       "link": "https://artistcommunities.org/directory/residencies/kala-yatra-artist-residency-nepal-2026-27",
       "summary": "Kala Yatra invites applications for its concept-driven, community-engaged artist residency program in Kathmandu, Nepal.",
       "source": "Artist Communities Alliance",
-      "published": "2026-08-03T20:22:37.979541+00:00",
+      "published": "2026-08-04T09:35:58.654113+00:00",
       "deadline": null,
       "tags": [
         "residency"
@@ -836,7 +836,7 @@
       "link": "https://artistcommunities.org/directory/residencies/artsindustry-residency",
       "summary": "For more than fifty years, Arts/Industry has been connecting artists with the resources, technology, and materials of Kohler Co., and providing a place to explore new ideas, processes, and perspectives. Artists from all disciplines are encouraged to apply.",
       "source": "Artist Communities Alliance",
-      "published": "2026-08-03T20:22:37.978679+00:00",
+      "published": "2026-08-04T09:35:58.653052+00:00",
       "deadline": null,
       "tags": [
         "residency"
@@ -848,6 +848,120 @@
       "location_mode": "not_specified",
       "required_roles": [
         "Artist"
+      ]
+    },
+    {
+      "id": "181381a88731be9bed9bc3a5110062ffa10e73b0",
+      "title": "Skog Open Call 2027",
+      "link": "https://artdeadline.com/ops/skog/",
+      "summary": "International Deadline: August 16, 2026 – SKOG invites artists to apply for exhibitions in 2027. We welcome proposals from both emerging and established artists working across all media and techniques. We accept proposals for both solo and group exhibitions. No fee…",
+      "source": "ArtDeadline",
+      "published": "2026-08-04T07:01:42+00:00",
+      "deadline": "2026-08-16",
+      "tags": [
+        "opportunity"
+      ],
+      "region": null,
+      "kind": "opportunity",
+      "description": "International Deadline: August 16, 2026 – SKOG invites artists to apply for exhibitions in 2027. We welcome proposals from both emerging and established artists working across all media and techniques. We accept proposals for both solo and group exhibitions. No fee…",
+      "opportunity_type": "call_for_artists",
+      "location_mode": "not_specified",
+      "required_roles": [
+        "Artist"
+      ],
+      "project_types": [
+        "Exhibition"
+      ]
+    },
+    {
+      "id": "fe34b7b42538b6d1b7293aaa8c4d49c62dbabc4e",
+      "title": "Creative Crosswalks – Request for Proposals",
+      "link": "https://artdeadline.com/ops/glendale/",
+      "summary": "International Deadline: September 18, 2026 – The City of Glendale Arts & Culture Commission is accepting proposals from candidates who are interested in submitting design concepts for the Creative Crosswalk Murals. Project budgets range from $1,000 – $20,000…",
+      "source": "ArtDeadline",
+      "published": "2026-08-04T07:00:36+00:00",
+      "deadline": "2026-09-18",
+      "tags": [
+        "commission",
+        "opportunity",
+        "rfp"
+      ],
+      "region": null,
+      "kind": "opportunity",
+      "description": "International Deadline: September 18, 2026 – The City of Glendale Arts & Culture Commission is accepting proposals from candidates who are interested in submitting design concepts for the Creative Crosswalk Murals. Project budgets range from $1,000 – $20,000…",
+      "opportunity_type": "call_for_artists",
+      "location_mode": "not_specified",
+      "project_types": [
+        "Public Art"
+      ]
+    },
+    {
+      "id": "1da3329b0248f10561749a71835607dcfbf32b3c",
+      "title": "Annual National Juried Exhibition 2026",
+      "link": "https://artdeadline.com/ops/wmoca/",
+      "summary": "U.S. National Deadline: August 15, 2026 (extended) – The Wausau Museum of Contemporary Art Annual National Juried Exhibition (ANJE) is a premier exhibition showcasing a diverse, high quality contemporary art from artists all across the United States. This competition…",
+      "source": "ArtDeadline",
+      "published": "2026-08-04T06:59:23+00:00",
+      "deadline": "2026-08-15",
+      "tags": [
+        "opportunity"
+      ],
+      "region": null,
+      "kind": "opportunity",
+      "description": "U.S. National Deadline: August 15, 2026 (extended) – The Wausau Museum of Contemporary Art Annual National Juried Exhibition (ANJE) is a premier exhibition showcasing a diverse, high quality contemporary art from artists all across the United States. This competition…",
+      "opportunity_type": "exhibition_opportunity",
+      "location_mode": "not_specified",
+      "required_roles": [
+        "Artist"
+      ],
+      "project_types": [
+        "Exhibition"
+      ]
+    },
+    {
+      "id": "6355159643fad8998d205a6f0bb19a8992fcc1f3",
+      "title": "Holter Museum Exhibition Proposal",
+      "link": "https://artdeadline.com/ops/holter/",
+      "summary": "U.S. Multi-State Deadline: September 6, December 6, 2026 – The Holter Museum of Art exhibits contemporary art and artists work in the Pacific Northwest. The Holter presents 20 – 25 solo and group exhibitions annually through three main galleries and two smaller galleries...",
+      "source": "ArtDeadline",
+      "published": "2026-08-04T06:58:30+00:00",
+      "deadline": null,
+      "tags": [
+        "opportunity"
+      ],
+      "region": null,
+      "kind": "opportunity",
+      "description": "U.S. Multi-State Deadline: September 6, December 6, 2026 – The Holter Museum of Art exhibits contemporary art and artists work in the Pacific Northwest. The Holter presents 20 – 25 solo and group exhibitions annually through three main galleries and two smaller galleries...",
+      "opportunity_type": "exhibition_opportunity",
+      "location_mode": "not_specified",
+      "required_roles": [
+        "Artist"
+      ],
+      "project_types": [
+        "Exhibition"
+      ]
+    },
+    {
+      "id": "156452a7df8f6219cd71f91fc36ceae7a1522794",
+      "title": "CICA Museum International Exhibition: Photography Now 2027",
+      "link": "https://artdeadline.com/ops/cica/",
+      "summary": "International Deadline: August 20, 2026 – CICA Museum invites artists worldwide to participate in “Photography Now 2027,” the International Exhibition of Photography. We welcome works ranging from traditional and digital photography to experimental practices...",
+      "source": "ArtDeadline",
+      "published": "2026-08-04T06:55:37+00:00",
+      "deadline": "2026-08-20",
+      "tags": [
+        "opportunity"
+      ],
+      "region": null,
+      "kind": "opportunity",
+      "description": "International Deadline: August 20, 2026 – CICA Museum invites artists worldwide to participate in “Photography Now 2027,” the International Exhibition of Photography. We welcome works ranging from traditional and digital photography to experimental practices...",
+      "opportunity_type": "exhibition_opportunity",
+      "location_mode": "not_specified",
+      "required_roles": [
+        "Artist"
+      ],
+      "project_types": [
+        "Exhibition"
       ]
     },
     {
@@ -926,127 +1040,6 @@
       "region": null,
       "kind": "opportunity",
       "description": "U.S. National Deadline: August 31, 2026 – The Monmouth Museum invites artists to submit original work inspired by the many interpretations of “bloom” through nature, florals, gardens, landscapes, organic forms, growth, transformation, hope, and new beginnings...",
-      "location_mode": "not_specified",
-      "required_roles": [
-        "Artist"
-      ]
-    },
-    {
-      "id": "63c1c278a1054a8878da5158bd40b5ff457e1b9c",
-      "title": "CICA Experimental Film and Video 2027",
-      "link": "https://artdeadline.com/ops/cica-museum/",
-      "summary": "International Deadline: August 18, 2026 – CICA Museum invites experimental film makers and artists worldwide to participate in the CICA Experimental Film and Video Exhibition 2027. We accept single-channel experimental films, video art, and animations...",
-      "source": "ArtDeadline",
-      "published": "2026-08-03T06:01:18+00:00",
-      "deadline": "2026-08-18",
-      "tags": [
-        "opportunity"
-      ],
-      "region": null,
-      "kind": "opportunity",
-      "description": "International Deadline: August 18, 2026 – CICA Museum invites experimental film makers and artists worldwide to participate in the CICA Experimental Film and Video Exhibition 2027. We accept single-channel experimental films, video art, and animations...",
-      "opportunity_type": "exhibition_opportunity",
-      "location_mode": "not_specified",
-      "required_roles": [
-        "Artist"
-      ],
-      "project_types": [
-        "Exhibition"
-      ]
-    },
-    {
-      "id": "e421d4decd836fe03fcb735a5a52258773d15cfd",
-      "title": "A Show of Heads",
-      "link": "https://artdeadline.com/ops/slowart-limner/",
-      "summary": "International Deadline: August 31, 2026 - New York's Limner Gallery announces a thematic group exhibition of work that includes and/or is based on the portrayal and interpretation of the human head. Open to all artists working in any media, from the traditional to...",
-      "source": "ArtDeadline",
-      "published": "2026-08-02T07:01:20+00:00",
-      "deadline": "2026-08-31",
-      "tags": [
-        "opportunity"
-      ],
-      "region": "Northeast",
-      "kind": "opportunity",
-      "description": "International Deadline: August 31, 2026 - New York's Limner Gallery announces a thematic group exhibition of work that includes and/or is based on the portrayal and interpretation of the human head. Open to all artists working in any media, from the traditional to...",
-      "opportunity_type": "exhibition_opportunity",
-      "location_mode": "not_specified",
-      "required_roles": [
-        "Artist"
-      ],
-      "project_types": [
-        "Exhibition"
-      ]
-    },
-    {
-      "id": "15b18c08efab3f7506ccfbfa9d1c31778e193627",
-      "title": "Anonymous Drawings 2027",
-      "link": "https://artdeadline.com/ops/ano/",
-      "summary": "International Deadline: September 27, 2026 – Anonymous Drawings is a project that explores how one determines the value of a drawing when all works are offered at the same price? Where is the boundary between art and non-art? ZAK – Center for Contemporary Art…",
-      "source": "ArtDeadline",
-      "published": "2026-07-31T19:50:03+00:00",
-      "deadline": "2026-09-27",
-      "tags": [
-        "opportunity"
-      ],
-      "region": null,
-      "kind": "opportunity",
-      "description": "International Deadline: September 27, 2026 – Anonymous Drawings is a project that explores how one determines the value of a drawing when all works are offered at the same price? Where is the boundary between art and non-art? ZAK – Center for Contemporary Art…",
-      "location_mode": "not_specified"
-    },
-    {
-      "id": "e227f49ba67281f6aeba1d4f20414463c4d3913c",
-      "title": "16th Arbella International Photography Contest",
-      "link": "https://artdeadline.com/ops/arbella/",
-      "summary": "International Deadline: September 6, 2026 – Arbella Pasta invites amateur and professional photographers worldwide to participate in the 16th edition of the Arbella International Photography Contest, during the 200th anniversary. $10,500 cash awards. No fees...",
-      "source": "ArtDeadline",
-      "published": "2026-07-30T07:02:25+00:00",
-      "deadline": "2026-09-06",
-      "tags": [
-        "opportunity"
-      ],
-      "region": null,
-      "kind": "opportunity",
-      "description": "International Deadline: September 6, 2026 – Arbella Pasta invites amateur and professional photographers worldwide to participate in the 16th edition of the Arbella International Photography Contest, during the 200th anniversary. $10,500 cash awards. No fees...",
-      "location_mode": "not_specified",
-      "required_roles": [
-        "Photographer / Documentarian"
-      ]
-    },
-    {
-      "id": "ad80983b60755eddbaf9485da748019225004e9b",
-      "title": "Double Vision",
-      "link": "https://artdeadline.com/ops/carlisle-arts/",
-      "summary": "U.S. National Deadline: October 23, 2026 – The goal of Double Vision is to create a juried display of diptychs and paired objects. We invite artist to create works that are in conversation with each other, whether those pieces are two parts of a whole, one inspired by the other...",
-      "source": "ArtDeadline",
-      "published": "2026-07-30T07:00:22+00:00",
-      "deadline": "2026-10-23",
-      "tags": [
-        "opportunity"
-      ],
-      "region": null,
-      "kind": "opportunity",
-      "description": "U.S. National Deadline: October 23, 2026 – The goal of Double Vision is to create a juried display of diptychs and paired objects. We invite artist to create works that are in conversation with each other, whether those pieces are two parts of a whole, one inspired by the other...",
-      "location_mode": "not_specified",
-      "required_roles": [
-        "Artist"
-      ]
-    },
-    {
-      "id": "841db2ed1c555ef22eec10c333be61aa73523386",
-      "title": "JOY! Collective Artist Residency",
-      "link": "https://artdeadline.com/ops/joy/",
-      "summary": "International Deadline: August 25, 2026 – The JOY! Collective is opening up our studio for an artist residency. The residency will run from 28th Sept – 23rd Oct 2026. Our East London studio is a place for making. It’s filled with materials, tools, books, workshop facilities…",
-      "source": "ArtDeadline",
-      "published": "2026-07-29T16:09:05+00:00",
-      "deadline": "2026-08-25",
-      "tags": [
-        "opportunity",
-        "residency"
-      ],
-      "region": null,
-      "kind": "opportunity",
-      "description": "International Deadline: August 25, 2026 – The JOY! Collective is opening up our studio for an artist residency. The residency will run from 28th Sept – 23rd Oct 2026. Our East London studio is a place for making. It’s filled with materials, tools, books, workshop facilities…",
-      "opportunity_type": "residency",
       "location_mode": "not_specified",
       "required_roles": [
         "Artist"
