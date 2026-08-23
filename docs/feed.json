@@ -1,7 +1,7 @@
 {
   "contract_version": "artelier_opportunities_feed_v1",
   "title": "Creative Opportunities",
-  "updated": "2026-08-23T07:28:37.668673+00:00",
+  "updated": "2026-08-23T19:18:51.544666+00:00",
   "count": 257,
   "items": [
     {
@@ -10,7 +10,7 @@
       "link": "https://www.grants.gov/search-results-detail/363225",
       "summary": "Bureau Of Educational and Cultural Affairs | opportunity DFOP0017180",
       "source": "Grants.gov",
-      "published": "2026-08-23T07:28:17.195793+00:00",
+      "published": "2026-08-23T19:18:29.629569+00:00",
       "deadline": null,
       "tags": [
         "grant"
@@ -27,7 +27,7 @@
       "link": "https://www.grants.gov/search-results-detail/363293",
       "summary": "U.S. Mission to Indonesia | opportunity PAS-JAKARTA-FY26-08",
       "source": "Grants.gov",
-      "published": "2026-08-23T07:28:17.194210+00:00",
+      "published": "2026-08-23T19:18:29.628006+00:00",
       "deadline": "2026-08-30",
       "tags": [
         "grant"
@@ -44,7 +44,7 @@
       "link": "https://www.grants.gov/search-results-detail/363084",
       "summary": "National Endowment for the Humanities | opportunity 20260916-RZ",
       "source": "Grants.gov",
-      "published": "2026-08-23T07:28:16.341539+00:00",
+      "published": "2026-08-23T19:18:28.761671+00:00",
       "deadline": "2026-09-16",
       "tags": [
         "grant"
@@ -64,7 +64,7 @@
       "link": "https://www.grants.gov/search-results-detail/363014",
       "summary": "National Endowment for the Humanities | opportunity 20260916-RQ",
       "source": "Grants.gov",
-      "published": "2026-08-23T07:28:16.340634+00:00",
+      "published": "2026-08-23T19:18:28.760997+00:00",
       "deadline": "2026-09-16",
       "tags": [
         "grant"
@@ -81,7 +81,7 @@
       "link": "https://www.grants.gov/search-results-detail/361480",
       "summary": "National Endowment for the Humanities | opportunity 20260511-PCS",
       "source": "Grants.gov",
-      "published": "2026-08-23T07:28:16.339099+00:00",
+      "published": "2026-08-23T19:18:28.760426+00:00",
       "deadline": "2026-12-15",
       "tags": [
         "grant"
@@ -98,7 +98,7 @@
       "link": "https://www.grants.gov/search-results-detail/322314",
       "summary": "U.S. Mission to Cambodia | opportunity PAS-CB-600-20-PAS-0003",
       "source": "Grants.gov",
-      "published": "2026-08-23T07:28:15.552322+00:00",
+      "published": "2026-08-23T19:18:27.937030+00:00",
       "deadline": null,
       "tags": [
         "grant"
@@ -115,7 +115,7 @@
       "link": "https://www.grants.gov/search-results-detail/362984",
       "summary": "National Endowment for the Arts | opportunity 2027FCAHDOM02",
       "source": "Grants.gov",
-      "published": "2026-08-23T07:28:14.773631+00:00",
+      "published": "2026-08-23T19:18:27.102606+00:00",
       "deadline": "2027-06-07",
       "tags": [
         "grant"
@@ -132,7 +132,7 @@
       "link": "https://www.grants.gov/search-results-detail/362981",
       "summary": "National Endowment for the Arts | opportunity 2027FCAH01",
       "source": "Grants.gov",
-      "published": "2026-08-23T07:28:14.772998+00:00",
+      "published": "2026-08-23T19:18:27.101987+00:00",
       "deadline": "2026-09-14",
       "tags": [
         "grant"
@@ -149,7 +149,7 @@
       "link": "https://www.grants.gov/search-results-detail/362982",
       "summary": "National Endowment for the Arts | opportunity 2027FCAHDOM01",
       "source": "Grants.gov",
-      "published": "2026-08-23T07:28:14.772386+00:00",
+      "published": "2026-08-23T19:18:27.101349+00:00",
       "deadline": "2026-12-07",
       "tags": [
         "grant"
@@ -166,7 +166,7 @@
       "link": "https://www.grants.gov/search-results-detail/362983",
       "summary": "National Endowment for the Arts | opportunity 2027FCAH02",
       "source": "Grants.gov",
-      "published": "2026-08-23T07:28:14.771758+00:00",
+      "published": "2026-08-23T19:18:27.100700+00:00",
       "deadline": "2027-03-08",
       "tags": [
         "grant"
@@ -183,7 +183,7 @@
       "link": "https://www.grants.gov/search-results-detail/361554",
       "summary": "Bureau Of Educational and Cultural Affairs | opportunity DFOP0017204",
       "source": "Grants.gov",
-      "published": "2026-08-23T07:28:14.770043+00:00",
+      "published": "2026-08-23T19:18:27.098906+00:00",
       "deadline": null,
       "tags": [
         "grant"
@@ -200,7 +200,7 @@
       "link": "https://www.grants.gov/search-results-detail/362676",
       "summary": "National Endowment for the Arts | opportunity 2027NEA04PA",
       "source": "Grants.gov",
-      "published": "2026-08-23T07:28:14.769315+00:00",
+      "published": "2026-08-23T19:18:27.098207+00:00",
       "deadline": "2026-09-29",
       "tags": [
         "grant"
@@ -217,7 +217,7 @@
       "link": "https://artistcommunities.org/directory/residencies/alaska-air-bunnell-street-arts-center-artist-residence",
       "summary": "Bunnell Street Arts Center's \"Alaska AIR\" Artist-in-Residency program seeks international, US and Alaska artists looking to create new work and deeply engage Bunnell’s community.",
       "source": "Artist Communities Alliance",
-      "published": "2026-08-23T07:28:13.511497+00:00",
+      "published": "2026-08-23T19:18:25.692411+00:00",
       "deadline": null,
       "tags": [
         "residency"
@@ -237,7 +237,7 @@
       "link": "https://artistcommunities.org/directory/residencies/alaska-chulitna-lodge-wilderness-retreat-creative-residency",
       "summary": "Chulitna Lodge Wilderness Retreat seeks to provide the time, space, clarity and facilities for all forms of creative professionals or enthusiastic hobbyists to make and meditate.",
       "source": "Artist Communities Alliance",
-      "published": "2026-08-23T07:28:13.511140+00:00",
+      "published": "2026-08-23T19:18:25.692051+00:00",
       "deadline": null,
       "tags": [
         "residency"
@@ -254,7 +254,7 @@
       "link": "https://artistcommunities.org/directory/residencies/al-mickey-quinlan-artist-residency",
       "summary": "Whitefish Bay, located on Wisconsin's Door Peninsula , has long been a creative haven for artists who were an important part of the local community and brought the process of creating art into daily life.",
       "source": "Artist Communities Alliance",
-      "published": "2026-08-23T07:28:13.510976+00:00",
+      "published": "2026-08-23T19:18:25.691876+00:00",
       "deadline": null,
       "tags": [
         "residency"
@@ -274,7 +274,7 @@
       "link": "https://artistcommunities.org/directory/residencies/airnewport",
       "summary": "The Newport artist residency, AiR/Newport is designed to encourage the creative, intellectual and personal growth of emerging to established visual artists and designers by giving them the time, space and solitude needed to create, apart from the daily demands of production and deadlines.",
       "source": "Artist Communities Alliance",
-      "published": "2026-08-23T07:28:13.509882+00:00",
+      "published": "2026-08-23T19:18:25.690704+00:00",
       "deadline": null,
       "tags": [
         "residency"
@@ -295,7 +295,7 @@
       "link": "https://artistcommunities.org/directory/residencies/adriftproject-residency-inc",
       "summary": "adriftproject hosts artist residencies aboard SV Hawa for up to two residents at a time as we transit the lovely and diverse US east coast following good weather.",
       "source": "Artist Communities Alliance",
-      "published": "2026-08-23T07:28:13.509072+00:00",
+      "published": "2026-08-23T19:18:25.689867+00:00",
       "deadline": null,
       "tags": [
         "residency"
@@ -315,7 +315,7 @@
       "link": "https://artistcommunities.org/directory/residencies/activate-residency",
       "summary": "Boston Center for the Arts’ ACTivate Residency will award seven-day residencies to individuals and small groups of artists to create site-responsive work in the historic Cyclorama. The work can be performative and/or visual in nature and is meant to activate artists and our spaces.",
       "source": "Artist Communities Alliance",
-      "published": "2026-08-23T07:28:13.508587+00:00",
+      "published": "2026-08-23T19:18:25.689351+00:00",
       "deadline": null,
       "tags": [
         "grant",
@@ -336,7 +336,7 @@
       "link": "https://artistcommunities.org/directory/residencies/acre-academic-and-creative-research-residency-programme",
       "summary": "The ACRE (Academic and Creative Research) Residency Programme invites artists, researchers, writers, and creative practitioners to live and work at Braziers Park while developing independent projects.",
       "source": "Artist Communities Alliance",
-      "published": "2026-08-23T07:28:13.507612+00:00",
+      "published": "2026-08-23T19:18:25.688315+00:00",
       "deadline": null,
       "tags": [
         "residency"
@@ -359,7 +359,7 @@
       "link": "https://artistcommunities.org/directory/residencies/acre",
       "summary": "ACRE’s Residency Program takes place every summer in the Driftless region of Wisconsin.",
       "source": "Artist Communities Alliance",
-      "published": "2026-08-23T07:28:13.507502+00:00",
+      "published": "2026-08-23T19:18:25.688204+00:00",
       "deadline": null,
       "tags": [
         "residency"
@@ -395,7 +395,7 @@
       "link": "https://artistcommunities.org/directory/residencies/ace-ashevillechicago-exchange-choreographic-fellowship",
       "summary": "An ACE Fellowship in Dance provides immersive creative time and space to selected artists, free of charge.",
       "source": "Artist Communities Alliance",
-      "published": "2026-08-23T07:28:13.507155+00:00",
+      "published": "2026-08-23T19:18:25.687856+00:00",
       "deadline": null,
       "tags": [
         "grant",
@@ -421,7 +421,7 @@
       "link": "https://artistcommunities.org/directory/residencies/aca-soundscape-field-station-canaveral-national-seashore",
       "summary": "ACA Soundscape Field Station at Canaveral National Seashore is a partnership between Atlantic Center for the Arts and Canaveral National Seashore.",
       "source": "Artist Communities Alliance",
-      "published": "2026-08-23T07:28:13.506348+00:00",
+      "published": "2026-08-23T19:18:25.686989+00:00",
       "deadline": null,
       "tags": [
         "residency"
@@ -445,7 +445,7 @@
       "link": "https://artistcommunities.org/directory/residencies/aca-sample-residency-0",
       "summary": "Description here.",
       "source": "Artist Communities Alliance",
-      "published": "2026-08-23T07:28:13.505939+00:00",
+      "published": "2026-08-23T19:18:25.686569+00:00",
       "deadline": null,
       "tags": [
         "residency"
@@ -468,7 +468,7 @@
       "link": "https://artistcommunities.org/directory/residencies/aca-residency-196-feb-8-28-2026",
       "summary": "The Mentoring Artist Residency was the core program at our founding, and it has served over 3,500 emerging and mid-career artists from many disciplines.",
       "source": "Artist Communities Alliance",
-      "published": "2026-08-23T07:28:13.505015+00:00",
+      "published": "2026-08-23T19:18:25.685646+00:00",
       "deadline": null,
       "tags": [
         "residency"
@@ -500,7 +500,7 @@
       "link": "https://artistcommunities.org/directory/residencies/aca-mentoring-artist-residency-program",
       "summary": "Atlantic Center for the Arts offers an immersive, inter-disciplinary, tuition-free residency with artists only paying for room and board. Financial assistance is available for those who qualify.",
       "source": "Artist Communities Alliance",
-      "published": "2026-08-23T07:28:13.504077+00:00",
+      "published": "2026-08-23T19:18:25.684660+00:00",
       "deadline": null,
       "tags": [
         "residency"
@@ -520,7 +520,7 @@
       "link": "https://artistcommunities.org/directory/residencies/abbey-foundation-studio-grant",
       "summary": "Beginning in 2025, The Abbey Foundation will begin to offer 6 month residencies for day use of the 850 square foot studio space. There is also a screened in area attached to the indoor studio which is available for large scale works.",
       "source": "Artist Communities Alliance",
-      "published": "2026-08-23T07:28:13.503066+00:00",
+      "published": "2026-08-23T19:18:25.683595+00:00",
       "deadline": null,
       "tags": [
         "grant",
@@ -538,7 +538,7 @@
       "link": "https://artistcommunities.org/directory/residencies/ap-residency",
       "summary": "For 20 years, Proyecto´ace has welcomed thousands of artists from around the world.",
       "source": "Artist Communities Alliance",
-      "published": "2026-08-23T07:28:13.502505+00:00",
+      "published": "2026-08-23T19:18:25.683014+00:00",
       "deadline": null,
       "tags": [
         "residency"
@@ -563,7 +563,7 @@
       "link": "https://artistcommunities.org/directory/residencies/2027-eutopia-art-residencies-greece",
       "summary": "Eutopia — from the Greek εὖ (good) and τόπος (place). Not a utopia. A real place, with real conditions, designed for the kind of creative work that requires time, atmosphere, and human connection.",
       "source": "Artist Communities Alliance",
-      "published": "2026-08-23T07:28:13.501659+00:00",
+      "published": "2026-08-23T19:18:25.682159+00:00",
       "deadline": null,
       "tags": [
         "residency"
@@ -580,7 +580,7 @@
       "link": "https://artistcommunities.org/directory/residencies/2027-edgar-heap-birds-family-artist-residency",
       "summary": "The Tyler School of Art and Architecture invites applications for a spring 2027 residency in the Art Department, which encompasses undergraduate and graduate programs in Ceramics, Fibers and Material Studies, Glass, Metals/Jewelry/CAD-CAM, Painting, Photography, Printmaking, and Sculpture.",
       "source": "Artist Communities Alliance",
-      "published": "2026-08-23T07:28:13.500377+00:00",
+      "published": "2026-08-23T19:18:25.680879+00:00",
       "deadline": null,
       "tags": [
         "residency"
@@ -609,7 +609,7 @@
       "link": "https://artistcommunities.org/directory/residencies/2026-springsummer-ceramics-artist-residency-program",
       "summary": "The Eureka Springs School of the arts is looking for practicing ceramics artists who are seeking focused time to refine their skills, create work and/or explore new avenues within their medium.",
       "source": "Artist Communities Alliance",
-      "published": "2026-08-23T07:28:13.499338+00:00",
+      "published": "2026-08-23T19:18:25.679858+00:00",
       "deadline": null,
       "tags": [
         "residency"
@@ -632,7 +632,7 @@
       "link": "https://artistcommunities.org/directory/residencies/2026-mentored-woodworking-residency-doug-stowe",
       "summary": "The Eureka Springs School of the Arts is looking for practicing woodworkers and craftspeople seeking focused time to refine their abilities, create new work, and expand their knowledge in a Mentored Residency under Master Woodcrafter, Doug Stowe.",
       "source": "Artist Communities Alliance",
-      "published": "2026-08-23T07:28:13.498094+00:00",
+      "published": "2026-08-23T19:18:25.678680+00:00",
       "deadline": null,
       "tags": [
         "residency"
@@ -652,7 +652,7 @@
       "link": "https://artistcommunities.org/directory/residencies/2025-oolite-arts-liveinart-residency-program",
       "summary": "The Oolite Arts’ Live.In.Art Residency Program provides artists with the time, space, and resources to reach new levels of excellence.",
       "source": "Artist Communities Alliance",
-      "published": "2026-08-23T07:28:13.497201+00:00",
+      "published": "2026-08-23T19:18:25.677820+00:00",
       "deadline": null,
       "tags": [
         "residency"
@@ -676,7 +676,7 @@
       "link": "https://artistcommunities.org/directory/residencies/2025-artist-writer-residencies-gibraltar-point-toronto-island",
       "summary": "Are you an artist or writer seeking a space to focus on your next project? Look no further! We're thrilled to share that we have just opened applications for self-directed residencies for 2025.",
       "source": "Artist Communities Alliance",
-      "published": "2026-08-23T07:28:13.496178+00:00",
+      "published": "2026-08-23T19:18:25.676741+00:00",
       "deadline": null,
       "tags": [
         "residency"
@@ -696,7 +696,7 @@
       "link": "https://artistcommunities.org/directory/residencies/100-west-corsicana-artist-writer-residency",
       "summary": "CORSICANA ARTIST & WRITER RESIDENCY supports the creation and presentation of art and literature with generous provisions and historic space. Founded in 2012 at 100 West, and organized in 2017 as a 501(c)(3) nonprofit.",
       "source": "Artist Communities Alliance",
-      "published": "2026-08-23T07:28:13.495112+00:00",
+      "published": "2026-08-23T19:18:25.675621+00:00",
       "deadline": null,
       "tags": [
         "residency"
@@ -716,7 +716,7 @@
       "link": "https://artistcommunities.org/directory/residencies/kathmandu-international-artist-residency-kiar-2027",
       "summary": "Nestled between India and China, Nepal is a land of breathtaking landscapes, rich traditions, and diverse cultures. Home to the majestic Himalayas—including Mount Everest—Nepal offers everything from subtropical valleys with banana trees to alpine forests with grazing yaks.",
       "source": "Artist Communities Alliance",
-      "published": "2026-08-23T07:28:13.493920+00:00",
+      "published": "2026-08-23T19:18:25.674441+00:00",
       "deadline": null,
       "tags": [
         "residency"
@@ -736,7 +736,7 @@
       "link": "https://artistcommunities.org/directory/residencies/kala-yatra-artist-residency-nepal-2026-27",
       "summary": "Kala Yatra invites applications for its concept-driven, community-engaged artist residency program in Kathmandu, Nepal.",
       "source": "Artist Communities Alliance",
-      "published": "2026-08-23T07:28:13.493156+00:00",
+      "published": "2026-08-23T19:18:25.673647+00:00",
       "deadline": null,
       "tags": [
         "residency"
@@ -767,7 +767,7 @@
       "link": "https://artistcommunities.org/directory/residencies/artsindustry-residency",
       "summary": "For more than fifty years, Arts/Industry has been connecting artists with the resources, technology, and materials of Kohler Co., and providing a place to explore new ideas, processes, and perspectives. Artists from all disciplines are encouraged to apply.",
       "source": "Artist Communities Alliance",
-      "published": "2026-08-23T07:28:13.491940+00:00",
+      "published": "2026-08-23T19:18:25.672440+00:00",
       "deadline": null,
       "tags": [
         "residency"
