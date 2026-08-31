@@ -3,26 +3,19 @@
 <title>Creative Opportunities</title>
 <link>https://example.com</link>
 <description>Jobs, grants, RFPs, residencies and calls for artists</description>
-<lastBuildDate>Sun, 30 Aug 2026 21:48:48 +0000</lastBuildDate>
-<item>
-<title>Annual Program Statement for U.S. Presentation at International Architecture Biennales</title>
-<link>https://www.grants.gov/search-results-detail/363225</link>
-<guid isPermaLink="false">5c569d5cf6f698ff7bf0605d8598fb8ad5d8431e</guid>
-<description>Bureau Of Educational and Cultural Affairs | opportunity DFOP0017180</description>
-<category>grant</category>
-</item>
-<item>
-<title>American Innovation Hub: AI &amp; Digital Skills for the Creative &amp; Tech Economy</title>
-<link>https://www.grants.gov/search-results-detail/363293</link>
-<guid isPermaLink="false">67a80611580a9ca2cdeb3ac4a6b0e34fee7f42a5</guid>
-<description>Deadline 2026-08-30. U.S. Mission to Indonesia | opportunity PAS-JAKARTA-FY26-08</description>
-<category>grant</category>
-</item>
+<lastBuildDate>Mon, 31 Aug 2026 14:44:30 +0000</lastBuildDate>
 <item>
 <title>Collaborative Research</title>
 <link>https://www.grants.gov/search-results-detail/363084</link>
 <guid isPermaLink="false">f01b7a12ca591801b665440e4e67a62daaefdb07</guid>
 <description>Deadline 2026-09-16. National Endowment for the Humanities | opportunity 20260916-RZ</description>
+<category>grant</category>
+</item>
+<item>
+<title>Annual Program Statement for U.S. Presentation at International Architecture Biennales</title>
+<link>https://www.grants.gov/search-results-detail/363225</link>
+<guid isPermaLink="false">5c569d5cf6f698ff7bf0605d8598fb8ad5d8431e</guid>
+<description>Bureau Of Educational and Cultural Affairs | opportunity DFOP0017180</description>
 <category>grant</category>
 </item>
 <item>
@@ -94,6 +87,20 @@
 <guid isPermaLink="false">ae1bb56b11e23501b947ce57b80cb8d4c2b618b7</guid>
 <description>Deadline 2026-09-29. National Endowment for the Arts | opportunity 2027NEA04PA</description>
 <category>grant</category>
+</item>
+<item>
+<title>Alderworks Alaska Writers and Artists Retreat</title>
+<link>https://artistcommunities.org/directory/residencies/alderworks-alaska-writers-and-artists-retreat</link>
+<guid isPermaLink="false">3267dccb93666079f81ce55b2129acc2c2f91e5b</guid>
+<description>Alderworks welcomes writers and artists every summer to work in cabins on the edge of the wilderness in historic and stunningly beautiful Dyea near Skagway, Alaska. We host residents in three cabins during 4-6 week residencies. Artists also have access to a studio building.</description>
+<category>residency</category>
+</item>
+<item>
+<title>Alchemy Artists Residency</title>
+<link>https://artistcommunities.org/directory/residencies/alchemy-artists-residency</link>
+<guid isPermaLink="false">76906cb466136d6740ec1d02c88a5158b3e481ab</guid>
+<description>ALCHEMY: a n artist-led international residency where food, art, and community come together.</description>
+<category>residency</category>
 </item>
 <item>
 <title>Alaska AIR - Bunnell Street Arts Center Artist in Residence</title>
@@ -170,20 +177,6 @@
 <link>https://artistcommunities.org/directory/residencies/aca-sample-residency-0</link>
 <guid isPermaLink="false">ec8188adc8ee9db39df04fe7e322dde77b791435</guid>
 <description>Description here.</description>
-<category>residency</category>
-</item>
-<item>
-<title>ACA Residency #196 (Feb. 8–28, 2026)</title>
-<link>https://artistcommunities.org/directory/residencies/aca-residency-196-feb-8-28-2026</link>
-<guid isPermaLink="false">ea77d6945f265ef06522fc0cbc918951ae997d41</guid>
-<description>The Mentoring Artist Residency was the core program at our founding, and it has served over 3,500 emerging and mid-career artists from many disciplines.</description>
-<category>residency</category>
-</item>
-<item>
-<title>ACA Mentoring Artist-in-Residency Program</title>
-<link>https://artistcommunities.org/directory/residencies/aca-mentoring-artist-residency-program</link>
-<guid isPermaLink="false">9bd817cce02aa787610cc4e8c51622f8a0e272df</guid>
-<description>Atlantic Center for the Arts offers an immersive, inter-disciplinary, tuition-free residency with artists only paying for room and board. Financial assistance is available for those who qualify.</description>
 <category>residency</category>
 </item>
 <item>
@@ -271,6 +264,13 @@
 <category>residency</category>
 </item>
 <item>
+<title>ARC Gallery: Deepest Rhythms</title>
+<link>https://artdeadline.com/ops/arc/</link>
+<guid isPermaLink="false">c2d38777e65acfd7304bb520c7be6911f2a6fed4</guid>
+<description>Deadline 2026-09-06. International Deadline: September 6, 2026 (extended) – Highly regarded ARC Gallery announces a worldwide call for photography that engages with liminality and seasonal transition; images exploring rest, descent, ancestry, grief/vigil, or the body’s relationship to seasonal…</description>
+<category>opportunity</category>
+</item>
+<item>
 <title>VCSU Robinson Center for the Arts’ 2026-29 Call for Exhibition Proposals</title>
 <link>https://artdeadline.com/ops/vcssu/</link>
 <guid isPermaLink="false">b7a451c1f5bc65f90f4e825d3faa458ec67182b6</guid>
@@ -318,13 +318,6 @@
 <guid isPermaLink="false">713df9e9922c867efd0f49528b90ebe2ae18f5c8</guid>
 <description>Deadline 2026-09-07. U.S. National Deadline: September 7, 2026 – This year's exhibition is focused solely on the color of yellow. Works do not need to be ONLY yellow, but must have a strong yellow presence. Artists are invited to submit works of any medium, including but not limited to: painting, drawing, more...</description>
 <category>opportunity</category>
-</item>
-<item>
-<title>Hoban A.I. Art Award: Next Art A.I.</title>
-<link>https://artdeadline.com/ops/hoban/</link>
-<guid isPermaLink="false">6c1353ddbcc6b9d405e9db2df6f88edf2add9a41</guid>
-<description>Deadline 2026-09-30. International Deadline: September 30, 2026 – Hoban Cultural Foundation invites artists worldwide to participate in the AI Art Award “NextT Art AI”, an international competition exploring new artistic possibilities through artificial intelligence. 20 winners…</description>
-<category>grant, opportunity</category>
 </item>
 <item>
 <title>Robert Rauschenberg Foundation Partners with NYFA to Offer National Emergency Grants Programs for Three More Years</title>
