@@ -1,8 +1,8 @@
 {
   "contract_version": "artelier_opportunities_feed_v1",
   "title": "Creative Opportunities",
-  "updated": "2026-09-01T12:17:35.859523+00:00",
-  "count": 255,
+  "updated": "2026-09-01T21:32:34.098266+00:00",
+  "count": 269,
   "items": [
     {
       "id": "f4c46b0260aa884fe6d7ab3848cf1ace363f3c9e",
@@ -10,7 +10,7 @@
       "link": "https://www.grants.gov/search-results-detail/361480",
       "summary": "National Endowment for the Humanities | opportunity 20260511-PCS",
       "source": "Grants.gov",
-      "published": "2026-09-01T12:17:17.023131+00:00",
+      "published": "2026-09-01T21:32:09.101226+00:00",
       "deadline": "2026-12-15",
       "tags": [
         "grant"
@@ -27,7 +27,7 @@
       "link": "https://www.grants.gov/search-results-detail/363084",
       "summary": "National Endowment for the Humanities | opportunity 20260916-RZ",
       "source": "Grants.gov",
-      "published": "2026-09-01T12:17:17.022781+00:00",
+      "published": "2026-09-01T21:32:09.100850+00:00",
       "deadline": "2026-09-16",
       "tags": [
         "grant"
@@ -47,8 +47,25 @@
       "link": "https://www.grants.gov/search-results-detail/363225",
       "summary": "Bureau Of Educational and Cultural Affairs | opportunity DFOP0017180",
       "source": "Grants.gov",
-      "published": "2026-09-01T12:17:17.022063+00:00",
+      "published": "2026-09-01T21:32:09.100129+00:00",
       "deadline": null,
+      "tags": [
+        "grant"
+      ],
+      "region": null,
+      "opportunity_type": "grant_or_funding",
+      "kind": "opportunity",
+      "description": "Official websites use .gov A .gov website belongs to an official government organization in the United States. Secure .gov websites use HTTPS A lock ( Lock Locked padlock icon ) or https:// means you've safely connected to the .gov website. Share sensitive information only on official, secure websites. Your session will expire in 3 minutes. To continue working, click on the \"OK\" button below. Note: This is being done to protect your privacy. Unsaved changes will be lost. Ok Open default modal",
+      "location_mode": "not_specified"
+    },
+    {
+      "id": "43a0aa53c4a4b3ed03c789696ca11bd33c7e0fbd",
+      "title": "National Leadership Grants for Museums (2027)",
+      "link": "https://www.grants.gov/search-results-detail/363773",
+      "summary": "Institute of Museum and Library Services | opportunity NLG-M-FY27",
+      "source": "Grants.gov",
+      "published": "2026-09-01T21:32:09.099253+00:00",
+      "deadline": "2026-11-13",
       "tags": [
         "grant"
       ],
@@ -64,8 +81,76 @@
       "link": "https://www.grants.gov/search-results-detail/363014",
       "summary": "National Endowment for the Humanities | opportunity 20260916-RQ",
       "source": "Grants.gov",
-      "published": "2026-09-01T12:17:16.319913+00:00",
+      "published": "2026-09-01T21:32:08.315059+00:00",
       "deadline": "2026-09-16",
+      "tags": [
+        "grant"
+      ],
+      "region": null,
+      "opportunity_type": "grant_or_funding",
+      "kind": "opportunity",
+      "description": "Official websites use .gov A .gov website belongs to an official government organization in the United States. Secure .gov websites use HTTPS A lock ( Lock Locked padlock icon ) or https:// means you've safely connected to the .gov website. Share sensitive information only on official, secure websites. Your session will expire in 3 minutes. To continue working, click on the \"OK\" button below. Note: This is being done to protect your privacy. Unsaved changes will be lost. Ok Open default modal",
+      "location_mode": "not_specified"
+    },
+    {
+      "id": "cdb0200154ef87106c40a36a1954aeda55396f4a",
+      "title": "Native American Library Services Enhancement Grants (2027)",
+      "link": "https://www.grants.gov/search-results-detail/363762",
+      "summary": "Institute of Museum and Library Services | opportunity NAG-ENHANCEMENT-FY27",
+      "source": "Grants.gov",
+      "published": "2026-09-01T21:32:07.582307+00:00",
+      "deadline": "2026-11-13",
+      "tags": [
+        "grant"
+      ],
+      "region": null,
+      "opportunity_type": "grant_or_funding",
+      "kind": "opportunity",
+      "description": "Official websites use .gov A .gov website belongs to an official government organization in the United States. Secure .gov websites use HTTPS A lock ( Lock Locked padlock icon ) or https:// means you've safely connected to the .gov website. Share sensitive information only on official, secure websites. Your session will expire in 3 minutes. To continue working, click on the \"OK\" button below. Note: This is being done to protect your privacy. Unsaved changes will be lost. Ok Open default modal",
+      "location_mode": "not_specified"
+    },
+    {
+      "id": "0e848d9886e43dd62b2bc72d5a844d7ecf768f8b",
+      "title": "Native Hawaiian Library Services Grants (2027)",
+      "link": "https://www.grants.gov/search-results-detail/363763",
+      "summary": "Institute of Museum and Library Services | opportunity NAG-HAWAIIAN-FY27",
+      "source": "Grants.gov",
+      "published": "2026-09-01T21:32:07.581861+00:00",
+      "deadline": "2026-11-13",
+      "tags": [
+        "grant"
+      ],
+      "region": null,
+      "opportunity_type": "grant_or_funding",
+      "kind": "opportunity",
+      "description": "Official websites use .gov A .gov website belongs to an official government organization in the United States. Secure .gov websites use HTTPS A lock ( Lock Locked padlock icon ) or https:// means you've safely connected to the .gov website. Share sensitive information only on official, secure websites. Your session will expire in 3 minutes. To continue working, click on the \"OK\" button below. Note: This is being done to protect your privacy. Unsaved changes will be lost. Ok Open default modal",
+      "location_mode": "not_specified"
+    },
+    {
+      "id": "3b42410aa495adceac3fa42837926f8bba9064b7",
+      "title": "Laura Bush 21st Century Librarian Program (2027)",
+      "link": "https://www.grants.gov/search-results-detail/363765",
+      "summary": "Institute of Museum and Library Services | opportunity LB21-FY27",
+      "source": "Grants.gov",
+      "published": "2026-09-01T21:32:07.581418+00:00",
+      "deadline": "2026-11-13",
+      "tags": [
+        "grant"
+      ],
+      "region": null,
+      "opportunity_type": "grant_or_funding",
+      "kind": "opportunity",
+      "description": "Official websites use .gov A .gov website belongs to an official government organization in the United States. Secure .gov websites use HTTPS A lock ( Lock Locked padlock icon ) or https:// means you've safely connected to the .gov website. Share sensitive information only on official, secure websites. Your session will expire in 3 minutes. To continue working, click on the \"OK\" button below. Note: This is being done to protect your privacy. Unsaved changes will be lost. Ok Open default modal",
+      "location_mode": "not_specified"
+    },
+    {
+      "id": "cf00691abb51127db85bec80728092727053c433",
+      "title": "Native American Library Services Basic Grant (2027)",
+      "link": "https://www.grants.gov/search-results-detail/363767",
+      "summary": "Institute of Museum and Library Services | opportunity NAG-BASIC-FY27",
+      "source": "Grants.gov",
+      "published": "2026-09-01T21:32:07.580961+00:00",
+      "deadline": "2026-11-13",
       "tags": [
         "grant"
       ],
@@ -81,7 +166,7 @@
       "link": "https://www.grants.gov/search-results-detail/322314",
       "summary": "U.S. Mission to Cambodia | opportunity PAS-CB-600-20-PAS-0003",
       "source": "Grants.gov",
-      "published": "2026-09-01T12:17:15.632471+00:00",
+      "published": "2026-09-01T21:32:07.580474+00:00",
       "deadline": null,
       "tags": [
         "grant"
@@ -98,8 +183,144 @@
       "link": "https://www.grants.gov/search-results-detail/363728",
       "summary": "National Park Service | opportunity P27AS00032",
       "source": "Grants.gov",
-      "published": "2026-09-01T12:17:15.631886+00:00",
+      "published": "2026-09-01T21:32:07.579917+00:00",
       "deadline": "2026-11-04",
+      "tags": [
+        "grant"
+      ],
+      "region": null,
+      "opportunity_type": "grant_or_funding",
+      "kind": "opportunity",
+      "description": "Official websites use .gov A .gov website belongs to an official government organization in the United States. Secure .gov websites use HTTPS A lock ( Lock Locked padlock icon ) or https:// means you've safely connected to the .gov website. Share sensitive information only on official, secure websites. Your session will expire in 3 minutes. To continue working, click on the \"OK\" button below. Note: This is being done to protect your privacy. Unsaved changes will be lost. Ok Open default modal",
+      "location_mode": "not_specified"
+    },
+    {
+      "id": "a9b73da1404da763630431859990388638eb7cdb",
+      "title": "National Leadership Grants for Libraries (2027)",
+      "link": "https://www.grants.gov/search-results-detail/363766",
+      "summary": "Institute of Museum and Library Services | opportunity NLG-LIBRARIES-FY27",
+      "source": "Grants.gov",
+      "published": "2026-09-01T21:32:07.579464+00:00",
+      "deadline": "2026-11-13",
+      "tags": [
+        "grant"
+      ],
+      "region": null,
+      "opportunity_type": "grant_or_funding",
+      "kind": "opportunity",
+      "description": "Official websites use .gov A .gov website belongs to an official government organization in the United States. Secure .gov websites use HTTPS A lock ( Lock Locked padlock icon ) or https:// means you've safely connected to the .gov website. Share sensitive information only on official, secure websites. Your session will expire in 3 minutes. To continue working, click on the \"OK\" button below. Note: This is being done to protect your privacy. Unsaved changes will be lost. Ok Open default modal",
+      "location_mode": "not_specified"
+    },
+    {
+      "id": "fd385bdabdc5525fdd688db41228d19e09aee112",
+      "title": "Native American/Native Hawaiian Museum Services (2027)",
+      "link": "https://www.grants.gov/search-results-detail/363775",
+      "summary": "Institute of Museum and Library Services | opportunity NANH-FY27",
+      "source": "Grants.gov",
+      "published": "2026-09-01T21:32:07.578967+00:00",
+      "deadline": "2026-11-13",
+      "tags": [
+        "grant"
+      ],
+      "region": null,
+      "opportunity_type": "grant_or_funding",
+      "kind": "opportunity",
+      "description": "Official websites use .gov A .gov website belongs to an official government organization in the United States. Secure .gov websites use HTTPS A lock ( Lock Locked padlock icon ) or https:// means you've safely connected to the .gov website. Share sensitive information only on official, secure websites. Your session will expire in 3 minutes. To continue working, click on the \"OK\" button below. Note: This is being done to protect your privacy. Unsaved changes will be lost. Ok Open default modal",
+      "location_mode": "not_specified"
+    },
+    {
+      "id": "354db3735a8e8b60028e9ddcf707dfd1a515498b",
+      "title": "Museums for America (2027)",
+      "link": "https://www.grants.gov/search-results-detail/363768",
+      "summary": "Institute of Museum and Library Services | opportunity MFA-FY27",
+      "source": "Grants.gov",
+      "published": "2026-09-01T21:32:07.578571+00:00",
+      "deadline": "2026-11-13",
+      "tags": [
+        "grant"
+      ],
+      "region": null,
+      "opportunity_type": "grant_or_funding",
+      "kind": "opportunity",
+      "description": "Official websites use .gov A .gov website belongs to an official government organization in the United States. Secure .gov websites use HTTPS A lock ( Lock Locked padlock icon ) or https:// means you've safely connected to the .gov website. Share sensitive information only on official, secure websites. Your session will expire in 3 minutes. To continue working, click on the \"OK\" button below. Note: This is being done to protect your privacy. Unsaved changes will be lost. Ok Open default modal",
+      "location_mode": "not_specified"
+    },
+    {
+      "id": "3c54be1feff3503d27b60a9edeab0d5ecf5680cf",
+      "title": "Museum Grants for American Latino History and Culture (2027)",
+      "link": "https://www.grants.gov/search-results-detail/363772",
+      "summary": "Institute of Museum and Library Services | opportunity ALHC-FY27",
+      "source": "Grants.gov",
+      "published": "2026-09-01T21:32:07.578104+00:00",
+      "deadline": "2026-11-13",
+      "tags": [
+        "grant"
+      ],
+      "region": null,
+      "opportunity_type": "grant_or_funding",
+      "kind": "opportunity",
+      "description": "Official websites use .gov A .gov website belongs to an official government organization in the United States. Secure .gov websites use HTTPS A lock ( Lock Locked padlock icon ) or https:// means you've safely connected to the .gov website. Share sensitive information only on official, secure websites. Your session will expire in 3 minutes. To continue working, click on the \"OK\" button below. Note: This is being done to protect your privacy. Unsaved changes will be lost. Ok Open default modal",
+      "location_mode": "not_specified"
+    },
+    {
+      "id": "d66bf128585c13b61f687c4bc0bc5a6571a04820",
+      "title": "21st Century Museum Professionals Program (2027)",
+      "link": "https://www.grants.gov/search-results-detail/363769",
+      "summary": "Institute of Museum and Library Services | opportunity 21MP-FY27",
+      "source": "Grants.gov",
+      "published": "2026-09-01T21:32:07.577666+00:00",
+      "deadline": "2026-11-13",
+      "tags": [
+        "grant"
+      ],
+      "region": null,
+      "opportunity_type": "grant_or_funding",
+      "kind": "opportunity",
+      "description": "Official websites use .gov A .gov website belongs to an official government organization in the United States. Secure .gov websites use HTTPS A lock ( Lock Locked padlock icon ) or https:// means you've safely connected to the .gov website. Share sensitive information only on official, secure websites. Your session will expire in 3 minutes. To continue working, click on the \"OK\" button below. Note: This is being done to protect your privacy. Unsaved changes will be lost. Ok Open default modal",
+      "location_mode": "not_specified"
+    },
+    {
+      "id": "79ece5540f0540ddf6141195b9b765c560b0d3d6",
+      "title": "Museums Empowered (2027)",
+      "link": "https://www.grants.gov/search-results-detail/363776",
+      "summary": "Institute of Museum and Library Services | opportunity ME-FY27",
+      "source": "Grants.gov",
+      "published": "2026-09-01T21:32:07.576824+00:00",
+      "deadline": "2026-11-13",
+      "tags": [
+        "grant"
+      ],
+      "region": null,
+      "opportunity_type": "grant_or_funding",
+      "kind": "opportunity",
+      "description": "Official websites use .gov A .gov website belongs to an official government organization in the United States. Secure .gov websites use HTTPS A lock ( Lock Locked padlock icon ) or https:// means you've safely connected to the .gov website. Share sensitive information only on official, secure websites. Your session will expire in 3 minutes. To continue working, click on the \"OK\" button below. Note: This is being done to protect your privacy. Unsaved changes will be lost. Ok Open default modal",
+      "location_mode": "not_specified"
+    },
+    {
+      "id": "4ff0fcf08173e4e8f0d24a8ffbe0842b9600e906",
+      "title": "Museum Grants for African American History and Culture (2027)",
+      "link": "https://www.grants.gov/search-results-detail/363770",
+      "summary": "Institute of Museum and Library Services | opportunity AAHC-FY27",
+      "source": "Grants.gov",
+      "published": "2026-09-01T21:32:07.576356+00:00",
+      "deadline": "2026-11-13",
+      "tags": [
+        "grant"
+      ],
+      "region": null,
+      "opportunity_type": "grant_or_funding",
+      "kind": "opportunity",
+      "description": "Official websites use .gov A .gov website belongs to an official government organization in the United States. Secure .gov websites use HTTPS A lock ( Lock Locked padlock icon ) or https:// means you've safely connected to the .gov website. Share sensitive information only on official, secure websites. Your session will expire in 3 minutes. To continue working, click on the \"OK\" button below. Note: This is being done to protect your privacy. Unsaved changes will be lost. Ok Open default modal",
+      "location_mode": "not_specified"
+    },
+    {
+      "id": "ea4879246fd1ed298f6c223d5aa93091335c7cc7",
+      "title": "Inspire Grants for Small Museums (2027)",
+      "link": "https://www.grants.gov/search-results-detail/363771",
+      "summary": "Institute of Museum and Library Services | opportunity IGSM-FY27",
+      "source": "Grants.gov",
+      "published": "2026-09-01T21:32:07.575841+00:00",
+      "deadline": "2026-11-13",
       "tags": [
         "grant"
       ],
@@ -115,7 +336,7 @@
       "link": "https://www.grants.gov/search-results-detail/362984",
       "summary": "National Endowment for the Arts | opportunity 2027FCAHDOM02",
       "source": "Grants.gov",
-      "published": "2026-09-01T12:17:14.951721+00:00",
+      "published": "2026-09-01T21:32:06.850324+00:00",
       "deadline": "2027-06-07",
       "tags": [
         "grant"
@@ -132,7 +353,7 @@
       "link": "https://www.grants.gov/search-results-detail/362981",
       "summary": "National Endowment for the Arts | opportunity 2027FCAH01",
       "source": "Grants.gov",
-      "published": "2026-09-01T12:17:14.951352+00:00",
+      "published": "2026-09-01T21:32:06.849842+00:00",
       "deadline": "2026-09-14",
       "tags": [
         "grant"
@@ -149,7 +370,7 @@
       "link": "https://www.grants.gov/search-results-detail/362982",
       "summary": "National Endowment for the Arts | opportunity 2027FCAHDOM01",
       "source": "Grants.gov",
-      "published": "2026-09-01T12:17:14.950985+00:00",
+      "published": "2026-09-01T21:32:06.849373+00:00",
       "deadline": "2026-12-07",
       "tags": [
         "grant"
@@ -166,7 +387,7 @@
       "link": "https://www.grants.gov/search-results-detail/362983",
       "summary": "National Endowment for the Arts | opportunity 2027FCAH02",
       "source": "Grants.gov",
-      "published": "2026-09-01T12:17:14.950589+00:00",
+      "published": "2026-09-01T21:32:06.848889+00:00",
       "deadline": "2027-03-08",
       "tags": [
         "grant"
@@ -183,7 +404,7 @@
       "link": "https://www.grants.gov/search-results-detail/361554",
       "summary": "Bureau Of Educational and Cultural Affairs | opportunity DFOP0017204",
       "source": "Grants.gov",
-      "published": "2026-09-01T12:17:14.949526+00:00",
+      "published": "2026-09-01T21:32:06.847406+00:00",
       "deadline": null,
       "tags": [
         "grant"
@@ -200,7 +421,7 @@
       "link": "https://www.grants.gov/search-results-detail/362676",
       "summary": "National Endowment for the Arts | opportunity 2027NEA04PA",
       "source": "Grants.gov",
-      "published": "2026-09-01T12:17:14.949078+00:00",
+      "published": "2026-09-01T21:32:06.846862+00:00",
       "deadline": "2026-09-29",
       "tags": [
         "grant"
@@ -217,7 +438,7 @@
       "link": "https://artistcommunities.org/directory/residencies/alderworks-alaska-writers-and-artists-retreat",
       "summary": "Alderworks welcomes writers and artists every summer to work in cabins on the edge of the wilderness in historic and stunningly beautiful Dyea near Skagway, Alaska. We host residents in three cabins during 4-6 week residencies. Artists also have access to a studio building.",
       "source": "Artist Communities Alliance",
-      "published": "2026-09-01T12:17:13.894303+00:00",
+      "published": "2026-09-01T21:32:05.768925+00:00",
       "deadline": null,
       "tags": [
         "residency"
@@ -237,7 +458,7 @@
       "link": "https://artistcommunities.org/directory/residencies/alchemy-artists-residency",
       "summary": "ALCHEMY: a n artist-led international residency where food, art, and community come together.",
       "source": "Artist Communities Alliance",
-      "published": "2026-09-01T12:17:13.893915+00:00",
+      "published": "2026-09-01T21:32:05.768440+00:00",
       "deadline": null,
       "tags": [
         "residency"
@@ -270,7 +491,7 @@
       "link": "https://artistcommunities.org/directory/residencies/alaska-air-bunnell-street-arts-center-artist-residence",
       "summary": "Bunnell Street Arts Center's \"Alaska AIR\" Artist-in-Residency program seeks international, US and Alaska artists looking to create new work and deeply engage Bunnell’s community.",
       "source": "Artist Communities Alliance",
-      "published": "2026-09-01T12:17:13.893661+00:00",
+      "published": "2026-09-01T21:32:05.768133+00:00",
       "deadline": null,
       "tags": [
         "residency"
@@ -290,7 +511,7 @@
       "link": "https://artistcommunities.org/directory/residencies/alaska-chulitna-lodge-wilderness-retreat-creative-residency",
       "summary": "Chulitna Lodge Wilderness Retreat seeks to provide the time, space, clarity and facilities for all forms of creative professionals or enthusiastic hobbyists to make and meditate.",
       "source": "Artist Communities Alliance",
-      "published": "2026-09-01T12:17:13.893432+00:00",
+      "published": "2026-09-01T21:32:05.767855+00:00",
       "deadline": null,
       "tags": [
         "residency"
@@ -307,7 +528,7 @@
       "link": "https://artistcommunities.org/directory/residencies/al-mickey-quinlan-artist-residency",
       "summary": "Whitefish Bay, located on Wisconsin's Door Peninsula , has long been a creative haven for artists who were an important part of the local community and brought the process of creating art into daily life.",
       "source": "Artist Communities Alliance",
-      "published": "2026-09-01T12:17:13.893318+00:00",
+      "published": "2026-09-01T21:32:05.767720+00:00",
       "deadline": null,
       "tags": [
         "residency"
@@ -327,7 +548,7 @@
       "link": "https://artistcommunities.org/directory/residencies/airnewport",
       "summary": "The Newport artist residency, AiR/Newport is designed to encourage the creative, intellectual and personal growth of emerging to established visual artists and designers by giving them the time, space and solitude needed to create, apart from the daily demands of production and deadlines.",
       "source": "Artist Communities Alliance",
-      "published": "2026-09-01T12:17:13.892591+00:00",
+      "published": "2026-09-01T21:32:05.766835+00:00",
       "deadline": null,
       "tags": [
         "residency"
@@ -348,7 +569,7 @@
       "link": "https://artistcommunities.org/directory/residencies/adriftproject-residency-inc",
       "summary": "adriftproject hosts artist residencies aboard SV Hawa for up to two residents at a time as we transit the lovely and diverse US east coast following good weather.",
       "source": "Artist Communities Alliance",
-      "published": "2026-09-01T12:17:13.892065+00:00",
+      "published": "2026-09-01T21:32:05.766171+00:00",
       "deadline": null,
       "tags": [
         "residency"
@@ -368,7 +589,7 @@
       "link": "https://artistcommunities.org/directory/residencies/activate-residency",
       "summary": "Boston Center for the Arts’ ACTivate Residency will award seven-day residencies to individuals and small groups of artists to create site-responsive work in the historic Cyclorama. The work can be performative and/or visual in nature and is meant to activate artists and our spaces.",
       "source": "Artist Communities Alliance",
-      "published": "2026-09-01T12:17:13.891718+00:00",
+      "published": "2026-09-01T21:32:05.765773+00:00",
       "deadline": null,
       "tags": [
         "grant",
@@ -389,7 +610,7 @@
       "link": "https://artistcommunities.org/directory/residencies/acre-academic-and-creative-research-residency-programme",
       "summary": "The ACRE (Academic and Creative Research) Residency Programme invites artists, researchers, writers, and creative practitioners to live and work at Braziers Park while developing independent projects.",
       "source": "Artist Communities Alliance",
-      "published": "2026-09-01T12:17:13.891081+00:00",
+      "published": "2026-09-01T21:32:05.764976+00:00",
       "deadline": null,
       "tags": [
         "residency"
@@ -412,7 +633,7 @@
       "link": "https://artistcommunities.org/directory/residencies/acre",
       "summary": "ACRE’s Residency Program takes place every summer in the Driftless region of Wisconsin.",
       "source": "Artist Communities Alliance",
-      "published": "2026-09-01T12:17:13.891010+00:00",
+      "published": "2026-09-01T21:32:05.764893+00:00",
       "deadline": null,
       "tags": [
         "residency"
@@ -448,7 +669,7 @@
       "link": "https://artistcommunities.org/directory/residencies/ace-ashevillechicago-exchange-choreographic-fellowship",
       "summary": "An ACE Fellowship in Dance provides immersive creative time and space to selected artists, free of charge.",
       "source": "Artist Communities Alliance",
-      "published": "2026-09-01T12:17:13.890773+00:00",
+      "published": "2026-09-01T21:32:05.764622+00:00",
       "deadline": null,
       "tags": [
         "grant",
@@ -474,7 +695,7 @@
       "link": "https://artistcommunities.org/directory/residencies/aca-soundscape-field-station-canaveral-national-seashore",
       "summary": "ACA Soundscape Field Station at Canaveral National Seashore is a partnership between Atlantic Center for the Arts and Canaveral National Seashore.",
       "source": "Artist Communities Alliance",
-      "published": "2026-09-01T12:17:13.890236+00:00",
+      "published": "2026-09-01T21:32:05.763962+00:00",
       "deadline": null,
       "tags": [
         "residency"
@@ -498,7 +719,7 @@
       "link": "https://artistcommunities.org/directory/residencies/aca-sample-residency-0",
       "summary": "Description here.",
       "source": "Artist Communities Alliance",
-      "published": "2026-09-01T12:17:13.889980+00:00",
+      "published": "2026-09-01T21:32:05.763655+00:00",
       "deadline": null,
       "tags": [
         "residency"
@@ -521,7 +742,7 @@
       "link": "https://artistcommunities.org/directory/residencies/abbey-foundation-studio-grant",
       "summary": "Beginning in 2025, The Abbey Foundation will begin to offer 6 month residencies for day use of the 850 square foot studio space. There is also a screened in area attached to the indoor studio which is available for large scale works.",
       "source": "Artist Communities Alliance",
-      "published": "2026-09-01T12:17:13.889304+00:00",
+      "published": "2026-09-01T21:32:05.762830+00:00",
       "deadline": null,
       "tags": [
         "grant",
@@ -539,7 +760,7 @@
       "link": "https://artistcommunities.org/directory/residencies/ap-residency",
       "summary": "For 20 years, Proyecto´ace has welcomed thousands of artists from around the world.",
       "source": "Artist Communities Alliance",
-      "published": "2026-09-01T12:17:13.888944+00:00",
+      "published": "2026-09-01T21:32:05.762379+00:00",
       "deadline": null,
       "tags": [
         "residency"
@@ -564,7 +785,7 @@
       "link": "https://artistcommunities.org/directory/residencies/2027-eutopia-art-residencies-greece",
       "summary": "Eutopia — from the Greek εὖ (good) and τόπος (place). Not a utopia. A real place, with real conditions, designed for the kind of creative work that requires time, atmosphere, and human connection.",
       "source": "Artist Communities Alliance",
-      "published": "2026-09-01T12:17:13.888397+00:00",
+      "published": "2026-09-01T21:32:05.761719+00:00",
       "deadline": null,
       "tags": [
         "residency"
@@ -581,7 +802,7 @@
       "link": "https://artistcommunities.org/directory/residencies/2027-edgar-heap-birds-family-artist-residency",
       "summary": "The Tyler School of Art and Architecture invites applications for a spring 2027 residency in the Art Department, which encompasses undergraduate and graduate programs in Ceramics, Fibers and Material Studies, Glass, Metals/Jewelry/CAD-CAM, Painting, Photography, Printmaking, and Sculpture.",
       "source": "Artist Communities Alliance",
-      "published": "2026-09-01T12:17:13.887593+00:00",
+      "published": "2026-09-01T21:32:05.760726+00:00",
       "deadline": null,
       "tags": [
         "residency"
@@ -610,7 +831,7 @@
       "link": "https://artistcommunities.org/directory/residencies/2026-springsummer-ceramics-artist-residency-program",
       "summary": "The Eureka Springs School of the arts is looking for practicing ceramics artists who are seeking focused time to refine their skills, create work and/or explore new avenues within their medium.",
       "source": "Artist Communities Alliance",
-      "published": "2026-09-01T12:17:13.886965+00:00",
+      "published": "2026-09-01T21:32:05.759938+00:00",
       "deadline": null,
       "tags": [
         "residency"
@@ -633,7 +854,7 @@
       "link": "https://artistcommunities.org/directory/residencies/2026-mentored-woodworking-residency-doug-stowe",
       "summary": "The Eureka Springs School of the Arts is looking for practicing woodworkers and craftspeople seeking focused time to refine their abilities, create new work, and expand their knowledge in a Mentored Residency under Master Woodcrafter, Doug Stowe.",
       "source": "Artist Communities Alliance",
-      "published": "2026-09-01T12:17:13.886239+00:00",
+      "published": "2026-09-01T21:32:05.759048+00:00",
       "deadline": null,
       "tags": [
         "residency"
@@ -653,7 +874,7 @@
       "link": "https://artistcommunities.org/directory/residencies/2025-oolite-arts-liveinart-residency-program",
       "summary": "The Oolite Arts’ Live.In.Art Residency Program provides artists with the time, space, and resources to reach new levels of excellence.",
       "source": "Artist Communities Alliance",
-      "published": "2026-09-01T12:17:13.885670+00:00",
+      "published": "2026-09-01T21:32:05.758382+00:00",
       "deadline": null,
       "tags": [
         "residency"
@@ -677,7 +898,7 @@
       "link": "https://artistcommunities.org/directory/residencies/2025-artist-writer-residencies-gibraltar-point-toronto-island",
       "summary": "Are you an artist or writer seeking a space to focus on your next project? Look no further! We're thrilled to share that we have just opened applications for self-directed residencies for 2025.",
       "source": "Artist Communities Alliance",
-      "published": "2026-09-01T12:17:13.885006+00:00",
+      "published": "2026-09-01T21:32:05.757542+00:00",
       "deadline": null,
       "tags": [
         "residency"
@@ -697,7 +918,7 @@
       "link": "https://artistcommunities.org/directory/residencies/100-west-corsicana-artist-writer-residency",
       "summary": "CORSICANA ARTIST & WRITER RESIDENCY supports the creation and presentation of art and literature with generous provisions and historic space. Founded in 2012 at 100 West, and organized in 2017 as a 501(c)(3) nonprofit.",
       "source": "Artist Communities Alliance",
-      "published": "2026-09-01T12:17:13.884325+00:00",
+      "published": "2026-09-01T21:32:05.756700+00:00",
       "deadline": null,
       "tags": [
         "residency"
@@ -717,7 +938,7 @@
       "link": "https://artistcommunities.org/directory/residencies/kathmandu-international-artist-residency-kiar-2027",
       "summary": "Nestled between India and China, Nepal is a land of breathtaking landscapes, rich traditions, and diverse cultures. Home to the majestic Himalayas—including Mount Everest—Nepal offers everything from subtropical valleys with banana trees to alpine forests with grazing yaks.",
       "source": "Artist Communities Alliance",
-      "published": "2026-09-01T12:17:13.883567+00:00",
+      "published": "2026-09-01T21:32:05.755786+00:00",
       "deadline": null,
       "tags": [
         "residency"
@@ -737,7 +958,7 @@
       "link": "https://artistcommunities.org/directory/residencies/kala-yatra-artist-residency-nepal-2026-27",
       "summary": "Kala Yatra invites applications for its concept-driven, community-engaged artist residency program in Kathmandu, Nepal.",
       "source": "Artist Communities Alliance",
-      "published": "2026-09-01T12:17:13.883077+00:00",
+      "published": "2026-09-01T21:32:05.755183+00:00",
       "deadline": null,
       "tags": [
         "residency"
@@ -768,7 +989,7 @@
       "link": "https://artistcommunities.org/directory/residencies/artsindustry-residency",
       "summary": "For more than fifty years, Arts/Industry has been connecting artists with the resources, technology, and materials of Kohler Co., and providing a place to explore new ideas, processes, and perspectives. Artists from all disciplines are encouraged to apply.",
       "source": "Artist Communities Alliance",
-      "published": "2026-09-01T12:17:13.882272+00:00",
+      "published": "2026-09-01T21:32:05.754249+00:00",
       "deadline": null,
       "tags": [
         "residency"
@@ -776,6 +997,28 @@
       "region": null,
       "kind": "opportunity",
       "description": "For more than fifty years, Arts/Industry has been connecting artists with the resources, technology, and materials of Kohler Co., and providing a place to explore new ideas, processes, and perspectives. Artists from all disciplines are encouraged to apply.",
+      "opportunity_type": "residency",
+      "location_mode": "not_specified",
+      "required_roles": [
+        "Artist"
+      ]
+    },
+    {
+      "id": "43deb4ec99decb46b680c5ee4ad473b2363ccddb",
+      "title": "Opportunities in September 2026",
+      "link": "https://hyperallergic.com/opportunities-in-september-2026/",
+      "summary": "Residencies, fellowships, grants, and open calls from the Gulf Coast Journal, the Harry Ransom Center, the Smithsonian American Art Museum, the Vermont Studio Center, and more in our monthly list of opportunities for artists, writers, and art workers.",
+      "source": "Hyperallergic Opportunities",
+      "published": "2026-09-01T16:00:43+00:00",
+      "deadline": null,
+      "tags": [
+        "grant",
+        "opportunity",
+        "residency"
+      ],
+      "region": "Northeast",
+      "kind": "opportunity",
+      "description": "Residencies, fellowships, grants, and open calls from the Gulf Coast Journal, the Harry Ransom Center, the Smithsonian American Art Museum, the Vermont Studio Center, and more in our monthly list of opportunities for artists, writers, and art workers.",
       "opportunity_type": "residency",
       "location_mode": "not_specified",
       "required_roles": [
@@ -933,26 +1176,6 @@
       ]
     },
     {
-      "id": "fcd3982dfda143938db9385458462e244a278d3c",
-      "title": "Compact: Small Works",
-      "link": "https://artdeadline.com/ops/artlnk/",
-      "summary": "U.S. National Deadline: September 7, 2026 – Artlink is pleased to offer an exhibition exploring and celebrating the focused power of small works of art. Anticipating a wide variety of media, style, and conceptual intent, the resulting showcase of small works will be unified solely by...",
-      "source": "ArtDeadline",
-      "published": "2026-08-24T06:57:58+00:00",
-      "deadline": "2026-09-07",
-      "tags": [
-        "opportunity"
-      ],
-      "region": null,
-      "kind": "opportunity",
-      "description": "U.S. National Deadline: September 7, 2026 – Artlink is pleased to offer an exhibition exploring and celebrating the focused power of small works of art. Anticipating a wide variety of media, style, and conceptual intent, the resulting showcase of small works will be unified solely by...",
-      "opportunity_type": "exhibition_opportunity",
-      "location_mode": "not_specified",
-      "project_types": [
-        "Exhibition"
-      ]
-    },
-    {
       "id": "6717e04c4e016c995176a84ab54fd88aa76f7bf2",
       "title": "Robert Rauschenberg Foundation Partners with NYFA to Offer National Emergency Grants Programs for Three More Years",
       "link": "https://www.nyfa.org/news/robert-rauschenberg-foundation-partners-with-nyfa-to-offer-national-emergency-grants-programs-for-three-more-years/",
@@ -1037,6 +1260,29 @@
       "location_mode": "not_specified",
       "required_roles": [
         "Artist"
+      ]
+    },
+    {
+      "id": "447aecfb48e1d57fc87b69422b9bd0bd8f7082ae",
+      "title": "MFA : Small Wonders 2026",
+      "link": "https://artdeadline.com/ops/mfa-a/",
+      "summary": "International Deadline: September 30, 2026 – Highly regarded Maryland Federation of Art (MFA) invites artists to enter our 22nd annual Small Wonders exhibition. All original 2D or 3D work under 11 inches in all directions will be considered. Multiple venues, awards...",
+      "source": "ArtDeadline",
+      "published": "2026-07-28T07:00:22+00:00",
+      "deadline": "2026-09-30",
+      "tags": [
+        "opportunity"
+      ],
+      "region": "South",
+      "kind": "opportunity",
+      "description": "International Deadline: September 30, 2026 – Highly regarded Maryland Federation of Art (MFA) invites artists to enter our 22nd annual Small Wonders exhibition. All original 2D or 3D work under 11 inches in all directions will be considered. Multiple venues, awards...",
+      "opportunity_type": "exhibition_opportunity",
+      "location_mode": "not_specified",
+      "required_roles": [
+        "Artist"
+      ],
+      "project_types": [
+        "Exhibition"
       ]
     },
     {
