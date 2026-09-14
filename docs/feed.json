@@ -1,8 +1,8 @@
 {
   "contract_version": "artelier_opportunities_feed_v1",
   "title": "Creative Opportunities",
-  "updated": "2026-09-14T13:34:09.256821+00:00",
-  "count": 269,
+  "updated": "2026-09-14T22:14:28.742583+00:00",
+  "count": 268,
   "items": [
     {
       "id": "5c569d5cf6f698ff7bf0605d8598fb8ad5d8431e",
@@ -10,7 +10,7 @@
       "link": "https://www.grants.gov/search-results-detail/363225",
       "summary": "Bureau Of Educational and Cultural Affairs | opportunity DFOP0017180",
       "source": "Grants.gov",
-      "published": "2026-09-14T13:33:36.309121+00:00",
+      "published": "2026-09-14T22:14:00.214796+00:00",
       "deadline": null,
       "tags": [
         "grant"
@@ -27,7 +27,7 @@
       "link": "https://www.grants.gov/search-results-detail/363773",
       "summary": "Institute of Museum and Library Services | opportunity NLG-M-FY27",
       "source": "Grants.gov",
-      "published": "2026-09-14T13:33:36.307955+00:00",
+      "published": "2026-09-14T22:14:00.213794+00:00",
       "deadline": "2026-11-13",
       "tags": [
         "grant"
@@ -44,7 +44,7 @@
       "link": "https://www.grants.gov/search-results-detail/363084",
       "summary": "National Endowment for the Humanities | opportunity 20260916-RZ",
       "source": "Grants.gov",
-      "published": "2026-09-14T13:33:35.382370+00:00",
+      "published": "2026-09-14T22:13:59.400100+00:00",
       "deadline": "2026-09-16",
       "tags": [
         "grant"
@@ -64,7 +64,7 @@
       "link": "https://www.grants.gov/search-results-detail/363014",
       "summary": "National Endowment for the Humanities | opportunity 20260916-RQ",
       "source": "Grants.gov",
-      "published": "2026-09-14T13:33:35.381751+00:00",
+      "published": "2026-09-14T22:13:59.399612+00:00",
       "deadline": "2026-09-16",
       "tags": [
         "grant"
@@ -81,7 +81,7 @@
       "link": "https://www.grants.gov/search-results-detail/361480",
       "summary": "National Endowment for the Humanities | opportunity 20260511-PCS",
       "source": "Grants.gov",
-      "published": "2026-09-14T13:33:35.381207+00:00",
+      "published": "2026-09-14T22:13:59.399201+00:00",
       "deadline": "2026-12-15",
       "tags": [
         "grant"
@@ -98,7 +98,7 @@
       "link": "https://www.grants.gov/search-results-detail/363762",
       "summary": "Institute of Museum and Library Services | opportunity NAG-ENHANCEMENT-FY27",
       "source": "Grants.gov",
-      "published": "2026-09-14T13:33:34.561604+00:00",
+      "published": "2026-09-14T22:13:58.670636+00:00",
       "deadline": "2026-11-13",
       "tags": [
         "grant"
@@ -115,7 +115,7 @@
       "link": "https://www.grants.gov/search-results-detail/363763",
       "summary": "Institute of Museum and Library Services | opportunity NAG-HAWAIIAN-FY27",
       "source": "Grants.gov",
-      "published": "2026-09-14T13:33:34.561023+00:00",
+      "published": "2026-09-14T22:13:58.670213+00:00",
       "deadline": "2026-11-13",
       "tags": [
         "grant"
@@ -132,7 +132,7 @@
       "link": "https://www.grants.gov/search-results-detail/363765",
       "summary": "Institute of Museum and Library Services | opportunity LB21-FY27",
       "source": "Grants.gov",
-      "published": "2026-09-14T13:33:34.560447+00:00",
+      "published": "2026-09-14T22:13:58.669766+00:00",
       "deadline": "2026-11-13",
       "tags": [
         "grant"
@@ -149,7 +149,7 @@
       "link": "https://www.grants.gov/search-results-detail/363767",
       "summary": "Institute of Museum and Library Services | opportunity NAG-BASIC-FY27",
       "source": "Grants.gov",
-      "published": "2026-09-14T13:33:34.559839+00:00",
+      "published": "2026-09-14T22:13:58.669327+00:00",
       "deadline": "2026-11-13",
       "tags": [
         "grant"
@@ -166,7 +166,7 @@
       "link": "https://www.grants.gov/search-results-detail/322314",
       "summary": "U.S. Mission to Cambodia | opportunity PAS-CB-600-20-PAS-0003",
       "source": "Grants.gov",
-      "published": "2026-09-14T13:33:34.559176+00:00",
+      "published": "2026-09-14T22:13:58.668833+00:00",
       "deadline": null,
       "tags": [
         "grant"
@@ -183,7 +183,7 @@
       "link": "https://www.grants.gov/search-results-detail/363728",
       "summary": "National Park Service | opportunity P27AS00032",
       "source": "Grants.gov",
-      "published": "2026-09-14T13:33:34.558445+00:00",
+      "published": "2026-09-14T22:13:58.668299+00:00",
       "deadline": "2026-11-04",
       "tags": [
         "grant"
@@ -200,7 +200,7 @@
       "link": "https://www.grants.gov/search-results-detail/363766",
       "summary": "Institute of Museum and Library Services | opportunity NLG-LIBRARIES-FY27",
       "source": "Grants.gov",
-      "published": "2026-09-14T13:33:34.557863+00:00",
+      "published": "2026-09-14T22:13:58.667843+00:00",
       "deadline": "2026-11-13",
       "tags": [
         "grant"
@@ -217,7 +217,7 @@
       "link": "https://www.grants.gov/search-results-detail/363775",
       "summary": "Institute of Museum and Library Services | opportunity NANH-FY27",
       "source": "Grants.gov",
-      "published": "2026-09-14T13:33:34.557264+00:00",
+      "published": "2026-09-14T22:13:58.667403+00:00",
       "deadline": "2026-11-13",
       "tags": [
         "grant"
@@ -234,7 +234,7 @@
       "link": "https://www.grants.gov/search-results-detail/363768",
       "summary": "Institute of Museum and Library Services | opportunity MFA-FY27",
       "source": "Grants.gov",
-      "published": "2026-09-14T13:33:34.556758+00:00",
+      "published": "2026-09-14T22:13:58.666994+00:00",
       "deadline": "2026-11-13",
       "tags": [
         "grant"
@@ -251,7 +251,7 @@
       "link": "https://www.grants.gov/search-results-detail/363772",
       "summary": "Institute of Museum and Library Services | opportunity ALHC-FY27",
       "source": "Grants.gov",
-      "published": "2026-09-14T13:33:34.556144+00:00",
+      "published": "2026-09-14T22:13:58.666545+00:00",
       "deadline": "2026-11-13",
       "tags": [
         "grant"
@@ -268,7 +268,7 @@
       "link": "https://www.grants.gov/search-results-detail/363769",
       "summary": "Institute of Museum and Library Services | opportunity 21MP-FY27",
       "source": "Grants.gov",
-      "published": "2026-09-14T13:33:34.555583+00:00",
+      "published": "2026-09-14T22:13:58.666112+00:00",
       "deadline": "2026-11-13",
       "tags": [
         "grant"
@@ -285,7 +285,7 @@
       "link": "https://www.grants.gov/search-results-detail/363776",
       "summary": "Institute of Museum and Library Services | opportunity ME-FY27",
       "source": "Grants.gov",
-      "published": "2026-09-14T13:33:34.554499+00:00",
+      "published": "2026-09-14T22:13:58.665303+00:00",
       "deadline": "2026-11-13",
       "tags": [
         "grant"
@@ -302,7 +302,7 @@
       "link": "https://www.grants.gov/search-results-detail/363770",
       "summary": "Institute of Museum and Library Services | opportunity AAHC-FY27",
       "source": "Grants.gov",
-      "published": "2026-09-14T13:33:34.553876+00:00",
+      "published": "2026-09-14T22:13:58.664833+00:00",
       "deadline": "2026-11-13",
       "tags": [
         "grant"
@@ -319,7 +319,7 @@
       "link": "https://www.grants.gov/search-results-detail/363771",
       "summary": "Institute of Museum and Library Services | opportunity IGSM-FY27",
       "source": "Grants.gov",
-      "published": "2026-09-14T13:33:34.553264+00:00",
+      "published": "2026-09-14T22:13:58.664370+00:00",
       "deadline": "2026-11-13",
       "tags": [
         "grant"
@@ -336,7 +336,7 @@
       "link": "https://www.grants.gov/search-results-detail/362984",
       "summary": "National Endowment for the Arts | opportunity 2027FCAHDOM02",
       "source": "Grants.gov",
-      "published": "2026-09-14T13:33:33.702690+00:00",
+      "published": "2026-09-14T22:13:57.883194+00:00",
       "deadline": "2027-06-07",
       "tags": [
         "grant"
@@ -353,7 +353,7 @@
       "link": "https://www.grants.gov/search-results-detail/362981",
       "summary": "National Endowment for the Arts | opportunity 2027FCAH01",
       "source": "Grants.gov",
-      "published": "2026-09-14T13:33:33.702038+00:00",
+      "published": "2026-09-14T22:13:57.882702+00:00",
       "deadline": "2026-09-14",
       "tags": [
         "grant"
@@ -370,7 +370,7 @@
       "link": "https://www.grants.gov/search-results-detail/362982",
       "summary": "National Endowment for the Arts | opportunity 2027FCAHDOM01",
       "source": "Grants.gov",
-      "published": "2026-09-14T13:33:33.701439+00:00",
+      "published": "2026-09-14T22:13:57.882249+00:00",
       "deadline": "2026-12-07",
       "tags": [
         "grant"
@@ -387,7 +387,7 @@
       "link": "https://www.grants.gov/search-results-detail/362983",
       "summary": "National Endowment for the Arts | opportunity 2027FCAH02",
       "source": "Grants.gov",
-      "published": "2026-09-14T13:33:33.700802+00:00",
+      "published": "2026-09-14T22:13:57.881776+00:00",
       "deadline": "2027-03-08",
       "tags": [
         "grant"
@@ -404,7 +404,7 @@
       "link": "https://www.grants.gov/search-results-detail/361554",
       "summary": "Bureau Of Educational and Cultural Affairs | opportunity DFOP0017204",
       "source": "Grants.gov",
-      "published": "2026-09-14T13:33:33.699093+00:00",
+      "published": "2026-09-14T22:13:57.880457+00:00",
       "deadline": null,
       "tags": [
         "grant"
@@ -421,7 +421,7 @@
       "link": "https://www.grants.gov/search-results-detail/362676",
       "summary": "National Endowment for the Arts | opportunity 2027NEA04PA",
       "source": "Grants.gov",
-      "published": "2026-09-14T13:33:33.698490+00:00",
+      "published": "2026-09-14T22:13:57.879971+00:00",
       "deadline": "2026-09-29",
       "tags": [
         "grant"
@@ -438,7 +438,7 @@
       "link": "https://artistcommunities.org/directory/residencies/alderworks-alaska-writers-and-artists-retreat",
       "summary": "Alderworks welcomes writers and artists every summer to work in cabins on the edge of the wilderness in historic and stunningly beautiful Dyea near Skagway, Alaska. We host residents in three cabins during 4-6 week residencies. Artists also have access to a studio building.",
       "source": "Artist Communities Alliance",
-      "published": "2026-09-14T13:33:32.267780+00:00",
+      "published": "2026-09-14T22:13:56.597820+00:00",
       "deadline": null,
       "tags": [
         "residency"
@@ -458,7 +458,7 @@
       "link": "https://artistcommunities.org/directory/residencies/alchemy-artists-residency",
       "summary": "ALCHEMY: a n artist-led international residency where food, art, and community come together.",
       "source": "Artist Communities Alliance",
-      "published": "2026-09-14T13:33:32.267125+00:00",
+      "published": "2026-09-14T22:13:56.597355+00:00",
       "deadline": null,
       "tags": [
         "residency"
@@ -491,7 +491,7 @@
       "link": "https://artistcommunities.org/directory/residencies/alaska-air-bunnell-street-arts-center-artist-residence",
       "summary": "Bunnell Street Arts Center's \"Alaska AIR\" Artist-in-Residency program seeks international, US and Alaska artists looking to create new work and deeply engage Bunnell’s community.",
       "source": "Artist Communities Alliance",
-      "published": "2026-09-14T13:33:32.266752+00:00",
+      "published": "2026-09-14T22:13:56.597070+00:00",
       "deadline": null,
       "tags": [
         "residency"
@@ -511,7 +511,7 @@
       "link": "https://artistcommunities.org/directory/residencies/alaska-chulitna-lodge-wilderness-retreat-creative-residency",
       "summary": "Chulitna Lodge Wilderness Retreat seeks to provide the time, space, clarity and facilities for all forms of creative professionals or enthusiastic hobbyists to make and meditate.",
       "source": "Artist Communities Alliance",
-      "published": "2026-09-14T13:33:32.266359+00:00",
+      "published": "2026-09-14T22:13:56.596800+00:00",
       "deadline": null,
       "tags": [
         "residency"
@@ -528,7 +528,7 @@
       "link": "https://artistcommunities.org/directory/residencies/al-mickey-quinlan-artist-residency",
       "summary": "Whitefish Bay, located on Wisconsin's Door Peninsula , has long been a creative haven for artists who were an important part of the local community and brought the process of creating art into daily life.",
       "source": "Artist Communities Alliance",
-      "published": "2026-09-14T13:33:32.266183+00:00",
+      "published": "2026-09-14T22:13:56.596670+00:00",
       "deadline": null,
       "tags": [
         "residency"
@@ -548,7 +548,7 @@
       "link": "https://artistcommunities.org/directory/residencies/airnewport",
       "summary": "The Newport artist residency, AiR/Newport is designed to encourage the creative, intellectual and personal growth of emerging to established visual artists and designers by giving them the time, space and solitude needed to create, apart from the daily demands of production and deadlines.",
       "source": "Artist Communities Alliance",
-      "published": "2026-09-14T13:33:32.265062+00:00",
+      "published": "2026-09-14T22:13:56.595848+00:00",
       "deadline": null,
       "tags": [
         "residency"
@@ -569,7 +569,7 @@
       "link": "https://artistcommunities.org/directory/residencies/adriftproject-residency-inc",
       "summary": "adriftproject hosts artist residencies aboard SV Hawa for up to two residents at a time as we transit the lovely and diverse US east coast following good weather.",
       "source": "Artist Communities Alliance",
-      "published": "2026-09-14T13:33:32.264218+00:00",
+      "published": "2026-09-14T22:13:56.595206+00:00",
       "deadline": null,
       "tags": [
         "residency"
@@ -589,7 +589,7 @@
       "link": "https://artistcommunities.org/directory/residencies/activate-residency",
       "summary": "Boston Center for the Arts’ ACTivate Residency will award seven-day residencies to individuals and small groups of artists to create site-responsive work in the historic Cyclorama. The work can be performative and/or visual in nature and is meant to activate artists and our spaces.",
       "source": "Artist Communities Alliance",
-      "published": "2026-09-14T13:33:32.263701+00:00",
+      "published": "2026-09-14T22:13:56.594815+00:00",
       "deadline": null,
       "tags": [
         "grant",
@@ -610,7 +610,7 @@
       "link": "https://artistcommunities.org/directory/residencies/acre-academic-and-creative-research-residency-programme",
       "summary": "The ACRE (Academic and Creative Research) Residency Programme invites artists, researchers, writers, and creative practitioners to live and work at Braziers Park while developing independent projects.",
       "source": "Artist Communities Alliance",
-      "published": "2026-09-14T13:33:32.262636+00:00",
+      "published": "2026-09-14T22:13:56.594094+00:00",
       "deadline": null,
       "tags": [
         "residency"
@@ -633,7 +633,7 @@
       "link": "https://artistcommunities.org/directory/residencies/acre",
       "summary": "ACRE’s Residency Program takes place every summer in the Driftless region of Wisconsin.",
       "source": "Artist Communities Alliance",
-      "published": "2026-09-14T13:33:32.262480+00:00",
+      "published": "2026-09-14T22:13:56.594012+00:00",
       "deadline": null,
       "tags": [
         "residency"
@@ -669,7 +669,7 @@
       "link": "https://artistcommunities.org/directory/residencies/ace-ashevillechicago-exchange-choreographic-fellowship",
       "summary": "An ACE Fellowship in Dance provides immersive creative time and space to selected artists, free of charge.",
       "source": "Artist Communities Alliance",
-      "published": "2026-09-14T13:33:32.262083+00:00",
+      "published": "2026-09-14T22:13:56.593745+00:00",
       "deadline": null,
       "tags": [
         "grant",
@@ -695,7 +695,7 @@
       "link": "https://artistcommunities.org/directory/residencies/aca-soundscape-field-station-canaveral-national-seashore",
       "summary": "ACA Soundscape Field Station at Canaveral National Seashore is a partnership between Atlantic Center for the Arts and Canaveral National Seashore.",
       "source": "Artist Communities Alliance",
-      "published": "2026-09-14T13:33:32.260829+00:00",
+      "published": "2026-09-14T22:13:56.593121+00:00",
       "deadline": null,
       "tags": [
         "residency"
@@ -719,7 +719,7 @@
       "link": "https://artistcommunities.org/directory/residencies/aca-sample-residency-0",
       "summary": "Description here.",
       "source": "Artist Communities Alliance",
-      "published": "2026-09-14T13:33:32.260061+00:00",
+      "published": "2026-09-14T22:13:56.592805+00:00",
       "deadline": null,
       "tags": [
         "residency"
@@ -742,7 +742,7 @@
       "link": "https://artistcommunities.org/directory/residencies/abbey-foundation-studio-grant",
       "summary": "Beginning in 2025, The Abbey Foundation will begin to offer 6 month residencies for day use of the 850 square foot studio space. There is also a screened in area attached to the indoor studio which is available for large scale works.",
       "source": "Artist Communities Alliance",
-      "published": "2026-09-14T13:33:32.258230+00:00",
+      "published": "2026-09-14T22:13:56.592059+00:00",
       "deadline": null,
       "tags": [
         "grant",
@@ -760,7 +760,7 @@
       "link": "https://artistcommunities.org/directory/residencies/ap-residency",
       "summary": "For 20 years, Proyecto´ace has welcomed thousands of artists from around the world.",
       "source": "Artist Communities Alliance",
-      "published": "2026-09-14T13:33:32.257194+00:00",
+      "published": "2026-09-14T22:13:56.591617+00:00",
       "deadline": null,
       "tags": [
         "residency"
@@ -785,7 +785,7 @@
       "link": "https://artistcommunities.org/directory/residencies/2027-eutopia-art-residencies-greece",
       "summary": "Eutopia — from the Greek εὖ (good) and τόπος (place). Not a utopia. A real place, with real conditions, designed for the kind of creative work that requires time, atmosphere, and human connection.",
       "source": "Artist Communities Alliance",
-      "published": "2026-09-14T13:33:32.255735+00:00",
+      "published": "2026-09-14T22:13:56.590994+00:00",
       "deadline": null,
       "tags": [
         "residency"
@@ -802,7 +802,7 @@
       "link": "https://artistcommunities.org/directory/residencies/2027-edgar-heap-birds-family-artist-residency",
       "summary": "The Tyler School of Art and Architecture invites applications for a spring 2027 residency in the Art Department, which encompasses undergraduate and graduate programs in Ceramics, Fibers and Material Studies, Glass, Metals/Jewelry/CAD-CAM, Painting, Photography, Printmaking, and Sculpture.",
       "source": "Artist Communities Alliance",
-      "published": "2026-09-14T13:33:32.253918+00:00",
+      "published": "2026-09-14T22:13:56.590090+00:00",
       "deadline": null,
       "tags": [
         "residency"
@@ -831,7 +831,7 @@
       "link": "https://artistcommunities.org/directory/residencies/2026-springsummer-ceramics-artist-residency-program",
       "summary": "The Eureka Springs School of the arts is looking for practicing ceramics artists who are seeking focused time to refine their skills, create work and/or explore new avenues within their medium.",
       "source": "Artist Communities Alliance",
-      "published": "2026-09-14T13:33:32.252843+00:00",
+      "published": "2026-09-14T22:13:56.589375+00:00",
       "deadline": null,
       "tags": [
         "residency"
@@ -854,7 +854,7 @@
       "link": "https://artistcommunities.org/directory/residencies/2026-mentored-woodworking-residency-doug-stowe",
       "summary": "The Eureka Springs School of the Arts is looking for practicing woodworkers and craftspeople seeking focused time to refine their abilities, create new work, and expand their knowledge in a Mentored Residency under Master Woodcrafter, Doug Stowe.",
       "source": "Artist Communities Alliance",
-      "published": "2026-09-14T13:33:32.250873+00:00",
+      "published": "2026-09-14T22:13:56.588571+00:00",
       "deadline": null,
       "tags": [
         "residency"
@@ -874,7 +874,7 @@
       "link": "https://artistcommunities.org/directory/residencies/2025-oolite-arts-liveinart-residency-program",
       "summary": "The Oolite Arts’ Live.In.Art Residency Program provides artists with the time, space, and resources to reach new levels of excellence.",
       "source": "Artist Communities Alliance",
-      "published": "2026-09-14T13:33:32.249271+00:00",
+      "published": "2026-09-14T22:13:56.587923+00:00",
       "deadline": null,
       "tags": [
         "residency"
@@ -898,7 +898,7 @@
       "link": "https://artistcommunities.org/directory/residencies/2025-artist-writer-residencies-gibraltar-point-toronto-island",
       "summary": "Are you an artist or writer seeking a space to focus on your next project? Look no further! We're thrilled to share that we have just opened applications for self-directed residencies for 2025.",
       "source": "Artist Communities Alliance",
-      "published": "2026-09-14T13:33:32.247418+00:00",
+      "published": "2026-09-14T22:13:56.587164+00:00",
       "deadline": null,
       "tags": [
         "residency"
@@ -918,7 +918,7 @@
       "link": "https://artistcommunities.org/directory/residencies/100-west-corsicana-artist-writer-residency",
       "summary": "CORSICANA ARTIST & WRITER RESIDENCY supports the creation and presentation of art and literature with generous provisions and historic space. Founded in 2012 at 100 West, and organized in 2017 as a 501(c)(3) nonprofit.",
       "source": "Artist Communities Alliance",
-      "published": "2026-09-14T13:33:32.245526+00:00",
+      "published": "2026-09-14T22:13:56.586382+00:00",
       "deadline": null,
       "tags": [
         "residency"
@@ -938,7 +938,7 @@
       "link": "https://artistcommunities.org/directory/residencies/kathmandu-international-artist-residency-kiar-2027",
       "summary": "Nestled between India and China, Nepal is a land of breathtaking landscapes, rich traditions, and diverse cultures. Home to the majestic Himalayas—including Mount Everest—Nepal offers everything from subtropical valleys with banana trees to alpine forests with grazing yaks.",
       "source": "Artist Communities Alliance",
-      "published": "2026-09-14T13:33:32.243881+00:00",
+      "published": "2026-09-14T22:13:56.585505+00:00",
       "deadline": null,
       "tags": [
         "residency"
@@ -958,7 +958,7 @@
       "link": "https://artistcommunities.org/directory/residencies/kala-yatra-artist-residency-nepal-2026-27",
       "summary": "Kala Yatra invites applications for its concept-driven, community-engaged artist residency program in Kathmandu, Nepal.",
       "source": "Artist Communities Alliance",
-      "published": "2026-09-14T13:33:32.243003+00:00",
+      "published": "2026-09-14T22:13:56.584943+00:00",
       "deadline": null,
       "tags": [
         "residency"
@@ -989,7 +989,7 @@
       "link": "https://artistcommunities.org/directory/residencies/artsindustry-residency",
       "summary": "For more than fifty years, Arts/Industry has been connecting artists with the resources, technology, and materials of Kohler Co., and providing a place to explore new ideas, processes, and perspectives. Artists from all disciplines are encouraged to apply.",
       "source": "Artist Communities Alliance",
-      "published": "2026-09-14T13:33:32.241689+00:00",
+      "published": "2026-09-14T22:13:56.584076+00:00",
       "deadline": null,
       "tags": [
         "residency"
@@ -1082,47 +1082,6 @@
       "description": "International Deadline: Recurring Monthly – The Awesome Foundation for the Arts and Sciences distributes monthly grants to projects and their creators. The Foundation provides these grants with no strings. Each fully autonomous chapter supports projects...",
       "opportunity_type": "grant_or_funding",
       "location_mode": "not_specified"
-    },
-    {
-      "id": "1003a65fdddda065be239c6bc4ca90f99f394d12",
-      "title": "The Earth Partner Prize 2026",
-      "link": "https://artdeadline.com/ops/earth/",
-      "summary": "International Deadline: October 7, 2026 – The 2026 Earth Partner Prize is an open call that generates conversations around the urgent need for ecological justice. It is specifically designed to encourage engagement leading up to COP in November. Prestigious jury, cash awards…",
-      "source": "ArtDeadline",
-      "published": "2026-09-07T18:56:31+00:00",
-      "deadline": "2026-10-07",
-      "tags": [
-        "opportunity"
-      ],
-      "region": null,
-      "kind": "opportunity",
-      "description": "International Deadline: October 7, 2026 – The 2026 Earth Partner Prize is an open call that generates conversations around the urgent need for ecological justice. It is specifically designed to encourage engagement leading up to COP in November. Prestigious jury, cash awards…",
-      "opportunity_type": "call_for_artists",
-      "location_mode": "not_specified"
-    },
-    {
-      "id": "6ac157e1105cb0782d9574364fb88e912e072fa0",
-      "title": "Call for Artists: “We: Culture” International Exhibition",
-      "link": "https://artdeadline.com/ops/cica-2/",
-      "summary": "International Deadline: September 25, 2026 – This CICA Museum exhibition explores diverse perspectives on culture, including multiculturalism, identity, subcultures, social media culture, pop culture, and concepts of nation, religion, and race. We welcome works in multiple…",
-      "source": "ArtDeadline",
-      "published": "2026-09-07T06:58:10+00:00",
-      "deadline": "2026-09-25",
-      "tags": [
-        "opportunity",
-        "rfp"
-      ],
-      "region": null,
-      "kind": "opportunity",
-      "description": "International Deadline: September 25, 2026 – This CICA Museum exhibition explores diverse perspectives on culture, including multiculturalism, identity, subcultures, social media culture, pop culture, and concepts of nation, religion, and race. We welcome works in multiple…",
-      "opportunity_type": "exhibition_opportunity",
-      "location_mode": "not_specified",
-      "required_roles": [
-        "Artist"
-      ],
-      "project_types": [
-        "Exhibition"
-      ]
     },
     {
       "id": "275e0c2b97bb447ca0abc6eaf5577d1feaea62f3",
@@ -1226,6 +1185,25 @@
       ],
       "project_types": [
         "Research / Prototype"
+      ]
+    },
+    {
+      "id": "713dee176275cfc011b78ad31519203d612b2e40",
+      "title": "Framed: Shadow and Light",
+      "link": "https://artdeadline.com/ops/black-box/",
+      "summary": "International Deadline: October 9, 2026 – Black Box Gallery announces a juried group photo show on shadow and light. Open to both amateur and professional artists worldwide. We are looking for a diversity of photographic works. Multiple venues. awards, catalog, flat file…",
+      "source": "ArtDeadline",
+      "published": "2026-08-11T07:00:42+00:00",
+      "deadline": "2026-10-09",
+      "tags": [
+        "opportunity"
+      ],
+      "region": null,
+      "kind": "opportunity",
+      "description": "International Deadline: October 9, 2026 – Black Box Gallery announces a juried group photo show on shadow and light. Open to both amateur and professional artists worldwide. We are looking for a diversity of photographic works. Multiple venues. awards, catalog, flat file…",
+      "location_mode": "not_specified",
+      "required_roles": [
+        "Artist"
       ]
     },
     {
@@ -1403,27 +1381,6 @@
       "kind": "opportunity",
       "description": "Representatives from five prestigious craft organizations fill us in on what they’re seeing. In this article, we’re checking in with residency programs and craft organizations nationwide to ask: What is the state of craft as a field today? In what new ways are craft artists creating using... The post How Craft Artists Are Creating Today appeared first on Nyfa .",
       "opportunity_type": "residency",
-      "location_mode": "not_specified",
-      "required_roles": [
-        "Artist"
-      ]
-    },
-    {
-      "id": "a9d50b143c731b9c1b15e5139310ff7fc7a4eda9",
-      "title": "15 Books to Add to Your Summer Reading List",
-      "link": "https://www.nyfa.org/news/15-books-to-add-to-your-summer-reading-list/",
-      "summary": "We’re highlighting books by NYFA-affiliated authors to bookmark for your summer reading–including a few that are hot off the presses! New York Foundation for the Arts’ flagship NYSCA/NYFA Artist Fellowship program offers grants in 15 artistic disciplines spanning literary, performing, and visual arts, and more. Below, we’re... The post 15 Books to Add to Your Summer Reading List appeared first on Nyfa .",
-      "source": "NYFA",
-      "published": "2026-06-01T14:24:02+00:00",
-      "deadline": null,
-      "tags": [
-        "grant",
-        "opportunity"
-      ],
-      "region": "Northeast",
-      "kind": "opportunity",
-      "description": "We’re highlighting books by NYFA-affiliated authors to bookmark for your summer reading–including a few that are hot off the presses! New York Foundation for the Arts’ flagship NYSCA/NYFA Artist Fellowship program offers grants in 15 artistic disciplines spanning literary, performing, and visual arts, and more. Below, we’re... The post 15 Books to Add to Your Summer Reading List appeared first on Nyfa .",
-      "opportunity_type": "fellowship",
       "location_mode": "not_specified",
       "required_roles": [
         "Artist"
@@ -3450,10 +3407,10 @@
       "image": null
     },
     {
-      "id": "e70ffb4f3ecb6d823d29460282099082d892fafb",
-      "title": "Room of Maps",
+      "id": "ccc835a3abcb72f25ff834879d986bb311d00e02",
+      "title": "Untitled (Brine Tank Murals)",
       "link": "https://data.cambridgema.gov/d/taa9-avfg",
-      "summary": "by Conley · Maps of the world · Mid-Cambridge, Cambridge",
+      "summary": "by Aimee · Large painted brine tanks · Neighborhood Nine, Cambridge",
       "source": "Cambridge Public Art",
       "published": "2000-01-01T00:00:00+00:00",
       "deadline": null,
@@ -3465,10 +3422,10 @@
       "image": null
     },
     {
-      "id": "d87426a5527bf515f7cdf2d3a30e19ce726ed691",
-      "title": "Filament/Firmament",
+      "id": "af15d84cd3a57c57820277fc1735dd5938e13c9a",
+      "title": "Arbor",
       "link": "https://data.cambridgema.gov/d/taa9-avfg",
-      "summary": "by Driscoll · Wall-mounted sculpture · Mid-Cambridge, Cambridge",
+      "summary": "by Cauthen · Miniature garden trellis · The Port, Cambridge",
       "source": "Cambridge Public Art",
       "published": "2000-01-01T00:00:00+00:00",
       "deadline": null,
@@ -3480,10 +3437,25 @@
       "image": null
     },
     {
-      "id": "f5f0e0b3a6b029ad87507c2e65673d4be21a2b3c",
-      "title": "They Settled Near a Marsh",
+      "id": "17a8d07ddd4ae34354a0a72683c1866d87dc343d",
+      "title": "Sine Wave D/J",
       "link": "https://data.cambridgema.gov/d/taa9-avfg",
-      "summary": "by Houck · Wall-mounted mural · Riverside, Cambridge",
+      "summary": "by Bodle · Bike rack · East Cambridge, Cambridge",
+      "source": "Cambridge Public Art",
+      "published": "2000-01-01T00:00:00+00:00",
+      "deadline": null,
+      "tags": [
+        "public art"
+      ],
+      "region": null,
+      "kind": "archive",
+      "image": null
+    },
+    {
+      "id": "ed1b9b3685ee11fc35ca096fcc8588fb9ccf7596",
+      "title": "Shadow Walk",
+      "link": "https://data.cambridgema.gov/d/taa9-avfg",
+      "summary": "by Galston · Abstract fence · The Port, Cambridge",
       "source": "Cambridge Public Art",
       "published": "2000-01-01T00:00:00+00:00",
       "deadline": null,
@@ -3498,7 +3470,7 @@
       "id": "b346cd178ff9bb7b7012a21669ff0c916aa1d850",
       "title": "Untitled",
       "link": "https://data.cambridgema.gov/d/taa9-avfg",
-      "summary": "by Kepes; Kepes · Wall-mounted mural · Cambridgeport, Cambridge",
+      "summary": "by Lichtman · Window panels · Cambridgeport, Cambridge",
       "source": "Cambridge Public Art",
       "published": "2000-01-01T00:00:00+00:00",
       "deadline": null,
@@ -3544,21 +3516,6 @@
       "title": "Gore Field",
       "link": "https://data.cambridgema.gov/d/taa9-avfg",
       "summary": "by Schelling · Relief · East Cambridge, Cambridge",
-      "source": "Cambridge Public Art",
-      "published": "2000-01-01T00:00:00+00:00",
-      "deadline": null,
-      "tags": [
-        "public art"
-      ],
-      "region": null,
-      "kind": "archive",
-      "image": null
-    },
-    {
-      "id": "ccc835a3abcb72f25ff834879d986bb311d00e02",
-      "title": "Untitled (Brine Tank Murals)",
-      "link": "https://data.cambridgema.gov/d/taa9-avfg",
-      "summary": "by Aimee · Large painted brine tanks · Neighborhood Nine, Cambridge",
       "source": "Cambridge Public Art",
       "published": "2000-01-01T00:00:00+00:00",
       "deadline": null,
@@ -3660,40 +3617,10 @@
       "image": null
     },
     {
-      "id": "ed1b9b3685ee11fc35ca096fcc8588fb9ccf7596",
-      "title": "Shadow Walk",
-      "link": "https://data.cambridgema.gov/d/taa9-avfg",
-      "summary": "by Galston · Abstract fence · The Port, Cambridge",
-      "source": "Cambridge Public Art",
-      "published": "2000-01-01T00:00:00+00:00",
-      "deadline": null,
-      "tags": [
-        "public art"
-      ],
-      "region": null,
-      "kind": "archive",
-      "image": null
-    },
-    {
       "id": "b99a0479603eb2bec11867478996b5bfeb729e4c",
       "title": "Stop-Action-Frieze",
       "link": "https://data.cambridgema.gov/d/taa9-avfg",
       "summary": "by Coogan · Colorful and abstract athletic figures · Wellington-Harrington, Cambridge",
-      "source": "Cambridge Public Art",
-      "published": "2000-01-01T00:00:00+00:00",
-      "deadline": null,
-      "tags": [
-        "public art"
-      ],
-      "region": null,
-      "kind": "archive",
-      "image": null
-    },
-    {
-      "id": "17a8d07ddd4ae34354a0a72683c1866d87dc343d",
-      "title": "Sine Wave D/J",
-      "link": "https://data.cambridgema.gov/d/taa9-avfg",
-      "summary": "by Bodle · Bike rack · East Cambridge, Cambridge",
       "source": "Cambridge Public Art",
       "published": "2000-01-01T00:00:00+00:00",
       "deadline": null,
@@ -3720,10 +3647,10 @@
       "image": null
     },
     {
-      "id": "af15d84cd3a57c57820277fc1735dd5938e13c9a",
-      "title": "Arbor",
+      "id": "7b9f94d219c16e69203db8d9792ae293bdcfa6d3",
+      "title": "Liquid - Single",
       "link": "https://data.cambridgema.gov/d/taa9-avfg",
-      "summary": "by Cauthen · Miniature garden trellis · The Port, Cambridge",
+      "summary": "by Randall · Bike rack · East Cambridge, Cambridge",
       "source": "Cambridge Public Art",
       "published": "2000-01-01T00:00:00+00:00",
       "deadline": null,
@@ -3765,6 +3692,36 @@
       "image": null
     },
     {
+      "id": "f5f0e0b3a6b029ad87507c2e65673d4be21a2b3c",
+      "title": "They Settled Near a Marsh",
+      "link": "https://data.cambridgema.gov/d/taa9-avfg",
+      "summary": "by Houck · Wall-mounted mural · Riverside, Cambridge",
+      "source": "Cambridge Public Art",
+      "published": "2000-01-01T00:00:00+00:00",
+      "deadline": null,
+      "tags": [
+        "public art"
+      ],
+      "region": null,
+      "kind": "archive",
+      "image": null
+    },
+    {
+      "id": "d87426a5527bf515f7cdf2d3a30e19ce726ed691",
+      "title": "Filament/Firmament",
+      "link": "https://data.cambridgema.gov/d/taa9-avfg",
+      "summary": "by Driscoll · Wall-mounted sculpture · Mid-Cambridge, Cambridge",
+      "source": "Cambridge Public Art",
+      "published": "2000-01-01T00:00:00+00:00",
+      "deadline": null,
+      "tags": [
+        "public art"
+      ],
+      "region": null,
+      "kind": "archive",
+      "image": null
+    },
+    {
       "id": "a5aabb7de1b748cbeb4ffb8f2c0ff4ab1d14b39b",
       "title": "Dr. Martin Luther King, Jr. Memorial",
       "link": "https://data.cambridgema.gov/d/taa9-avfg",
@@ -3780,10 +3737,25 @@
       "image": null
     },
     {
-      "id": "7b9f94d219c16e69203db8d9792ae293bdcfa6d3",
-      "title": "Liquid - Single",
+      "id": "eb4541933be6bb7e33acaa23f1395ccdb72e5f3e",
+      "title": "Turtles",
       "link": "https://data.cambridgema.gov/d/taa9-avfg",
-      "summary": "by Randall · Bike rack · East Cambridge, Cambridge",
+      "summary": "by Rosenberg · Three turtles with mosaic inlays · Agassiz, Cambridge",
+      "source": "Cambridge Public Art",
+      "published": "2000-01-01T00:00:00+00:00",
+      "deadline": null,
+      "tags": [
+        "public art"
+      ],
+      "region": null,
+      "kind": "archive",
+      "image": null
+    },
+    {
+      "id": "fd6bb3b6bb10eebb61d3f0e373dc0cdc92e09a60",
+      "title": "Spiral",
+      "link": "https://data.cambridgema.gov/d/taa9-avfg",
+      "summary": "by Phillips · Spiral sculpture embedded in stone · Mid-Cambridge, Cambridge",
       "source": "Cambridge Public Art",
       "published": "2000-01-01T00:00:00+00:00",
       "deadline": null,
