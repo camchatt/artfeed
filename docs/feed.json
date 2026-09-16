@@ -1,8 +1,8 @@
 {
   "contract_version": "artelier_opportunities_feed_v1",
   "title": "Creative Opportunities",
-  "updated": "2026-09-16T12:22:18.115508+00:00",
-  "count": 267,
+  "updated": "2026-09-16T21:50:54.966710+00:00",
+  "count": 265,
   "items": [
     {
       "id": "f01b7a12ca591801b665440e4e67a62daaefdb07",
@@ -10,7 +10,7 @@
       "link": "https://www.grants.gov/search-results-detail/363084",
       "summary": "National Endowment for the Humanities | opportunity 20260916-RZ",
       "source": "Grants.gov",
-      "published": "2026-09-16T12:21:53.090081+00:00",
+      "published": "2026-09-16T21:50:27.817683+00:00",
       "deadline": "2026-09-16",
       "tags": [
         "grant"
@@ -30,7 +30,7 @@
       "link": "https://www.grants.gov/search-results-detail/363225",
       "summary": "Bureau Of Educational and Cultural Affairs | opportunity DFOP0017180",
       "source": "Grants.gov",
-      "published": "2026-09-16T12:21:53.089219+00:00",
+      "published": "2026-09-16T21:50:27.816796+00:00",
       "deadline": null,
       "tags": [
         "grant"
@@ -47,7 +47,7 @@
       "link": "https://www.grants.gov/search-results-detail/363773",
       "summary": "Institute of Museum and Library Services | opportunity NLG-M-FY27",
       "source": "Grants.gov",
-      "published": "2026-09-16T12:21:53.087981+00:00",
+      "published": "2026-09-16T21:50:27.815553+00:00",
       "deadline": "2026-11-13",
       "tags": [
         "grant"
@@ -64,7 +64,7 @@
       "link": "https://www.grants.gov/search-results-detail/363014",
       "summary": "National Endowment for the Humanities | opportunity 20260916-RQ",
       "source": "Grants.gov",
-      "published": "2026-09-16T12:21:52.495690+00:00",
+      "published": "2026-09-16T21:50:27.035950+00:00",
       "deadline": "2026-09-16",
       "tags": [
         "grant"
@@ -81,7 +81,7 @@
       "link": "https://www.grants.gov/search-results-detail/361480",
       "summary": "National Endowment for the Humanities | opportunity 20260511-PCS",
       "source": "Grants.gov",
-      "published": "2026-09-16T12:21:52.495168+00:00",
+      "published": "2026-09-16T21:50:27.035403+00:00",
       "deadline": "2026-12-15",
       "tags": [
         "grant"
@@ -98,7 +98,7 @@
       "link": "https://www.grants.gov/search-results-detail/363762",
       "summary": "Institute of Museum and Library Services | opportunity NAG-ENHANCEMENT-FY27",
       "source": "Grants.gov",
-      "published": "2026-09-16T12:21:51.892764+00:00",
+      "published": "2026-09-16T21:50:26.312900+00:00",
       "deadline": "2026-11-13",
       "tags": [
         "grant"
@@ -115,7 +115,7 @@
       "link": "https://www.grants.gov/search-results-detail/363763",
       "summary": "Institute of Museum and Library Services | opportunity NAG-HAWAIIAN-FY27",
       "source": "Grants.gov",
-      "published": "2026-09-16T12:21:51.892206+00:00",
+      "published": "2026-09-16T21:50:26.312311+00:00",
       "deadline": "2026-11-13",
       "tags": [
         "grant"
@@ -132,7 +132,7 @@
       "link": "https://www.grants.gov/search-results-detail/363765",
       "summary": "Institute of Museum and Library Services | opportunity LB21-FY27",
       "source": "Grants.gov",
-      "published": "2026-09-16T12:21:51.891589+00:00",
+      "published": "2026-09-16T21:50:26.311737+00:00",
       "deadline": "2026-11-13",
       "tags": [
         "grant"
@@ -149,7 +149,7 @@
       "link": "https://www.grants.gov/search-results-detail/363767",
       "summary": "Institute of Museum and Library Services | opportunity NAG-BASIC-FY27",
       "source": "Grants.gov",
-      "published": "2026-09-16T12:21:51.891018+00:00",
+      "published": "2026-09-16T21:50:26.311148+00:00",
       "deadline": "2026-11-13",
       "tags": [
         "grant"
@@ -166,7 +166,7 @@
       "link": "https://www.grants.gov/search-results-detail/322314",
       "summary": "U.S. Mission to Cambodia | opportunity PAS-CB-600-20-PAS-0003",
       "source": "Grants.gov",
-      "published": "2026-09-16T12:21:51.890382+00:00",
+      "published": "2026-09-16T21:50:26.310519+00:00",
       "deadline": null,
       "tags": [
         "grant"
@@ -183,7 +183,7 @@
       "link": "https://www.grants.gov/search-results-detail/363728",
       "summary": "National Park Service | opportunity P27AS00032",
       "source": "Grants.gov",
-      "published": "2026-09-16T12:21:51.889689+00:00",
+      "published": "2026-09-16T21:50:26.309821+00:00",
       "deadline": "2026-11-04",
       "tags": [
         "grant"
@@ -200,7 +200,7 @@
       "link": "https://www.grants.gov/search-results-detail/363766",
       "summary": "Institute of Museum and Library Services | opportunity NLG-LIBRARIES-FY27",
       "source": "Grants.gov",
-      "published": "2026-09-16T12:21:51.889128+00:00",
+      "published": "2026-09-16T21:50:26.309243+00:00",
       "deadline": "2026-11-13",
       "tags": [
         "grant"
@@ -217,7 +217,7 @@
       "link": "https://www.grants.gov/search-results-detail/363775",
       "summary": "Institute of Museum and Library Services | opportunity NANH-FY27",
       "source": "Grants.gov",
-      "published": "2026-09-16T12:21:51.888534+00:00",
+      "published": "2026-09-16T21:50:26.308668+00:00",
       "deadline": "2026-11-13",
       "tags": [
         "grant"
@@ -234,7 +234,7 @@
       "link": "https://www.grants.gov/search-results-detail/363768",
       "summary": "Institute of Museum and Library Services | opportunity MFA-FY27",
       "source": "Grants.gov",
-      "published": "2026-09-16T12:21:51.888018+00:00",
+      "published": "2026-09-16T21:50:26.308136+00:00",
       "deadline": "2026-11-13",
       "tags": [
         "grant"
@@ -251,7 +251,7 @@
       "link": "https://www.grants.gov/search-results-detail/363772",
       "summary": "Institute of Museum and Library Services | opportunity ALHC-FY27",
       "source": "Grants.gov",
-      "published": "2026-09-16T12:21:51.887385+00:00",
+      "published": "2026-09-16T21:50:26.307554+00:00",
       "deadline": "2026-11-13",
       "tags": [
         "grant"
@@ -268,7 +268,7 @@
       "link": "https://www.grants.gov/search-results-detail/363769",
       "summary": "Institute of Museum and Library Services | opportunity 21MP-FY27",
       "source": "Grants.gov",
-      "published": "2026-09-16T12:21:51.886808+00:00",
+      "published": "2026-09-16T21:50:26.306985+00:00",
       "deadline": "2026-11-13",
       "tags": [
         "grant"
@@ -285,7 +285,7 @@
       "link": "https://www.grants.gov/search-results-detail/363776",
       "summary": "Institute of Museum and Library Services | opportunity ME-FY27",
       "source": "Grants.gov",
-      "published": "2026-09-16T12:21:51.885705+00:00",
+      "published": "2026-09-16T21:50:26.305920+00:00",
       "deadline": "2026-11-13",
       "tags": [
         "grant"
@@ -302,7 +302,7 @@
       "link": "https://www.grants.gov/search-results-detail/363770",
       "summary": "Institute of Museum and Library Services | opportunity AAHC-FY27",
       "source": "Grants.gov",
-      "published": "2026-09-16T12:21:51.885028+00:00",
+      "published": "2026-09-16T21:50:26.305310+00:00",
       "deadline": "2026-11-13",
       "tags": [
         "grant"
@@ -319,7 +319,7 @@
       "link": "https://www.grants.gov/search-results-detail/363771",
       "summary": "Institute of Museum and Library Services | opportunity IGSM-FY27",
       "source": "Grants.gov",
-      "published": "2026-09-16T12:21:51.884414+00:00",
+      "published": "2026-09-16T21:50:26.304711+00:00",
       "deadline": "2026-11-13",
       "tags": [
         "grant"
@@ -336,7 +336,7 @@
       "link": "https://www.grants.gov/search-results-detail/362984",
       "summary": "National Endowment for the Arts | opportunity 2027FCAHDOM02",
       "source": "Grants.gov",
-      "published": "2026-09-16T12:21:51.289654+00:00",
+      "published": "2026-09-16T21:50:25.540461+00:00",
       "deadline": "2027-06-07",
       "tags": [
         "grant"
@@ -353,7 +353,7 @@
       "link": "https://www.grants.gov/search-results-detail/362982",
       "summary": "National Endowment for the Arts | opportunity 2027FCAHDOM01",
       "source": "Grants.gov",
-      "published": "2026-09-16T12:21:51.289041+00:00",
+      "published": "2026-09-16T21:50:25.539852+00:00",
       "deadline": "2026-12-07",
       "tags": [
         "grant"
@@ -370,7 +370,7 @@
       "link": "https://www.grants.gov/search-results-detail/362983",
       "summary": "National Endowment for the Arts | opportunity 2027FCAH02",
       "source": "Grants.gov",
-      "published": "2026-09-16T12:21:51.288337+00:00",
+      "published": "2026-09-16T21:50:25.539249+00:00",
       "deadline": "2027-03-08",
       "tags": [
         "grant"
@@ -387,7 +387,7 @@
       "link": "https://www.grants.gov/search-results-detail/361554",
       "summary": "Bureau Of Educational and Cultural Affairs | opportunity DFOP0017204",
       "source": "Grants.gov",
-      "published": "2026-09-16T12:21:51.286584+00:00",
+      "published": "2026-09-16T21:50:25.537565+00:00",
       "deadline": null,
       "tags": [
         "grant"
@@ -404,7 +404,7 @@
       "link": "https://www.grants.gov/search-results-detail/362676",
       "summary": "National Endowment for the Arts | opportunity 2027NEA04PA",
       "source": "Grants.gov",
-      "published": "2026-09-16T12:21:51.285969+00:00",
+      "published": "2026-09-16T21:50:25.536888+00:00",
       "deadline": "2026-09-29",
       "tags": [
         "grant"
@@ -421,7 +421,7 @@
       "link": "https://artistcommunities.org/directory/residencies/alderworks-alaska-writers-and-artists-retreat",
       "summary": "Alderworks welcomes writers and artists every summer to work in cabins on the edge of the wilderness in historic and stunningly beautiful Dyea near Skagway, Alaska. We host residents in three cabins during 4-6 week residencies. Artists also have access to a studio building.",
       "source": "Artist Communities Alliance",
-      "published": "2026-09-16T12:21:50.334008+00:00",
+      "published": "2026-09-16T21:50:24.187307+00:00",
       "deadline": null,
       "tags": [
         "residency"
@@ -441,7 +441,7 @@
       "link": "https://artistcommunities.org/directory/residencies/alchemy-artists-residency",
       "summary": "ALCHEMY: a n artist-led international residency where food, art, and community come together.",
       "source": "Artist Communities Alliance",
-      "published": "2026-09-16T12:21:50.333379+00:00",
+      "published": "2026-09-16T21:50:24.186716+00:00",
       "deadline": null,
       "tags": [
         "residency"
@@ -474,7 +474,7 @@
       "link": "https://artistcommunities.org/directory/residencies/alaska-air-bunnell-street-arts-center-artist-residence",
       "summary": "Bunnell Street Arts Center's \"Alaska AIR\" Artist-in-Residency program seeks international, US and Alaska artists looking to create new work and deeply engage Bunnell’s community.",
       "source": "Artist Communities Alliance",
-      "published": "2026-09-16T12:21:50.332986+00:00",
+      "published": "2026-09-16T21:50:24.186335+00:00",
       "deadline": null,
       "tags": [
         "residency"
@@ -494,7 +494,7 @@
       "link": "https://artistcommunities.org/directory/residencies/alaska-chulitna-lodge-wilderness-retreat-creative-residency",
       "summary": "Chulitna Lodge Wilderness Retreat seeks to provide the time, space, clarity and facilities for all forms of creative professionals or enthusiastic hobbyists to make and meditate.",
       "source": "Artist Communities Alliance",
-      "published": "2026-09-16T12:21:50.332605+00:00",
+      "published": "2026-09-16T21:50:24.186000+00:00",
       "deadline": null,
       "tags": [
         "residency"
@@ -511,7 +511,7 @@
       "link": "https://artistcommunities.org/directory/residencies/al-mickey-quinlan-artist-residency",
       "summary": "Whitefish Bay, located on Wisconsin's Door Peninsula , has long been a creative haven for artists who were an important part of the local community and brought the process of creating art into daily life.",
       "source": "Artist Communities Alliance",
-      "published": "2026-09-16T12:21:50.332434+00:00",
+      "published": "2026-09-16T21:50:24.185835+00:00",
       "deadline": null,
       "tags": [
         "residency"
@@ -531,7 +531,7 @@
       "link": "https://artistcommunities.org/directory/residencies/airnewport",
       "summary": "The Newport artist residency, AiR/Newport is designed to encourage the creative, intellectual and personal growth of emerging to established visual artists and designers by giving them the time, space and solitude needed to create, apart from the daily demands of production and deadlines.",
       "source": "Artist Communities Alliance",
-      "published": "2026-09-16T12:21:50.331288+00:00",
+      "published": "2026-09-16T21:50:24.184799+00:00",
       "deadline": null,
       "tags": [
         "residency"
@@ -552,7 +552,7 @@
       "link": "https://artistcommunities.org/directory/residencies/adriftproject-residency-inc",
       "summary": "adriftproject hosts artist residencies aboard SV Hawa for up to two residents at a time as we transit the lovely and diverse US east coast following good weather.",
       "source": "Artist Communities Alliance",
-      "published": "2026-09-16T12:21:50.330469+00:00",
+      "published": "2026-09-16T21:50:24.184027+00:00",
       "deadline": null,
       "tags": [
         "residency"
@@ -572,7 +572,7 @@
       "link": "https://artistcommunities.org/directory/residencies/activate-residency",
       "summary": "Boston Center for the Arts’ ACTivate Residency will award seven-day residencies to individuals and small groups of artists to create site-responsive work in the historic Cyclorama. The work can be performative and/or visual in nature and is meant to activate artists and our spaces.",
       "source": "Artist Communities Alliance",
-      "published": "2026-09-16T12:21:50.329978+00:00",
+      "published": "2026-09-16T21:50:24.183545+00:00",
       "deadline": null,
       "tags": [
         "grant",
@@ -593,7 +593,7 @@
       "link": "https://artistcommunities.org/directory/residencies/acre-academic-and-creative-research-residency-programme",
       "summary": "The ACRE (Academic and Creative Research) Residency Programme invites artists, researchers, writers, and creative practitioners to live and work at Braziers Park while developing independent projects.",
       "source": "Artist Communities Alliance",
-      "published": "2026-09-16T12:21:50.328982+00:00",
+      "published": "2026-09-16T21:50:24.182620+00:00",
       "deadline": null,
       "tags": [
         "residency"
@@ -616,7 +616,7 @@
       "link": "https://artistcommunities.org/directory/residencies/acre",
       "summary": "ACRE’s Residency Program takes place every summer in the Driftless region of Wisconsin.",
       "source": "Artist Communities Alliance",
-      "published": "2026-09-16T12:21:50.328826+00:00",
+      "published": "2026-09-16T21:50:24.182501+00:00",
       "deadline": null,
       "tags": [
         "residency"
@@ -652,7 +652,7 @@
       "link": "https://artistcommunities.org/directory/residencies/ace-ashevillechicago-exchange-choreographic-fellowship",
       "summary": "An ACE Fellowship in Dance provides immersive creative time and space to selected artists, free of charge.",
       "source": "Artist Communities Alliance",
-      "published": "2026-09-16T12:21:50.328484+00:00",
+      "published": "2026-09-16T21:50:24.182172+00:00",
       "deadline": null,
       "tags": [
         "grant",
@@ -678,7 +678,7 @@
       "link": "https://artistcommunities.org/directory/residencies/aca-soundscape-field-station-canaveral-national-seashore",
       "summary": "ACA Soundscape Field Station at Canaveral National Seashore is a partnership between Atlantic Center for the Arts and Canaveral National Seashore.",
       "source": "Artist Communities Alliance",
-      "published": "2026-09-16T12:21:50.327578+00:00",
+      "published": "2026-09-16T21:50:24.181382+00:00",
       "deadline": null,
       "tags": [
         "residency"
@@ -702,7 +702,7 @@
       "link": "https://artistcommunities.org/directory/residencies/aca-sample-residency-0",
       "summary": "Description here.",
       "source": "Artist Communities Alliance",
-      "published": "2026-09-16T12:21:50.327131+00:00",
+      "published": "2026-09-16T21:50:24.181001+00:00",
       "deadline": null,
       "tags": [
         "residency"
@@ -725,7 +725,7 @@
       "link": "https://artistcommunities.org/directory/residencies/abbey-foundation-studio-grant",
       "summary": "Beginning in 2025, The Abbey Foundation will begin to offer 6 month residencies for day use of the 850 square foot studio space. There is also a screened in area attached to the indoor studio which is available for large scale works.",
       "source": "Artist Communities Alliance",
-      "published": "2026-09-16T12:21:50.326118+00:00",
+      "published": "2026-09-16T21:50:24.180046+00:00",
       "deadline": null,
       "tags": [
         "grant",
@@ -743,7 +743,7 @@
       "link": "https://artistcommunities.org/directory/residencies/ap-residency",
       "summary": "For 20 years, Proyecto´ace has welcomed thousands of artists from around the world.",
       "source": "Artist Communities Alliance",
-      "published": "2026-09-16T12:21:50.325536+00:00",
+      "published": "2026-09-16T21:50:24.179496+00:00",
       "deadline": null,
       "tags": [
         "residency"
@@ -768,7 +768,7 @@
       "link": "https://artistcommunities.org/directory/residencies/2027-eutopia-art-residencies-greece",
       "summary": "Eutopia — from the Greek εὖ (good) and τόπος (place). Not a utopia. A real place, with real conditions, designed for the kind of creative work that requires time, atmosphere, and human connection.",
       "source": "Artist Communities Alliance",
-      "published": "2026-09-16T12:21:50.324680+00:00",
+      "published": "2026-09-16T21:50:24.178677+00:00",
       "deadline": null,
       "tags": [
         "residency"
@@ -785,7 +785,7 @@
       "link": "https://artistcommunities.org/directory/residencies/2027-edgar-heap-birds-family-artist-residency",
       "summary": "The Tyler School of Art and Architecture invites applications for a spring 2027 residency in the Art Department, which encompasses undergraduate and graduate programs in Ceramics, Fibers and Material Studies, Glass, Metals/Jewelry/CAD-CAM, Painting, Photography, Printmaking, and Sculpture.",
       "source": "Artist Communities Alliance",
-      "published": "2026-09-16T12:21:50.323455+00:00",
+      "published": "2026-09-16T21:50:24.177514+00:00",
       "deadline": null,
       "tags": [
         "residency"
@@ -814,7 +814,7 @@
       "link": "https://artistcommunities.org/directory/residencies/2026-springsummer-ceramics-artist-residency-program",
       "summary": "The Eureka Springs School of the arts is looking for practicing ceramics artists who are seeking focused time to refine their skills, create work and/or explore new avenues within their medium.",
       "source": "Artist Communities Alliance",
-      "published": "2026-09-16T12:21:50.322476+00:00",
+      "published": "2026-09-16T21:50:24.176597+00:00",
       "deadline": null,
       "tags": [
         "residency"
@@ -837,7 +837,7 @@
       "link": "https://artistcommunities.org/directory/residencies/2026-mentored-woodworking-residency-doug-stowe",
       "summary": "The Eureka Springs School of the Arts is looking for practicing woodworkers and craftspeople seeking focused time to refine their abilities, create new work, and expand their knowledge in a Mentored Residency under Master Woodcrafter, Doug Stowe.",
       "source": "Artist Communities Alliance",
-      "published": "2026-09-16T12:21:50.321371+00:00",
+      "published": "2026-09-16T21:50:24.175581+00:00",
       "deadline": null,
       "tags": [
         "residency"
@@ -857,7 +857,7 @@
       "link": "https://artistcommunities.org/directory/residencies/2025-oolite-arts-liveinart-residency-program",
       "summary": "The Oolite Arts’ Live.In.Art Residency Program provides artists with the time, space, and resources to reach new levels of excellence.",
       "source": "Artist Communities Alliance",
-      "published": "2026-09-16T12:21:50.320449+00:00",
+      "published": "2026-09-16T21:50:24.174723+00:00",
       "deadline": null,
       "tags": [
         "residency"
@@ -881,7 +881,7 @@
       "link": "https://artistcommunities.org/directory/residencies/2025-artist-writer-residencies-gibraltar-point-toronto-island",
       "summary": "Are you an artist or writer seeking a space to focus on your next project? Look no further! We're thrilled to share that we have just opened applications for self-directed residencies for 2025.",
       "source": "Artist Communities Alliance",
-      "published": "2026-09-16T12:21:50.319387+00:00",
+      "published": "2026-09-16T21:50:24.173764+00:00",
       "deadline": null,
       "tags": [
         "residency"
@@ -901,7 +901,7 @@
       "link": "https://artistcommunities.org/directory/residencies/100-west-corsicana-artist-writer-residency",
       "summary": "CORSICANA ARTIST & WRITER RESIDENCY supports the creation and presentation of art and literature with generous provisions and historic space. Founded in 2012 at 100 West, and organized in 2017 as a 501(c)(3) nonprofit.",
       "source": "Artist Communities Alliance",
-      "published": "2026-09-16T12:21:50.318332+00:00",
+      "published": "2026-09-16T21:50:24.172764+00:00",
       "deadline": null,
       "tags": [
         "residency"
@@ -921,7 +921,7 @@
       "link": "https://artistcommunities.org/directory/residencies/kathmandu-international-artist-residency-kiar-2027",
       "summary": "Nestled between India and China, Nepal is a land of breathtaking landscapes, rich traditions, and diverse cultures. Home to the majestic Himalayas—including Mount Everest—Nepal offers everything from subtropical valleys with banana trees to alpine forests with grazing yaks.",
       "source": "Artist Communities Alliance",
-      "published": "2026-09-16T12:21:50.317139+00:00",
+      "published": "2026-09-16T21:50:24.171618+00:00",
       "deadline": null,
       "tags": [
         "residency"
@@ -941,7 +941,7 @@
       "link": "https://artistcommunities.org/directory/residencies/kala-yatra-artist-residency-nepal-2026-27",
       "summary": "Kala Yatra invites applications for its concept-driven, community-engaged artist residency program in Kathmandu, Nepal.",
       "source": "Artist Communities Alliance",
-      "published": "2026-09-16T12:21:50.316374+00:00",
+      "published": "2026-09-16T21:50:24.170894+00:00",
       "deadline": null,
       "tags": [
         "residency"
@@ -972,7 +972,7 @@
       "link": "https://artistcommunities.org/directory/residencies/artsindustry-residency",
       "summary": "For more than fifty years, Arts/Industry has been connecting artists with the resources, technology, and materials of Kohler Co., and providing a place to explore new ideas, processes, and perspectives. Artists from all disciplines are encouraged to apply.",
       "source": "Artist Communities Alliance",
-      "published": "2026-09-16T12:21:50.315227+00:00",
+      "published": "2026-09-16T21:50:24.169815+00:00",
       "deadline": null,
       "tags": [
         "residency"
@@ -2003,10 +2003,10 @@
       "image": null
     },
     {
-      "id": "711aa5eafc4d713d1073eecc0197433e75cbb3ce",
-      "title": "The Artist",
+      "id": "9292e9f2bf18d498d35495b47ab2a1e720601b29",
+      "title": "THE RAZZ",
       "link": "https://data.cityofchicago.org/d/we8h-apcf",
-      "summary": "by Jake Troyli · 3450 W Lake St, Chicago · 2024",
+      "summary": "by John Vergara · 3553 W North Ave, Chicago · 2024",
       "source": "Chicago Mural Registry",
       "published": "2024-01-01T00:00:00+00:00",
       "deadline": null,
@@ -2018,25 +2018,10 @@
       "image": null
     },
     {
-      "id": "a982b4d083b57309b5acbf23daeb1eaea3a65698",
-      "title": "Continuing the Journey",
+      "id": "ddf57f34efdef4869e9a0c19c6e97ebae72487cf",
+      "title": "Rise as One",
       "link": "https://data.cityofchicago.org/d/we8h-apcf",
-      "summary": "by Ryan Tova Katz · 3938 W Belle Plaine Ave, Chicago · 2023",
-      "source": "Chicago Mural Registry",
-      "published": "2023-01-01T00:00:00+00:00",
-      "deadline": null,
-      "tags": [
-        "public art"
-      ],
-      "region": "Midwest",
-      "kind": "archive",
-      "image": null
-    },
-    {
-      "id": "c5fdaa9714c221ad13ce51d247db22b3638d7aa3",
-      "title": "Old Town",
-      "link": "https://data.cityofchicago.org/d/we8h-apcf",
-      "summary": "by Brett Whitacre · 1307 N Clybourn, Chicago · 2022",
+      "summary": "by Max Sansing · 1850 E 79th St, Chicago · 2022",
       "source": "Chicago Mural Registry",
       "published": "2022-01-01T00:00:00+00:00",
       "deadline": null,
@@ -2048,10 +2033,130 @@
       "image": null
     },
     {
-      "id": "6f3447e21c0c52ee305f970c8aad6b396b8bfd3a",
-      "title": "One Community",
+      "id": "a8c2ddc164eaf9d8af4814fae2eedab731e5f16d",
+      "title": "the raw",
       "link": "https://data.cityofchicago.org/d/we8h-apcf",
-      "summary": "by Shannon Lewis · 1265 W Wilson Avenue, Chicago · 2020",
+      "summary": "by jimmy williams · Corner of 73rd and Ashland in West Englewood, Chicago · 2022",
+      "source": "Chicago Mural Registry",
+      "published": "2022-01-01T00:00:00+00:00",
+      "deadline": null,
+      "tags": [
+        "public art"
+      ],
+      "region": "Midwest",
+      "kind": "archive",
+      "image": null
+    },
+    {
+      "id": "20fd5e19f26d9cb88959f6a04b1e8ca02d24b1b6",
+      "title": "\"…And The Birds\"",
+      "link": "https://data.cityofchicago.org/d/we8h-apcf",
+      "summary": "by Cyd Smillie · 4600 W Irving Park Rd, Chicago · 2022",
+      "source": "Chicago Mural Registry",
+      "published": "2022-01-01T00:00:00+00:00",
+      "deadline": null,
+      "tags": [
+        "public art"
+      ],
+      "region": "Midwest",
+      "kind": "archive",
+      "image": null
+    },
+    {
+      "id": "fffe7f5cc87880ccc41db4f4db6e11600502641f",
+      "title": "Dragon Gate",
+      "link": "https://data.cityofchicago.org/d/we8h-apcf",
+      "summary": "by Caroline Liu · 5009 N Winthrop Ave, Chicago · 2021",
+      "source": "Chicago Mural Registry",
+      "published": "2021-01-01T00:00:00+00:00",
+      "deadline": null,
+      "tags": [
+        "public art"
+      ],
+      "region": "Midwest",
+      "kind": "archive",
+      "image": null
+    },
+    {
+      "id": "f002ee763441bfde94371aab4f5971c6b6eacfdf",
+      "title": "Here, There, Everywhere",
+      "link": "https://data.cityofchicago.org/d/we8h-apcf",
+      "summary": "by Jesse Hora · 1124 W Wilson Ave, Chicago · 2021",
+      "source": "Chicago Mural Registry",
+      "published": "2021-01-01T00:00:00+00:00",
+      "deadline": null,
+      "tags": [
+        "public art"
+      ],
+      "region": "Midwest",
+      "kind": "archive",
+      "image": null
+    },
+    {
+      "id": "68a587f68cb0dea9df125627e8d407434a09eaa6",
+      "title": "Prarie Hyacinth",
+      "link": "https://data.cityofchicago.org/d/we8h-apcf",
+      "summary": "by Laura Marie Sanchez & T.J. Hine · 1324 W Devon, Chicago · 2021",
+      "source": "Chicago Mural Registry",
+      "published": "2021-01-01T00:00:00+00:00",
+      "deadline": null,
+      "tags": [
+        "public art"
+      ],
+      "region": "Midwest",
+      "kind": "archive",
+      "image": null
+    },
+    {
+      "id": "392d6dd74845d27ffee95ad3c5b0989a649a69d0",
+      "title": "Bears on Parade",
+      "link": "https://data.cityofchicago.org/d/we8h-apcf",
+      "summary": "by Felix Maldonado · 3406 N Ashland Ave, Chicago · 2020",
+      "source": "Chicago Mural Registry",
+      "published": "2020-01-01T00:00:00+00:00",
+      "deadline": null,
+      "tags": [
+        "public art"
+      ],
+      "region": "Midwest",
+      "kind": "archive",
+      "image": null
+    },
+    {
+      "id": "736eee7c4e9950fe7b0055bd9ef038264bd62b7e",
+      "title": "For The Bears Fans",
+      "link": "https://data.cityofchicago.org/d/we8h-apcf",
+      "summary": "by Liz Flores · 4654 N Broadway, Chicago · 2020",
+      "source": "Chicago Mural Registry",
+      "published": "2020-01-01T00:00:00+00:00",
+      "deadline": null,
+      "tags": [
+        "public art"
+      ],
+      "region": "Midwest",
+      "kind": "archive",
+      "image": null
+    },
+    {
+      "id": "7d4b3f526a495b24fb329faac04eea8a3730c69d",
+      "title": "I Will, We Will",
+      "link": "https://data.cityofchicago.org/d/we8h-apcf",
+      "summary": "by Heart & Bone · 4661 N Broadway, Chicago · 2020",
+      "source": "Chicago Mural Registry",
+      "published": "2020-01-01T00:00:00+00:00",
+      "deadline": null,
+      "tags": [
+        "public art"
+      ],
+      "region": "Midwest",
+      "kind": "archive",
+      "image": null
+    },
+    {
+      "id": "c93442631ca6b50020b90b010bd2f55bc9918ee5",
+      "title": "Lakefront",
+      "link": "https://data.cityofchicago.org/d/we8h-apcf",
+      "summary": "by Christian Paz · 1137 W Leland Ave, Chicago · 2020",
       "source": "Chicago Mural Registry",
       "published": "2020-01-01T00:00:00+00:00",
       "deadline": null,
@@ -2078,10 +2183,55 @@
       "image": null
     },
     {
-      "id": "f52f145650eef5d488bef9998f453b02e530ffb9",
-      "title": "Letter H",
+      "id": "0c6180f56b1e94d649a6989398cb90d784108e16",
+      "title": "Welcome to Buena Park",
       "link": "https://data.cityofchicago.org/d/we8h-apcf",
-      "summary": "by Marry Tonnu · 1650 N Elston Ave, Chicago · 2019",
+      "summary": "by Brett Whitacre · 4108 N Sheridan Rd, Chicago · 2020",
+      "source": "Chicago Mural Registry",
+      "published": "2020-01-01T00:00:00+00:00",
+      "deadline": null,
+      "tags": [
+        "public art"
+      ],
+      "region": "Midwest",
+      "kind": "archive",
+      "image": null
+    },
+    {
+      "id": "79b8bc71d49027a41284261b2eb7ea0006b67aaf",
+      "title": "Grow and Flow",
+      "link": "https://data.cityofchicago.org/d/we8h-apcf",
+      "summary": "by Molly Z · 1319 W Wilson Ave, Chicago · 2020",
+      "source": "Chicago Mural Registry",
+      "published": "2020-01-01T00:00:00+00:00",
+      "deadline": null,
+      "tags": [
+        "public art"
+      ],
+      "region": "Midwest",
+      "kind": "archive",
+      "image": null
+    },
+    {
+      "id": "e31042f67a1c3fe55f51f4adf9779a828a0a8ee8",
+      "title": "Myrtis Jackson",
+      "link": "https://data.cityofchicago.org/d/we8h-apcf",
+      "summary": "by Corbin DeShazo · 7498 S Ashland Ave, Chicago · 2020",
+      "source": "Chicago Mural Registry",
+      "published": "2020-01-01T00:00:00+00:00",
+      "deadline": null,
+      "tags": [
+        "public art"
+      ],
+      "region": "Midwest",
+      "kind": "archive",
+      "image": null
+    },
+    {
+      "id": "5a7a1abaf0d126d6fe947bad0ccf967a570ac08d",
+      "title": "An Ode to Eleanor (Youth)",
+      "link": "https://data.cityofchicago.org/d/we8h-apcf",
+      "summary": "by Steven Teller · 835 W Montrose Ave, Chicago · 2019",
       "source": "Chicago Mural Registry",
       "published": "2019-01-01T00:00:00+00:00",
       "deadline": null,
@@ -2093,10 +2243,10 @@
       "image": null
     },
     {
-      "id": "90708227b35dc7d6dfc2205a8f9a3a660df25b69",
-      "title": "Skender",
+      "id": "e511d8f7d1ea9681b9cd6ceae4366b28e4a20ebf",
+      "title": "Discover in Plain Site",
       "link": "https://data.cityofchicago.org/d/we8h-apcf",
-      "summary": "by Justus Roe · 879 N Paulina Street, Chicago · 2019",
+      "summary": "by Max Sansing · 1850 E 79th St, Chicago · 2019",
       "source": "Chicago Mural Registry",
       "published": "2019-01-01T00:00:00+00:00",
       "deadline": null,
@@ -2108,10 +2258,10 @@
       "image": null
     },
     {
-      "id": "e611af18dd348d8d543fa8b65e8a54ceb5d8bfe9",
-      "title": "Letter J",
+      "id": "c78d71dae36e1c85eff7e089e693a9b5d05478e4",
+      "title": "The Valley South",
       "link": "https://data.cityofchicago.org/d/we8h-apcf",
-      "summary": "by Marry Tonnu · 1400 W Wabansia Ave, Chicago · 2019",
+      "summary": "by Justus Roe · 1551 S Blue Island Ave, Chicago · 2019",
       "source": "Chicago Mural Registry",
       "published": "2019-01-01T00:00:00+00:00",
       "deadline": null,
@@ -2123,10 +2273,10 @@
       "image": null
     },
     {
-      "id": "acd91b671144ca68afedb1d271f590bd5d39a3ab",
-      "title": "Chrysanthemum Flower",
+      "id": "dee79a41e87b150438fcb5ca064a8be999197021",
+      "title": "Wagnolia Beach",
       "link": "https://data.cityofchicago.org/d/we8h-apcf",
-      "summary": "by Tracy Ostmann-Haschke · 3343 W Carroll Ave, Chicago · 2019",
+      "summary": "by Caroline Brown · 4600 N Magnolia Ave, Chicago · 2019",
       "source": "Chicago Mural Registry",
       "published": "2019-01-01T00:00:00+00:00",
       "deadline": null,
@@ -2138,10 +2288,10 @@
       "image": null
     },
     {
-      "id": "0d64b2f7421ad0a758f0dcfef41507f577d6973f",
-      "title": "Inhale, Exhale",
+      "id": "c1c074e92ed4854ae35dcc195ba1a4903b56c19b",
+      "title": "Letter U",
       "link": "https://data.cityofchicago.org/d/we8h-apcf",
-      "summary": "by David Heo · 4654 N Broadway, Chicago · 2019",
+      "summary": "by Marry Tonnu · 1516 W Cortland St, Chicago · 2019",
       "source": "Chicago Mural Registry",
       "published": "2019-01-01T00:00:00+00:00",
       "deadline": null,
@@ -2153,10 +2303,10 @@
       "image": null
     },
     {
-      "id": "f92ac05b141d347be5f3119e68c54d4fd6402c49",
-      "title": "Koi",
+      "id": "52785043dc6b2afdc41a1ec026eb2189b3ecb322",
+      "title": "Letter B",
       "link": "https://data.cityofchicago.org/d/we8h-apcf",
-      "summary": "by Jeremy Novy · 4654 N Broadway, Chicago · 2019",
+      "summary": "by Marry Tonnu · 1690 N Elston Ave, Chicago · 2019",
       "source": "Chicago Mural Registry",
       "published": "2019-01-01T00:00:00+00:00",
       "deadline": null,
@@ -2168,100 +2318,10 @@
       "image": null
     },
     {
-      "id": "015c1beb35ad971f863d7fe1a06a65da134d5522",
-      "title": "Tierra",
+      "id": "008bf6636d2346fe2cd3212a98936152d9969d4e",
+      "title": "AVHQ",
       "link": "https://data.cityofchicago.org/d/we8h-apcf",
-      "summary": "by Tony Passero · N Cicero Ave, north of W Foster Ave, Chicago · 2019",
-      "source": "Chicago Mural Registry",
-      "published": "2019-01-01T00:00:00+00:00",
-      "deadline": null,
-      "tags": [
-        "public art"
-      ],
-      "region": "Midwest",
-      "kind": "archive",
-      "image": null
-    },
-    {
-      "id": "966b2a81aa74abf2ad4597c2dc0ff49324bff735",
-      "title": "We are Titans",
-      "link": "https://data.cityofchicago.org/d/we8h-apcf",
-      "summary": "by Chicago Math and Science Academy Art Students · 7212 N Clark Street, Chicago · 2019",
-      "source": "Chicago Mural Registry",
-      "published": "2019-01-01T00:00:00+00:00",
-      "deadline": null,
-      "tags": [
-        "public art"
-      ],
-      "region": "Midwest",
-      "kind": "archive",
-      "image": null
-    },
-    {
-      "id": "7bcca51f1dfda3c2fd15b1a8947a62b5ddf95615",
-      "title": "Letter P",
-      "link": "https://data.cityofchicago.org/d/we8h-apcf",
-      "summary": "by Marry Tonnu · 1765 N Elston Ave, Chicago · 2019",
-      "source": "Chicago Mural Registry",
-      "published": "2019-01-01T00:00:00+00:00",
-      "deadline": null,
-      "tags": [
-        "public art"
-      ],
-      "region": "Midwest",
-      "kind": "archive",
-      "image": null
-    },
-    {
-      "id": "05b621a8cbab72c7eb6e138cd9a010ef9122d22b",
-      "title": "untitled",
-      "link": "https://data.cityofchicago.org/d/we8h-apcf",
-      "summary": "by Ant Ben and Gabe Moskolis · 330 N MacChesney Court, Chicago · 2019",
-      "source": "Chicago Mural Registry",
-      "published": "2019-01-01T00:00:00+00:00",
-      "deadline": null,
-      "tags": [
-        "public art"
-      ],
-      "region": "Midwest",
-      "kind": "archive",
-      "image": null
-    },
-    {
-      "id": "853047459963c82eef65859ae322cc5adeb8f86a",
-      "title": "Health, Wealth, & Knowledge of Self",
-      "link": "https://data.cityofchicago.org/d/we8h-apcf",
-      "summary": "by Dredske, Zeye One, James Allen, Dmnology, James Jankowiak · 4150 W 55th St, Chicago · 2019",
-      "source": "Chicago Mural Registry",
-      "published": "2019-01-01T00:00:00+00:00",
-      "deadline": null,
-      "tags": [
-        "public art"
-      ],
-      "region": "Midwest",
-      "kind": "archive",
-      "image": null
-    },
-    {
-      "id": "013c7084b14acd344a48851e93f2aab0ef0d6bb5",
-      "title": "Face Lift",
-      "link": "https://data.cityofchicago.org/d/we8h-apcf",
-      "summary": "by Dwight White · 330 N MacChesney Court, Chicago · 2019",
-      "source": "Chicago Mural Registry",
-      "published": "2019-01-01T00:00:00+00:00",
-      "deadline": null,
-      "tags": [
-        "public art"
-      ],
-      "region": "Midwest",
-      "kind": "archive",
-      "image": null
-    },
-    {
-      "id": "70ade03eb9f942e60bc6bb4733ed5f06bf661664",
-      "title": "The People of the Garden",
-      "link": "https://data.cityofchicago.org/d/we8h-apcf",
-      "summary": "by Jeff Zimmermann · 4211 W Diversey Ave, Chicago · 2018",
+      "summary": "by Justus Roe · 5232 N Damen Ave, Chicago · 2018",
       "source": "Chicago Mural Registry",
       "published": "2018-01-01T00:00:00+00:00",
       "deadline": null,
@@ -2273,12 +2333,12 @@
       "image": null
     },
     {
-      "id": "ffb1701cb0aaf7552ac25edc80e5358eeaedc454",
-      "title": "Respiration",
+      "id": "2a618cd5fb6496f8a4a38b4dc424724d5a6d8684",
+      "title": "Kinzie Train Depot",
       "link": "https://data.cityofchicago.org/d/we8h-apcf",
-      "summary": "by Mauricio Rodriguez · 1346 W Devon Ave, Chicago · 2018",
+      "summary": "by Justus Roe · 372 N Peoria, Chicago · 2017",
       "source": "Chicago Mural Registry",
-      "published": "2018-01-01T00:00:00+00:00",
+      "published": "2017-01-01T00:00:00+00:00",
       "deadline": null,
       "tags": [
         "public art"
@@ -2288,12 +2348,12 @@
       "image": null
     },
     {
-      "id": "77475a72bf60d174002eac3016c18fb9d120d485",
-      "title": "Messages",
+      "id": "1a059ed38ff15e01fcb986171bf16d074b6c24fe",
+      "title": "otherworldly",
       "link": "https://data.cityofchicago.org/d/we8h-apcf",
-      "summary": "by Cyd Smillie with\nArts Alive Chicago · 5804-5856 S Damen Ave, Chicago · 2018",
+      "summary": "by Key Detail · 1745 W Chicago Ave, Chicago · 2017",
       "source": "Chicago Mural Registry",
-      "published": "2018-01-01T00:00:00+00:00",
+      "published": "2017-01-01T00:00:00+00:00",
       "deadline": null,
       "tags": [
         "public art"
@@ -2303,10 +2363,10 @@
       "image": null
     },
     {
-      "id": "4f7323c434e99e1a22cbe5f5a08f6c48e8f06b94",
-      "title": "2birds One Stone",
+      "id": "10f36cae719d93abb069b36974be529fef218de7",
+      "title": "Vivian Maier",
       "link": "https://data.cityofchicago.org/d/we8h-apcf",
-      "summary": "by Killabunz and Jose Quezada · 25 E Monroe St, Chicago · 2017",
+      "summary": "by Eduardo Kobra · 1651-53 W North Ave, Chicago · 2017",
       "source": "Chicago Mural Registry",
       "published": "2017-01-01T00:00:00+00:00",
       "deadline": null,
@@ -2333,55 +2393,10 @@
       "image": null
     },
     {
-      "id": "efb31d1fadef0de625b77a5b1d72c6dc6ef920eb",
-      "title": "Las Puertas de Paseo Boricua",
+      "id": "f0ea3d0cdd1fbcfa44246a49572486fb87d4f4c4",
+      "title": "Devils Mile",
       "link": "https://data.cityofchicago.org/d/we8h-apcf",
-      "summary": "by Lebster Pabon · 2448 W Division St, Chicago · 2017",
-      "source": "Chicago Mural Registry",
-      "published": "2017-01-01T00:00:00+00:00",
-      "deadline": null,
-      "tags": [
-        "public art"
-      ],
-      "region": "Midwest",
-      "kind": "archive",
-      "image": null
-    },
-    {
-      "id": "5a78eeab1970bef9f3887ac32297c3b9461ebfae",
-      "title": "Rush More",
-      "link": "https://data.cityofchicago.org/d/we8h-apcf",
-      "summary": "by Kerry James Marshall · 78 E Washington St, Chicago · 2017",
-      "source": "Chicago Mural Registry",
-      "published": "2017-01-01T00:00:00+00:00",
-      "deadline": null,
-      "tags": [
-        "public art"
-      ],
-      "region": "Midwest",
-      "kind": "archive",
-      "image": null
-    },
-    {
-      "id": "3faf49662f2fe8c18d7c75eb5712e7332a907d66",
-      "title": "Space Odyssey Mural",
-      "link": "https://data.cityofchicago.org/d/we8h-apcf",
-      "summary": "by Dred Ske with an assist by Max Sansing · 9020 S Stony Island Ave, Chicago · 2017",
-      "source": "Chicago Mural Registry",
-      "published": "2017-01-01T00:00:00+00:00",
-      "deadline": null,
-      "tags": [
-        "public art"
-      ],
-      "region": "Midwest",
-      "kind": "archive",
-      "image": null
-    },
-    {
-      "id": "1c7566f02e568533e3e75ea34586eb4ed330cab4",
-      "title": "Fly Higher",
-      "link": "https://data.cityofchicago.org/d/we8h-apcf",
-      "summary": "by Jospeh \"Sentrock\" Perez · 1901 S Wood St, Chicago · 2016",
+      "summary": "by Justus Roe · 1023 S State st, Chicago · 2016",
       "source": "Chicago Mural Registry",
       "published": "2016-01-01T00:00:00+00:00",
       "deadline": null,
@@ -2393,12 +2408,12 @@
       "image": null
     },
     {
-      "id": "62c475f52413500704acc737ca19e54837d9f6af",
-      "title": "Luna Negra, 1998",
+      "id": "75bafa80e6c65386233e9de480292c24250f58fa",
+      "title": "Fry",
       "link": "https://data.cityofchicago.org/d/we8h-apcf",
-      "summary": "by Ed Paschke · 5415 W Higgins Ave, Chicago · 2014",
+      "summary": "by Czr Prz · 1415 S Wabash, Chicago · 2016",
       "source": "Chicago Mural Registry",
-      "published": "2014-01-01T00:00:00+00:00",
+      "published": "2016-01-01T00:00:00+00:00",
       "deadline": null,
       "tags": [
         "public art"
@@ -2408,12 +2423,12 @@
       "image": null
     },
     {
-      "id": "15a7dcecc69a75372fd0ef6e0c728ba1f0eca53d",
-      "title": "Peace Mural Project (Phase II)- We Pledge Allegiance Mural",
+      "id": "aa6b108b1822e35d6e3a309693176f6eeb54d19e",
+      "title": "Sepia",
       "link": "https://data.cityofchicago.org/d/we8h-apcf",
-      "summary": "by Nicole Beck · 4918 W 64th St, Chicago · 2014",
+      "summary": "by Rahmaan Statik, Max Sansing · 2230 Central Park Ave, Chicago · 2016",
       "source": "Chicago Mural Registry",
-      "published": "2014-01-01T00:00:00+00:00",
+      "published": "2016-01-01T00:00:00+00:00",
       "deadline": null,
       "tags": [
         "public art"
@@ -2423,12 +2438,42 @@
       "image": null
     },
     {
-      "id": "9808907b07895620f2dc14342a13e4348926293d",
-      "title": "Longroom West",
+      "id": "5df8f56ed9a796b3d801358b0abdd160ffdf20d1",
+      "title": "Community Mural",
       "link": "https://data.cityofchicago.org/d/we8h-apcf",
-      "summary": "by Justus Roe · 1612 W Irving Park Rd #1, Chicago · 2013",
+      "summary": "by Cara Feeney · 1124-1160 W Ardmore Ave, Chicago · 2016",
       "source": "Chicago Mural Registry",
-      "published": "2013-01-01T00:00:00+00:00",
+      "published": "2016-01-01T00:00:00+00:00",
+      "deadline": null,
+      "tags": [
+        "public art"
+      ],
+      "region": "Midwest",
+      "kind": "archive",
+      "image": null
+    },
+    {
+      "id": "6e84c86cf378778f8fa59a4f62f546f9ba72f729",
+      "title": "Slime Mountain",
+      "link": "https://data.cityofchicago.org/d/we8h-apcf",
+      "summary": "by Heidi Unkefer · 623 S Wabash, Chicago · 2015",
+      "source": "Chicago Mural Registry",
+      "published": "2015-01-01T00:00:00+00:00",
+      "deadline": null,
+      "tags": [
+        "public art"
+      ],
+      "region": "Midwest",
+      "kind": "archive",
+      "image": null
+    },
+    {
+      "id": "e49cd3d40d4486cc42fea366c224601e79f2dc37",
+      "title": "Triple Heart Bypass",
+      "link": "https://data.cityofchicago.org/d/we8h-apcf",
+      "summary": "by Chris Silva · 2944 W 26th St, Chicago · 2015",
+      "source": "Chicago Mural Registry",
+      "published": "2015-01-01T00:00:00+00:00",
       "deadline": null,
       "tags": [
         "public art"
@@ -2441,7 +2486,7 @@
       "id": "bdbeac9be872200cd4f3912b416f910e7beae893",
       "title": "Alley Wall Project",
       "link": "https://data.cityofchicago.org/d/we8h-apcf",
-      "summary": "by Ricardo Martinez, FEDZ, Thomas, Axel · 1401 W 18th St, Chicago · 2013",
+      "summary": "by Ricardo Martinez, FEDZ, Thomas, Axel · Alley near 1401 W 18th St, Chicago · 2013",
       "source": "Chicago Mural Registry",
       "published": "2013-01-01T00:00:00+00:00",
       "deadline": null,
@@ -2453,25 +2498,10 @@
       "image": null
     },
     {
-      "id": "070eede2fc96c9f7ad9af5e6bf10baef5d65fbdf",
-      "title": "South Shore",
+      "id": "a02887285f15c36af95a3b8daf3e0300f85f2efb",
+      "title": "You Are Beautiful",
       "link": "https://data.cityofchicago.org/d/we8h-apcf",
-      "summary": "by Justus Roe · 7152 S Exchange Ave, Chicago · 2013",
-      "source": "Chicago Mural Registry",
-      "published": "2013-01-01T00:00:00+00:00",
-      "deadline": null,
-      "tags": [
-        "public art"
-      ],
-      "region": "Midwest",
-      "kind": "archive",
-      "image": null
-    },
-    {
-      "id": "68c31e4761ac4780d66cf971c31baebe6dcd3ef6",
-      "title": "Creature Crew",
-      "link": "https://data.cityofchicago.org/d/we8h-apcf",
-      "summary": "by Chris Silva · 1520 West 16th St, Chicago · 2012",
+      "summary": "by Matthew Hoffman · 2334 W Division St, Chicago · 2012",
       "source": "Chicago Mural Registry",
       "published": "2012-01-01T00:00:00+00:00",
       "deadline": null,
@@ -2483,42 +2513,12 @@
       "image": null
     },
     {
-      "id": "460f4a55b92994bdcedfc06e7aec0306b446c1ca",
-      "title": "Wall of Hope",
+      "id": "ea686dea9c534dd65384b673c5e4e79e28138af3",
+      "title": "Chicago Christian Industrial League Mural & Bricolage",
       "link": "https://data.cityofchicago.org/d/we8h-apcf",
-      "summary": "by Jesus \"Chucho\" Rodriguez · 1856 South Loomis, Chicago · 2010",
+      "summary": "by Damon Reed · 1146 S California Ave, Chicago · 2008",
       "source": "Chicago Mural Registry",
-      "published": "2010-01-01T00:00:00+00:00",
-      "deadline": null,
-      "tags": [
-        "public art"
-      ],
-      "region": "Midwest",
-      "kind": "archive",
-      "image": null
-    },
-    {
-      "id": "f37e87fc5613ce6ec56b4949b0ffd5d00ceecb08",
-      "title": "Reflections of Good",
-      "link": "https://data.cityofchicago.org/d/we8h-apcf",
-      "summary": "by Juan Chavez · 2601 West 63rd St, Chicago · 2006",
-      "source": "Chicago Mural Registry",
-      "published": "2006-01-01T00:00:00+00:00",
-      "deadline": null,
-      "tags": [
-        "public art"
-      ],
-      "region": "Midwest",
-      "kind": "archive",
-      "image": null
-    },
-    {
-      "id": "d903e42319f17e6b480f845c37fb72cf94334778",
-      "title": "Home of the Heart",
-      "link": "https://data.cityofchicago.org/d/we8h-apcf",
-      "summary": "by REMED · 2801 South Ridgeway, Chicago",
-      "source": "Chicago Mural Registry",
-      "published": "2000-01-01T00:00:00+00:00",
+      "published": "2008-01-01T00:00:00+00:00",
       "deadline": null,
       "tags": [
         "public art"
@@ -3758,51 +3758,6 @@
       "image": null
     },
     {
-      "id": "5c6f9756fe329acb196c54a8454c09c7e1daab43",
-      "title": "New Life, New Love",
-      "link": "https://data.cityofchicago.org/d/we8h-apcf",
-      "summary": "by Sidda Sila · 1140 N Lamon Ave, Chicago · 1996",
-      "source": "Chicago Mural Registry",
-      "published": "1996-01-01T00:00:00+00:00",
-      "deadline": null,
-      "tags": [
-        "public art"
-      ],
-      "region": "Midwest",
-      "kind": "archive",
-      "image": null
-    },
-    {
-      "id": "64177b5b061fbc2703b9b4a5747f665637c77de9",
-      "title": "Educacion: See y Know",
-      "link": "https://data.cityofchicago.org/d/we8h-apcf",
-      "summary": "by Jeff Zimmermann · 1517 West 21st St, Chicago · 1996",
-      "source": "Chicago Mural Registry",
-      "published": "1996-01-01T00:00:00+00:00",
-      "deadline": null,
-      "tags": [
-        "public art"
-      ],
-      "region": "Midwest",
-      "kind": "archive",
-      "image": null
-    },
-    {
-      "id": "4a5edbe8d2c2eb5fe1d22be7f9a43baddb987eb0",
-      "title": "Fishing at Hogarth's",
-      "link": "https://data.cityofchicago.org/d/we8h-apcf",
-      "summary": "by Tim Portlock and Beatriz Santiago Munoz · 1108 W Lawrence Ave, Chicago · 1995",
-      "source": "Chicago Mural Registry",
-      "published": "1995-01-01T00:00:00+00:00",
-      "deadline": null,
-      "tags": [
-        "public art"
-      ],
-      "region": "Midwest",
-      "kind": "archive",
-      "image": null
-    },
-    {
       "id": "9a44270bc6a6718ffdacd0c029a44fbd2c771e2c",
       "title": "Ghost Series: Corinthian Capital, Plinth, Day and Night, Mercury Man, Broken Column, Drawing of Old Pennsylvania Station",
       "link": "https://new.mta.info/agency/arts-design/collection/ghost-series-day-night",
@@ -3831,6 +3786,21 @@
       "region": "Northeast",
       "kind": "archive",
       "image": "https://new.mta.info/agency/arts-design/collection/platform-diving"
+    },
+    {
+      "id": "056f388eafb8bcd9ac4b272117831f7583a6e0bb",
+      "title": "Still Deferred; Still Dreaming",
+      "link": "https://data.cityofchicago.org/d/we8h-apcf",
+      "summary": "by Artists Dzine and Olivia Gude · 2950 W Washington Blvd, Chicago · 1993",
+      "source": "Chicago Mural Registry",
+      "published": "1993-01-01T00:00:00+00:00",
+      "deadline": null,
+      "tags": [
+        "public art"
+      ],
+      "region": "Midwest",
+      "kind": "archive",
+      "image": null
     },
     {
       "id": "40ab74b0252abc14e27ba6195a7567a8fd4d2d9c",
@@ -3876,21 +3846,6 @@
       "region": "Northeast",
       "kind": "archive",
       "image": "https://new.mta.info/agency/arts-design/collection/untitled-city-of-light"
-    },
-    {
-      "id": "c988a18f9627deabe504288d1dd948f11588237b",
-      "title": "Where We Come From...Where We're Going",
-      "link": "https://data.cityofchicago.org/d/we8h-apcf",
-      "summary": "by Olivia Gude · 1535 East 56th St, Chicago · 1992",
-      "source": "Chicago Mural Registry",
-      "published": "1992-01-01T00:00:00+00:00",
-      "deadline": null,
-      "tags": [
-        "public art"
-      ],
-      "region": "Midwest",
-      "kind": "archive",
-      "image": null
     },
     {
       "id": "562e36928db22a762b4245863af169fd26d0aefc",
@@ -4373,12 +4328,27 @@
       "image": "https://new.mta.info/agency/arts-design/collection/open-secret"
     },
     {
-      "id": "1a315f93856c37899057c6bc02d9de36675e336e",
-      "title": "Alewives 1972/2009",
+      "id": "011c22af42d6b8ebd65b2d02b27462f44155174e",
+      "title": "Fabric of Our Lives",
       "link": "https://data.cityofchicago.org/d/we8h-apcf",
-      "summary": "by Albert Zeno · 5506 South Lake Park Ave, Chicago · 1972",
+      "summary": "by Miriam Socoloff and Cynthia Weiss · 3003 W Touhy Ave, Chicago · 1980",
       "source": "Chicago Mural Registry",
-      "published": "1972-01-01T00:00:00+00:00",
+      "published": "1980-01-01T00:00:00+00:00",
+      "deadline": null,
+      "tags": [
+        "public art"
+      ],
+      "region": "Midwest",
+      "kind": "archive",
+      "image": null
+    },
+    {
+      "id": "bbc5d4a89ce9ef164ab541760d95d133bf171959",
+      "title": "The Wall of Daydreaming and Man's Inhumanity to Man",
+      "link": "https://data.cityofchicago.org/d/we8h-apcf",
+      "summary": "by Mitchell Caton and William Walker · 328 E 47th St, Chicago · 1975",
+      "source": "Chicago Mural Registry",
+      "published": "1975-01-01T00:00:00+00:00",
       "deadline": null,
       "tags": [
         "public art"
