@@ -1,8 +1,8 @@
 {
   "contract_version": "artelier_opportunities_feed_v1",
   "title": "Creative Opportunities",
-  "updated": "2026-10-05T15:28:49.420880+00:00",
-  "count": 271,
+  "updated": "2026-10-06T00:32:20.282195+00:00",
+  "count": 273,
   "items": [
     {
       "id": "f4c46b0260aa884fe6d7ab3848cf1ace363f3c9e",
@@ -10,7 +10,7 @@
       "link": "https://www.grants.gov/search-results-detail/361480",
       "summary": "National Endowment for the Humanities | opportunity 20260511-PCS",
       "source": "Grants.gov",
-      "published": "2026-10-05T15:28:22.591078+00:00",
+      "published": "2026-10-06T00:31:52.963237+00:00",
       "deadline": "2026-12-15",
       "tags": [
         "grant"
@@ -27,7 +27,7 @@
       "link": "https://www.grants.gov/search-results-detail/363225",
       "summary": "Bureau Of Educational and Cultural Affairs | opportunity DFOP0017180",
       "source": "Grants.gov",
-      "published": "2026-10-05T15:28:22.590173+00:00",
+      "published": "2026-10-06T00:31:52.962352+00:00",
       "deadline": null,
       "tags": [
         "grant"
@@ -44,7 +44,7 @@
       "link": "https://www.grants.gov/search-results-detail/363773",
       "summary": "Institute of Museum and Library Services | opportunity NLG-M-FY27",
       "source": "Grants.gov",
-      "published": "2026-10-05T15:28:22.588801+00:00",
+      "published": "2026-10-06T00:31:52.961085+00:00",
       "deadline": "2026-11-13",
       "tags": [
         "grant"
@@ -61,7 +61,7 @@
       "link": "https://www.grants.gov/search-results-detail/363880",
       "summary": "National Endowment for the Humanities | opportunity 20261209-EDK-EDU",
       "source": "Grants.gov",
-      "published": "2026-10-05T15:28:21.932098+00:00",
+      "published": "2026-10-06T00:31:52.101609+00:00",
       "deadline": "2026-12-09",
       "tags": [
         "grant"
@@ -78,7 +78,7 @@
       "link": "https://www.grants.gov/search-results-detail/363762",
       "summary": "Institute of Museum and Library Services | opportunity NAG-ENHANCEMENT-FY27",
       "source": "Grants.gov",
-      "published": "2026-10-05T15:28:21.277365+00:00",
+      "published": "2026-10-06T00:31:51.322139+00:00",
       "deadline": "2026-11-13",
       "tags": [
         "grant"
@@ -95,7 +95,7 @@
       "link": "https://www.grants.gov/search-results-detail/363763",
       "summary": "Institute of Museum and Library Services | opportunity NAG-HAWAIIAN-FY27",
       "source": "Grants.gov",
-      "published": "2026-10-05T15:28:21.276771+00:00",
+      "published": "2026-10-06T00:31:51.321546+00:00",
       "deadline": "2026-11-13",
       "tags": [
         "grant"
@@ -112,7 +112,7 @@
       "link": "https://www.grants.gov/search-results-detail/363765",
       "summary": "Institute of Museum and Library Services | opportunity LB21-FY27",
       "source": "Grants.gov",
-      "published": "2026-10-05T15:28:21.276190+00:00",
+      "published": "2026-10-06T00:31:51.320945+00:00",
       "deadline": "2026-11-13",
       "tags": [
         "grant"
@@ -129,7 +129,7 @@
       "link": "https://www.grants.gov/search-results-detail/363767",
       "summary": "Institute of Museum and Library Services | opportunity NAG-BASIC-FY27",
       "source": "Grants.gov",
-      "published": "2026-10-05T15:28:21.275549+00:00",
+      "published": "2026-10-06T00:31:51.320356+00:00",
       "deadline": "2026-11-13",
       "tags": [
         "grant"
@@ -146,7 +146,7 @@
       "link": "https://www.grants.gov/search-results-detail/322314",
       "summary": "U.S. Mission to Cambodia | opportunity PAS-CB-600-20-PAS-0003",
       "source": "Grants.gov",
-      "published": "2026-10-05T15:28:21.274906+00:00",
+      "published": "2026-10-06T00:31:51.319724+00:00",
       "deadline": null,
       "tags": [
         "grant"
@@ -163,7 +163,7 @@
       "link": "https://www.grants.gov/search-results-detail/363728",
       "summary": "National Park Service | opportunity P27AS00032",
       "source": "Grants.gov",
-      "published": "2026-10-05T15:28:21.274236+00:00",
+      "published": "2026-10-06T00:31:51.319055+00:00",
       "deadline": "2026-11-04",
       "tags": [
         "grant"
@@ -180,7 +180,7 @@
       "link": "https://www.grants.gov/search-results-detail/363766",
       "summary": "Institute of Museum and Library Services | opportunity NLG-LIBRARIES-FY27",
       "source": "Grants.gov",
-      "published": "2026-10-05T15:28:21.273652+00:00",
+      "published": "2026-10-06T00:31:51.318480+00:00",
       "deadline": "2026-11-13",
       "tags": [
         "grant"
@@ -197,7 +197,7 @@
       "link": "https://www.grants.gov/search-results-detail/363775",
       "summary": "Institute of Museum and Library Services | opportunity NANH-FY27",
       "source": "Grants.gov",
-      "published": "2026-10-05T15:28:21.273024+00:00",
+      "published": "2026-10-06T00:31:51.317890+00:00",
       "deadline": "2026-11-13",
       "tags": [
         "grant"
@@ -214,7 +214,7 @@
       "link": "https://www.grants.gov/search-results-detail/363768",
       "summary": "Institute of Museum and Library Services | opportunity MFA-FY27",
       "source": "Grants.gov",
-      "published": "2026-10-05T15:28:21.272492+00:00",
+      "published": "2026-10-06T00:31:51.317383+00:00",
       "deadline": "2026-11-13",
       "tags": [
         "grant"
@@ -231,7 +231,7 @@
       "link": "https://www.grants.gov/search-results-detail/363772",
       "summary": "Institute of Museum and Library Services | opportunity ALHC-FY27",
       "source": "Grants.gov",
-      "published": "2026-10-05T15:28:21.271838+00:00",
+      "published": "2026-10-06T00:31:51.316723+00:00",
       "deadline": "2026-11-13",
       "tags": [
         "grant"
@@ -248,7 +248,7 @@
       "link": "https://www.grants.gov/search-results-detail/363769",
       "summary": "Institute of Museum and Library Services | opportunity 21MP-FY27",
       "source": "Grants.gov",
-      "published": "2026-10-05T15:28:21.271269+00:00",
+      "published": "2026-10-06T00:31:51.316175+00:00",
       "deadline": "2026-11-13",
       "tags": [
         "grant"
@@ -265,7 +265,7 @@
       "link": "https://www.grants.gov/search-results-detail/363776",
       "summary": "Institute of Museum and Library Services | opportunity ME-FY27",
       "source": "Grants.gov",
-      "published": "2026-10-05T15:28:21.270172+00:00",
+      "published": "2026-10-06T00:31:51.315123+00:00",
       "deadline": "2026-11-13",
       "tags": [
         "grant"
@@ -282,7 +282,7 @@
       "link": "https://www.grants.gov/search-results-detail/363770",
       "summary": "Institute of Museum and Library Services | opportunity AAHC-FY27",
       "source": "Grants.gov",
-      "published": "2026-10-05T15:28:21.269544+00:00",
+      "published": "2026-10-06T00:31:51.314515+00:00",
       "deadline": "2026-11-13",
       "tags": [
         "grant"
@@ -299,7 +299,7 @@
       "link": "https://www.grants.gov/search-results-detail/363771",
       "summary": "Institute of Museum and Library Services | opportunity IGSM-FY27",
       "source": "Grants.gov",
-      "published": "2026-10-05T15:28:21.268883+00:00",
+      "published": "2026-10-06T00:31:51.313906+00:00",
       "deadline": "2026-11-13",
       "tags": [
         "grant"
@@ -316,7 +316,7 @@
       "link": "https://www.grants.gov/search-results-detail/362984",
       "summary": "National Endowment for the Arts | opportunity 2027FCAHDOM02",
       "source": "Grants.gov",
-      "published": "2026-10-05T15:28:20.648300+00:00",
+      "published": "2026-10-06T00:31:50.518359+00:00",
       "deadline": "2027-06-07",
       "tags": [
         "grant"
@@ -333,7 +333,7 @@
       "link": "https://www.grants.gov/search-results-detail/362982",
       "summary": "National Endowment for the Arts | opportunity 2027FCAHDOM01",
       "source": "Grants.gov",
-      "published": "2026-10-05T15:28:20.647679+00:00",
+      "published": "2026-10-06T00:31:50.517722+00:00",
       "deadline": "2026-12-07",
       "tags": [
         "grant"
@@ -350,7 +350,7 @@
       "link": "https://www.grants.gov/search-results-detail/362983",
       "summary": "National Endowment for the Arts | opportunity 2027FCAH02",
       "source": "Grants.gov",
-      "published": "2026-10-05T15:28:20.647072+00:00",
+      "published": "2026-10-06T00:31:50.517092+00:00",
       "deadline": "2027-03-08",
       "tags": [
         "grant"
@@ -367,7 +367,7 @@
       "link": "https://www.grants.gov/search-results-detail/361554",
       "summary": "Bureau Of Educational and Cultural Affairs | opportunity DFOP0017204",
       "source": "Grants.gov",
-      "published": "2026-10-05T15:28:20.645272+00:00",
+      "published": "2026-10-06T00:31:50.515274+00:00",
       "deadline": null,
       "tags": [
         "grant"
@@ -384,7 +384,7 @@
       "link": "https://artistcommunities.org/directory/residencies/alderworks-alaska-writers-and-artists-retreat",
       "summary": "Alderworks welcomes writers and artists every summer to work in cabins on the edge of the wilderness in historic and stunningly beautiful Dyea near Skagway, Alaska. We host residents in three cabins during 4-6 week residencies. Artists also have access to a studio building.",
       "source": "Artist Communities Alliance",
-      "published": "2026-10-05T15:28:19.784069+00:00",
+      "published": "2026-10-06T00:31:49.129151+00:00",
       "deadline": null,
       "tags": [
         "residency"
@@ -404,7 +404,7 @@
       "link": "https://artistcommunities.org/directory/residencies/alchemy-artists-residency",
       "summary": "ALCHEMY: a n artist-led international residency where food, art, and community come together.",
       "source": "Artist Communities Alliance",
-      "published": "2026-10-05T15:28:19.783375+00:00",
+      "published": "2026-10-06T00:31:49.127882+00:00",
       "deadline": null,
       "tags": [
         "residency"
@@ -437,7 +437,7 @@
       "link": "https://artistcommunities.org/directory/residencies/alaska-air-bunnell-street-arts-center-artist-residence",
       "summary": "Bunnell Street Arts Center's \"Alaska AIR\" Artist-in-Residency program seeks international, US and Alaska artists looking to create new work and deeply engage Bunnell’s community.",
       "source": "Artist Communities Alliance",
-      "published": "2026-10-05T15:28:19.782998+00:00",
+      "published": "2026-10-06T00:31:49.127222+00:00",
       "deadline": null,
       "tags": [
         "residency"
@@ -457,7 +457,7 @@
       "link": "https://artistcommunities.org/directory/residencies/alaska-chulitna-lodge-wilderness-retreat-creative-residency",
       "summary": "Chulitna Lodge Wilderness Retreat seeks to provide the time, space, clarity and facilities for all forms of creative professionals or enthusiastic hobbyists to make and meditate.",
       "source": "Artist Communities Alliance",
-      "published": "2026-10-05T15:28:19.782634+00:00",
+      "published": "2026-10-06T00:31:49.126736+00:00",
       "deadline": null,
       "tags": [
         "residency"
@@ -474,7 +474,7 @@
       "link": "https://artistcommunities.org/directory/residencies/al-mickey-quinlan-artist-residency",
       "summary": "Whitefish Bay, located on Wisconsin's Door Peninsula , has long been a creative haven for artists who were an important part of the local community and brought the process of creating art into daily life.",
       "source": "Artist Communities Alliance",
-      "published": "2026-10-05T15:28:19.782465+00:00",
+      "published": "2026-10-06T00:31:49.126563+00:00",
       "deadline": null,
       "tags": [
         "residency"
@@ -494,7 +494,7 @@
       "link": "https://artistcommunities.org/directory/residencies/airnewport",
       "summary": "The Newport artist residency, AiR/Newport is designed to encourage the creative, intellectual and personal growth of emerging to established visual artists and designers by giving them the time, space and solitude needed to create, apart from the daily demands of production and deadlines.",
       "source": "Artist Communities Alliance",
-      "published": "2026-10-05T15:28:19.781358+00:00",
+      "published": "2026-10-06T00:31:49.125398+00:00",
       "deadline": null,
       "tags": [
         "residency"
@@ -515,7 +515,7 @@
       "link": "https://artistcommunities.org/directory/residencies/adriftproject-residency-inc",
       "summary": "adriftproject hosts artist residencies aboard SV Hawa for up to two residents at a time as we transit the lovely and diverse US east coast following good weather.",
       "source": "Artist Communities Alliance",
-      "published": "2026-10-05T15:28:19.780518+00:00",
+      "published": "2026-10-06T00:31:49.124541+00:00",
       "deadline": null,
       "tags": [
         "residency"
@@ -535,7 +535,7 @@
       "link": "https://artistcommunities.org/directory/residencies/activate-residency",
       "summary": "Boston Center for the Arts’ ACTivate Residency will award seven-day residencies to individuals and small groups of artists to create site-responsive work in the historic Cyclorama. The work can be performative and/or visual in nature and is meant to activate artists and our spaces.",
       "source": "Artist Communities Alliance",
-      "published": "2026-10-05T15:28:19.780024+00:00",
+      "published": "2026-10-06T00:31:49.124052+00:00",
       "deadline": null,
       "tags": [
         "grant",
@@ -556,7 +556,7 @@
       "link": "https://artistcommunities.org/directory/residencies/acre-academic-and-creative-research-residency-programme",
       "summary": "The ACRE (Academic and Creative Research) Residency Programme invites artists, researchers, writers, and creative practitioners to live and work at Braziers Park while developing independent projects.",
       "source": "Artist Communities Alliance",
-      "published": "2026-10-05T15:28:19.779034+00:00",
+      "published": "2026-10-06T00:31:49.123013+00:00",
       "deadline": null,
       "tags": [
         "residency"
@@ -579,7 +579,7 @@
       "link": "https://artistcommunities.org/directory/residencies/acre",
       "summary": "ACRE’s Residency Program takes place every summer in the Driftless region of Wisconsin.",
       "source": "Artist Communities Alliance",
-      "published": "2026-10-05T15:28:19.778901+00:00",
+      "published": "2026-10-06T00:31:49.122892+00:00",
       "deadline": null,
       "tags": [
         "residency"
@@ -615,7 +615,7 @@
       "link": "https://artistcommunities.org/directory/residencies/ace-ashevillechicago-exchange-choreographic-fellowship",
       "summary": "An ACE Fellowship in Dance provides immersive creative time and space to selected artists, free of charge.",
       "source": "Artist Communities Alliance",
-      "published": "2026-10-05T15:28:19.778559+00:00",
+      "published": "2026-10-06T00:31:49.122542+00:00",
       "deadline": null,
       "tags": [
         "grant",
@@ -641,7 +641,7 @@
       "link": "https://artistcommunities.org/directory/residencies/aca-soundscape-field-station-canaveral-national-seashore",
       "summary": "ACA Soundscape Field Station at Canaveral National Seashore is a partnership between Atlantic Center for the Arts and Canaveral National Seashore.",
       "source": "Artist Communities Alliance",
-      "published": "2026-10-05T15:28:19.777721+00:00",
+      "published": "2026-10-06T00:31:49.121715+00:00",
       "deadline": null,
       "tags": [
         "residency"
@@ -665,7 +665,7 @@
       "link": "https://artistcommunities.org/directory/residencies/aca-sample-residency-0",
       "summary": "Description here.",
       "source": "Artist Communities Alliance",
-      "published": "2026-10-05T15:28:19.777283+00:00",
+      "published": "2026-10-06T00:31:49.121316+00:00",
       "deadline": null,
       "tags": [
         "residency"
@@ -688,7 +688,7 @@
       "link": "https://artistcommunities.org/directory/residencies/abbey-foundation-studio-grant",
       "summary": "Beginning in 2025, The Abbey Foundation will begin to offer 6 month residencies for day use of the 850 square foot studio space. There is also a screened in area attached to the indoor studio which is available for large scale works.",
       "source": "Artist Communities Alliance",
-      "published": "2026-10-05T15:28:19.776274+00:00",
+      "published": "2026-10-06T00:31:49.120306+00:00",
       "deadline": null,
       "tags": [
         "grant",
@@ -706,7 +706,7 @@
       "link": "https://artistcommunities.org/directory/residencies/ap-residency",
       "summary": "For 20 years, Proyecto´ace has welcomed thousands of artists from around the world.",
       "source": "Artist Communities Alliance",
-      "published": "2026-10-05T15:28:19.775678+00:00",
+      "published": "2026-10-06T00:31:49.119714+00:00",
       "deadline": null,
       "tags": [
         "residency"
@@ -731,7 +731,7 @@
       "link": "https://artistcommunities.org/directory/residencies/2027-eutopia-art-residencies-greece",
       "summary": "Eutopia — from the Greek εὖ (good) and τόπος (place). Not a utopia. A real place, with real conditions, designed for the kind of creative work that requires time, atmosphere, and human connection.",
       "source": "Artist Communities Alliance",
-      "published": "2026-10-05T15:28:19.774835+00:00",
+      "published": "2026-10-06T00:31:49.118866+00:00",
       "deadline": null,
       "tags": [
         "residency"
@@ -748,7 +748,7 @@
       "link": "https://artistcommunities.org/directory/residencies/2027-edgar-heap-birds-family-artist-residency",
       "summary": "The Tyler School of Art and Architecture invites applications for a spring 2027 residency in the Art Department, which encompasses undergraduate and graduate programs in Ceramics, Fibers and Material Studies, Glass, Metals/Jewelry/CAD-CAM, Painting, Photography, Printmaking, and Sculpture.",
       "source": "Artist Communities Alliance",
-      "published": "2026-10-05T15:28:19.773612+00:00",
+      "published": "2026-10-06T00:31:49.117642+00:00",
       "deadline": null,
       "tags": [
         "residency"
@@ -777,7 +777,7 @@
       "link": "https://artistcommunities.org/directory/residencies/2026-springsummer-ceramics-artist-residency-program",
       "summary": "The Eureka Springs School of the arts is looking for practicing ceramics artists who are seeking focused time to refine their skills, create work and/or explore new avenues within their medium.",
       "source": "Artist Communities Alliance",
-      "published": "2026-10-05T15:28:19.772642+00:00",
+      "published": "2026-10-06T00:31:49.116666+00:00",
       "deadline": null,
       "tags": [
         "residency"
@@ -800,7 +800,7 @@
       "link": "https://artistcommunities.org/directory/residencies/2026-mentored-woodworking-residency-doug-stowe",
       "summary": "The Eureka Springs School of the Arts is looking for practicing woodworkers and craftspeople seeking focused time to refine their abilities, create new work, and expand their knowledge in a Mentored Residency under Master Woodcrafter, Doug Stowe.",
       "source": "Artist Communities Alliance",
-      "published": "2026-10-05T15:28:19.771540+00:00",
+      "published": "2026-10-06T00:31:49.115569+00:00",
       "deadline": null,
       "tags": [
         "residency"
@@ -820,7 +820,7 @@
       "link": "https://artistcommunities.org/directory/residencies/2025-oolite-arts-liveinart-residency-program",
       "summary": "The Oolite Arts’ Live.In.Art Residency Program provides artists with the time, space, and resources to reach new levels of excellence.",
       "source": "Artist Communities Alliance",
-      "published": "2026-10-05T15:28:19.770632+00:00",
+      "published": "2026-10-06T00:31:49.114667+00:00",
       "deadline": null,
       "tags": [
         "residency"
@@ -844,7 +844,7 @@
       "link": "https://artistcommunities.org/directory/residencies/2025-artist-writer-residencies-gibraltar-point-toronto-island",
       "summary": "Are you an artist or writer seeking a space to focus on your next project? Look no further! We're thrilled to share that we have just opened applications for self-directed residencies for 2025.",
       "source": "Artist Communities Alliance",
-      "published": "2026-10-05T15:28:19.769588+00:00",
+      "published": "2026-10-06T00:31:49.113635+00:00",
       "deadline": null,
       "tags": [
         "residency"
@@ -864,7 +864,7 @@
       "link": "https://artistcommunities.org/directory/residencies/100-west-corsicana-artist-writer-residency",
       "summary": "CORSICANA ARTIST & WRITER RESIDENCY supports the creation and presentation of art and literature with generous provisions and historic space. Founded in 2012 at 100 West, and organized in 2017 as a 501(c)(3) nonprofit.",
       "source": "Artist Communities Alliance",
-      "published": "2026-10-05T15:28:19.768496+00:00",
+      "published": "2026-10-06T00:31:49.112589+00:00",
       "deadline": null,
       "tags": [
         "residency"
@@ -884,7 +884,7 @@
       "link": "https://artistcommunities.org/directory/residencies/kathmandu-international-artist-residency-kiar-2027",
       "summary": "Nestled between India and China, Nepal is a land of breathtaking landscapes, rich traditions, and diverse cultures. Home to the majestic Himalayas—including Mount Everest—Nepal offers everything from subtropical valleys with banana trees to alpine forests with grazing yaks.",
       "source": "Artist Communities Alliance",
-      "published": "2026-10-05T15:28:19.767223+00:00",
+      "published": "2026-10-06T00:31:49.111395+00:00",
       "deadline": null,
       "tags": [
         "residency"
@@ -904,7 +904,7 @@
       "link": "https://artistcommunities.org/directory/residencies/kala-yatra-artist-residency-nepal-2026-27",
       "summary": "Kala Yatra invites applications for its concept-driven, community-engaged artist residency program in Kathmandu, Nepal.",
       "source": "Artist Communities Alliance",
-      "published": "2026-10-05T15:28:19.766415+00:00",
+      "published": "2026-10-06T00:31:49.110628+00:00",
       "deadline": null,
       "tags": [
         "residency"
@@ -935,7 +935,7 @@
       "link": "https://artistcommunities.org/directory/residencies/artsindustry-residency",
       "summary": "For more than fifty years, Arts/Industry has been connecting artists with the resources, technology, and materials of Kohler Co., and providing a place to explore new ideas, processes, and perspectives. Artists from all disciplines are encouraged to apply.",
       "source": "Artist Communities Alliance",
-      "published": "2026-10-05T15:28:19.765136+00:00",
+      "published": "2026-10-06T00:31:49.109333+00:00",
       "deadline": null,
       "tags": [
         "residency"
@@ -1105,51 +1105,6 @@
       ]
     },
     {
-      "id": "777ff35e99af38fbd7d66773b223664e3ec0fc63",
-      "title": "Three Outdoor Sculpture Opportunities",
-      "link": "https://artdeadline.com/ops/jfsm/",
-      "summary": "International Deadline: November 15, 2026 – Artists with experience with outdoor sites are invited to pre-qualify to create art for multi-disciplinary installation that will interpret the history of the Holocaust and the post-Holocaust stories of survivors. Up to $200,000 budget...",
-      "source": "ArtDeadline",
-      "published": "2026-09-29T07:00:02+00:00",
-      "deadline": "2026-11-15",
-      "tags": [
-        "opportunity"
-      ],
-      "region": null,
-      "kind": "opportunity",
-      "description": "International Deadline: November 15, 2026 – Artists with experience with outdoor sites are invited to pre-qualify to create art for multi-disciplinary installation that will interpret the history of the Holocaust and the post-Holocaust stories of survivors. Up to $200,000 budget...",
-      "location_mode": "not_specified",
-      "required_roles": [
-        "Artist"
-      ],
-      "project_types": [
-        "Installation",
-        "Sculpture"
-      ]
-    },
-    {
-      "id": "8ccc87efc291a8076f66eb63789eb26fc0f1d321",
-      "title": "The Nice Grant",
-      "link": "https://artdeadline.com/ops/nice/",
-      "summary": "U.S. National Deadline: January 20, 2027 – The Nice Grant is an unrestricted grant of $500 that supports emerging and mid-career artists. This annual grant selects two artists to enhance their creative practices. Winners will receive unrestricted grant funds, residency…",
-      "source": "ArtDeadline",
-      "published": "2026-09-28T07:00:49+00:00",
-      "deadline": "2027-01-20",
-      "tags": [
-        "grant",
-        "opportunity",
-        "residency"
-      ],
-      "region": null,
-      "kind": "opportunity",
-      "description": "U.S. National Deadline: January 20, 2027 – The Nice Grant is an unrestricted grant of $500 that supports emerging and mid-career artists. This annual grant selects two artists to enhance their creative practices. Winners will receive unrestricted grant funds, residency…",
-      "opportunity_type": "residency",
-      "location_mode": "not_specified",
-      "required_roles": [
-        "Artist"
-      ]
-    },
-    {
       "id": "a271f78c6aa6f10b3219e4ee2a0a3a12182c1c04",
       "title": "NYFA Classifieds Now Offers Account Creation, Unlocking Personalized Recommendations for Listings and Professional Development",
       "link": "https://www.nyfa.org/news/nyfa-classifieds-now-offers-account-creation-unlocking-personalized-recommendations-for-listings-and-professional-development/",
@@ -1171,6 +1126,29 @@
       ]
     },
     {
+      "id": "e011f106eea86ee921b4a46fcb76d942ca96ff2f",
+      "title": "Yosemite Renaissance 42",
+      "link": "https://artdeadline.com/ops/yosemite/",
+      "summary": "International Deadline: December 21, 2026 – The Yosemite Renaissance Exhibition is an annual exhibit that offers an opportunity for artists inspired by Yosemite and the California Sierra Nevada region to display, promote and sell their art. Multiple venues, large cash awards…",
+      "source": "ArtDeadline",
+      "published": "2026-09-15T06:58:17+00:00",
+      "deadline": "2026-12-21",
+      "tags": [
+        "opportunity"
+      ],
+      "region": "West",
+      "kind": "opportunity",
+      "description": "International Deadline: December 21, 2026 – The Yosemite Renaissance Exhibition is an annual exhibit that offers an opportunity for artists inspired by Yosemite and the California Sierra Nevada region to display, promote and sell their art. Multiple venues, large cash awards…",
+      "opportunity_type": "exhibition_opportunity",
+      "location_mode": "not_specified",
+      "required_roles": [
+        "Artist"
+      ],
+      "project_types": [
+        "Exhibition"
+      ]
+    },
+    {
       "id": "07bbc2fa3f1e02d47dda6f452184989d979aedb6",
       "title": "Apply for a 2027–2028 Fellowship at the Smithsonian American Art Museum",
       "link": "https://hyperallergic.com/apply-for-a-2027-2028-fellowship-at-the-smithsonian-american-art-museum/",
@@ -1189,6 +1167,31 @@
       "location_mode": "not_specified",
       "project_types": [
         "Research / Prototype"
+      ]
+    },
+    {
+      "id": "f829ebd51878d7aa1dccf49fb7a5bd28a26f7d58",
+      "title": "12th International Exhibition: Abstract Mind 2027",
+      "link": "https://artdeadline.com/ops/cica-2/",
+      "summary": "International Deadline: October 23, 2026 – CICA Museum invites artists from around the world to participate in “Abstract Mind 2027,” the 12th International Exhibition on Abstract Art. We welcome works in photography, 2D digital art, video art, interactive art, painting, sculpture…",
+      "source": "ArtDeadline",
+      "published": "2026-09-07T06:58:10+00:00",
+      "deadline": "2026-10-23",
+      "tags": [
+        "opportunity"
+      ],
+      "region": null,
+      "kind": "opportunity",
+      "description": "International Deadline: October 23, 2026 – CICA Museum invites artists from around the world to participate in “Abstract Mind 2027,” the 12th International Exhibition on Abstract Art. We welcome works in photography, 2D digital art, video art, interactive art, painting, sculpture…",
+      "opportunity_type": "exhibition_opportunity",
+      "location_mode": "not_specified",
+      "required_roles": [
+        "Artist"
+      ],
+      "project_types": [
+        "Interactive Installation",
+        "Exhibition",
+        "Sculpture"
       ]
     },
     {
@@ -1254,6 +1257,25 @@
       ]
     },
     {
+      "id": "baa97b77671fd9767e5390720de2dce16fb1b6fb",
+      "title": "Rotterdam Photo 2026",
+      "link": "https://artdeadline.com/ops/rphoto/",
+      "summary": "International Deadline: November 4, 2026 - Rotterdam Photo is an international photography festival for contemporary image-making. Since 2016, we have brought together emerging and established artists from around the world, presenting in public space...",
+      "source": "ArtDeadline",
+      "published": "2026-08-27T07:00:38+00:00",
+      "deadline": "2026-11-04",
+      "tags": [
+        "opportunity"
+      ],
+      "region": null,
+      "kind": "opportunity",
+      "description": "International Deadline: November 4, 2026 - Rotterdam Photo is an international photography festival for contemporary image-making. Since 2016, we have brought together emerging and established artists from around the world, presenting in public space...",
+      "location_mode": "not_specified",
+      "required_roles": [
+        "Artist"
+      ]
+    },
+    {
       "id": "6b5a332e77716afb01da82edc537f1b434c7367b",
       "title": "UT Austin’s Harry Ransom Center Provides Funded Fellowships in the Arts and Humanities",
       "link": "https://hyperallergic.com/ut-austins-harry-ransom-center-provides-funded-fellowships-in-the-arts-and-humanities/",
@@ -1294,6 +1316,25 @@
       "kind": "opportunity",
       "description": "Residencies, fellowships, grants, and open calls from the Erie Canal Museum, Jentel Artist Residency, Princeton University, and more in our monthly list of opportunities for artists, writers, and art workers.",
       "opportunity_type": "residency",
+      "location_mode": "not_specified",
+      "required_roles": [
+        "Artist"
+      ]
+    },
+    {
+      "id": "af82db3fb37044484f5331334b72a46b9438f258",
+      "title": "Art in Action 2027",
+      "link": "https://artdeadline.com/ops/cica-museum/",
+      "summary": "International Deadline: Ocotebr 23, 2026 – Art in Action aims to explore new ways of presenting art and creative projects while providing meaningful experiences and opportunities for professional networking among artists, art enthusiasts, and local and international...",
+      "source": "ArtDeadline",
+      "published": "2026-08-03T06:01:18+00:00",
+      "deadline": null,
+      "tags": [
+        "opportunity"
+      ],
+      "region": null,
+      "kind": "opportunity",
+      "description": "International Deadline: Ocotebr 23, 2026 – Art in Action aims to explore new ways of presenting art and creative projects while providing meaningful experiences and opportunities for professional networking among artists, art enthusiasts, and local and international...",
       "location_mode": "not_specified",
       "required_roles": [
         "Artist"
