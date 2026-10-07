@@ -1,8 +1,8 @@
 {
   "contract_version": "artelier_opportunities_feed_v1",
   "title": "Creative Opportunities",
-  "updated": "2026-10-07T14:08:55.153723+00:00",
-  "count": 274,
+  "updated": "2026-10-07T23:26:01.845038+00:00",
+  "count": 267,
   "items": [
     {
       "id": "f37770410b41c8e56d052406dac3ee31423df4a2",
@@ -10,7 +10,7 @@
       "link": "https://www.grants.gov/search-results-detail/363880",
       "summary": "National Endowment for the Humanities | opportunity 20261209-EDK-EDU",
       "source": "Grants.gov",
-      "published": "2026-10-07T14:08:30.190876+00:00",
+      "published": "2026-10-07T23:25:34.118369+00:00",
       "deadline": "2026-12-09",
       "tags": [
         "grant"
@@ -27,7 +27,7 @@
       "link": "https://www.grants.gov/search-results-detail/361480",
       "summary": "National Endowment for the Humanities | opportunity 20260511-PCS",
       "source": "Grants.gov",
-      "published": "2026-10-07T14:08:30.190598+00:00",
+      "published": "2026-10-07T23:25:34.117871+00:00",
       "deadline": "2026-12-15",
       "tags": [
         "grant"
@@ -44,7 +44,7 @@
       "link": "https://www.grants.gov/search-results-detail/363225",
       "summary": "Bureau Of Educational and Cultural Affairs | opportunity DFOP0017180",
       "source": "Grants.gov",
-      "published": "2026-10-07T14:08:30.190088+00:00",
+      "published": "2026-10-07T23:25:34.117013+00:00",
       "deadline": null,
       "tags": [
         "grant"
@@ -61,7 +61,7 @@
       "link": "https://www.grants.gov/search-results-detail/363773",
       "summary": "Institute of Museum and Library Services | opportunity NLG-M-FY27",
       "source": "Grants.gov",
-      "published": "2026-10-07T14:08:30.189352+00:00",
+      "published": "2026-10-07T23:25:34.115792+00:00",
       "deadline": "2026-11-13",
       "tags": [
         "grant"
@@ -78,7 +78,7 @@
       "link": "https://www.grants.gov/search-results-detail/364030",
       "summary": "National Endowment for the Humanities | opportunity 20270113-PJ",
       "source": "Grants.gov",
-      "published": "2026-10-07T14:08:29.477076+00:00",
+      "published": "2026-10-07T23:25:33.390375+00:00",
       "deadline": "2027-01-13",
       "tags": [
         "grant"
@@ -95,7 +95,7 @@
       "link": "https://www.grants.gov/search-results-detail/363762",
       "summary": "Institute of Museum and Library Services | opportunity NAG-ENHANCEMENT-FY27",
       "source": "Grants.gov",
-      "published": "2026-10-07T14:08:28.776842+00:00",
+      "published": "2026-10-07T23:25:32.687556+00:00",
       "deadline": "2026-11-13",
       "tags": [
         "grant"
@@ -112,7 +112,7 @@
       "link": "https://www.grants.gov/search-results-detail/363763",
       "summary": "Institute of Museum and Library Services | opportunity NAG-HAWAIIAN-FY27",
       "source": "Grants.gov",
-      "published": "2026-10-07T14:08:28.776524+00:00",
+      "published": "2026-10-07T23:25:32.686943+00:00",
       "deadline": "2026-11-13",
       "tags": [
         "grant"
@@ -129,7 +129,7 @@
       "link": "https://www.grants.gov/search-results-detail/363765",
       "summary": "Institute of Museum and Library Services | opportunity LB21-FY27",
       "source": "Grants.gov",
-      "published": "2026-10-07T14:08:28.776203+00:00",
+      "published": "2026-10-07T23:25:32.686369+00:00",
       "deadline": "2026-11-13",
       "tags": [
         "grant"
@@ -146,7 +146,7 @@
       "link": "https://www.grants.gov/search-results-detail/363767",
       "summary": "Institute of Museum and Library Services | opportunity NAG-BASIC-FY27",
       "source": "Grants.gov",
-      "published": "2026-10-07T14:08:28.775868+00:00",
+      "published": "2026-10-07T23:25:32.685767+00:00",
       "deadline": "2026-11-13",
       "tags": [
         "grant"
@@ -163,7 +163,7 @@
       "link": "https://www.grants.gov/search-results-detail/322314",
       "summary": "U.S. Mission to Cambodia | opportunity PAS-CB-600-20-PAS-0003",
       "source": "Grants.gov",
-      "published": "2026-10-07T14:08:28.775507+00:00",
+      "published": "2026-10-07T23:25:32.685117+00:00",
       "deadline": null,
       "tags": [
         "grant"
@@ -180,7 +180,7 @@
       "link": "https://www.grants.gov/search-results-detail/363728",
       "summary": "National Park Service | opportunity P27AS00032",
       "source": "Grants.gov",
-      "published": "2026-10-07T14:08:28.775098+00:00",
+      "published": "2026-10-07T23:25:32.684418+00:00",
       "deadline": "2026-11-04",
       "tags": [
         "grant"
@@ -197,7 +197,7 @@
       "link": "https://www.grants.gov/search-results-detail/363766",
       "summary": "Institute of Museum and Library Services | opportunity NLG-LIBRARIES-FY27",
       "source": "Grants.gov",
-      "published": "2026-10-07T14:08:28.774775+00:00",
+      "published": "2026-10-07T23:25:32.683831+00:00",
       "deadline": "2026-11-13",
       "tags": [
         "grant"
@@ -214,7 +214,7 @@
       "link": "https://www.grants.gov/search-results-detail/363775",
       "summary": "Institute of Museum and Library Services | opportunity NANH-FY27",
       "source": "Grants.gov",
-      "published": "2026-10-07T14:08:28.774444+00:00",
+      "published": "2026-10-07T23:25:32.683200+00:00",
       "deadline": "2026-11-13",
       "tags": [
         "grant"
@@ -231,7 +231,7 @@
       "link": "https://www.grants.gov/search-results-detail/363768",
       "summary": "Institute of Museum and Library Services | opportunity MFA-FY27",
       "source": "Grants.gov",
-      "published": "2026-10-07T14:08:28.774133+00:00",
+      "published": "2026-10-07T23:25:32.682696+00:00",
       "deadline": "2026-11-13",
       "tags": [
         "grant"
@@ -248,7 +248,7 @@
       "link": "https://www.grants.gov/search-results-detail/363772",
       "summary": "Institute of Museum and Library Services | opportunity ALHC-FY27",
       "source": "Grants.gov",
-      "published": "2026-10-07T14:08:28.773780+00:00",
+      "published": "2026-10-07T23:25:32.682095+00:00",
       "deadline": "2026-11-13",
       "tags": [
         "grant"
@@ -265,7 +265,7 @@
       "link": "https://www.grants.gov/search-results-detail/363769",
       "summary": "Institute of Museum and Library Services | opportunity 21MP-FY27",
       "source": "Grants.gov",
-      "published": "2026-10-07T14:08:28.773463+00:00",
+      "published": "2026-10-07T23:25:32.681537+00:00",
       "deadline": "2026-11-13",
       "tags": [
         "grant"
@@ -282,7 +282,7 @@
       "link": "https://www.grants.gov/search-results-detail/363776",
       "summary": "Institute of Museum and Library Services | opportunity ME-FY27",
       "source": "Grants.gov",
-      "published": "2026-10-07T14:08:28.772850+00:00",
+      "published": "2026-10-07T23:25:32.680451+00:00",
       "deadline": "2026-11-13",
       "tags": [
         "grant"
@@ -299,7 +299,7 @@
       "link": "https://www.grants.gov/search-results-detail/363770",
       "summary": "Institute of Museum and Library Services | opportunity AAHC-FY27",
       "source": "Grants.gov",
-      "published": "2026-10-07T14:08:28.772507+00:00",
+      "published": "2026-10-07T23:25:32.679816+00:00",
       "deadline": "2026-11-13",
       "tags": [
         "grant"
@@ -316,7 +316,7 @@
       "link": "https://www.grants.gov/search-results-detail/363771",
       "summary": "Institute of Museum and Library Services | opportunity IGSM-FY27",
       "source": "Grants.gov",
-      "published": "2026-10-07T14:08:28.772094+00:00",
+      "published": "2026-10-07T23:25:32.679209+00:00",
       "deadline": "2026-11-13",
       "tags": [
         "grant"
@@ -333,7 +333,7 @@
       "link": "https://www.grants.gov/search-results-detail/362984",
       "summary": "National Endowment for the Arts | opportunity 2027FCAHDOM02",
       "source": "Grants.gov",
-      "published": "2026-10-07T14:08:28.110690+00:00",
+      "published": "2026-10-07T23:25:31.961930+00:00",
       "deadline": "2027-06-07",
       "tags": [
         "grant"
@@ -350,7 +350,7 @@
       "link": "https://www.grants.gov/search-results-detail/362982",
       "summary": "National Endowment for the Arts | opportunity 2027FCAHDOM01",
       "source": "Grants.gov",
-      "published": "2026-10-07T14:08:28.110359+00:00",
+      "published": "2026-10-07T23:25:31.961288+00:00",
       "deadline": "2026-12-07",
       "tags": [
         "grant"
@@ -367,7 +367,7 @@
       "link": "https://www.grants.gov/search-results-detail/362983",
       "summary": "National Endowment for the Arts | opportunity 2027FCAH02",
       "source": "Grants.gov",
-      "published": "2026-10-07T14:08:28.110004+00:00",
+      "published": "2026-10-07T23:25:31.960673+00:00",
       "deadline": "2027-03-08",
       "tags": [
         "grant"
@@ -384,7 +384,7 @@
       "link": "https://www.grants.gov/search-results-detail/361554",
       "summary": "Bureau Of Educational and Cultural Affairs | opportunity DFOP0017204",
       "source": "Grants.gov",
-      "published": "2026-10-07T14:08:28.108995+00:00",
+      "published": "2026-10-07T23:25:31.958929+00:00",
       "deadline": null,
       "tags": [
         "grant"
@@ -401,7 +401,7 @@
       "link": "https://artistcommunities.org/directory/residencies/alderworks-alaska-writers-and-artists-retreat",
       "summary": "Alderworks welcomes writers and artists every summer to work in cabins on the edge of the wilderness in historic and stunningly beautiful Dyea near Skagway, Alaska. We host residents in three cabins during 4-6 week residencies. Artists also have access to a studio building.",
       "source": "Artist Communities Alliance",
-      "published": "2026-10-07T14:08:27.066050+00:00",
+      "published": "2026-10-07T23:25:20.975462+00:00",
       "deadline": null,
       "tags": [
         "residency"
@@ -421,7 +421,7 @@
       "link": "https://artistcommunities.org/directory/residencies/alchemy-artists-residency",
       "summary": "ALCHEMY: a n artist-led international residency where food, art, and community come together.",
       "source": "Artist Communities Alliance",
-      "published": "2026-10-07T14:08:27.065692+00:00",
+      "published": "2026-10-07T23:25:20.974838+00:00",
       "deadline": null,
       "tags": [
         "residency"
@@ -454,7 +454,7 @@
       "link": "https://artistcommunities.org/directory/residencies/alaska-air-bunnell-street-arts-center-artist-residence",
       "summary": "Bunnell Street Arts Center's \"Alaska AIR\" Artist-in-Residency program seeks international, US and Alaska artists looking to create new work and deeply engage Bunnell’s community.",
       "source": "Artist Communities Alliance",
-      "published": "2026-10-07T14:08:27.065465+00:00",
+      "published": "2026-10-07T23:25:20.974457+00:00",
       "deadline": null,
       "tags": [
         "residency"
@@ -474,7 +474,7 @@
       "link": "https://artistcommunities.org/directory/residencies/alaska-chulitna-lodge-wilderness-retreat-creative-residency",
       "summary": "Chulitna Lodge Wilderness Retreat seeks to provide the time, space, clarity and facilities for all forms of creative professionals or enthusiastic hobbyists to make and meditate.",
       "source": "Artist Communities Alliance",
-      "published": "2026-10-07T14:08:27.065262+00:00",
+      "published": "2026-10-07T23:25:20.974026+00:00",
       "deadline": null,
       "tags": [
         "residency"
@@ -491,7 +491,7 @@
       "link": "https://artistcommunities.org/directory/residencies/al-mickey-quinlan-artist-residency",
       "summary": "Whitefish Bay, located on Wisconsin's Door Peninsula , has long been a creative haven for artists who were an important part of the local community and brought the process of creating art into daily life.",
       "source": "Artist Communities Alliance",
-      "published": "2026-10-07T14:08:27.065168+00:00",
+      "published": "2026-10-07T23:25:20.973857+00:00",
       "deadline": null,
       "tags": [
         "residency"
@@ -511,7 +511,7 @@
       "link": "https://artistcommunities.org/directory/residencies/airnewport",
       "summary": "The Newport artist residency, AiR/Newport is designed to encourage the creative, intellectual and personal growth of emerging to established visual artists and designers by giving them the time, space and solitude needed to create, apart from the daily demands of production and deadlines.",
       "source": "Artist Communities Alliance",
-      "published": "2026-10-07T14:08:27.064503+00:00",
+      "published": "2026-10-07T23:25:20.972760+00:00",
       "deadline": null,
       "tags": [
         "residency"
@@ -532,7 +532,7 @@
       "link": "https://artistcommunities.org/directory/residencies/adriftproject-residency-inc",
       "summary": "adriftproject hosts artist residencies aboard SV Hawa for up to two residents at a time as we transit the lovely and diverse US east coast following good weather.",
       "source": "Artist Communities Alliance",
-      "published": "2026-10-07T14:08:27.064017+00:00",
+      "published": "2026-10-07T23:25:20.971944+00:00",
       "deadline": null,
       "tags": [
         "residency"
@@ -552,7 +552,7 @@
       "link": "https://artistcommunities.org/directory/residencies/activate-residency",
       "summary": "Boston Center for the Arts’ ACTivate Residency will award seven-day residencies to individuals and small groups of artists to create site-responsive work in the historic Cyclorama. The work can be performative and/or visual in nature and is meant to activate artists and our spaces.",
       "source": "Artist Communities Alliance",
-      "published": "2026-10-07T14:08:27.063720+00:00",
+      "published": "2026-10-07T23:25:20.971451+00:00",
       "deadline": null,
       "tags": [
         "grant",
@@ -573,7 +573,7 @@
       "link": "https://artistcommunities.org/directory/residencies/acre-academic-and-creative-research-residency-programme",
       "summary": "The ACRE (Academic and Creative Research) Residency Programme invites artists, researchers, writers, and creative practitioners to live and work at Braziers Park while developing independent projects.",
       "source": "Artist Communities Alliance",
-      "published": "2026-10-07T14:08:27.063138+00:00",
+      "published": "2026-10-07T23:25:20.970480+00:00",
       "deadline": null,
       "tags": [
         "residency"
@@ -596,7 +596,7 @@
       "link": "https://artistcommunities.org/directory/residencies/acre",
       "summary": "ACRE’s Residency Program takes place every summer in the Driftless region of Wisconsin.",
       "source": "Artist Communities Alliance",
-      "published": "2026-10-07T14:08:27.063064+00:00",
+      "published": "2026-10-07T23:25:20.970372+00:00",
       "deadline": null,
       "tags": [
         "residency"
@@ -632,7 +632,7 @@
       "link": "https://artistcommunities.org/directory/residencies/ace-ashevillechicago-exchange-choreographic-fellowship",
       "summary": "An ACE Fellowship in Dance provides immersive creative time and space to selected artists, free of charge.",
       "source": "Artist Communities Alliance",
-      "published": "2026-10-07T14:08:27.062866+00:00",
+      "published": "2026-10-07T23:25:20.970026+00:00",
       "deadline": null,
       "tags": [
         "grant",
@@ -658,7 +658,7 @@
       "link": "https://artistcommunities.org/directory/residencies/aca-soundscape-field-station-canaveral-national-seashore",
       "summary": "ACA Soundscape Field Station at Canaveral National Seashore is a partnership between Atlantic Center for the Arts and Canaveral National Seashore.",
       "source": "Artist Communities Alliance",
-      "published": "2026-10-07T14:08:27.062373+00:00",
+      "published": "2026-10-07T23:25:20.969201+00:00",
       "deadline": null,
       "tags": [
         "residency"
@@ -682,7 +682,7 @@
       "link": "https://artistcommunities.org/directory/residencies/aca-sample-residency-0",
       "summary": "Description here.",
       "source": "Artist Communities Alliance",
-      "published": "2026-10-07T14:08:27.062142+00:00",
+      "published": "2026-10-07T23:25:20.968806+00:00",
       "deadline": null,
       "tags": [
         "residency"
@@ -705,7 +705,7 @@
       "link": "https://artistcommunities.org/directory/residencies/abbey-foundation-studio-grant",
       "summary": "Beginning in 2025, The Abbey Foundation will begin to offer 6 month residencies for day use of the 850 square foot studio space. There is also a screened in area attached to the indoor studio which is available for large scale works.",
       "source": "Artist Communities Alliance",
-      "published": "2026-10-07T14:08:27.061511+00:00",
+      "published": "2026-10-07T23:25:20.967792+00:00",
       "deadline": null,
       "tags": [
         "grant",
@@ -723,7 +723,7 @@
       "link": "https://artistcommunities.org/directory/residencies/ap-residency",
       "summary": "For 20 years, Proyecto´ace has welcomed thousands of artists from around the world.",
       "source": "Artist Communities Alliance",
-      "published": "2026-10-07T14:08:27.061178+00:00",
+      "published": "2026-10-07T23:25:20.967220+00:00",
       "deadline": null,
       "tags": [
         "residency"
@@ -748,7 +748,7 @@
       "link": "https://artistcommunities.org/directory/residencies/2027-eutopia-art-residencies-greece",
       "summary": "Eutopia — from the Greek εὖ (good) and τόπος (place). Not a utopia. A real place, with real conditions, designed for the kind of creative work that requires time, atmosphere, and human connection.",
       "source": "Artist Communities Alliance",
-      "published": "2026-10-07T14:08:27.060661+00:00",
+      "published": "2026-10-07T23:25:20.966395+00:00",
       "deadline": null,
       "tags": [
         "residency"
@@ -765,7 +765,7 @@
       "link": "https://artistcommunities.org/directory/residencies/2027-edgar-heap-birds-family-artist-residency",
       "summary": "The Tyler School of Art and Architecture invites applications for a spring 2027 residency in the Art Department, which encompasses undergraduate and graduate programs in Ceramics, Fibers and Material Studies, Glass, Metals/Jewelry/CAD-CAM, Painting, Photography, Printmaking, and Sculpture.",
       "source": "Artist Communities Alliance",
-      "published": "2026-10-07T14:08:27.059926+00:00",
+      "published": "2026-10-07T23:25:20.965173+00:00",
       "deadline": null,
       "tags": [
         "residency"
@@ -794,7 +794,7 @@
       "link": "https://artistcommunities.org/directory/residencies/2026-springsummer-ceramics-artist-residency-program",
       "summary": "The Eureka Springs School of the arts is looking for practicing ceramics artists who are seeking focused time to refine their skills, create work and/or explore new avenues within their medium.",
       "source": "Artist Communities Alliance",
-      "published": "2026-10-07T14:08:27.059368+00:00",
+      "published": "2026-10-07T23:25:20.964204+00:00",
       "deadline": null,
       "tags": [
         "residency"
@@ -817,7 +817,7 @@
       "link": "https://artistcommunities.org/directory/residencies/2026-mentored-woodworking-residency-doug-stowe",
       "summary": "The Eureka Springs School of the Arts is looking for practicing woodworkers and craftspeople seeking focused time to refine their abilities, create new work, and expand their knowledge in a Mentored Residency under Master Woodcrafter, Doug Stowe.",
       "source": "Artist Communities Alliance",
-      "published": "2026-10-07T14:08:27.058713+00:00",
+      "published": "2026-10-07T23:25:20.963112+00:00",
       "deadline": null,
       "tags": [
         "residency"
@@ -837,7 +837,7 @@
       "link": "https://artistcommunities.org/directory/residencies/2025-oolite-arts-liveinart-residency-program",
       "summary": "The Oolite Arts’ Live.In.Art Residency Program provides artists with the time, space, and resources to reach new levels of excellence.",
       "source": "Artist Communities Alliance",
-      "published": "2026-10-07T14:08:27.058187+00:00",
+      "published": "2026-10-07T23:25:20.962221+00:00",
       "deadline": null,
       "tags": [
         "residency"
@@ -861,7 +861,7 @@
       "link": "https://artistcommunities.org/directory/residencies/2025-artist-writer-residencies-gibraltar-point-toronto-island",
       "summary": "Are you an artist or writer seeking a space to focus on your next project? Look no further! We're thrilled to share that we have just opened applications for self-directed residencies for 2025.",
       "source": "Artist Communities Alliance",
-      "published": "2026-10-07T14:08:27.057558+00:00",
+      "published": "2026-10-07T23:25:20.961143+00:00",
       "deadline": null,
       "tags": [
         "residency"
@@ -881,7 +881,7 @@
       "link": "https://artistcommunities.org/directory/residencies/100-west-corsicana-artist-writer-residency",
       "summary": "CORSICANA ARTIST & WRITER RESIDENCY supports the creation and presentation of art and literature with generous provisions and historic space. Founded in 2012 at 100 West, and organized in 2017 as a 501(c)(3) nonprofit.",
       "source": "Artist Communities Alliance",
-      "published": "2026-10-07T14:08:27.056936+00:00",
+      "published": "2026-10-07T23:25:20.960046+00:00",
       "deadline": null,
       "tags": [
         "residency"
@@ -901,7 +901,7 @@
       "link": "https://artistcommunities.org/directory/residencies/kathmandu-international-artist-residency-kiar-2027",
       "summary": "Nestled between India and China, Nepal is a land of breathtaking landscapes, rich traditions, and diverse cultures. Home to the majestic Himalayas—including Mount Everest—Nepal offers everything from subtropical valleys with banana trees to alpine forests with grazing yaks.",
       "source": "Artist Communities Alliance",
-      "published": "2026-10-07T14:08:27.056230+00:00",
+      "published": "2026-10-07T23:25:20.958859+00:00",
       "deadline": null,
       "tags": [
         "residency"
@@ -921,7 +921,7 @@
       "link": "https://artistcommunities.org/directory/residencies/kala-yatra-artist-residency-nepal-2026-27",
       "summary": "Kala Yatra invites applications for its concept-driven, community-engaged artist residency program in Kathmandu, Nepal.",
       "source": "Artist Communities Alliance",
-      "published": "2026-10-07T14:08:27.055773+00:00",
+      "published": "2026-10-07T23:25:20.958061+00:00",
       "deadline": null,
       "tags": [
         "residency"
@@ -952,7 +952,7 @@
       "link": "https://artistcommunities.org/directory/residencies/artsindustry-residency",
       "summary": "For more than fifty years, Arts/Industry has been connecting artists with the resources, technology, and materials of Kohler Co., and providing a place to explore new ideas, processes, and perspectives. Artists from all disciplines are encouraged to apply.",
       "source": "Artist Communities Alliance",
-      "published": "2026-10-07T14:08:27.055029+00:00",
+      "published": "2026-10-07T23:25:20.956838+00:00",
       "deadline": null,
       "tags": [
         "residency"
@@ -1057,50 +1057,6 @@
       "required_roles": [
         "Artist"
       ]
-    },
-    {
-      "id": "a8187cdd3c9ade86a565b0e9288c38bb31d9a393",
-      "title": "Windgate Arts Residency in Wood",
-      "link": "https://artdeadline.com/ops/warp/",
-      "summary": "U.S. Multi-State Deadline: October 26, 2026 – We invite applications for the 2027 session from artists who work in the medium of wood and are pursuing research-based inquiries into sustainable creative practice. The Residency culminates in a solo exhibition…",
-      "source": "ArtDeadline",
-      "published": "2026-10-01T06:59:16+00:00",
-      "deadline": "2026-10-26",
-      "tags": [
-        "opportunity",
-        "residency"
-      ],
-      "region": null,
-      "kind": "opportunity",
-      "description": "U.S. Multi-State Deadline: October 26, 2026 – We invite applications for the 2027 session from artists who work in the medium of wood and are pursuing research-based inquiries into sustainable creative practice. The Residency culminates in a solo exhibition…",
-      "opportunity_type": "residency",
-      "location_mode": "not_specified",
-      "required_roles": [
-        "Artist"
-      ],
-      "project_types": [
-        "Exhibition",
-        "Research / Prototype"
-      ],
-      "materials": [
-        "Wood"
-      ]
-    },
-    {
-      "id": "b4a6e5d62aa9135e8eabf774c2b5d801595331df",
-      "title": "Communication Arts 2027 Illustration Competition",
-      "link": "https://artdeadline.com/ops/ca/",
-      "summary": "International Deadline: January 8, 2027 – Enter the most prestigious competition for creativity in illustration, the Communication Arts Illustration Competition. Any illustration first published or produced from January 2026 through January 2027 is eligible…",
-      "source": "ArtDeadline",
-      "published": "2026-10-01T06:58:28+00:00",
-      "deadline": "2027-01-08",
-      "tags": [
-        "opportunity"
-      ],
-      "region": null,
-      "kind": "opportunity",
-      "description": "International Deadline: January 8, 2027 – Enter the most prestigious competition for creativity in illustration, the Communication Arts Illustration Competition. Any illustration first published or produced from January 2026 through January 2027 is eligible…",
-      "location_mode": "not_specified"
     },
     {
       "id": "6173a09212350aaeff34cb1472f506aa493113c4",
@@ -1452,6 +1408,126 @@
       ]
     },
     {
+      "id": "96f4e8da6d11e3961378dd44ddeed37046433a6a",
+      "title": "AQUA COSMOS: The Hudson Canyon",
+      "link": "https://data.cityofnewyork.us/d/3r2x-bnmj",
+      "summary": "by Anita Glesta · Projection · Brooklyn Bridge abutment at Brooklyn Bridge Park, New York · 2026",
+      "source": "NYC Temporary Public Art",
+      "published": "2026-01-01T00:00:00+00:00",
+      "deadline": null,
+      "tags": [
+        "public art"
+      ],
+      "region": "Northeast",
+      "kind": "archive",
+      "image": null
+    },
+    {
+      "id": "34a8475b18f9e01e307e5f3f13d2f95f875d98bc",
+      "title": "Public Address",
+      "link": "https://data.cityofnewyork.us/d/3r2x-bnmj",
+      "summary": "by Alex Strada · Signage · Various Streetlight poles and drive rails, New York · 2026",
+      "source": "NYC Temporary Public Art",
+      "published": "2026-01-01T00:00:00+00:00",
+      "deadline": null,
+      "tags": [
+        "public art"
+      ],
+      "region": "Northeast",
+      "kind": "archive",
+      "image": null
+    },
+    {
+      "id": "86e12310e0f93479fe534eb56ba6b9e43544ecaf",
+      "title": "NYC In Motion: NYC Art Stop Letters",
+      "link": "https://data.cityofnewyork.us/d/3r2x-bnmj",
+      "summary": "by Grace Park · Digital Illustration · Summer Streets routes, New York · 2026",
+      "source": "NYC Temporary Public Art",
+      "published": "2026-01-01T00:00:00+00:00",
+      "deadline": null,
+      "tags": [
+        "public art"
+      ],
+      "region": "Northeast",
+      "kind": "archive",
+      "image": null
+    },
+    {
+      "id": "81a9ffa01e4264eb3c2f2b5034ea355c618f9294",
+      "title": "Saturation: NYC Art Stop Letters",
+      "link": "https://data.cityofnewyork.us/d/3r2x-bnmj",
+      "summary": "by Amanda Lobos · Digital Illustration · Summer Streets routes, New York · 2026",
+      "source": "NYC Temporary Public Art",
+      "published": "2026-01-01T00:00:00+00:00",
+      "deadline": null,
+      "tags": [
+        "public art"
+      ],
+      "region": "Northeast",
+      "kind": "archive",
+      "image": null
+    },
+    {
+      "id": "701aad8ab5f9c09d15e48acb3fe8a32030024fc1",
+      "title": "Shakespeare Step Street",
+      "link": "https://data.cityofnewyork.us/d/3r2x-bnmj",
+      "summary": "by Fiona Agababian · Mural · West 167th street between Anderson Avenue and Shakespeare Avenue, New York · 2026",
+      "source": "NYC Temporary Public Art",
+      "published": "2026-01-01T00:00:00+00:00",
+      "deadline": null,
+      "tags": [
+        "public art"
+      ],
+      "region": "Northeast",
+      "kind": "archive",
+      "image": null
+    },
+    {
+      "id": "e022a105cf1ece23b9c6a4ba0400a9044e0ba73f",
+      "title": "The Bower",
+      "link": "https://data.cityofnewyork.us/d/3r2x-bnmj",
+      "summary": "by Elsa Ponce · Sculpture · Foley Square, New York · 2026",
+      "source": "NYC Temporary Public Art",
+      "published": "2026-01-01T00:00:00+00:00",
+      "deadline": null,
+      "tags": [
+        "public art"
+      ],
+      "region": "Northeast",
+      "kind": "archive",
+      "image": null
+    },
+    {
+      "id": "e4e8a29c0ca1eab2be21155a15886c08f9c5111c",
+      "title": "Big Spinning Wheels",
+      "link": "https://data.cityofnewyork.us/d/3r2x-bnmj",
+      "summary": "by Josh Cohen · Sculpture · 31st and Vernon Blvd, New York · 2026",
+      "source": "NYC Temporary Public Art",
+      "published": "2026-01-01T00:00:00+00:00",
+      "deadline": null,
+      "tags": [
+        "public art"
+      ],
+      "region": "Northeast",
+      "kind": "archive",
+      "image": null
+    },
+    {
+      "id": "30cc02f9141b564f4be815190c113de8882e8075",
+      "title": "Tropical Passage",
+      "link": "https://data.cityofnewyork.us/d/3r2x-bnmj",
+      "summary": "by Nancy Mendez · Mural · Stairwell at West 168th Street Step Street, New York · 2026",
+      "source": "NYC Temporary Public Art",
+      "published": "2026-01-01T00:00:00+00:00",
+      "deadline": null,
+      "tags": [
+        "public art"
+      ],
+      "region": "Northeast",
+      "kind": "archive",
+      "image": null
+    },
+    {
       "id": "c1f692cd5d8e1025b044c53805834ee9df0fb2f1",
       "title": "4 Windows",
       "link": "https://data.cityofnewyork.us/d/3r2x-bnmj",
@@ -1531,6 +1607,21 @@
       "title": "Becoming",
       "link": "https://data.cityofnewyork.us/d/3r2x-bnmj",
       "summary": "by Kevin Cincotta · Asphalt Mural and Barrier Mural · McGuinness Boulevard and Driggs Avenue, New York · 2026",
+      "source": "NYC Temporary Public Art",
+      "published": "2026-01-01T00:00:00+00:00",
+      "deadline": null,
+      "tags": [
+        "public art"
+      ],
+      "region": "Northeast",
+      "kind": "archive",
+      "image": null
+    },
+    {
+      "id": "b860df682bdffe56586c9e08a65d8d9ba6b96714",
+      "title": "Side by Side",
+      "link": "https://data.cityofnewyork.us/d/3r2x-bnmj",
+      "summary": "by Ellie Balk · Wall Mural · Hudson Boulevard West between 36th and 37th Streets, New York · 2026",
       "source": "NYC Temporary Public Art",
       "published": "2026-01-01T00:00:00+00:00",
       "deadline": null,
@@ -1635,7 +1726,7 @@
       "id": "0d2965ded42dac619b6e66b78a598adc5b21492b",
       "title": "Art of the Game",
       "link": "https://data.cityofnewyork.us/d/3r2x-bnmj",
-      "summary": "by Gabriel Lester, Leo Castaneda,Cemile Sahin,Mario Ayala,Wyatt Kahn,Gabriel Fontana · Sculpture · Paseo Park ,Gansevoort Landing ,Alianza Dominicana Plaza ,Pershing Square , \nBrooklyn Bridge Arches Plaza ,Fordham Plaza, New York · 2026",
+      "summary": "by Gabriel Lester · Sculpture · Paseo Park, New York · 2026",
       "source": "NYC Temporary Public Art",
       "published": "2026-01-01T00:00:00+00:00",
       "deadline": null,
@@ -1842,141 +1933,6 @@
       "image": null
     },
     {
-      "id": "96f436a527d009882f8d3b2f5a926e1a72ce5e84",
-      "title": "Under the Asphalt, a River",
-      "link": "https://data.cityofnewyork.us/d/3r2x-bnmj",
-      "summary": "by Eirini Linardaki · Asphalt Mural · Lincoln Avenue and Bruckner Boulevard, New York · 2026",
-      "source": "NYC Temporary Public Art",
-      "published": "2026-01-01T00:00:00+00:00",
-      "deadline": null,
-      "tags": [
-        "public art"
-      ],
-      "region": "Northeast",
-      "kind": "archive",
-      "image": null
-    },
-    {
-      "id": "94a9a62aa3b30f3b3472cc3a5fea61150e1784aa",
-      "title": "Under the Bruckner",
-      "link": "https://data.cityofnewyork.us/d/3r2x-bnmj",
-      "summary": "by Various Artists · Public Art Exhibition · 1425 Bruckner Blvd, New York · 2026",
-      "source": "NYC Temporary Public Art",
-      "published": "2026-01-01T00:00:00+00:00",
-      "deadline": null,
-      "tags": [
-        "public art"
-      ],
-      "region": "Northeast",
-      "kind": "archive",
-      "image": null
-    },
-    {
-      "id": "34a8475b18f9e01e307e5f3f13d2f95f875d98bc",
-      "title": "Public Address",
-      "link": "https://data.cityofnewyork.us/d/3r2x-bnmj",
-      "summary": "by Alex Strada · Signage · Various Streetlight poles and drive rails, New York · 2026",
-      "source": "NYC Temporary Public Art",
-      "published": "2026-01-01T00:00:00+00:00",
-      "deadline": null,
-      "tags": [
-        "public art"
-      ],
-      "region": "Northeast",
-      "kind": "archive",
-      "image": null
-    },
-    {
-      "id": "386d4b74e9192f8b11708f1c9d2b25eed3ab5443",
-      "title": "Paseo Park Portraits",
-      "link": "https://data.cityofnewyork.us/d/3r2x-bnmj",
-      "summary": "by Damaris Chamorro, Neha Gautam, Shin Ono, Alma Reyes, Kisha Bari, and Josefina Bahamondes · Vinyl Display Structure · Paseo Park 34th Avenue Open Streets (73rd - 74th Street, 83rd - 84th street, 90th-91st Street, 94th Street - Junction Blvd), New York · 2026",
-      "source": "NYC Temporary Public Art",
-      "published": "2026-01-01T00:00:00+00:00",
-      "deadline": null,
-      "tags": [
-        "public art"
-      ],
-      "region": "Northeast",
-      "kind": "archive",
-      "image": null
-    },
-    {
-      "id": "60aa55a954510fc75b467b07418f352088f5fd6c",
-      "title": "Blooming Reflection",
-      "link": "https://data.cityofnewyork.us/d/3r2x-bnmj",
-      "summary": "by Lee Tal · Sculpture · 19th Street between 10th and 11th avenues, New York · 2026",
-      "source": "NYC Temporary Public Art",
-      "published": "2026-01-01T00:00:00+00:00",
-      "deadline": null,
-      "tags": [
-        "public art"
-      ],
-      "region": "Northeast",
-      "kind": "archive",
-      "image": null
-    },
-    {
-      "id": "c5b5d1c9d11b3b6a6ba572ce1b5ba4627bd32e8b",
-      "title": "Dreamland Sirens",
-      "link": "https://data.cityofnewyork.us/d/3r2x-bnmj",
-      "summary": "by Charlotte Colbert · Sculpture · Flatiron South Plaza - Broadway & 23rd St, New York · 2026",
-      "source": "NYC Temporary Public Art",
-      "published": "2026-01-01T00:00:00+00:00",
-      "deadline": null,
-      "tags": [
-        "public art"
-      ],
-      "region": "Northeast",
-      "kind": "archive",
-      "image": null
-    },
-    {
-      "id": "8251a35c111ca2e94acb561a9bcce6da27433d36",
-      "title": "Where Angels Live",
-      "link": "https://data.cityofnewyork.us/d/3r2x-bnmj",
-      "summary": "by Charlotte Colbert · Sculpture · West 14th street between 9th and 10th avenues, New York · 2026",
-      "source": "NYC Temporary Public Art",
-      "published": "2026-01-01T00:00:00+00:00",
-      "deadline": null,
-      "tags": [
-        "public art"
-      ],
-      "region": "Northeast",
-      "kind": "archive",
-      "image": null
-    },
-    {
-      "id": "ef6387a7d93c6d21e9b0b30c211d29475ce3e345",
-      "title": "New York Proud",
-      "link": "https://data.cityofnewyork.us/d/3r2x-bnmj",
-      "summary": "by Oscar B. Castillo · Vinyl · St. George Ferry Terminal, 1 Bay Street, New York · 2026",
-      "source": "NYC Temporary Public Art",
-      "published": "2026-01-01T00:00:00+00:00",
-      "deadline": null,
-      "tags": [
-        "public art"
-      ],
-      "region": "Northeast",
-      "kind": "archive",
-      "image": null
-    },
-    {
-      "id": "593ea2d809d27d721fffe14d1b72bc374aa33dab",
-      "title": "Mr. Pink Comes to Flatiron Nomad",
-      "link": "https://data.cityofnewyork.us/d/3r2x-bnmj",
-      "summary": "by EXMURO / Philippe Katerine · Sculpture · Flatiron Plaza North on Broadway between 23rd Street and 24th Street, New York · 2026",
-      "source": "NYC Temporary Public Art",
-      "published": "2026-01-01T00:00:00+00:00",
-      "deadline": null,
-      "tags": [
-        "public art"
-      ],
-      "region": "Northeast",
-      "kind": "archive",
-      "image": null
-    },
-    {
       "id": "9f5bdfdb71228a33b7fdf20c1f66fcdf542371d9",
       "title": "CHANGE; The Gyre/CHAOS",
       "link": "https://www.mta.info/agency/arts-design/collection/change-gyre-chaos",
@@ -2035,81 +1991,6 @@
       "region": "Northeast",
       "kind": "archive",
       "image": "https://www.mta.info/agency/arts-design/collection/initium-beginning"
-    },
-    {
-      "id": "b860df682bdffe56586c9e08a65d8d9ba6b96714",
-      "title": "Side by Side",
-      "link": "https://data.cityofnewyork.us/d/3r2x-bnmj",
-      "summary": "by Ellie Balk · Wall Mural · Hudson Boulevard West between 36th and 37th Streets, New York · 2025",
-      "source": "NYC Temporary Public Art",
-      "published": "2025-01-01T00:00:00+00:00",
-      "deadline": null,
-      "tags": [
-        "public art"
-      ],
-      "region": "Northeast",
-      "kind": "archive",
-      "image": null
-    },
-    {
-      "id": "dd841020becaf245f84af3f12505470f5e45ce1d",
-      "title": "NYC Art Stop Letters",
-      "link": "https://data.cityofnewyork.us/d/3r2x-bnmj",
-      "summary": "by Molly Magnell · Digital Illustration · Broadway between 46th and 47th Streets, New York · 2025",
-      "source": "NYC Temporary Public Art",
-      "published": "2025-01-01T00:00:00+00:00",
-      "deadline": null,
-      "tags": [
-        "public art"
-      ],
-      "region": "Northeast",
-      "kind": "archive",
-      "image": null
-    },
-    {
-      "id": "65ac3e86ddd42e734e930bc4eddcdf4e08b5b355",
-      "title": "De Lo Mio",
-      "link": "https://data.cityofnewyork.us/d/3r2x-bnmj",
-      "summary": "by Talisa Almonte · Mural · Audubon Ave Plaza between 165th and 166th Streets, New York · 2025",
-      "source": "NYC Temporary Public Art",
-      "published": "2025-01-01T00:00:00+00:00",
-      "deadline": null,
-      "tags": [
-        "public art"
-      ],
-      "region": "Northeast",
-      "kind": "archive",
-      "image": null
-    },
-    {
-      "id": "a19756334d2027b72a45b911bdc5082c2df019cf",
-      "title": "Big Rumi",
-      "link": "https://data.cityofnewyork.us/d/3r2x-bnmj",
-      "summary": "by Ghada Amer · Sculpture · Ruth E. Wittenberg Triangle on 6th Avenue between W 8th Street and W 9th Street, New York · 2025",
-      "source": "NYC Temporary Public Art",
-      "published": "2025-01-01T00:00:00+00:00",
-      "deadline": null,
-      "tags": [
-        "public art"
-      ],
-      "region": "Northeast",
-      "kind": "archive",
-      "image": null
-    },
-    {
-      "id": "b0dc396c3907be546726b1215440f51be0d3e5cb",
-      "title": "DUMBO Holiday Projections",
-      "link": "https://data.cityofnewyork.us/d/3r2x-bnmj",
-      "summary": "by Augenblick Studios · Projection · Manhattan Bridge Anchorage at Pearl Street and Water Street, Manhattan Bridge Anchorage at Adams Street, Brooklyn-Queens Expressway wall, New York · 2025",
-      "source": "NYC Temporary Public Art",
-      "published": "2025-01-01T00:00:00+00:00",
-      "deadline": null,
-      "tags": [
-        "public art"
-      ],
-      "region": "Northeast",
-      "kind": "archive",
-      "image": null
     },
     {
       "id": "21769802abe154c7ec895ed70d5825a14ec61653",
