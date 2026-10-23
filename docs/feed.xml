@@ -3,7 +3,7 @@
 <title>Creative Opportunities</title>
 <link>https://example.com</link>
 <description>Jobs, grants, RFPs, residencies and calls for artists</description>
-<lastBuildDate>Fri, 23 Oct 2026 12:20:44 +0000</lastBuildDate>
+<lastBuildDate>Fri, 23 Oct 2026 21:48:14 +0000</lastBuildDate>
 <item>
 <title>Public Humanities Projects</title>
 <link>https://www.grants.gov/search-results-detail/364098</link>
@@ -411,13 +411,6 @@
 <category>opportunity</category>
 </item>
 <item>
-<title>Print Magazine Feature: Winter 2027 ‘Vintage’ Issue</title>
-<link>https://artdeadline.com/ops/pjas/</link>
-<guid isPermaLink="false">d057e41d99d7d1231a863c8266731ca7edd41604</guid>
-<description>Deadline 2026-10-29. International Deadline: October 29, 2026 – The Pennsylvania Journal of Arts and Sciences is an independent publication dedicated to presenting contemporary work across disciplines. The journal brings together a range of voices, with focus on visual art and…</description>
-<category>opportunity</category>
-</item>
-<item>
 <title>Over $100,000 in Prizes and New Public Art Opportunities at 2027 ArtFields Festival</title>
 <link>https://hyperallergic.com/over-100-000-in-prizes-and-new-public-art-opportunities-at-2027-artfields-festival/</link>
 <guid isPermaLink="false">b315e5bcf3028b3fa8c52d7f5167c6846d3f89bb</guid>
@@ -481,6 +474,13 @@
 <category>grant, opportunity, residency</category>
 </item>
 <item>
+<title>MFA Circle Gallery : In the City 2027</title>
+<link>https://artdeadline.com/ops/mfa-a/</link>
+<guid isPermaLink="false">f5b29d3a7696c03fd3af13112425bee40d38896a</guid>
+<description>Deadline 2026-11-18. International Deadline: November 18, 2026 – Skylines, crosswalks, alleyways and shops; bright lights, buses, taxis and crowds. These are just a small list of elements that create the essence of an urban environment. Some aspects of city life are universal and can represent…</description>
+<category>opportunity</category>
+</item>
+<item>
 <title>Open Call 2027: Jentel Artist Residency</title>
 <link>https://hyperallergic.com/open-call-2027-jentel-artist-residency/</link>
 <guid isPermaLink="false">a5d814ef321fe5b6105af776892ea864edc48870</guid>
@@ -493,12 +493,5 @@
 <guid isPermaLink="false">2a53c03481f8c411b1e45a86f6d3afc09b3a5aa0</guid>
 <description>Residencies, fellowships, grants, and open calls from the Paul &amp; Daisy Soros Foundation, Ucross, AICA International, and more in our monthly list of opportunities for artists, writers, and art workers.</description>
 <category>grant, opportunity, residency</category>
-</item>
-<item>
-<title>A $90,000 Graduate Fellowship for Immigrants &amp; Children of Immigrants in the Visual Arts</title>
-<link>https://hyperallergic.com/a-90-000-graduate-fellowship-for-immigrants-children-of-immigrants-in-the-visual-arts/</link>
-<guid isPermaLink="false">0fe39283da98bf1dd9342d3a0af4c465b13a5e94</guid>
-<description>The Paul &amp; Daisy Soros Fellowships for New Americans supports immigrants &amp; children of immigrants in MFA, MA, PhD &amp; other graduate programs.</description>
-<category>grant, opportunity</category>
 </item>
 </channel></rss>
