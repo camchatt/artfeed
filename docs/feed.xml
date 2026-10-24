@@ -3,7 +3,7 @@
 <title>Creative Opportunities</title>
 <link>https://example.com</link>
 <description>Jobs, grants, RFPs, residencies and calls for artists</description>
-<lastBuildDate>Fri, 23 Oct 2026 21:48:14 +0000</lastBuildDate>
+<lastBuildDate>Sat, 24 Oct 2026 11:48:03 +0000</lastBuildDate>
 <item>
 <title>Public Humanities Projects</title>
 <link>https://www.grants.gov/search-results-detail/364098</link>
@@ -173,13 +173,6 @@
 <category>grant</category>
 </item>
 <item>
-<title>Alderworks Alaska Writers and Artists Retreat</title>
-<link>https://artistcommunities.org/directory/residencies/alderworks-alaska-writers-and-artists-retreat</link>
-<guid isPermaLink="false">3267dccb93666079f81ce55b2129acc2c2f91e5b</guid>
-<description>Alderworks welcomes writers and artists every summer to work in cabins on the edge of the wilderness in historic and stunningly beautiful Dyea near Skagway, Alaska. We host residents in three cabins during 4-6 week residencies. Artists also have access to a studio building.</description>
-<category>residency</category>
-</item>
-<item>
 <title>Alchemy Artists Residency</title>
 <link>https://artistcommunities.org/directory/residencies/alchemy-artists-residency</link>
 <guid isPermaLink="false">76906cb466136d6740ec1d02c88a5158b3e481ab</guid>
@@ -275,6 +268,13 @@
 <link>https://artistcommunities.org/directory/residencies/ap-residency</link>
 <guid isPermaLink="false">a8f8ec9215fa469dd4228fa626a3a542092480ce</guid>
 <description>For 20 years, Proyecto´ace has welcomed thousands of artists from around the world.</description>
+<category>residency</category>
+</item>
+<item>
+<title>6okken Residency</title>
+<link>https://artistcommunities.org/directory/residencies/6okken-residency</link>
+<guid isPermaLink="false">9e9fd9e057b83bf34397d143f0e435c0f038b25a</guid>
+<description>6okken is an artist-run residency in Oishi, a small village on the north shore of Lake Kawaguchi at the foot of Mt. Fuji, about two hours from Tokyo by bus. Six houses stand together, and the artists who run 6okken live and work in the same cluster.</description>
 <category>residency</category>
 </item>
 <item>
