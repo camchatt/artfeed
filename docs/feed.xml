@@ -3,7 +3,7 @@
 <title>Creative Opportunities</title>
 <link>https://example.com</link>
 <description>Jobs, grants, RFPs, residencies and calls for artists</description>
-<lastBuildDate>Thu, 29 Oct 2026 13:53:50 +0000</lastBuildDate>
+<lastBuildDate>Thu, 29 Oct 2026 23:04:19 +0000</lastBuildDate>
 <item>
 <title>Public Humanities Projects</title>
 <link>https://www.grants.gov/search-results-detail/364098</link>
@@ -348,6 +348,20 @@
 <category>residency</category>
 </item>
 <item>
+<title>Updated: Articles for Artists</title>
+<link>https://artdeadline.com/ops/articles-for-artists/</link>
+<guid isPermaLink="false">6160cbffb8510433def360b09cdfa69c28e5197b</guid>
+<description>Attention Friends! ArtDeadline.Com has recently updated our popular artist resource, 'Articles for Artists'. Visit the newly refreshed website today. Plus, if you have any articles that you feel would be of benefit for our thousands of readers pease feel free to submit...</description>
+<category>opportunity</category>
+</item>
+<item>
+<title>ARC Gallery Solo Exhibition Opportunities</title>
+<link>https://artdeadline.com/ops/arc-solo/</link>
+<guid isPermaLink="false">f0bfae2553c2890e6a587ade762b6c05f27fd661</guid>
+<description>International Deadline: Bi-Annual Recurring – ARC Gallery and Educational Foundation, an artist-run cooperative gallery dedicated to providing alternative exhibition opportunities for innovative artists accepts applications for solo exhibitions…</description>
+<category>opportunity</category>
+</item>
+<item>
 <title>Pollock-Krasner Foundation Grants</title>
 <link>https://artdeadline.com/ops/pollock-krasner-foundation/</link>
 <guid isPermaLink="false">bc6e0387c4d07b095befa3d8b75830805101b0c0</guid>
@@ -411,13 +425,6 @@
 <category>opportunity</category>
 </item>
 <item>
-<title>The 11th CICA New Media Art Conference &amp; Exhibitions 2027</title>
-<link>https://artdeadline.com/ops/cica/</link>
-<guid isPermaLink="false">be54144867646abba577ba35aab00e750d965e52</guid>
-<description>Deadline 2026-11-04. International Deadline: November 4, 2026 – CICA Museum invites writers, scholars, researchers, and artists worldwide to participate in the 11th CICA New Media Art Conference 2027. A wide range of topics and opportunities for participants to gain international attention...</description>
-<category>opportunity</category>
-</item>
-<item>
 <title>New York State Council on the Arts (NYSCA) and New York Foundation for the Arts (NYFA) Award $1,760,000 to 2026 Reserve Fund Grant Recipients</title>
 <link>https://www.nyfa.org/news/new-york-state-council-on-the-arts-nysca-and-new-york-foundation-for-the-arts-nyfa-award-1760000-to-2026-reserve-fund-grant-recipients/</link>
 <guid isPermaLink="false">20a2ebd7977a12120a1b6de217f359e8b643d056</guid>
@@ -474,13 +481,6 @@
 <category>grant, opportunity, residency</category>
 </item>
 <item>
-<title>Artlink Gallery Midwest Regional</title>
-<link>https://artdeadline.com/ops/artlnk/</link>
-<guid isPermaLink="false">a9b86205e20fa024a6da5ee4cbd67b61e6759051</guid>
-<description>Deadline 2026-11-09. U.S. Multi-State Deadline: November 9, 2026 – Held annually, Artlink's Midwest Regional is a juried group exhibition which celebrates the incredible and diverse work being created in America's Midwest! Any artist 18+ years of age residing in one of the Midwest states is eligible...</description>
-<category>opportunity</category>
-</item>
-<item>
 <title>UT Austin’s Harry Ransom Center Provides Funded Fellowships in the Arts and Humanities</title>
 <link>https://hyperallergic.com/ut-austins-harry-ransom-center-provides-funded-fellowships-in-the-arts-and-humanities/</link>
 <guid isPermaLink="false">6b5a332e77716afb01da82edc537f1b434c7367b</guid>
@@ -507,12 +507,5 @@
 <guid isPermaLink="false">a5d814ef321fe5b6105af776892ea864edc48870</guid>
 <description>A Mountain West residency for artists, writers, and composers.</description>
 <category>opportunity, residency</category>
-</item>
-<item>
-<title>Opportunities in July 2026</title>
-<link>https://hyperallergic.com/opportunities-in-july-2026/</link>
-<guid isPermaLink="false">2a53c03481f8c411b1e45a86f6d3afc09b3a5aa0</guid>
-<description>Residencies, fellowships, grants, and open calls from the Paul &amp; Daisy Soros Foundation, Ucross, AICA International, and more in our monthly list of opportunities for artists, writers, and art workers.</description>
-<category>grant, opportunity, residency</category>
 </item>
 </channel></rss>
