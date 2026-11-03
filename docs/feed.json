@@ -1,8 +1,8 @@
 {
   "contract_version": "artelier_opportunities_feed_v1",
   "title": "Creative Opportunities",
-  "updated": "2026-11-03T14:48:27.508492+00:00",
-  "count": 273,
+  "updated": "2026-11-03T23:51:21.254511+00:00",
+  "count": 244,
   "items": [
     {
       "id": "a8d6b3cb769fda5cc6fad64bef2261302ce074f5",
@@ -10,7 +10,7 @@
       "link": "https://www.grants.gov/search-results-detail/364195",
       "summary": "National Endowment for the Humanities | opportunity 20270113-CHE",
       "source": "Grants.gov",
-      "published": "2026-11-03T14:48:02.232162+00:00",
+      "published": "2026-11-03T23:50:17.724465+00:00",
       "deadline": "2027-01-13",
       "tags": [
         "grant"
@@ -27,7 +27,7 @@
       "link": "https://www.grants.gov/search-results-detail/364098",
       "summary": "National Endowment for the Humanities | opportunity 20261209-GE-GI-BP-BR-GGX",
       "source": "Grants.gov",
-      "published": "2026-11-03T14:48:02.231648+00:00",
+      "published": "2026-11-03T23:50:17.723970+00:00",
       "deadline": "2026-12-16",
       "tags": [
         "grant"
@@ -44,7 +44,7 @@
       "link": "https://www.grants.gov/search-results-detail/364030",
       "summary": "National Endowment for the Humanities | opportunity 20270113-PJ",
       "source": "Grants.gov",
-      "published": "2026-11-03T14:48:02.231131+00:00",
+      "published": "2026-11-03T23:50:17.723430+00:00",
       "deadline": "2027-01-13",
       "tags": [
         "grant"
@@ -61,7 +61,7 @@
       "link": "https://www.grants.gov/search-results-detail/363880",
       "summary": "National Endowment for the Humanities | opportunity 20261209-EDK-EDU",
       "source": "Grants.gov",
-      "published": "2026-11-03T14:48:02.230523+00:00",
+      "published": "2026-11-03T23:50:17.722823+00:00",
       "deadline": "2026-12-09",
       "tags": [
         "grant"
@@ -78,7 +78,7 @@
       "link": "https://www.grants.gov/search-results-detail/361480",
       "summary": "National Endowment for the Humanities | opportunity 20260511-PCS",
       "source": "Grants.gov",
-      "published": "2026-11-03T14:48:02.229990+00:00",
+      "published": "2026-11-03T23:50:17.722335+00:00",
       "deadline": "2026-12-15",
       "tags": [
         "grant"
@@ -95,7 +95,7 @@
       "link": "https://www.grants.gov/search-results-detail/363225",
       "summary": "Bureau Of Educational and Cultural Affairs | opportunity DFOP0017180",
       "source": "Grants.gov",
-      "published": "2026-11-03T14:48:02.229128+00:00",
+      "published": "2026-11-03T23:50:17.721510+00:00",
       "deadline": null,
       "tags": [
         "grant"
@@ -112,7 +112,7 @@
       "link": "https://www.grants.gov/search-results-detail/363773",
       "summary": "Institute of Museum and Library Services | opportunity NLG-M-FY27",
       "source": "Grants.gov",
-      "published": "2026-11-03T14:48:02.227579+00:00",
+      "published": "2026-11-03T23:50:17.720337+00:00",
       "deadline": "2026-11-13",
       "tags": [
         "grant"
@@ -129,7 +129,7 @@
       "link": "https://www.grants.gov/search-results-detail/363762",
       "summary": "Institute of Museum and Library Services | opportunity NAG-ENHANCEMENT-FY27",
       "source": "Grants.gov",
-      "published": "2026-11-03T14:48:00.806102+00:00",
+      "published": "2026-11-03T23:50:16.063161+00:00",
       "deadline": "2026-11-13",
       "tags": [
         "grant"
@@ -146,7 +146,7 @@
       "link": "https://www.grants.gov/search-results-detail/363763",
       "summary": "Institute of Museum and Library Services | opportunity NAG-HAWAIIAN-FY27",
       "source": "Grants.gov",
-      "published": "2026-11-03T14:48:00.805531+00:00",
+      "published": "2026-11-03T23:50:16.062587+00:00",
       "deadline": "2026-11-13",
       "tags": [
         "grant"
@@ -163,7 +163,7 @@
       "link": "https://www.grants.gov/search-results-detail/363765",
       "summary": "Institute of Museum and Library Services | opportunity LB21-FY27",
       "source": "Grants.gov",
-      "published": "2026-11-03T14:48:00.804923+00:00",
+      "published": "2026-11-03T23:50:16.062024+00:00",
       "deadline": "2026-11-13",
       "tags": [
         "grant"
@@ -180,7 +180,7 @@
       "link": "https://www.grants.gov/search-results-detail/363767",
       "summary": "Institute of Museum and Library Services | opportunity NAG-BASIC-FY27",
       "source": "Grants.gov",
-      "published": "2026-11-03T14:48:00.804366+00:00",
+      "published": "2026-11-03T23:50:16.061435+00:00",
       "deadline": "2026-11-13",
       "tags": [
         "grant"
@@ -197,7 +197,7 @@
       "link": "https://www.grants.gov/search-results-detail/322314",
       "summary": "U.S. Mission to Cambodia | opportunity PAS-CB-600-20-PAS-0003",
       "source": "Grants.gov",
-      "published": "2026-11-03T14:48:00.803740+00:00",
+      "published": "2026-11-03T23:50:16.060790+00:00",
       "deadline": null,
       "tags": [
         "grant"
@@ -214,7 +214,7 @@
       "link": "https://www.grants.gov/search-results-detail/363728",
       "summary": "National Park Service | opportunity P27AS00032",
       "source": "Grants.gov",
-      "published": "2026-11-03T14:48:00.803074+00:00",
+      "published": "2026-11-03T23:50:16.060121+00:00",
       "deadline": "2026-11-04",
       "tags": [
         "grant"
@@ -231,7 +231,7 @@
       "link": "https://www.grants.gov/search-results-detail/363766",
       "summary": "Institute of Museum and Library Services | opportunity NLG-LIBRARIES-FY27",
       "source": "Grants.gov",
-      "published": "2026-11-03T14:48:00.802492+00:00",
+      "published": "2026-11-03T23:50:16.059539+00:00",
       "deadline": "2026-11-13",
       "tags": [
         "grant"
@@ -248,8 +248,25 @@
       "link": "https://www.grants.gov/search-results-detail/363775",
       "summary": "Institute of Museum and Library Services | opportunity NANH-FY27",
       "source": "Grants.gov",
-      "published": "2026-11-03T14:48:00.801907+00:00",
+      "published": "2026-11-03T23:50:16.058968+00:00",
       "deadline": "2026-11-13",
+      "tags": [
+        "grant"
+      ],
+      "region": null,
+      "opportunity_type": "grant_or_funding",
+      "kind": "opportunity",
+      "description": "Official websites use .gov A .gov website belongs to an official government organization in the United States. Secure .gov websites use HTTPS A lock ( Lock Locked padlock icon ) or https:// means you've safely connected to the .gov website. Share sensitive information only on official, secure websites. Your session will expire in 3 minutes. To continue working, click on the \"OK\" button below. Note: This is being done to protect your privacy. Unsaved changes will be lost. Ok Open default modal",
+      "location_mode": "not_specified"
+    },
+    {
+      "id": "f9b1b2891b403049f51047f5162c3999cf98211c",
+      "title": "Fiscal Year 2027 Teams Engaging Affiliated Museums and Informal Institutions (TEAM II) STEM Innovator",
+      "link": "https://www.grants.gov/search-results-detail/364205",
+      "summary": "National Aeronautics and Space Administration | opportunity NNH27ZHA002C",
+      "source": "Grants.gov",
+      "published": "2026-11-03T23:50:16.058253+00:00",
+      "deadline": "2027-02-01",
       "tags": [
         "grant"
       ],
@@ -265,7 +282,7 @@
       "link": "https://www.grants.gov/search-results-detail/363768",
       "summary": "Institute of Museum and Library Services | opportunity MFA-FY27",
       "source": "Grants.gov",
-      "published": "2026-11-03T14:48:00.801408+00:00",
+      "published": "2026-11-03T23:50:16.057709+00:00",
       "deadline": "2026-11-13",
       "tags": [
         "grant"
@@ -282,7 +299,7 @@
       "link": "https://www.grants.gov/search-results-detail/363772",
       "summary": "Institute of Museum and Library Services | opportunity ALHC-FY27",
       "source": "Grants.gov",
-      "published": "2026-11-03T14:48:00.800807+00:00",
+      "published": "2026-11-03T23:50:16.057130+00:00",
       "deadline": "2026-11-13",
       "tags": [
         "grant"
@@ -299,7 +316,7 @@
       "link": "https://www.grants.gov/search-results-detail/363769",
       "summary": "Institute of Museum and Library Services | opportunity 21MP-FY27",
       "source": "Grants.gov",
-      "published": "2026-11-03T14:48:00.800258+00:00",
+      "published": "2026-11-03T23:50:16.056536+00:00",
       "deadline": "2026-11-13",
       "tags": [
         "grant"
@@ -316,7 +333,7 @@
       "link": "https://www.grants.gov/search-results-detail/363776",
       "summary": "Institute of Museum and Library Services | opportunity ME-FY27",
       "source": "Grants.gov",
-      "published": "2026-11-03T14:48:00.799087+00:00",
+      "published": "2026-11-03T23:50:16.055381+00:00",
       "deadline": "2026-11-13",
       "tags": [
         "grant"
@@ -333,7 +350,7 @@
       "link": "https://www.grants.gov/search-results-detail/363770",
       "summary": "Institute of Museum and Library Services | opportunity AAHC-FY27",
       "source": "Grants.gov",
-      "published": "2026-11-03T14:48:00.798286+00:00",
+      "published": "2026-11-03T23:50:16.054748+00:00",
       "deadline": "2026-11-13",
       "tags": [
         "grant"
@@ -350,7 +367,7 @@
       "link": "https://www.grants.gov/search-results-detail/363771",
       "summary": "Institute of Museum and Library Services | opportunity IGSM-FY27",
       "source": "Grants.gov",
-      "published": "2026-11-03T14:48:00.797396+00:00",
+      "published": "2026-11-03T23:50:16.054105+00:00",
       "deadline": "2026-11-13",
       "tags": [
         "grant"
@@ -367,7 +384,7 @@
       "link": "https://www.grants.gov/search-results-detail/362984",
       "summary": "National Endowment for the Arts | opportunity 2027FCAHDOM02",
       "source": "Grants.gov",
-      "published": "2026-11-03T14:48:00.192558+00:00",
+      "published": "2026-11-03T23:50:15.211508+00:00",
       "deadline": "2027-06-07",
       "tags": [
         "grant"
@@ -384,7 +401,7 @@
       "link": "https://www.grants.gov/search-results-detail/362982",
       "summary": "National Endowment for the Arts | opportunity 2027FCAHDOM01",
       "source": "Grants.gov",
-      "published": "2026-11-03T14:48:00.191871+00:00",
+      "published": "2026-11-03T23:50:15.210871+00:00",
       "deadline": "2026-12-07",
       "tags": [
         "grant"
@@ -401,7 +418,7 @@
       "link": "https://www.grants.gov/search-results-detail/362983",
       "summary": "National Endowment for the Arts | opportunity 2027FCAH02",
       "source": "Grants.gov",
-      "published": "2026-11-03T14:48:00.191158+00:00",
+      "published": "2026-11-03T23:50:15.210275+00:00",
       "deadline": "2027-03-08",
       "tags": [
         "grant"
@@ -418,7 +435,7 @@
       "link": "https://www.grants.gov/search-results-detail/361554",
       "summary": "Bureau Of Educational and Cultural Affairs | opportunity DFOP0017204",
       "source": "Grants.gov",
-      "published": "2026-11-03T14:48:00.188698+00:00",
+      "published": "2026-11-03T23:50:15.208652+00:00",
       "deadline": null,
       "tags": [
         "grant"
@@ -435,14 +452,14 @@
       "link": "https://artistcommunities.org/directory/residencies/alchemy-artists-residency",
       "summary": "ALCHEMY: a n artist-led international residency where food, art, and community come together.",
       "source": "Artist Communities Alliance",
-      "published": "2026-11-03T14:47:59.299661+00:00",
+      "published": "2026-11-03T23:50:13.798003+00:00",
       "deadline": null,
       "tags": [
         "residency"
       ],
       "region": null,
       "kind": "opportunity",
-      "description": "Alchemy Artists Residency Sunset at Gibraltar Point Heading to the shoreline outside our doors at Gibraltar Point Open Studio at Alchemy Spring Island 2026 Spring 2026 Alchemy Island artists sharing art, food and conversation Visiting and local Island artists share a studio visit Exploring the dunes at Gibraltar Point Alchemy Artists Residency Organization Alchemy Artists Residency Toronto & Prince Edward County , ON, Canada ALCHEMY: a n artist-led international residency where food, art, and community come together. Since 2015, Alchemy has invited artists to connect, collaborate, and reflect in two unique Canadian settings: the Toronto Islands and Prince Edward County. Guided by four pillars—food, art, garden, and table—we document and share art making, meals, and conversation. At Alchemy, artists deepen their practices, exchange ideas, and engage with the people, communities and landscapes that host us. A community setting for inquiry and discovery Through community engagement and commitment to a collaborative process, we collect, tell, and document multiple stories showcasing what compels people to continue to create, grow, farm, and live in two unique communities. Shared meals, readings and discussions probe the creative intersection of food & art in a community setting & help us better understand the magic & inspiration created by making & sharing art & food. This residency is for those practicing visual arts, sculpture, photography, craft, food, performance art, writing, music, and video. Coordinators: Claire Tallarico, is a visual artist and chef whose practice explores the everyday rituals of art & food making & sharing in communities. Tonia DiRisio is a visual artist and arts administrator. Her work has developed through ongoing investigations of the growing, making, preserving, celebrating, and sharing of food. Contact Program Website info@makealchemy.com 4 Afton Top Floor Toronto ON M6J 1R7 Canada Residency Program Information Year Founded 2015 Context Urban Rural Remote Residency Structure Stand-alone Embedded in an arts or cultural organization (including theater + gallery) Embedded in a national park or land trust Embedded in a non-profit inn and retreat center Embedded in historic site Embedded in intentional community Residency Program Type Studio-based (with housing) Thematic Retreat Community-engaged Experiential Residency Program Summary Residency Length 1 week - 4 weeks Languages English French Other Average Number of Artists in Residence at a Time 12 Collaborative Residency Must apply and be accepted individually May apply as a team Discipline Art Conservation Art Education Book Arts Ceramics/Clay Arts/Pottery Choreography Dance Drawing Ecology Environmental Arts Fiction Film History Installation Arts Interdisciplinary Arts Literary Nonfiction Mixed Media Multimedia Arts Painting Paper Arts Performance Art Photography Poetry Printmaking Public Art Screenwriting Sculpture Social Practice Sound Art Storytelling Textile & Fiber Arts/Weaving Visual Arts Woodworking Writing Companions N/A Country of Residence Open to artists based anywhere in the world Family Friendly N/A Stage of Career Any stage of career Additional Expectations/Opportunities Participate in public programming Participate in open studio with fellow residents Give artist talk or presentation Lead workshop for the public Lead workshop for fellow residents Other How does your residency program support artists? Opportunity to be in another context Opportunity to travel Immersion in new culture and/context Unstructured time Access to studio space to create new work Inspiration from natural environment Inspiration from cultural context Opportunities to develop relationships with local or regional artists/arts organizations Opportunities to collaborate with local or regional artists/arts organizations Opportunities to collaborate with other artists/residents Opportunities to develop relationships with other artists/residents Opportunities for work with the local community Opportunities to exhibit or perform new work Application Information Additional Eligibility Information See Q and A at www.makealchemy.com Number of Artists Accepted in Most Current Year 18 Total Applicant Pool in Most Current Year 55 Artist Stipend Travel Stipend/Material Stipends Residency Fees 1100 Canadian Dollar (CAD) Fee Details Alchemy Island 2027 Dates: May 17-25 Cost: Private/Shared Accommodation, studio, four shared dinners, community-engaged programming, guest artist talks and visits, open studio Rolling deadline till filled $25 application fee via e-transfer. This fee supports our bursary fund. Grant/Scholarship/Other Funding Support Grant/Scholarship/Other Funding Support Details We offer letters of support for artists applying for funding from other organizations. We pay artist fees for selected artists who design and lead a community workshop or talk. Application Fee 25 Canadian Dollar (CAD) Application Type Open application Accessibility What does your program provide during the residency experience? Pre-orientation Manual / handbook before arrival Communication before arrival to discuss accommodations, medical conditions, or other health needs Orientation upon arrival Full description of accessibility on campus Links to resources, effective practices, grievance procedures, etc. Written and or hard copies of text being presented Staff/volunteer giving directions Staff/volunteer providing guidance to help locate facilities or activities Is your campus wheelchair accessible? Partially Accessible Caregiver/Aide/PCA Case by case consideration by staff N/A Accessibility Contact Name N/A Accessibility Contact Email info@makealchemy.com Housing & Accomodation Type of Housing Private bedroom in a shared housing facility on campus Shared bedroom Accessible Housing Partially Accessible (50% or more) Housing for Companion And/or Caregivers Case by case consideration Accessible Communal Spaces Universally designed N/A Additional Housing Information Access to laundry on campus Access to laundry in housing WIFI available in housing Housekeeping services Air Conditioned Housing Meals Provided Some meals (at least 2 meals provided) Groceries provided for residents to prepare their own meals Residents have access to shared kitchen Residents have access to private kitchen Additional Meals Information Vegan meal options can be requested Vegetarian meal options can be requested Gluten-free meal options can be requested Kosher and halal options can be requested Food allergies and restrictions can be accommodated Snack and beverage provided Studio & Facilities Computer/Internet Access Computer and internet connection provided in common area (shared) Wireless Internet (WIFI) Studios/Special Equipment Private Studios Shared Studios Exhibition / Installation Space Performance/Presentation Facilities Dance Studio Without Sprung Floor Piano Music/Media Studio Non-recording Music/Media/Recording Facilities Painting Workspace (Oil) Easels Drawing Benches Fiber Arts Workspace Washer And Dryer Studios/Facilities Accessibility Partially Accessible (50% or more) Studio Support/Tech Studio/facility orientation provided Studio support provided by staff Related Residency Length Open Calls 1 week - 2 weeks Alchemy Spring Island May 17-25, 2027",
+      "description": "Alchemy Artists Residency Sunset at Gibraltar Point Heading to the shoreline outside our doors at Gibraltar Point Open Studio at Alchemy Spring Island 2026 Spring 2026 Alchemy Island artists sharing art, food and conversation Visiting and local Island artists share a studio visit Exploring the dunes at Gibraltar Point Alchemy Artists Residency Organization Alchemy Artists Residency Toronto & Prince Edward County , ON, Canada ALCHEMY: a n artist-led international residency where food, art, and community come together. Since 2015, Alchemy has invited artists to connect, collaborate, and reflect in two unique Canadian settings: the Toronto Islands and Prince Edward County. Guided by four pillars—food, art, garden, and table—we document and share art making, meals, and conversation. At Alchemy, artists deepen their practices, exchange ideas, and engage with the people, communities and landscapes that host us. A community setting for inquiry and discovery Through community engagement and commitment to a collaborative process, we collect, tell, and document multiple stories showcasing what compels people to continue to create, grow, farm, and live in two unique communities. Shared meals, readings and discussions probe the creative intersection of food & art in a community setting & help us better understand the magic & inspiration created by making & sharing art & food. This residency is for those practicing visual arts, sculpture, photography, craft, food, performance art, writing, music, and video. Coordinators: Claire Tallarico, is a visual artist and chef whose practice explores the everyday rituals of art & food making & sharing in communities. Tonia DiRisio is a visual artist and arts administrator. Her work has developed through ongoing investigations of the growing, making, preserving, celebrating, and sharing of food. Contact Program Website info@makealchemy.com 4 Afton Top Floor Toronto ON M6J 1R7 Canada Residency Program Information Year Founded 2015 Context Urban Rural Remote Residency Structure Stand-alone Embedded in an arts or cultural organization (including theater + gallery) Embedded in a national park or land trust Embedded in a non-profit inn and retreat center Embedded in historic site Embedded in intentional community Residency Program Type Studio-based (with housing) Thematic Retreat Community-engaged Experiential Residency Program Summary Residency Length 1 week - 4 weeks Languages English French Other Average Number of Artists in Residence at a Time 12 Collaborative Residency Must apply and be accepted individually May apply as a team Discipline Art Conservation Art Education Book Arts Ceramics/Clay Arts/Pottery Choreography Dance Drawing Ecology Environmental Arts Fiction Film History Installation Arts Interdisciplinary Arts Literary Nonfiction Mixed Media Multimedia Arts Painting Paper Arts Performance Art Photography Poetry Printmaking Public Art Screenwriting Sculpture Social Practice Sound Art Storytelling Textile & Fiber Arts/Weaving Visual Arts Woodworking Writing Companions N/A Country of Residence Open to artists based anywhere in the world Family Friendly N/A Stage of Career Any stage of career Additional Expectations/Opportunities Participate in public programming Participate in open studio with fellow residents Give artist talk or presentation Lead workshop for the public Lead workshop for fellow residents Other How does your residency program support artists? Opportunity to be in another context Opportunity to travel Immersion in new culture and/context Unstructured time Access to studio space to create new work Inspiration from natural environment Inspiration from cultural context Opportunities to develop relationships with local or regional artists/arts organizations Opportunities to collaborate with local or regional artists/arts organizations Opportunities to collaborate with other artists/residents Opportunities to develop relationships with other artists/residents Opportunities for work with the local community Opportunities to exhibit or perform new work Application Information Additional Eligibility Information See Q and A at www.makealchemy.com Number of Artists Accepted in Most Current Year 18 Total Applicant Pool in Most Current Year 55 Artist Stipend Travel Stipend/Material Stipends Residency Fees 1100 Canadian Dollar (CAD) Fee Details Alchemy Toronto Islands 2027 Dates: May 17-25 Private/Shared Accommodation, shared 24/7 studio, four shared dinners, community-engaged programming, guest artist talks and visits, open studio. Rolling deadline till filled $25 application fee via e-transfer. This fee supports our bursary fund. TWO SPOTS CURRENTLY AVAILABLE Alchemy Waupoos Island 2027 Dates: August 6-16 Private/Shared Accommodation, shared studio, all shared dinners, community-engaged programming, guest artist talks and visits, transport to and from mainland. Limited to 12 artists. Deadline December 15, 2026. $25 application fee via e-transfer. This fee supports our bursary fund. The residency is set on a secluded Island. Alchemy takes place at a small cluster of seven cottages designed for shared living. Fire pits, picnic tables, outdoor dining areas, beach access, and wide lake views shape daily life on the island, with shared studio time, meals, and gathering at the centre of the experience. The island is reached by boat and is intentionally low Wi-Fi, offering an oasis from the pace of everyday life and creating space for presence, conversation, and collective rhythm. Grant/Scholarship/Other Funding Support Grant/Scholarship/Other Funding Support Details We offer letters of support for artists applying for funding from other organizations. We pay artist fees for selected artists who design and lead a community workshop or talk. Application Fee 25 Canadian Dollar (CAD) Application Type Open application Accessibility What does your program provide during the residency experience? Pre-orientation Manual / handbook before arrival Communication before arrival to discuss accommodations, medical conditions, or other health needs Orientation upon arrival Full description of accessibility on campus Links to resources, effective practices, grievance procedures, etc. Written and or hard copies of text being presented Staff/volunteer giving directions Staff/volunteer providing guidance to help locate facilities or activities Is your campus wheelchair accessible? Partially Accessible Caregiver/Aide/PCA Case by case consideration by staff N/A Accessibility Contact Name N/A Accessibility Contact Email info@makealchemy.com Housing & Accomodation Type of Housing Private bedroom in a shared housing facility on campus Shared bedroom Accessible Housing Partially Accessible (50% or more) Housing for Companion And/or Caregivers Case by case consideration Accessible Communal Spaces Universally designed N/A Additional Housing Information Access to laundry on campus Access to laundry in housing WIFI available in housing Housekeeping services Air Conditioned Housing Meals Provided Some meals (at least 2 meals provided) Groceries provided for residents to prepare their own meals Residents have access to shared kitchen Residents have access to private kitchen Additional Meals Information Vegan meal options can be requested Vegetarian meal options can be requested Gluten-free meal options can be requested Kosher and halal options can be requested Food allergies and restrictions can be accommodated Snack and beverage provided Studio & Facilities Computer/Internet Access Computer and internet connection provided in common area (shared) Wireless Internet (WIFI) Studios/Special Equipment Private Studios Shared Studios Exhibition / Installation Space Performance/Presentation Facilities Dance Studio Without Sprung Floor Piano Music/Media Studio Non-recording Music/Media/Recording Facilities Painting Workspace (Oil) Easels Drawing Benches Fiber Arts Workspace Washer And Dryer Studios/Facilities Accessibility Partially Accessible (50% or more",
       "opportunity_type": "residency",
       "location_mode": "not_specified",
       "required_roles": [
@@ -468,7 +485,7 @@
       "link": "https://artistcommunities.org/directory/residencies/alaska-air-bunnell-street-arts-center-artist-residence",
       "summary": "Bunnell Street Arts Center's \"Alaska AIR\" Artist-in-Residency program seeks international, US and Alaska artists looking to create new work and deeply engage Bunnell’s community.",
       "source": "Artist Communities Alliance",
-      "published": "2026-11-03T14:47:59.299281+00:00",
+      "published": "2026-11-03T23:50:13.797604+00:00",
       "deadline": null,
       "tags": [
         "residency"
@@ -488,7 +505,7 @@
       "link": "https://artistcommunities.org/directory/residencies/alaska-chulitna-lodge-wilderness-retreat-creative-residency",
       "summary": "Chulitna Lodge Wilderness Retreat seeks to provide the time, space, clarity and facilities for all forms of creative professionals or enthusiastic hobbyists to make and meditate.",
       "source": "Artist Communities Alliance",
-      "published": "2026-11-03T14:47:59.298918+00:00",
+      "published": "2026-11-03T23:50:13.797254+00:00",
       "deadline": null,
       "tags": [
         "residency"
@@ -505,7 +522,7 @@
       "link": "https://artistcommunities.org/directory/residencies/al-mickey-quinlan-artist-residency",
       "summary": "Whitefish Bay, located on Wisconsin's Door Peninsula , has long been a creative haven for artists who were an important part of the local community and brought the process of creating art into daily life.",
       "source": "Artist Communities Alliance",
-      "published": "2026-11-03T14:47:59.298750+00:00",
+      "published": "2026-11-03T23:50:13.797084+00:00",
       "deadline": null,
       "tags": [
         "residency"
@@ -525,7 +542,7 @@
       "link": "https://artistcommunities.org/directory/residencies/airnewport",
       "summary": "The Newport artist residency, AiR/Newport is designed to encourage the creative, intellectual and personal growth of emerging to established visual artists and designers by giving them the time, space and solitude needed to create, apart from the daily demands of production and deadlines.",
       "source": "Artist Communities Alliance",
-      "published": "2026-11-03T14:47:59.297621+00:00",
+      "published": "2026-11-03T23:50:13.795965+00:00",
       "deadline": null,
       "tags": [
         "residency"
@@ -546,7 +563,7 @@
       "link": "https://artistcommunities.org/directory/residencies/adriftproject-residency-inc",
       "summary": "adriftproject hosts artist residencies aboard SV Hawa for up to two residents at a time as we transit the lovely and diverse US east coast following good weather.",
       "source": "Artist Communities Alliance",
-      "published": "2026-11-03T14:47:59.296796+00:00",
+      "published": "2026-11-03T23:50:13.795134+00:00",
       "deadline": null,
       "tags": [
         "residency"
@@ -566,7 +583,7 @@
       "link": "https://artistcommunities.org/directory/residencies/activate-residency",
       "summary": "Boston Center for the Arts’ ACTivate Residency will award seven-day residencies to individuals and small groups of artists to create site-responsive work in the historic Cyclorama. The work can be performative and/or visual in nature and is meant to activate artists and our spaces.",
       "source": "Artist Communities Alliance",
-      "published": "2026-11-03T14:47:59.296297+00:00",
+      "published": "2026-11-03T23:50:13.794606+00:00",
       "deadline": null,
       "tags": [
         "grant",
@@ -587,7 +604,7 @@
       "link": "https://artistcommunities.org/directory/residencies/acre-academic-and-creative-research-residency-programme",
       "summary": "The ACRE (Academic and Creative Research) Residency Programme invites artists, researchers, writers, and creative practitioners to live and work at Braziers Park while developing independent projects.",
       "source": "Artist Communities Alliance",
-      "published": "2026-11-03T14:47:59.295283+00:00",
+      "published": "2026-11-03T23:50:13.793602+00:00",
       "deadline": null,
       "tags": [
         "residency"
@@ -610,7 +627,7 @@
       "link": "https://artistcommunities.org/directory/residencies/acre",
       "summary": "ACRE’s Residency Program takes place every summer in the Driftless region of Wisconsin.",
       "source": "Artist Communities Alliance",
-      "published": "2026-11-03T14:47:59.295156+00:00",
+      "published": "2026-11-03T23:50:13.793487+00:00",
       "deadline": null,
       "tags": [
         "residency"
@@ -646,7 +663,7 @@
       "link": "https://artistcommunities.org/directory/residencies/ace-ashevillechicago-exchange-choreographic-fellowship",
       "summary": "An ACE Fellowship in Dance provides immersive creative time and space to selected artists, free of charge.",
       "source": "Artist Communities Alliance",
-      "published": "2026-11-03T14:47:59.294801+00:00",
+      "published": "2026-11-03T23:50:13.793133+00:00",
       "deadline": null,
       "tags": [
         "grant",
@@ -672,7 +689,7 @@
       "link": "https://artistcommunities.org/directory/residencies/aca-soundscape-field-station-canaveral-national-seashore",
       "summary": "ACA Soundscape Field Station at Canaveral National Seashore is a partnership between Atlantic Center for the Arts and Canaveral National Seashore.",
       "source": "Artist Communities Alliance",
-      "published": "2026-11-03T14:47:59.293961+00:00",
+      "published": "2026-11-03T23:50:13.792286+00:00",
       "deadline": null,
       "tags": [
         "residency"
@@ -696,7 +713,7 @@
       "link": "https://artistcommunities.org/directory/residencies/aca-sample-residency-0",
       "summary": "Description here.",
       "source": "Artist Communities Alliance",
-      "published": "2026-11-03T14:47:59.293548+00:00",
+      "published": "2026-11-03T23:50:13.791863+00:00",
       "deadline": null,
       "tags": [
         "residency"
@@ -719,7 +736,7 @@
       "link": "https://artistcommunities.org/directory/residencies/abbey-foundation-studio-grant",
       "summary": "Beginning in 2025, The Abbey Foundation will begin to offer 6 month residencies for day use of the 850 square foot studio space. There is also a screened in area attached to the indoor studio which is available for large scale works.",
       "source": "Artist Communities Alliance",
-      "published": "2026-11-03T14:47:59.292523+00:00",
+      "published": "2026-11-03T23:50:13.790827+00:00",
       "deadline": null,
       "tags": [
         "grant",
@@ -737,7 +754,7 @@
       "link": "https://artistcommunities.org/directory/residencies/ap-residency",
       "summary": "For 20 years, Proyecto´ace has welcomed thousands of artists from around the world.",
       "source": "Artist Communities Alliance",
-      "published": "2026-11-03T14:47:59.291939+00:00",
+      "published": "2026-11-03T23:50:13.790257+00:00",
       "deadline": null,
       "tags": [
         "residency"
@@ -762,7 +779,7 @@
       "link": "https://artistcommunities.org/directory/residencies/6okken-residency",
       "summary": "6okken is an artist-run residency in Oishi, a small village on the north shore of Lake Kawaguchi at the foot of Mt. Fuji, about two hours from Tokyo by bus. Six houses stand together, and the artists who run 6okken live and work in the same cluster.",
       "source": "Artist Communities Alliance",
-      "published": "2026-11-03T14:47:59.290877+00:00",
+      "published": "2026-11-03T23:50:13.789194+00:00",
       "deadline": null,
       "tags": [
         "residency"
@@ -782,7 +799,7 @@
       "link": "https://artistcommunities.org/directory/residencies/2027-eutopia-art-residencies-greece",
       "summary": "Eutopia — from the Greek εὖ (good) and τόπος (place). Not a utopia. A real place, with real conditions, designed for the kind of creative work that requires time, atmosphere, and human connection.",
       "source": "Artist Communities Alliance",
-      "published": "2026-11-03T14:47:59.290047+00:00",
+      "published": "2026-11-03T23:50:13.788348+00:00",
       "deadline": null,
       "tags": [
         "residency"
@@ -799,7 +816,7 @@
       "link": "https://artistcommunities.org/directory/residencies/2027-edgar-heap-birds-family-artist-residency",
       "summary": "The Tyler School of Art and Architecture invites applications for a spring 2027 residency in the Art Department, which encompasses undergraduate and graduate programs in Ceramics, Fibers and Material Studies, Glass, Metals/Jewelry/CAD-CAM, Painting, Photography, Printmaking, and Sculpture.",
       "source": "Artist Communities Alliance",
-      "published": "2026-11-03T14:47:59.288800+00:00",
+      "published": "2026-11-03T23:50:13.787117+00:00",
       "deadline": null,
       "tags": [
         "residency"
@@ -828,7 +845,7 @@
       "link": "https://artistcommunities.org/directory/residencies/2026-springsummer-ceramics-artist-residency-program",
       "summary": "The Eureka Springs School of the arts is looking for practicing ceramics artists who are seeking focused time to refine their skills, create work and/or explore new avenues within their medium.",
       "source": "Artist Communities Alliance",
-      "published": "2026-11-03T14:47:59.287816+00:00",
+      "published": "2026-11-03T23:50:13.786136+00:00",
       "deadline": null,
       "tags": [
         "residency"
@@ -851,7 +868,7 @@
       "link": "https://artistcommunities.org/directory/residencies/2026-mentored-woodworking-residency-doug-stowe",
       "summary": "The Eureka Springs School of the Arts is looking for practicing woodworkers and craftspeople seeking focused time to refine their abilities, create new work, and expand their knowledge in a Mentored Residency under Master Woodcrafter, Doug Stowe.",
       "source": "Artist Communities Alliance",
-      "published": "2026-11-03T14:47:59.286699+00:00",
+      "published": "2026-11-03T23:50:13.785022+00:00",
       "deadline": null,
       "tags": [
         "residency"
@@ -871,7 +888,7 @@
       "link": "https://artistcommunities.org/directory/residencies/2025-oolite-arts-liveinart-residency-program",
       "summary": "The Oolite Arts’ Live.In.Art Residency Program provides artists with the time, space, and resources to reach new levels of excellence.",
       "source": "Artist Communities Alliance",
-      "published": "2026-11-03T14:47:59.285807+00:00",
+      "published": "2026-11-03T23:50:13.784140+00:00",
       "deadline": null,
       "tags": [
         "residency"
@@ -895,7 +912,7 @@
       "link": "https://artistcommunities.org/directory/residencies/2025-artist-writer-residencies-gibraltar-point-toronto-island",
       "summary": "Are you an artist or writer seeking a space to focus on your next project? Look no further! We're thrilled to share that we have just opened applications for self-directed residencies for 2025.",
       "source": "Artist Communities Alliance",
-      "published": "2026-11-03T14:47:59.284654+00:00",
+      "published": "2026-11-03T23:50:13.783102+00:00",
       "deadline": null,
       "tags": [
         "residency"
@@ -915,7 +932,7 @@
       "link": "https://artistcommunities.org/directory/residencies/100-west-corsicana-artist-writer-residency",
       "summary": "CORSICANA ARTIST & WRITER RESIDENCY supports the creation and presentation of art and literature with generous provisions and historic space. Founded in 2012 at 100 West, and organized in 2017 as a 501(c)(3) nonprofit.",
       "source": "Artist Communities Alliance",
-      "published": "2026-11-03T14:47:59.283590+00:00",
+      "published": "2026-11-03T23:50:13.782041+00:00",
       "deadline": null,
       "tags": [
         "residency"
@@ -935,7 +952,7 @@
       "link": "https://artistcommunities.org/directory/residencies/kathmandu-international-artist-residency-kiar-2027",
       "summary": "Nestled between India and China, Nepal is a land of breathtaking landscapes, rich traditions, and diverse cultures. Home to the majestic Himalayas—including Mount Everest—Nepal offers everything from subtropical valleys with banana trees to alpine forests with grazing yaks.",
       "source": "Artist Communities Alliance",
-      "published": "2026-11-03T14:47:59.282409+00:00",
+      "published": "2026-11-03T23:50:13.780847+00:00",
       "deadline": null,
       "tags": [
         "residency"
@@ -955,7 +972,7 @@
       "link": "https://artistcommunities.org/directory/residencies/kala-yatra-artist-residency-nepal-2026-27",
       "summary": "Kala Yatra invites applications for its concept-driven, community-engaged artist residency program in Kathmandu, Nepal.",
       "source": "Artist Communities Alliance",
-      "published": "2026-11-03T14:47:59.281574+00:00",
+      "published": "2026-11-03T23:50:13.780084+00:00",
       "deadline": null,
       "tags": [
         "residency"
@@ -986,7 +1003,7 @@
       "link": "https://artistcommunities.org/directory/residencies/artsindustry-residency",
       "summary": "For more than fifty years, Arts/Industry has been connecting artists with the resources, technology, and materials of Kohler Co., and providing a place to explore new ideas, processes, and perspectives. Artists from all disciplines are encouraged to apply.",
       "source": "Artist Communities Alliance",
-      "published": "2026-11-03T14:47:59.280046+00:00",
+      "published": "2026-11-03T23:50:13.778806+00:00",
       "deadline": null,
       "tags": [
         "residency"
@@ -1275,32 +1292,6 @@
       ]
     },
     {
-      "id": "0c6c1e8b7e50ffa335978d288bbe7f83be70162d",
-      "title": "Buckham Gallery National Juried Exhibition: Small Works",
-      "link": "https://artdeadline.com/ops/buckham-gallery/",
-      "summary": "U.S. National Deadline: November 21, 2026 – Buckham Gallery invites artists to submit Small work for our call for entry, entitled Small Works. Often, large artworks dominate and attract the attention of the art world because of their instant impact...",
-      "source": "ArtDeadline",
-      "published": "2026-10-26T07:00:45+00:00",
-      "deadline": "2026-11-21",
-      "tags": [
-        "opportunity"
-      ],
-      "region": null,
-      "kind": "opportunity",
-      "description": "U.S. National Deadline: November 21, 2026 – Buckham Gallery invites artists to submit Small work for our call for entry, entitled Small Works. Often, large artworks dominate and attract the attention of the art world because of their instant impact...",
-      "opportunity_type": "exhibition_opportunity",
-      "location_mode": "not_specified",
-      "required_roles": [
-        "Artist"
-      ],
-      "project_types": [
-        "Exhibition"
-      ],
-      "materials": [
-        "LED"
-      ]
-    },
-    {
       "id": "20a2ebd7977a12120a1b6de217f359e8b643d056",
       "title": "New York State Council on the Arts (NYSCA) and New York Foundation for the Arts (NYFA) Award $1,760,000 to 2026 Reserve Fund Grant Recipients",
       "link": "https://www.nyfa.org/news/new-york-state-council-on-the-arts-nysca-and-new-york-foundation-for-the-arts-nyfa-award-1760000-to-2026-reserve-fund-grant-recipients/",
@@ -1385,6 +1376,28 @@
       "location_mode": "not_specified",
       "required_roles": [
         "Artist"
+      ]
+    },
+    {
+      "id": "1f142825c7d275e7c7591ac30602fe53e149f500",
+      "title": "November Salon Art Prize Online Art Competition",
+      "link": "https://artdeadline.com/ops/pleinair/",
+      "summary": "International Deadline: November 30, 2026 – The Annual Salon Art Prize consists of 22 monthly winners with $50,000 in prizes, exhibitions, and publications. Open to artists worldwide, and to a variety of mediums and styles. Top jurors...",
+      "source": "ArtDeadline",
+      "published": "2026-09-30T12:21:03+00:00",
+      "deadline": "2026-11-30",
+      "tags": [
+        "opportunity"
+      ],
+      "region": "Remote",
+      "kind": "opportunity",
+      "description": "International Deadline: November 30, 2026 – The Annual Salon Art Prize consists of 22 monthly winners with $50,000 in prizes, exhibitions, and publications. Open to artists worldwide, and to a variety of mediums and styles. Top jurors...",
+      "location_mode": "remote",
+      "required_roles": [
+        "Artist"
+      ],
+      "project_types": [
+        "Exhibition"
       ]
     },
     {
@@ -3160,456 +3173,6 @@
       "summary": "by Damon Reed · 1146 S California Ave, Chicago · 2008",
       "source": "Chicago Mural Registry",
       "published": "2008-01-01T00:00:00+00:00",
-      "deadline": null,
-      "tags": [
-        "public art"
-      ],
-      "region": "Midwest",
-      "kind": "archive",
-      "image": null
-    },
-    {
-      "id": "175c8319fe505d701e4c488e394a30829fd533df",
-      "title": "River Suite",
-      "link": "https://data.cityofchicago.org/d/pxyq-qhyd",
-      "summary": "by Phil Schuster · INDIAN BOUNDARY, Chicago",
-      "source": "Chicago Park Art",
-      "published": "2000-01-01T00:00:00+00:00",
-      "deadline": null,
-      "tags": [
-        "public art"
-      ],
-      "region": "Midwest",
-      "kind": "archive",
-      "image": null
-    },
-    {
-      "id": "0f6578a377e28ea359e302fb731f0f04ae828b6b",
-      "title": "Where Dreams Begin",
-      "link": "https://data.cityofchicago.org/d/pxyq-qhyd",
-      "summary": "by Marshall Svendsen · KING-LOCKHART (PATRICK, ANTHONY), Chicago",
-      "source": "Chicago Park Art",
-      "published": "2000-01-01T00:00:00+00:00",
-      "deadline": null,
-      "tags": [
-        "public art"
-      ],
-      "region": "Midwest",
-      "kind": "archive",
-      "image": null
-    },
-    {
-      "id": "b3b8c586e1dc355e49a33af4224d6a493a2b6aef",
-      "title": "Christopher Columbus and Fountain",
-      "link": "https://data.cityofchicago.org/d/pxyq-qhyd",
-      "summary": "by Moses Ezekiel · ARRIGO (VICTOR), Chicago",
-      "source": "Chicago Park Art",
-      "published": "2000-01-01T00:00:00+00:00",
-      "deadline": null,
-      "tags": [
-        "public art"
-      ],
-      "region": "Midwest",
-      "kind": "archive",
-      "image": null
-    },
-    {
-      "id": "cf804591cbc7e73b47efce3a0ec5ff9dfad9cdf7",
-      "title": "Phil Richman Fountain",
-      "link": "https://data.cityofchicago.org/d/pxyq-qhyd",
-      "summary": "BIXLER (RAY), Chicago",
-      "source": "Chicago Park Art",
-      "published": "2000-01-01T00:00:00+00:00",
-      "deadline": null,
-      "tags": [
-        "public art"
-      ],
-      "region": "Midwest",
-      "kind": "archive",
-      "image": null
-    },
-    {
-      "id": "337c7b6fbf9fb7d50ce1b9fccc47e52aa6546f30",
-      "title": "American Doughboy (Spirit of the American Doughboy)",
-      "link": "https://data.cityofchicago.org/d/pxyq-qhyd",
-      "summary": "by Ernest Moore Viquesney · BURNHAM (DANIEL), Chicago",
-      "source": "Chicago Park Art",
-      "published": "2000-01-01T00:00:00+00:00",
-      "deadline": null,
-      "tags": [
-        "public art"
-      ],
-      "region": "Midwest",
-      "kind": "archive",
-      "image": null
-    },
-    {
-      "id": "57827a82d736b6fa03cb1592add505c665cc6962",
-      "title": "Mermaid (La Sirena)",
-      "link": "https://data.cityofchicago.org/d/pxyq-qhyd",
-      "summary": "by Jose Moreno, Roman Villareal, Ed Fu & Fred Arroyo · BURNHAM (DANIEL), Chicago",
-      "source": "Chicago Park Art",
-      "published": "2000-01-01T00:00:00+00:00",
-      "deadline": null,
-      "tags": [
-        "public art"
-      ],
-      "region": "Midwest",
-      "kind": "archive",
-      "image": null
-    },
-    {
-      "id": "d3e7579987f89726fdff28098cd898e7937455ef",
-      "title": "Gold Star Families Memorial",
-      "link": "https://data.cityofchicago.org/d/pxyq-qhyd",
-      "summary": "by David Woodhouse & Assoc. · BURNHAM (DANIEL), Chicago",
-      "source": "Chicago Park Art",
-      "published": "2000-01-01T00:00:00+00:00",
-      "deadline": null,
-      "tags": [
-        "public art"
-      ],
-      "region": "Midwest",
-      "kind": "archive",
-      "image": null
-    },
-    {
-      "id": "ded28e690a967ddf41b0660ff55aec89b7d68edd",
-      "title": "Chicago Firefighter/Paramedic Memorial",
-      "link": "https://data.cityofchicago.org/d/pxyq-qhyd",
-      "summary": "by John Alaniz · BURNHAM (DANIEL), Chicago",
-      "source": "Chicago Park Art",
-      "published": "2000-01-01T00:00:00+00:00",
-      "deadline": null,
-      "tags": [
-        "public art"
-      ],
-      "region": "Midwest",
-      "kind": "archive",
-      "image": null
-    },
-    {
-      "id": "17e9273503662d0c7d1538b8c3746b37950c219e",
-      "title": "Soldier Field Children's Garden",
-      "link": "https://data.cityofchicago.org/d/pxyq-qhyd",
-      "summary": "by Peter Lindsay Schaudt · BURNHAM (DANIEL), Chicago",
-      "source": "Chicago Park Art",
-      "published": "2000-01-01T00:00:00+00:00",
-      "deadline": null,
-      "tags": [
-        "public art"
-      ],
-      "region": "Midwest",
-      "kind": "archive",
-      "image": null
-    },
-    {
-      "id": "c3bd5fc7f7c5eb9d7435b9a7c7a91468d4a0749b",
-      "title": "Special Olympics Memorial",
-      "link": "https://data.cityofchicago.org/d/pxyq-qhyd",
-      "summary": "by Richard Hunt · BURNHAM (DANIEL), Chicago",
-      "source": "Chicago Park Art",
-      "published": "2000-01-01T00:00:00+00:00",
-      "deadline": null,
-      "tags": [
-        "public art"
-      ],
-      "region": "Midwest",
-      "kind": "archive",
-      "image": null
-    },
-    {
-      "id": "be2e7e959de643d253bdb2790941987a8b4ca0d8",
-      "title": "Tribute to George Halas",
-      "link": "https://data.cityofchicago.org/d/pxyq-qhyd",
-      "summary": "by Julie Rotblatt-Amrany · BURNHAM (DANIEL), Chicago",
-      "source": "Chicago Park Art",
-      "published": "2000-01-01T00:00:00+00:00",
-      "deadline": null,
-      "tags": [
-        "public art"
-      ],
-      "region": "Midwest",
-      "kind": "archive",
-      "image": null
-    },
-    {
-      "id": "8410f1fe66a2ae0e2ca8b26566c1716eed4ba7b0",
-      "title": "Wallach Fountain",
-      "link": "https://data.cityofchicago.org/d/pxyq-qhyd",
-      "summary": "by Frederick & Elisabeth Hibbard · BURNHAM (DANIEL), Chicago",
-      "source": "Chicago Park Art",
-      "published": "2000-01-01T00:00:00+00:00",
-      "deadline": null,
-      "tags": [
-        "public art"
-      ],
-      "region": "Midwest",
-      "kind": "archive",
-      "image": null
-    },
-    {
-      "id": "1b6494826a3fccb86dc3505c11846cdcaa44859b",
-      "title": "Botanical Gardens Fountain",
-      "link": "https://data.cityofchicago.org/d/pxyq-qhyd",
-      "summary": "by Tannis Langdon · CHICAGO WOMEN'S PARK AND GARDENS, Chicago",
-      "source": "Chicago Park Art",
-      "published": "2000-01-01T00:00:00+00:00",
-      "deadline": null,
-      "tags": [
-        "public art"
-      ],
-      "region": "Midwest",
-      "kind": "archive",
-      "image": null
-    },
-    {
-      "id": "c4c2a6917faa8816b7de479559fe1664f3261ce7",
-      "title": "Jane Addams Memorial (Helping Hands)",
-      "link": "https://data.cityofchicago.org/d/pxyq-qhyd",
-      "summary": "by Louise Bourgeois · CHICAGO WOMEN'S PARK AND GARDENS, Chicago",
-      "source": "Chicago Park Art",
-      "published": "2000-01-01T00:00:00+00:00",
-      "deadline": null,
-      "tags": [
-        "public art"
-      ],
-      "region": "Midwest",
-      "kind": "archive",
-      "image": null
-    },
-    {
-      "id": "ba9f5a743e277cd59863bd83c876dc5c62d610e0",
-      "title": "Playground Art",
-      "link": "https://data.cityofchicago.org/d/pxyq-qhyd",
-      "summary": "by John Pittman Webber, CPAG · COMMERCIAL CLUB PGD. OF CHICAGO, Chicago",
-      "source": "Chicago Park Art",
-      "published": "2000-01-01T00:00:00+00:00",
-      "deadline": null,
-      "tags": [
-        "public art"
-      ],
-      "region": "Midwest",
-      "kind": "archive",
-      "image": null
-    },
-    {
-      "id": "1e059a3482bc693013ca504f891a772486eca2b5",
-      "title": "Alchemy -- Birds and Stone",
-      "link": "https://data.cityofchicago.org/d/pxyq-qhyd",
-      "summary": "by Dan Yarborough · DEARBORN (HENRY), Chicago",
-      "source": "Chicago Park Art",
-      "published": "2000-01-01T00:00:00+00:00",
-      "deadline": null,
-      "tags": [
-        "public art"
-      ],
-      "region": "Midwest",
-      "kind": "archive",
-      "image": null
-    },
-    {
-      "id": "110373379bc480fd94d757cbcd7ba3d74cef0bb4",
-      "title": "Paul Cornell Bust",
-      "link": "https://data.cityofchicago.org/d/pxyq-qhyd",
-      "summary": "by Sigvald Asbjørnsen · CORNELL (PAUL) SQUARE, Chicago",
-      "source": "Chicago Park Art",
-      "published": "2000-01-01T00:00:00+00:00",
-      "deadline": null,
-      "tags": [
-        "public art"
-      ],
-      "region": "Midwest",
-      "kind": "archive",
-      "image": null
-    },
-    {
-      "id": "77393216369680f8c1865ef09c4aa03157820819",
-      "title": "Melville W. Fuller Bust",
-      "link": "https://data.cityofchicago.org/d/pxyq-qhyd",
-      "summary": "by William Ordway Partridge · FULLER (MELVILLE), Chicago",
-      "source": "Chicago Park Art",
-      "published": "2000-01-01T00:00:00+00:00",
-      "deadline": null,
-      "tags": [
-        "public art"
-      ],
-      "region": "Midwest",
-      "kind": "archive",
-      "image": null
-    },
-    {
-      "id": "4ba05efcb2a6b24d08df820cd1bee110c915490b",
-      "title": "Fountain",
-      "link": "https://data.cityofchicago.org/d/pxyq-qhyd",
-      "summary": "FULLER (MELVILLE), Chicago",
-      "source": "Chicago Park Art",
-      "published": "2000-01-01T00:00:00+00:00",
-      "deadline": null,
-      "tags": [
-        "public art"
-      ],
-      "region": "Midwest",
-      "kind": "archive",
-      "image": null
-    },
-    {
-      "id": "166595756845955994543ddd7b716ab3389ed012",
-      "title": "Administration Bldg Interior Panels (Gold Dome Rotunda Panels)",
-      "link": "https://data.cityofchicago.org/d/pxyq-qhyd",
-      "summary": "by Richard W. Bock · GARFIELD (JAMES), Chicago",
-      "source": "Chicago Park Art",
-      "published": "2000-01-01T00:00:00+00:00",
-      "deadline": null,
-      "tags": [
-        "public art"
-      ],
-      "region": "Midwest",
-      "kind": "archive",
-      "image": null
-    },
-    {
-      "id": "0c883ddb1f25ede4b65cda80901508db84f9843e",
-      "title": "Bulls with Maidens (World Fair Bulls/Statues of Plenty)",
-      "link": "https://data.cityofchicago.org/d/pxyq-qhyd",
-      "summary": "by Daniel Chester French, Edward C. Potter · GARFIELD (JAMES), Chicago",
-      "source": "Chicago Park Art",
-      "published": "2000-01-01T00:00:00+00:00",
-      "deadline": null,
-      "tags": [
-        "public art"
-      ],
-      "region": "Midwest",
-      "kind": "archive",
-      "image": null
-    },
-    {
-      "id": "1430b7d1269c3313b00be36c67402f70fc6757d0",
-      "title": "Norman Cornwall Memorial (WWI Obelisk)",
-      "link": "https://data.cityofchicago.org/d/pxyq-qhyd",
-      "summary": "by Carl J. Epiing · GARFIELD (JAMES), Chicago",
-      "source": "Chicago Park Art",
-      "published": "2000-01-01T00:00:00+00:00",
-      "deadline": null,
-      "tags": [
-        "public art"
-      ],
-      "region": "Midwest",
-      "kind": "archive",
-      "image": null
-    },
-    {
-      "id": "b41a39a003543575dd83d2bd0dd660b08103294d",
-      "title": "Robert Burns Memorial",
-      "link": "https://data.cityofchicago.org/d/pxyq-qhyd",
-      "summary": "by William Grant Stevenson · GARFIELD (JAMES), Chicago",
-      "source": "Chicago Park Art",
-      "published": "2000-01-01T00:00:00+00:00",
-      "deadline": null,
-      "tags": [
-        "public art"
-      ],
-      "region": "Midwest",
-      "kind": "archive",
-      "image": null
-    },
-    {
-      "id": "dfea3969bbb0760e41e9cd5d04461eb681fabaf7",
-      "title": "Conservatory Entrance Fountain",
-      "link": "https://data.cityofchicago.org/d/pxyq-qhyd",
-      "summary": "by Wolff, Clements & Assoc · GARFIELD (JAMES), Chicago",
-      "source": "Chicago Park Art",
-      "published": "2000-01-01T00:00:00+00:00",
-      "deadline": null,
-      "tags": [
-        "public art"
-      ],
-      "region": "Midwest",
-      "kind": "archive",
-      "image": null
-    },
-    {
-      "id": "ea3817f49e2b891c05315d6cd676ff5edb48414b",
-      "title": "Lincoln the Rail-Splitter",
-      "link": "https://data.cityofchicago.org/d/pxyq-qhyd",
-      "summary": "by Charles J. Mulligan · GARFIELD (JAMES), Chicago",
-      "source": "Chicago Park Art",
-      "published": "2000-01-01T00:00:00+00:00",
-      "deadline": null,
-      "tags": [
-        "public art"
-      ],
-      "region": "Midwest",
-      "kind": "archive",
-      "image": null
-    },
-    {
-      "id": "8a4f40150af981dac136105c891aefa87aac2ff4",
-      "title": "Pastoral & Idyl",
-      "link": "https://data.cityofchicago.org/d/pxyq-qhyd",
-      "summary": "by Lorado Taft · GARFIELD (JAMES), Chicago",
-      "source": "Chicago Park Art",
-      "published": "2000-01-01T00:00:00+00:00",
-      "deadline": null,
-      "tags": [
-        "public art"
-      ],
-      "region": "Midwest",
-      "kind": "archive",
-      "image": null
-    },
-    {
-      "id": "edfdb46f3061f8f590dba210a446c9ad79c42cd6",
-      "title": "Persian Pool (Yellow Lilies)",
-      "link": "https://data.cityofchicago.org/d/pxyq-qhyd",
-      "summary": "by Dale Chihuly · GARFIELD (JAMES), Chicago",
-      "source": "Chicago Park Art",
-      "published": "2000-01-01T00:00:00+00:00",
-      "deadline": null,
-      "tags": [
-        "public art"
-      ],
-      "region": "Midwest",
-      "kind": "archive",
-      "image": null
-    },
-    {
-      "id": "935c9d7adc3837a5cb8e9500e322662759c0daf7",
-      "title": "Zellij Fountain",
-      "link": "https://data.cityofchicago.org/d/pxyq-qhyd",
-      "summary": "by Said Ben Adiba · GARFIELD (JAMES), Chicago",
-      "source": "Chicago Park Art",
-      "published": "2000-01-01T00:00:00+00:00",
-      "deadline": null,
-      "tags": [
-        "public art"
-      ],
-      "region": "Midwest",
-      "kind": "archive",
-      "image": null
-    },
-    {
-      "id": "9c99cf07ba642e83d481c71f96c4e4fd5ee86ed7",
-      "title": "Giuseppe Garibaldi Monument",
-      "link": "https://data.cityofchicago.org/d/pxyq-qhyd",
-      "summary": "by Victor Gheradi · GARIBALDI (GIUSEPPE), Chicago",
-      "source": "Chicago Park Art",
-      "published": "2000-01-01T00:00:00+00:00",
-      "deadline": null,
-      "tags": [
-        "public art"
-      ],
-      "region": "Midwest",
-      "kind": "archive",
-      "image": null
-    },
-    {
-      "id": "7ff19ad57d1b69e8f26ff21380e9ba1ca4e7bff4",
-      "title": "Samuel Gompers Monument",
-      "link": "https://data.cityofchicago.org/d/pxyq-qhyd",
-      "summary": "by Susan Clinard · GOMPERS (SAMUEL), Chicago",
-      "source": "Chicago Park Art",
-      "published": "2000-01-01T00:00:00+00:00",
       "deadline": null,
       "tags": [
         "public art"
