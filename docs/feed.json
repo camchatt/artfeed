@@ -1,8 +1,8 @@
 {
   "contract_version": "artelier_opportunities_feed_v1",
   "title": "Creative Opportunities",
-  "updated": "2026-11-03T23:51:21.254511+00:00",
-  "count": 244,
+  "updated": "2026-11-04T15:00:27.859494+00:00",
+  "count": 274,
   "items": [
     {
       "id": "a8d6b3cb769fda5cc6fad64bef2261302ce074f5",
@@ -10,7 +10,7 @@
       "link": "https://www.grants.gov/search-results-detail/364195",
       "summary": "National Endowment for the Humanities | opportunity 20270113-CHE",
       "source": "Grants.gov",
-      "published": "2026-11-03T23:50:17.724465+00:00",
+      "published": "2026-11-04T14:59:56.517877+00:00",
       "deadline": "2027-01-13",
       "tags": [
         "grant"
@@ -27,7 +27,7 @@
       "link": "https://www.grants.gov/search-results-detail/364098",
       "summary": "National Endowment for the Humanities | opportunity 20261209-GE-GI-BP-BR-GGX",
       "source": "Grants.gov",
-      "published": "2026-11-03T23:50:17.723970+00:00",
+      "published": "2026-11-04T14:59:56.517510+00:00",
       "deadline": "2026-12-16",
       "tags": [
         "grant"
@@ -44,7 +44,7 @@
       "link": "https://www.grants.gov/search-results-detail/364030",
       "summary": "National Endowment for the Humanities | opportunity 20270113-PJ",
       "source": "Grants.gov",
-      "published": "2026-11-03T23:50:17.723430+00:00",
+      "published": "2026-11-04T14:59:56.517126+00:00",
       "deadline": "2027-01-13",
       "tags": [
         "grant"
@@ -61,7 +61,7 @@
       "link": "https://www.grants.gov/search-results-detail/363880",
       "summary": "National Endowment for the Humanities | opportunity 20261209-EDK-EDU",
       "source": "Grants.gov",
-      "published": "2026-11-03T23:50:17.722823+00:00",
+      "published": "2026-11-04T14:59:56.516707+00:00",
       "deadline": "2026-12-09",
       "tags": [
         "grant"
@@ -78,7 +78,7 @@
       "link": "https://www.grants.gov/search-results-detail/361480",
       "summary": "National Endowment for the Humanities | opportunity 20260511-PCS",
       "source": "Grants.gov",
-      "published": "2026-11-03T23:50:17.722335+00:00",
+      "published": "2026-11-04T14:59:56.516340+00:00",
       "deadline": "2026-12-15",
       "tags": [
         "grant"
@@ -95,7 +95,7 @@
       "link": "https://www.grants.gov/search-results-detail/363225",
       "summary": "Bureau Of Educational and Cultural Affairs | opportunity DFOP0017180",
       "source": "Grants.gov",
-      "published": "2026-11-03T23:50:17.721510+00:00",
+      "published": "2026-11-04T14:59:56.515721+00:00",
       "deadline": null,
       "tags": [
         "grant"
@@ -112,7 +112,7 @@
       "link": "https://www.grants.gov/search-results-detail/363773",
       "summary": "Institute of Museum and Library Services | opportunity NLG-M-FY27",
       "source": "Grants.gov",
-      "published": "2026-11-03T23:50:17.720337+00:00",
+      "published": "2026-11-04T14:59:56.514820+00:00",
       "deadline": "2026-11-13",
       "tags": [
         "grant"
@@ -129,7 +129,7 @@
       "link": "https://www.grants.gov/search-results-detail/363762",
       "summary": "Institute of Museum and Library Services | opportunity NAG-ENHANCEMENT-FY27",
       "source": "Grants.gov",
-      "published": "2026-11-03T23:50:16.063161+00:00",
+      "published": "2026-11-04T14:59:54.929471+00:00",
       "deadline": "2026-11-13",
       "tags": [
         "grant"
@@ -146,7 +146,7 @@
       "link": "https://www.grants.gov/search-results-detail/363763",
       "summary": "Institute of Museum and Library Services | opportunity NAG-HAWAIIAN-FY27",
       "source": "Grants.gov",
-      "published": "2026-11-03T23:50:16.062587+00:00",
+      "published": "2026-11-04T14:59:54.929042+00:00",
       "deadline": "2026-11-13",
       "tags": [
         "grant"
@@ -163,7 +163,7 @@
       "link": "https://www.grants.gov/search-results-detail/363765",
       "summary": "Institute of Museum and Library Services | opportunity LB21-FY27",
       "source": "Grants.gov",
-      "published": "2026-11-03T23:50:16.062024+00:00",
+      "published": "2026-11-04T14:59:54.928614+00:00",
       "deadline": "2026-11-13",
       "tags": [
         "grant"
@@ -180,7 +180,7 @@
       "link": "https://www.grants.gov/search-results-detail/363767",
       "summary": "Institute of Museum and Library Services | opportunity NAG-BASIC-FY27",
       "source": "Grants.gov",
-      "published": "2026-11-03T23:50:16.061435+00:00",
+      "published": "2026-11-04T14:59:54.928171+00:00",
       "deadline": "2026-11-13",
       "tags": [
         "grant"
@@ -197,7 +197,7 @@
       "link": "https://www.grants.gov/search-results-detail/322314",
       "summary": "U.S. Mission to Cambodia | opportunity PAS-CB-600-20-PAS-0003",
       "source": "Grants.gov",
-      "published": "2026-11-03T23:50:16.060790+00:00",
+      "published": "2026-11-04T14:59:54.927709+00:00",
       "deadline": null,
       "tags": [
         "grant"
@@ -214,7 +214,7 @@
       "link": "https://www.grants.gov/search-results-detail/363728",
       "summary": "National Park Service | opportunity P27AS00032",
       "source": "Grants.gov",
-      "published": "2026-11-03T23:50:16.060121+00:00",
+      "published": "2026-11-04T14:59:54.927187+00:00",
       "deadline": "2026-11-04",
       "tags": [
         "grant"
@@ -231,7 +231,7 @@
       "link": "https://www.grants.gov/search-results-detail/363766",
       "summary": "Institute of Museum and Library Services | opportunity NLG-LIBRARIES-FY27",
       "source": "Grants.gov",
-      "published": "2026-11-03T23:50:16.059539+00:00",
+      "published": "2026-11-04T14:59:54.926762+00:00",
       "deadline": "2026-11-13",
       "tags": [
         "grant"
@@ -248,7 +248,7 @@
       "link": "https://www.grants.gov/search-results-detail/363775",
       "summary": "Institute of Museum and Library Services | opportunity NANH-FY27",
       "source": "Grants.gov",
-      "published": "2026-11-03T23:50:16.058968+00:00",
+      "published": "2026-11-04T14:59:54.926310+00:00",
       "deadline": "2026-11-13",
       "tags": [
         "grant"
@@ -265,7 +265,7 @@
       "link": "https://www.grants.gov/search-results-detail/364205",
       "summary": "National Aeronautics and Space Administration | opportunity NNH27ZHA002C",
       "source": "Grants.gov",
-      "published": "2026-11-03T23:50:16.058253+00:00",
+      "published": "2026-11-04T14:59:54.925786+00:00",
       "deadline": "2027-02-01",
       "tags": [
         "grant"
@@ -282,7 +282,7 @@
       "link": "https://www.grants.gov/search-results-detail/363768",
       "summary": "Institute of Museum and Library Services | opportunity MFA-FY27",
       "source": "Grants.gov",
-      "published": "2026-11-03T23:50:16.057709+00:00",
+      "published": "2026-11-04T14:59:54.925402+00:00",
       "deadline": "2026-11-13",
       "tags": [
         "grant"
@@ -299,7 +299,7 @@
       "link": "https://www.grants.gov/search-results-detail/363772",
       "summary": "Institute of Museum and Library Services | opportunity ALHC-FY27",
       "source": "Grants.gov",
-      "published": "2026-11-03T23:50:16.057130+00:00",
+      "published": "2026-11-04T14:59:54.924958+00:00",
       "deadline": "2026-11-13",
       "tags": [
         "grant"
@@ -316,7 +316,7 @@
       "link": "https://www.grants.gov/search-results-detail/363769",
       "summary": "Institute of Museum and Library Services | opportunity 21MP-FY27",
       "source": "Grants.gov",
-      "published": "2026-11-03T23:50:16.056536+00:00",
+      "published": "2026-11-04T14:59:54.924542+00:00",
       "deadline": "2026-11-13",
       "tags": [
         "grant"
@@ -333,7 +333,7 @@
       "link": "https://www.grants.gov/search-results-detail/363776",
       "summary": "Institute of Museum and Library Services | opportunity ME-FY27",
       "source": "Grants.gov",
-      "published": "2026-11-03T23:50:16.055381+00:00",
+      "published": "2026-11-04T14:59:54.923730+00:00",
       "deadline": "2026-11-13",
       "tags": [
         "grant"
@@ -350,7 +350,7 @@
       "link": "https://www.grants.gov/search-results-detail/363770",
       "summary": "Institute of Museum and Library Services | opportunity AAHC-FY27",
       "source": "Grants.gov",
-      "published": "2026-11-03T23:50:16.054748+00:00",
+      "published": "2026-11-04T14:59:54.923272+00:00",
       "deadline": "2026-11-13",
       "tags": [
         "grant"
@@ -367,7 +367,7 @@
       "link": "https://www.grants.gov/search-results-detail/363771",
       "summary": "Institute of Museum and Library Services | opportunity IGSM-FY27",
       "source": "Grants.gov",
-      "published": "2026-11-03T23:50:16.054105+00:00",
+      "published": "2026-11-04T14:59:54.922809+00:00",
       "deadline": "2026-11-13",
       "tags": [
         "grant"
@@ -384,7 +384,7 @@
       "link": "https://www.grants.gov/search-results-detail/362984",
       "summary": "National Endowment for the Arts | opportunity 2027FCAHDOM02",
       "source": "Grants.gov",
-      "published": "2026-11-03T23:50:15.211508+00:00",
+      "published": "2026-11-04T14:59:54.101674+00:00",
       "deadline": "2027-06-07",
       "tags": [
         "grant"
@@ -401,7 +401,7 @@
       "link": "https://www.grants.gov/search-results-detail/362982",
       "summary": "National Endowment for the Arts | opportunity 2027FCAHDOM01",
       "source": "Grants.gov",
-      "published": "2026-11-03T23:50:15.210871+00:00",
+      "published": "2026-11-04T14:59:54.101202+00:00",
       "deadline": "2026-12-07",
       "tags": [
         "grant"
@@ -418,7 +418,7 @@
       "link": "https://www.grants.gov/search-results-detail/362983",
       "summary": "National Endowment for the Arts | opportunity 2027FCAH02",
       "source": "Grants.gov",
-      "published": "2026-11-03T23:50:15.210275+00:00",
+      "published": "2026-11-04T14:59:54.100744+00:00",
       "deadline": "2027-03-08",
       "tags": [
         "grant"
@@ -435,7 +435,7 @@
       "link": "https://www.grants.gov/search-results-detail/361554",
       "summary": "Bureau Of Educational and Cultural Affairs | opportunity DFOP0017204",
       "source": "Grants.gov",
-      "published": "2026-11-03T23:50:15.208652+00:00",
+      "published": "2026-11-04T14:59:54.099493+00:00",
       "deadline": null,
       "tags": [
         "grant"
@@ -452,7 +452,7 @@
       "link": "https://artistcommunities.org/directory/residencies/alchemy-artists-residency",
       "summary": "ALCHEMY: a n artist-led international residency where food, art, and community come together.",
       "source": "Artist Communities Alliance",
-      "published": "2026-11-03T23:50:13.798003+00:00",
+      "published": "2026-11-04T14:59:52.699738+00:00",
       "deadline": null,
       "tags": [
         "residency"
@@ -485,7 +485,7 @@
       "link": "https://artistcommunities.org/directory/residencies/alaska-air-bunnell-street-arts-center-artist-residence",
       "summary": "Bunnell Street Arts Center's \"Alaska AIR\" Artist-in-Residency program seeks international, US and Alaska artists looking to create new work and deeply engage Bunnell’s community.",
       "source": "Artist Communities Alliance",
-      "published": "2026-11-03T23:50:13.797604+00:00",
+      "published": "2026-11-04T14:59:52.699450+00:00",
       "deadline": null,
       "tags": [
         "residency"
@@ -505,7 +505,7 @@
       "link": "https://artistcommunities.org/directory/residencies/alaska-chulitna-lodge-wilderness-retreat-creative-residency",
       "summary": "Chulitna Lodge Wilderness Retreat seeks to provide the time, space, clarity and facilities for all forms of creative professionals or enthusiastic hobbyists to make and meditate.",
       "source": "Artist Communities Alliance",
-      "published": "2026-11-03T23:50:13.797254+00:00",
+      "published": "2026-11-04T14:59:52.699193+00:00",
       "deadline": null,
       "tags": [
         "residency"
@@ -522,7 +522,7 @@
       "link": "https://artistcommunities.org/directory/residencies/al-mickey-quinlan-artist-residency",
       "summary": "Whitefish Bay, located on Wisconsin's Door Peninsula , has long been a creative haven for artists who were an important part of the local community and brought the process of creating art into daily life.",
       "source": "Artist Communities Alliance",
-      "published": "2026-11-03T23:50:13.797084+00:00",
+      "published": "2026-11-04T14:59:52.699067+00:00",
       "deadline": null,
       "tags": [
         "residency"
@@ -542,7 +542,7 @@
       "link": "https://artistcommunities.org/directory/residencies/airnewport",
       "summary": "The Newport artist residency, AiR/Newport is designed to encourage the creative, intellectual and personal growth of emerging to established visual artists and designers by giving them the time, space and solitude needed to create, apart from the daily demands of production and deadlines.",
       "source": "Artist Communities Alliance",
-      "published": "2026-11-03T23:50:13.795965+00:00",
+      "published": "2026-11-04T14:59:52.698284+00:00",
       "deadline": null,
       "tags": [
         "residency"
@@ -563,7 +563,7 @@
       "link": "https://artistcommunities.org/directory/residencies/adriftproject-residency-inc",
       "summary": "adriftproject hosts artist residencies aboard SV Hawa for up to two residents at a time as we transit the lovely and diverse US east coast following good weather.",
       "source": "Artist Communities Alliance",
-      "published": "2026-11-03T23:50:13.795134+00:00",
+      "published": "2026-11-04T14:59:52.697713+00:00",
       "deadline": null,
       "tags": [
         "residency"
@@ -583,7 +583,7 @@
       "link": "https://artistcommunities.org/directory/residencies/activate-residency",
       "summary": "Boston Center for the Arts’ ACTivate Residency will award seven-day residencies to individuals and small groups of artists to create site-responsive work in the historic Cyclorama. The work can be performative and/or visual in nature and is meant to activate artists and our spaces.",
       "source": "Artist Communities Alliance",
-      "published": "2026-11-03T23:50:13.794606+00:00",
+      "published": "2026-11-04T14:59:52.697332+00:00",
       "deadline": null,
       "tags": [
         "grant",
@@ -604,7 +604,7 @@
       "link": "https://artistcommunities.org/directory/residencies/acre-academic-and-creative-research-residency-programme",
       "summary": "The ACRE (Academic and Creative Research) Residency Programme invites artists, researchers, writers, and creative practitioners to live and work at Braziers Park while developing independent projects.",
       "source": "Artist Communities Alliance",
-      "published": "2026-11-03T23:50:13.793602+00:00",
+      "published": "2026-11-04T14:59:52.696642+00:00",
       "deadline": null,
       "tags": [
         "residency"
@@ -627,7 +627,7 @@
       "link": "https://artistcommunities.org/directory/residencies/acre",
       "summary": "ACRE’s Residency Program takes place every summer in the Driftless region of Wisconsin.",
       "source": "Artist Communities Alliance",
-      "published": "2026-11-03T23:50:13.793487+00:00",
+      "published": "2026-11-04T14:59:52.696556+00:00",
       "deadline": null,
       "tags": [
         "residency"
@@ -663,7 +663,7 @@
       "link": "https://artistcommunities.org/directory/residencies/ace-ashevillechicago-exchange-choreographic-fellowship",
       "summary": "An ACE Fellowship in Dance provides immersive creative time and space to selected artists, free of charge.",
       "source": "Artist Communities Alliance",
-      "published": "2026-11-03T23:50:13.793133+00:00",
+      "published": "2026-11-04T14:59:52.696292+00:00",
       "deadline": null,
       "tags": [
         "grant",
@@ -689,7 +689,7 @@
       "link": "https://artistcommunities.org/directory/residencies/aca-soundscape-field-station-canaveral-national-seashore",
       "summary": "ACA Soundscape Field Station at Canaveral National Seashore is a partnership between Atlantic Center for the Arts and Canaveral National Seashore.",
       "source": "Artist Communities Alliance",
-      "published": "2026-11-03T23:50:13.792286+00:00",
+      "published": "2026-11-04T14:59:52.695698+00:00",
       "deadline": null,
       "tags": [
         "residency"
@@ -713,7 +713,7 @@
       "link": "https://artistcommunities.org/directory/residencies/aca-sample-residency-0",
       "summary": "Description here.",
       "source": "Artist Communities Alliance",
-      "published": "2026-11-03T23:50:13.791863+00:00",
+      "published": "2026-11-04T14:59:52.695400+00:00",
       "deadline": null,
       "tags": [
         "residency"
@@ -736,7 +736,7 @@
       "link": "https://artistcommunities.org/directory/residencies/abbey-foundation-studio-grant",
       "summary": "Beginning in 2025, The Abbey Foundation will begin to offer 6 month residencies for day use of the 850 square foot studio space. There is also a screened in area attached to the indoor studio which is available for large scale works.",
       "source": "Artist Communities Alliance",
-      "published": "2026-11-03T23:50:13.790827+00:00",
+      "published": "2026-11-04T14:59:52.694669+00:00",
       "deadline": null,
       "tags": [
         "grant",
@@ -754,7 +754,7 @@
       "link": "https://artistcommunities.org/directory/residencies/ap-residency",
       "summary": "For 20 years, Proyecto´ace has welcomed thousands of artists from around the world.",
       "source": "Artist Communities Alliance",
-      "published": "2026-11-03T23:50:13.790257+00:00",
+      "published": "2026-11-04T14:59:52.694244+00:00",
       "deadline": null,
       "tags": [
         "residency"
@@ -779,7 +779,7 @@
       "link": "https://artistcommunities.org/directory/residencies/6okken-residency",
       "summary": "6okken is an artist-run residency in Oishi, a small village on the north shore of Lake Kawaguchi at the foot of Mt. Fuji, about two hours from Tokyo by bus. Six houses stand together, and the artists who run 6okken live and work in the same cluster.",
       "source": "Artist Communities Alliance",
-      "published": "2026-11-03T23:50:13.789194+00:00",
+      "published": "2026-11-04T14:59:52.693500+00:00",
       "deadline": null,
       "tags": [
         "residency"
@@ -799,7 +799,7 @@
       "link": "https://artistcommunities.org/directory/residencies/2027-eutopia-art-residencies-greece",
       "summary": "Eutopia — from the Greek εὖ (good) and τόπος (place). Not a utopia. A real place, with real conditions, designed for the kind of creative work that requires time, atmosphere, and human connection.",
       "source": "Artist Communities Alliance",
-      "published": "2026-11-03T23:50:13.788348+00:00",
+      "published": "2026-11-04T14:59:52.692855+00:00",
       "deadline": null,
       "tags": [
         "residency"
@@ -816,7 +816,7 @@
       "link": "https://artistcommunities.org/directory/residencies/2027-edgar-heap-birds-family-artist-residency",
       "summary": "The Tyler School of Art and Architecture invites applications for a spring 2027 residency in the Art Department, which encompasses undergraduate and graduate programs in Ceramics, Fibers and Material Studies, Glass, Metals/Jewelry/CAD-CAM, Painting, Photography, Printmaking, and Sculpture.",
       "source": "Artist Communities Alliance",
-      "published": "2026-11-03T23:50:13.787117+00:00",
+      "published": "2026-11-04T14:59:52.691996+00:00",
       "deadline": null,
       "tags": [
         "residency"
@@ -845,7 +845,7 @@
       "link": "https://artistcommunities.org/directory/residencies/2026-springsummer-ceramics-artist-residency-program",
       "summary": "The Eureka Springs School of the arts is looking for practicing ceramics artists who are seeking focused time to refine their skills, create work and/or explore new avenues within their medium.",
       "source": "Artist Communities Alliance",
-      "published": "2026-11-03T23:50:13.786136+00:00",
+      "published": "2026-11-04T14:59:52.691321+00:00",
       "deadline": null,
       "tags": [
         "residency"
@@ -868,7 +868,7 @@
       "link": "https://artistcommunities.org/directory/residencies/2026-mentored-woodworking-residency-doug-stowe",
       "summary": "The Eureka Springs School of the Arts is looking for practicing woodworkers and craftspeople seeking focused time to refine their abilities, create new work, and expand their knowledge in a Mentored Residency under Master Woodcrafter, Doug Stowe.",
       "source": "Artist Communities Alliance",
-      "published": "2026-11-03T23:50:13.785022+00:00",
+      "published": "2026-11-04T14:59:52.690555+00:00",
       "deadline": null,
       "tags": [
         "residency"
@@ -888,7 +888,7 @@
       "link": "https://artistcommunities.org/directory/residencies/2025-oolite-arts-liveinart-residency-program",
       "summary": "The Oolite Arts’ Live.In.Art Residency Program provides artists with the time, space, and resources to reach new levels of excellence.",
       "source": "Artist Communities Alliance",
-      "published": "2026-11-03T23:50:13.784140+00:00",
+      "published": "2026-11-04T14:59:52.689884+00:00",
       "deadline": null,
       "tags": [
         "residency"
@@ -912,7 +912,7 @@
       "link": "https://artistcommunities.org/directory/residencies/2025-artist-writer-residencies-gibraltar-point-toronto-island",
       "summary": "Are you an artist or writer seeking a space to focus on your next project? Look no further! We're thrilled to share that we have just opened applications for self-directed residencies for 2025.",
       "source": "Artist Communities Alliance",
-      "published": "2026-11-03T23:50:13.783102+00:00",
+      "published": "2026-11-04T14:59:52.689146+00:00",
       "deadline": null,
       "tags": [
         "residency"
@@ -932,7 +932,7 @@
       "link": "https://artistcommunities.org/directory/residencies/100-west-corsicana-artist-writer-residency",
       "summary": "CORSICANA ARTIST & WRITER RESIDENCY supports the creation and presentation of art and literature with generous provisions and historic space. Founded in 2012 at 100 West, and organized in 2017 as a 501(c)(3) nonprofit.",
       "source": "Artist Communities Alliance",
-      "published": "2026-11-03T23:50:13.782041+00:00",
+      "published": "2026-11-04T14:59:52.688406+00:00",
       "deadline": null,
       "tags": [
         "residency"
@@ -952,7 +952,7 @@
       "link": "https://artistcommunities.org/directory/residencies/kathmandu-international-artist-residency-kiar-2027",
       "summary": "Nestled between India and China, Nepal is a land of breathtaking landscapes, rich traditions, and diverse cultures. Home to the majestic Himalayas—including Mount Everest—Nepal offers everything from subtropical valleys with banana trees to alpine forests with grazing yaks.",
       "source": "Artist Communities Alliance",
-      "published": "2026-11-03T23:50:13.780847+00:00",
+      "published": "2026-11-04T14:59:52.687533+00:00",
       "deadline": null,
       "tags": [
         "residency"
@@ -972,7 +972,7 @@
       "link": "https://artistcommunities.org/directory/residencies/kala-yatra-artist-residency-nepal-2026-27",
       "summary": "Kala Yatra invites applications for its concept-driven, community-engaged artist residency program in Kathmandu, Nepal.",
       "source": "Artist Communities Alliance",
-      "published": "2026-11-03T23:50:13.780084+00:00",
+      "published": "2026-11-04T14:59:52.686982+00:00",
       "deadline": null,
       "tags": [
         "residency"
@@ -1003,7 +1003,7 @@
       "link": "https://artistcommunities.org/directory/residencies/artsindustry-residency",
       "summary": "For more than fifty years, Arts/Industry has been connecting artists with the resources, technology, and materials of Kohler Co., and providing a place to explore new ideas, processes, and perspectives. Artists from all disciplines are encouraged to apply.",
       "source": "Artist Communities Alliance",
-      "published": "2026-11-03T23:50:13.778806+00:00",
+      "published": "2026-11-04T14:59:52.686149+00:00",
       "deadline": null,
       "tags": [
         "residency"
@@ -1016,6 +1016,22 @@
       "required_roles": [
         "Artist"
       ]
+    },
+    {
+      "id": "22c70e8dd0d81315121951e79914801309d4f9d7",
+      "title": "Snow Much to See’ Images & Neige Festival",
+      "link": "https://artdeadline.com/ops/neige/",
+      "summary": "International Deadline: November 30, 2026 – Snow Much to See, an international photo competition hosted for the 2nd year by the 17th edition of the Images & Neige festival (Cluses), the only photography festival in Europe dedicated…",
+      "source": "ArtDeadline",
+      "published": "2026-11-04T08:00:43+00:00",
+      "deadline": "2026-11-30",
+      "tags": [
+        "opportunity"
+      ],
+      "region": null,
+      "kind": "opportunity",
+      "description": "International Deadline: November 30, 2026 – Snow Much to See, an international photo competition hosted for the 2nd year by the 17th edition of the Images & Neige festival (Cluses), the only photography festival in Europe dedicated…",
+      "location_mode": "not_specified"
     },
     {
       "id": "db44d606e0106074a7ca7c1782dd36b59e82d77e",
@@ -1235,22 +1251,6 @@
       "required_roles": [
         "Artist"
       ]
-    },
-    {
-      "id": "e636e3a30320c4c5785ea417f135020828437738",
-      "title": "Lay of the Land",
-      "link": "https://artdeadline.com/ops/artlink/",
-      "summary": "U.S. National Deadline: November 9, 2026 – For Lay of the Land, Artlink is accepting submissions of artworks which embody an exploration of the natural world through subject matter or materials. Whether your practice explores depictions of flora...",
-      "source": "ArtDeadline",
-      "published": "2026-10-27T06:30:58+00:00",
-      "deadline": "2026-11-09",
-      "tags": [
-        "opportunity"
-      ],
-      "region": null,
-      "kind": "opportunity",
-      "description": "U.S. National Deadline: November 9, 2026 – For Lay of the Land, Artlink is accepting submissions of artworks which embody an exploration of the natural world through subject matter or materials. Whether your practice explores depictions of flora...",
-      "location_mode": "not_specified"
     },
     {
       "id": "5c5e254741a71d681173dcf1de0e66253cdd3a20",
@@ -3173,6 +3173,456 @@
       "summary": "by Damon Reed · 1146 S California Ave, Chicago · 2008",
       "source": "Chicago Mural Registry",
       "published": "2008-01-01T00:00:00+00:00",
+      "deadline": null,
+      "tags": [
+        "public art"
+      ],
+      "region": "Midwest",
+      "kind": "archive",
+      "image": null
+    },
+    {
+      "id": "175c8319fe505d701e4c488e394a30829fd533df",
+      "title": "River Suite",
+      "link": "https://data.cityofchicago.org/d/pxyq-qhyd",
+      "summary": "by Phil Schuster · INDIAN BOUNDARY, Chicago",
+      "source": "Chicago Park Art",
+      "published": "2000-01-01T00:00:00+00:00",
+      "deadline": null,
+      "tags": [
+        "public art"
+      ],
+      "region": "Midwest",
+      "kind": "archive",
+      "image": null
+    },
+    {
+      "id": "0f6578a377e28ea359e302fb731f0f04ae828b6b",
+      "title": "Where Dreams Begin",
+      "link": "https://data.cityofchicago.org/d/pxyq-qhyd",
+      "summary": "by Marshall Svendsen · KING-LOCKHART (PATRICK, ANTHONY), Chicago",
+      "source": "Chicago Park Art",
+      "published": "2000-01-01T00:00:00+00:00",
+      "deadline": null,
+      "tags": [
+        "public art"
+      ],
+      "region": "Midwest",
+      "kind": "archive",
+      "image": null
+    },
+    {
+      "id": "b3b8c586e1dc355e49a33af4224d6a493a2b6aef",
+      "title": "Christopher Columbus and Fountain",
+      "link": "https://data.cityofchicago.org/d/pxyq-qhyd",
+      "summary": "by Moses Ezekiel · ARRIGO (VICTOR), Chicago",
+      "source": "Chicago Park Art",
+      "published": "2000-01-01T00:00:00+00:00",
+      "deadline": null,
+      "tags": [
+        "public art"
+      ],
+      "region": "Midwest",
+      "kind": "archive",
+      "image": null
+    },
+    {
+      "id": "cf804591cbc7e73b47efce3a0ec5ff9dfad9cdf7",
+      "title": "Phil Richman Fountain",
+      "link": "https://data.cityofchicago.org/d/pxyq-qhyd",
+      "summary": "BIXLER (RAY), Chicago",
+      "source": "Chicago Park Art",
+      "published": "2000-01-01T00:00:00+00:00",
+      "deadline": null,
+      "tags": [
+        "public art"
+      ],
+      "region": "Midwest",
+      "kind": "archive",
+      "image": null
+    },
+    {
+      "id": "337c7b6fbf9fb7d50ce1b9fccc47e52aa6546f30",
+      "title": "American Doughboy (Spirit of the American Doughboy)",
+      "link": "https://data.cityofchicago.org/d/pxyq-qhyd",
+      "summary": "by Ernest Moore Viquesney · BURNHAM (DANIEL), Chicago",
+      "source": "Chicago Park Art",
+      "published": "2000-01-01T00:00:00+00:00",
+      "deadline": null,
+      "tags": [
+        "public art"
+      ],
+      "region": "Midwest",
+      "kind": "archive",
+      "image": null
+    },
+    {
+      "id": "57827a82d736b6fa03cb1592add505c665cc6962",
+      "title": "Mermaid (La Sirena)",
+      "link": "https://data.cityofchicago.org/d/pxyq-qhyd",
+      "summary": "by Jose Moreno, Roman Villareal, Ed Fu & Fred Arroyo · BURNHAM (DANIEL), Chicago",
+      "source": "Chicago Park Art",
+      "published": "2000-01-01T00:00:00+00:00",
+      "deadline": null,
+      "tags": [
+        "public art"
+      ],
+      "region": "Midwest",
+      "kind": "archive",
+      "image": null
+    },
+    {
+      "id": "d3e7579987f89726fdff28098cd898e7937455ef",
+      "title": "Gold Star Families Memorial",
+      "link": "https://data.cityofchicago.org/d/pxyq-qhyd",
+      "summary": "by David Woodhouse & Assoc. · BURNHAM (DANIEL), Chicago",
+      "source": "Chicago Park Art",
+      "published": "2000-01-01T00:00:00+00:00",
+      "deadline": null,
+      "tags": [
+        "public art"
+      ],
+      "region": "Midwest",
+      "kind": "archive",
+      "image": null
+    },
+    {
+      "id": "ded28e690a967ddf41b0660ff55aec89b7d68edd",
+      "title": "Chicago Firefighter/Paramedic Memorial",
+      "link": "https://data.cityofchicago.org/d/pxyq-qhyd",
+      "summary": "by John Alaniz · BURNHAM (DANIEL), Chicago",
+      "source": "Chicago Park Art",
+      "published": "2000-01-01T00:00:00+00:00",
+      "deadline": null,
+      "tags": [
+        "public art"
+      ],
+      "region": "Midwest",
+      "kind": "archive",
+      "image": null
+    },
+    {
+      "id": "17e9273503662d0c7d1538b8c3746b37950c219e",
+      "title": "Soldier Field Children's Garden",
+      "link": "https://data.cityofchicago.org/d/pxyq-qhyd",
+      "summary": "by Peter Lindsay Schaudt · BURNHAM (DANIEL), Chicago",
+      "source": "Chicago Park Art",
+      "published": "2000-01-01T00:00:00+00:00",
+      "deadline": null,
+      "tags": [
+        "public art"
+      ],
+      "region": "Midwest",
+      "kind": "archive",
+      "image": null
+    },
+    {
+      "id": "c3bd5fc7f7c5eb9d7435b9a7c7a91468d4a0749b",
+      "title": "Special Olympics Memorial",
+      "link": "https://data.cityofchicago.org/d/pxyq-qhyd",
+      "summary": "by Richard Hunt · BURNHAM (DANIEL), Chicago",
+      "source": "Chicago Park Art",
+      "published": "2000-01-01T00:00:00+00:00",
+      "deadline": null,
+      "tags": [
+        "public art"
+      ],
+      "region": "Midwest",
+      "kind": "archive",
+      "image": null
+    },
+    {
+      "id": "be2e7e959de643d253bdb2790941987a8b4ca0d8",
+      "title": "Tribute to George Halas",
+      "link": "https://data.cityofchicago.org/d/pxyq-qhyd",
+      "summary": "by Julie Rotblatt-Amrany · BURNHAM (DANIEL), Chicago",
+      "source": "Chicago Park Art",
+      "published": "2000-01-01T00:00:00+00:00",
+      "deadline": null,
+      "tags": [
+        "public art"
+      ],
+      "region": "Midwest",
+      "kind": "archive",
+      "image": null
+    },
+    {
+      "id": "8410f1fe66a2ae0e2ca8b26566c1716eed4ba7b0",
+      "title": "Wallach Fountain",
+      "link": "https://data.cityofchicago.org/d/pxyq-qhyd",
+      "summary": "by Frederick & Elisabeth Hibbard · BURNHAM (DANIEL), Chicago",
+      "source": "Chicago Park Art",
+      "published": "2000-01-01T00:00:00+00:00",
+      "deadline": null,
+      "tags": [
+        "public art"
+      ],
+      "region": "Midwest",
+      "kind": "archive",
+      "image": null
+    },
+    {
+      "id": "1b6494826a3fccb86dc3505c11846cdcaa44859b",
+      "title": "Botanical Gardens Fountain",
+      "link": "https://data.cityofchicago.org/d/pxyq-qhyd",
+      "summary": "by Tannis Langdon · CHICAGO WOMEN'S PARK AND GARDENS, Chicago",
+      "source": "Chicago Park Art",
+      "published": "2000-01-01T00:00:00+00:00",
+      "deadline": null,
+      "tags": [
+        "public art"
+      ],
+      "region": "Midwest",
+      "kind": "archive",
+      "image": null
+    },
+    {
+      "id": "c4c2a6917faa8816b7de479559fe1664f3261ce7",
+      "title": "Jane Addams Memorial (Helping Hands)",
+      "link": "https://data.cityofchicago.org/d/pxyq-qhyd",
+      "summary": "by Louise Bourgeois · CHICAGO WOMEN'S PARK AND GARDENS, Chicago",
+      "source": "Chicago Park Art",
+      "published": "2000-01-01T00:00:00+00:00",
+      "deadline": null,
+      "tags": [
+        "public art"
+      ],
+      "region": "Midwest",
+      "kind": "archive",
+      "image": null
+    },
+    {
+      "id": "ba9f5a743e277cd59863bd83c876dc5c62d610e0",
+      "title": "Playground Art",
+      "link": "https://data.cityofchicago.org/d/pxyq-qhyd",
+      "summary": "by John Pittman Webber, CPAG · COMMERCIAL CLUB PGD. OF CHICAGO, Chicago",
+      "source": "Chicago Park Art",
+      "published": "2000-01-01T00:00:00+00:00",
+      "deadline": null,
+      "tags": [
+        "public art"
+      ],
+      "region": "Midwest",
+      "kind": "archive",
+      "image": null
+    },
+    {
+      "id": "1e059a3482bc693013ca504f891a772486eca2b5",
+      "title": "Alchemy -- Birds and Stone",
+      "link": "https://data.cityofchicago.org/d/pxyq-qhyd",
+      "summary": "by Dan Yarborough · DEARBORN (HENRY), Chicago",
+      "source": "Chicago Park Art",
+      "published": "2000-01-01T00:00:00+00:00",
+      "deadline": null,
+      "tags": [
+        "public art"
+      ],
+      "region": "Midwest",
+      "kind": "archive",
+      "image": null
+    },
+    {
+      "id": "110373379bc480fd94d757cbcd7ba3d74cef0bb4",
+      "title": "Paul Cornell Bust",
+      "link": "https://data.cityofchicago.org/d/pxyq-qhyd",
+      "summary": "by Sigvald Asbjørnsen · CORNELL (PAUL) SQUARE, Chicago",
+      "source": "Chicago Park Art",
+      "published": "2000-01-01T00:00:00+00:00",
+      "deadline": null,
+      "tags": [
+        "public art"
+      ],
+      "region": "Midwest",
+      "kind": "archive",
+      "image": null
+    },
+    {
+      "id": "77393216369680f8c1865ef09c4aa03157820819",
+      "title": "Melville W. Fuller Bust",
+      "link": "https://data.cityofchicago.org/d/pxyq-qhyd",
+      "summary": "by William Ordway Partridge · FULLER (MELVILLE), Chicago",
+      "source": "Chicago Park Art",
+      "published": "2000-01-01T00:00:00+00:00",
+      "deadline": null,
+      "tags": [
+        "public art"
+      ],
+      "region": "Midwest",
+      "kind": "archive",
+      "image": null
+    },
+    {
+      "id": "4ba05efcb2a6b24d08df820cd1bee110c915490b",
+      "title": "Fountain",
+      "link": "https://data.cityofchicago.org/d/pxyq-qhyd",
+      "summary": "FULLER (MELVILLE), Chicago",
+      "source": "Chicago Park Art",
+      "published": "2000-01-01T00:00:00+00:00",
+      "deadline": null,
+      "tags": [
+        "public art"
+      ],
+      "region": "Midwest",
+      "kind": "archive",
+      "image": null
+    },
+    {
+      "id": "166595756845955994543ddd7b716ab3389ed012",
+      "title": "Administration Bldg Interior Panels (Gold Dome Rotunda Panels)",
+      "link": "https://data.cityofchicago.org/d/pxyq-qhyd",
+      "summary": "by Richard W. Bock · GARFIELD (JAMES), Chicago",
+      "source": "Chicago Park Art",
+      "published": "2000-01-01T00:00:00+00:00",
+      "deadline": null,
+      "tags": [
+        "public art"
+      ],
+      "region": "Midwest",
+      "kind": "archive",
+      "image": null
+    },
+    {
+      "id": "0c883ddb1f25ede4b65cda80901508db84f9843e",
+      "title": "Bulls with Maidens (World Fair Bulls/Statues of Plenty)",
+      "link": "https://data.cityofchicago.org/d/pxyq-qhyd",
+      "summary": "by Daniel Chester French, Edward C. Potter · GARFIELD (JAMES), Chicago",
+      "source": "Chicago Park Art",
+      "published": "2000-01-01T00:00:00+00:00",
+      "deadline": null,
+      "tags": [
+        "public art"
+      ],
+      "region": "Midwest",
+      "kind": "archive",
+      "image": null
+    },
+    {
+      "id": "1430b7d1269c3313b00be36c67402f70fc6757d0",
+      "title": "Norman Cornwall Memorial (WWI Obelisk)",
+      "link": "https://data.cityofchicago.org/d/pxyq-qhyd",
+      "summary": "by Carl J. Epiing · GARFIELD (JAMES), Chicago",
+      "source": "Chicago Park Art",
+      "published": "2000-01-01T00:00:00+00:00",
+      "deadline": null,
+      "tags": [
+        "public art"
+      ],
+      "region": "Midwest",
+      "kind": "archive",
+      "image": null
+    },
+    {
+      "id": "b41a39a003543575dd83d2bd0dd660b08103294d",
+      "title": "Robert Burns Memorial",
+      "link": "https://data.cityofchicago.org/d/pxyq-qhyd",
+      "summary": "by William Grant Stevenson · GARFIELD (JAMES), Chicago",
+      "source": "Chicago Park Art",
+      "published": "2000-01-01T00:00:00+00:00",
+      "deadline": null,
+      "tags": [
+        "public art"
+      ],
+      "region": "Midwest",
+      "kind": "archive",
+      "image": null
+    },
+    {
+      "id": "dfea3969bbb0760e41e9cd5d04461eb681fabaf7",
+      "title": "Conservatory Entrance Fountain",
+      "link": "https://data.cityofchicago.org/d/pxyq-qhyd",
+      "summary": "by Wolff, Clements & Assoc · GARFIELD (JAMES), Chicago",
+      "source": "Chicago Park Art",
+      "published": "2000-01-01T00:00:00+00:00",
+      "deadline": null,
+      "tags": [
+        "public art"
+      ],
+      "region": "Midwest",
+      "kind": "archive",
+      "image": null
+    },
+    {
+      "id": "ea3817f49e2b891c05315d6cd676ff5edb48414b",
+      "title": "Lincoln the Rail-Splitter",
+      "link": "https://data.cityofchicago.org/d/pxyq-qhyd",
+      "summary": "by Charles J. Mulligan · GARFIELD (JAMES), Chicago",
+      "source": "Chicago Park Art",
+      "published": "2000-01-01T00:00:00+00:00",
+      "deadline": null,
+      "tags": [
+        "public art"
+      ],
+      "region": "Midwest",
+      "kind": "archive",
+      "image": null
+    },
+    {
+      "id": "8a4f40150af981dac136105c891aefa87aac2ff4",
+      "title": "Pastoral & Idyl",
+      "link": "https://data.cityofchicago.org/d/pxyq-qhyd",
+      "summary": "by Lorado Taft · GARFIELD (JAMES), Chicago",
+      "source": "Chicago Park Art",
+      "published": "2000-01-01T00:00:00+00:00",
+      "deadline": null,
+      "tags": [
+        "public art"
+      ],
+      "region": "Midwest",
+      "kind": "archive",
+      "image": null
+    },
+    {
+      "id": "edfdb46f3061f8f590dba210a446c9ad79c42cd6",
+      "title": "Persian Pool (Yellow Lilies)",
+      "link": "https://data.cityofchicago.org/d/pxyq-qhyd",
+      "summary": "by Dale Chihuly · GARFIELD (JAMES), Chicago",
+      "source": "Chicago Park Art",
+      "published": "2000-01-01T00:00:00+00:00",
+      "deadline": null,
+      "tags": [
+        "public art"
+      ],
+      "region": "Midwest",
+      "kind": "archive",
+      "image": null
+    },
+    {
+      "id": "935c9d7adc3837a5cb8e9500e322662759c0daf7",
+      "title": "Zellij Fountain",
+      "link": "https://data.cityofchicago.org/d/pxyq-qhyd",
+      "summary": "by Said Ben Adiba · GARFIELD (JAMES), Chicago",
+      "source": "Chicago Park Art",
+      "published": "2000-01-01T00:00:00+00:00",
+      "deadline": null,
+      "tags": [
+        "public art"
+      ],
+      "region": "Midwest",
+      "kind": "archive",
+      "image": null
+    },
+    {
+      "id": "9c99cf07ba642e83d481c71f96c4e4fd5ee86ed7",
+      "title": "Giuseppe Garibaldi Monument",
+      "link": "https://data.cityofchicago.org/d/pxyq-qhyd",
+      "summary": "by Victor Gheradi · GARIBALDI (GIUSEPPE), Chicago",
+      "source": "Chicago Park Art",
+      "published": "2000-01-01T00:00:00+00:00",
+      "deadline": null,
+      "tags": [
+        "public art"
+      ],
+      "region": "Midwest",
+      "kind": "archive",
+      "image": null
+    },
+    {
+      "id": "7ff19ad57d1b69e8f26ff21380e9ba1ca4e7bff4",
+      "title": "Samuel Gompers Monument",
+      "link": "https://data.cityofchicago.org/d/pxyq-qhyd",
+      "summary": "by Susan Clinard · GOMPERS (SAMUEL), Chicago",
+      "source": "Chicago Park Art",
+      "published": "2000-01-01T00:00:00+00:00",
       "deadline": null,
       "tags": [
         "public art"
