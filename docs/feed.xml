@@ -3,7 +3,7 @@
 <title>Creative Opportunities</title>
 <link>https://example.com</link>
 <description>Jobs, grants, RFPs, residencies and calls for artists</description>
-<lastBuildDate>Thu, 05 Nov 2026 23:55:45 +0000</lastBuildDate>
+<lastBuildDate>Fri, 06 Nov 2026 14:45:12 +0000</lastBuildDate>
 <item>
 <title>Endowments for Advancing the Humanities</title>
 <link>https://www.grants.gov/search-results-detail/364195</link>
@@ -181,7 +181,7 @@
 </item>
 <item>
 <title>Alchemy Artists Residency</title>
-<link>https://artistcommunities.org/index%2ephp/directory/residencies/alchemy-artists-residency</link>
+<link>https://artistcommunities.org/directory/residencies/alchemy-artists-residency</link>
 <guid isPermaLink="false">76906cb466136d6740ec1d02c88a5158b3e481ab</guid>
 <description>ALCHEMY: a n artist-led international residency where food, art, and community come together.</description>
 <category>residency</category>
@@ -258,7 +258,7 @@
 </item>
 <item>
 <title>ACA Sample Residency</title>
-<link>https://artistcommunities.org/index%2ephp/directory/residencies/aca-sample-residency-0</link>
+<link>https://artistcommunities.org/directory/residencies/aca-sample-residency-0</link>
 <guid isPermaLink="false">ec8188adc8ee9db39df04fe7e322dde77b791435</guid>
 <description>Description here.</description>
 <category>residency</category>
@@ -272,21 +272,21 @@
 </item>
 <item>
 <title>a/p Residency</title>
-<link>https://artistcommunities.org/index%2ephp/directory/residencies/ap-residency</link>
+<link>https://artistcommunities.org/directory/residencies/ap-residency</link>
 <guid isPermaLink="false">a8f8ec9215fa469dd4228fa626a3a542092480ce</guid>
 <description>For 20 years, Proyecto´ace has welcomed thousands of artists from around the world.</description>
 <category>residency</category>
 </item>
 <item>
 <title>6okken Residency</title>
-<link>https://artistcommunities.org/index%2ephp/directory/residencies/6okken-residency</link>
+<link>https://artistcommunities.org/directory/residencies/6okken-residency</link>
 <guid isPermaLink="false">9e9fd9e057b83bf34397d143f0e435c0f038b25a</guid>
 <description>6okken is an artist-run residency in Oishi, a small village on the north shore of Lake Kawaguchi at the foot of Mt. Fuji, about two hours from Tokyo by bus. Six houses stand together, and the artists who run 6okken live and work in the same cluster.</description>
 <category>residency</category>
 </item>
 <item>
 <title>2027 Eutopia Art Residencies in Greece</title>
-<link>https://artistcommunities.org/index%2ephp/directory/residencies/2027-eutopia-art-residencies-greece</link>
+<link>https://artistcommunities.org/directory/residencies/2027-eutopia-art-residencies-greece</link>
 <guid isPermaLink="false">6b37f82999719302676a64c97cac6d7e41425401</guid>
 <description>Eutopia — from the Greek εὖ (good) and τόπος (place). Not a utopia. A real place, with real conditions, designed for the kind of creative work that requires time, atmosphere, and human connection.</description>
 <category>residency</category>
@@ -321,7 +321,7 @@
 </item>
 <item>
 <title>2025 Artist &amp; Writer Residencies at Gibraltar Point, Toronto Island</title>
-<link>https://artistcommunities.org/index%2ephp/directory/residencies/2025-artist-writer-residencies-gibraltar-point-toronto-island</link>
+<link>https://artistcommunities.org/directory/residencies/2025-artist-writer-residencies-gibraltar-point-toronto-island</link>
 <guid isPermaLink="false">9ec68c1fc5cec8ead414ffacd776ab80367ea4e4</guid>
 <description>Are you an artist or writer seeking a space to focus on your next project? Look no further! We're thrilled to share that we have just opened applications for self-directed residencies for 2025.</description>
 <category>residency</category>
@@ -335,14 +335,14 @@
 </item>
 <item>
 <title>Kathmandu International Artist in Residency (KIAR 2027)</title>
-<link>https://artistcommunities.org/index%2ephp/directory/residencies/kathmandu-international-artist-residency-kiar-2027</link>
+<link>https://artistcommunities.org/directory/residencies/kathmandu-international-artist-residency-kiar-2027</link>
 <guid isPermaLink="false">7ae666688d77d03f40ea7921ca6ba13c790fafe4</guid>
 <description>Nestled between India and China, Nepal is a land of breathtaking landscapes, rich traditions, and diverse cultures. Home to the majestic Himalayas—including Mount Everest—Nepal offers everything from subtropical valleys with banana trees to alpine forests with grazing yaks.</description>
 <category>residency</category>
 </item>
 <item>
 <title>Kala Yatra Artist Residency, Nepal, 2026-27</title>
-<link>https://artistcommunities.org/index%2ephp/directory/residencies/kala-yatra-artist-residency-nepal-2026-27</link>
+<link>https://artistcommunities.org/directory/residencies/kala-yatra-artist-residency-nepal-2026-27</link>
 <guid isPermaLink="false">a8c98d63ee1570875cde11d30f884dc608b561da</guid>
 <description>Kala Yatra invites applications for its concept-driven, community-engaged artist residency program in Kathmandu, Nepal.</description>
 <category>residency</category>
@@ -355,10 +355,17 @@
 <category>residency</category>
 </item>
 <item>
+<title>Tendrils Art &amp; Literary Journal</title>
+<link>https://artdeadline.com/ops/tendrils/</link>
+<guid isPermaLink="false">9498299d7e3b6830cb1c654eba68e9e20f25a4ad</guid>
+<description>Deadline 2026-12-19. International Deadline: December 19, 2026 – Tendrils, a trauma-focused art &amp; literary journal, seeks visual art and short-form literature for our upcoming “Trauma and the Government” issue. This edition will explore the profound theme of trauma, policy, laws…</description>
+<category>opportunity</category>
+</item>
+<item>
 <title>Palm Park Call for Artists</title>
 <link>https://artdeadline.com/ops/palm-park/</link>
 <guid isPermaLink="false">ef82af1b72ee9a4088e0c39a731b478173f6f9d0</guid>
-<description>Deadline 2026-12-07. U.S. National Deadline: December 7, 2026 – Waterloo Greenway Conservancy is seeking artists to create public art for Sir Swante Palm Park! This art call is open to artists with ties to Texas, with a special welcome for Austin artists. Budgets range from $80,000-$120,000…</description>
+<description>Deadline 2026-12-07. U.S. National Deadline: December 7, 2026 – Waterloo Greenway Conservancy is seeks artists to create public art for Sir Swante Palm Park! Open to artists with ties to Texas. Budgets range from $80,000-$120,000…</description>
 <category>commission, opportunity, rfp</category>
 </item>
 <item>
@@ -416,20 +423,6 @@
 <guid isPermaLink="false">f0bfae2553c2890e6a587ade762b6c05f27fd661</guid>
 <description>International Deadline: Bi-Annual Recurring – ARC Gallery and Educational Foundation, an artist-run cooperative gallery dedicated to providing alternative exhibition opportunities for innovative artists accepts applications for solo exhibitions…</description>
 <category>opportunity</category>
-</item>
-<item>
-<title>Pollock-Krasner Foundation Grants</title>
-<link>https://artdeadline.com/ops/pollock-krasner-foundation/</link>
-<guid isPermaLink="false">bc6e0387c4d07b095befa3d8b75830805101b0c0</guid>
-<description>U.S. National Deadline: Ongoing – The Foundation’s dual criteria for grants are recognizable artistic merit and demonstrable financial need, whether professional, personal or both. The Foundation’s mission is to aid…</description>
-<category>grant, opportunity</category>
-</item>
-<item>
-<title>CERF+’s Craft Emergency Relief Fund</title>
-<link>https://artdeadline.com/ops/craft-emergency/</link>
-<guid isPermaLink="false">8027e71156309a6542546ecb74561a7324776b94</guid>
-<description>U.S. National Deadline: Ongoing – The Emergency Relief Grant program supports individual craft artists who make original three-dimensional objects by hand, including folk and traditional artforms, who reside and work in US Territories...</description>
-<category>grant, opportunity</category>
 </item>
 <item>
 <title>Introducing Natalia Camargo-Duarte, IAP Program Officer</title>
@@ -500,6 +493,13 @@
 <guid isPermaLink="false">43deb4ec99decb46b680c5ee4ad473b2363ccddb</guid>
 <description>Residencies, fellowships, grants, and open calls from the Gulf Coast Journal, the Harry Ransom Center, the Smithsonian American Art Museum, the Vermont Studio Center, and more in our monthly list of opportunities for artists, writers, and art workers.</description>
 <category>grant, opportunity, residency</category>
+</item>
+<item>
+<title>Rotterdam Photo 2026</title>
+<link>https://artdeadline.com/ops/rphoto/</link>
+<guid isPermaLink="false">baa97b77671fd9767e5390720de2dce16fb1b6fb</guid>
+<description>Deadline 2026-12-10. International Deadline: December 10, 2026 - Rotterdam Photo is an international photography festival for contemporary image-making. Since 2016, we have brought together emerging and established artists from around the world, presenting in public...</description>
+<category>opportunity</category>
 </item>
 <item>
 <title>UT Austin’s Harry Ransom Center Provides Funded Fellowships in the Arts and Humanities</title>
