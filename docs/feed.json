@@ -1,8 +1,8 @@
 {
   "contract_version": "artelier_opportunities_feed_v1",
   "title": "Creative Opportunities",
-  "updated": "2026-11-12T23:57:20.693306+00:00",
-  "count": 276,
+  "updated": "2026-11-13T15:03:12.571170+00:00",
+  "count": 236,
   "items": [
     {
       "id": "a8d6b3cb769fda5cc6fad64bef2261302ce074f5",
@@ -10,7 +10,7 @@
       "link": "https://www.grants.gov/search-results-detail/364195",
       "summary": "National Endowment for the Humanities | opportunity 20270113-CHE",
       "source": "Grants.gov",
-      "published": "2026-11-12T23:56:39.402235+00:00",
+      "published": "2026-11-13T15:01:44.501602+00:00",
       "deadline": "2027-01-13",
       "tags": [
         "grant"
@@ -27,7 +27,7 @@
       "link": "https://www.grants.gov/search-results-detail/364098",
       "summary": "National Endowment for the Humanities | opportunity 20261209-GE-GI-BP-BR-GGX",
       "source": "Grants.gov",
-      "published": "2026-11-12T23:56:39.401904+00:00",
+      "published": "2026-11-13T15:01:44.501205+00:00",
       "deadline": "2026-12-16",
       "tags": [
         "grant"
@@ -44,7 +44,7 @@
       "link": "https://www.grants.gov/search-results-detail/364030",
       "summary": "National Endowment for the Humanities | opportunity 20270113-PJ",
       "source": "Grants.gov",
-      "published": "2026-11-12T23:56:39.401580+00:00",
+      "published": "2026-11-13T15:01:44.500817+00:00",
       "deadline": "2027-01-13",
       "tags": [
         "grant"
@@ -61,7 +61,7 @@
       "link": "https://www.grants.gov/search-results-detail/363880",
       "summary": "National Endowment for the Humanities | opportunity 20261209-EDK-EDU",
       "source": "Grants.gov",
-      "published": "2026-11-12T23:56:39.401210+00:00",
+      "published": "2026-11-13T15:01:44.500351+00:00",
       "deadline": "2026-12-09",
       "tags": [
         "grant"
@@ -78,7 +78,7 @@
       "link": "https://www.grants.gov/search-results-detail/361480",
       "summary": "National Endowment for the Humanities | opportunity 20260511-PCS",
       "source": "Grants.gov",
-      "published": "2026-11-12T23:56:39.400852+00:00",
+      "published": "2026-11-13T15:01:44.499962+00:00",
       "deadline": "2026-12-15",
       "tags": [
         "grant"
@@ -95,7 +95,7 @@
       "link": "https://www.grants.gov/search-results-detail/363225",
       "summary": "Bureau Of Educational and Cultural Affairs | opportunity DFOP0017180",
       "source": "Grants.gov",
-      "published": "2026-11-12T23:56:39.400317+00:00",
+      "published": "2026-11-13T15:01:44.499337+00:00",
       "deadline": null,
       "tags": [
         "grant"
@@ -112,7 +112,7 @@
       "link": "https://www.grants.gov/search-results-detail/363773",
       "summary": "Institute of Museum and Library Services | opportunity NLG-M-FY27",
       "source": "Grants.gov",
-      "published": "2026-11-12T23:56:39.399486+00:00",
+      "published": "2026-11-13T15:01:44.498377+00:00",
       "deadline": "2026-11-13",
       "tags": [
         "grant"
@@ -129,7 +129,7 @@
       "link": "https://www.grants.gov/search-results-detail/363762",
       "summary": "Institute of Museum and Library Services | opportunity NAG-ENHANCEMENT-FY27",
       "source": "Grants.gov",
-      "published": "2026-11-12T23:56:37.807606+00:00",
+      "published": "2026-11-13T15:01:42.823677+00:00",
       "deadline": "2026-11-13",
       "tags": [
         "grant"
@@ -146,7 +146,7 @@
       "link": "https://www.grants.gov/search-results-detail/363763",
       "summary": "Institute of Museum and Library Services | opportunity NAG-HAWAIIAN-FY27",
       "source": "Grants.gov",
-      "published": "2026-11-12T23:56:37.807234+00:00",
+      "published": "2026-11-13T15:01:42.823238+00:00",
       "deadline": "2026-11-13",
       "tags": [
         "grant"
@@ -163,7 +163,7 @@
       "link": "https://www.grants.gov/search-results-detail/363765",
       "summary": "Institute of Museum and Library Services | opportunity LB21-FY27",
       "source": "Grants.gov",
-      "published": "2026-11-12T23:56:37.806832+00:00",
+      "published": "2026-11-13T15:01:42.822795+00:00",
       "deadline": "2026-11-13",
       "tags": [
         "grant"
@@ -180,7 +180,7 @@
       "link": "https://www.grants.gov/search-results-detail/363767",
       "summary": "Institute of Museum and Library Services | opportunity NAG-BASIC-FY27",
       "source": "Grants.gov",
-      "published": "2026-11-12T23:56:37.806448+00:00",
+      "published": "2026-11-13T15:01:42.822334+00:00",
       "deadline": "2026-11-13",
       "tags": [
         "grant"
@@ -197,7 +197,7 @@
       "link": "https://www.grants.gov/search-results-detail/322314",
       "summary": "U.S. Mission to Cambodia | opportunity PAS-CB-600-20-PAS-0003",
       "source": "Grants.gov",
-      "published": "2026-11-12T23:56:37.806025+00:00",
+      "published": "2026-11-13T15:01:42.821854+00:00",
       "deadline": null,
       "tags": [
         "grant"
@@ -214,7 +214,7 @@
       "link": "https://www.grants.gov/search-results-detail/363766",
       "summary": "Institute of Museum and Library Services | opportunity NLG-LIBRARIES-FY27",
       "source": "Grants.gov",
-      "published": "2026-11-12T23:56:37.805574+00:00",
+      "published": "2026-11-13T15:01:42.821338+00:00",
       "deadline": "2026-11-13",
       "tags": [
         "grant"
@@ -231,7 +231,7 @@
       "link": "https://www.grants.gov/search-results-detail/363775",
       "summary": "Institute of Museum and Library Services | opportunity NANH-FY27",
       "source": "Grants.gov",
-      "published": "2026-11-12T23:56:37.805185+00:00",
+      "published": "2026-11-13T15:01:42.820888+00:00",
       "deadline": "2026-11-13",
       "tags": [
         "grant"
@@ -248,7 +248,7 @@
       "link": "https://www.grants.gov/search-results-detail/364205",
       "summary": "National Aeronautics and Space Administration | opportunity NNH27ZHA002C",
       "source": "Grants.gov",
-      "published": "2026-11-12T23:56:37.804691+00:00",
+      "published": "2026-11-13T15:01:42.820320+00:00",
       "deadline": "2027-02-01",
       "tags": [
         "grant"
@@ -265,7 +265,7 @@
       "link": "https://www.grants.gov/search-results-detail/363768",
       "summary": "Institute of Museum and Library Services | opportunity MFA-FY27",
       "source": "Grants.gov",
-      "published": "2026-11-12T23:56:37.804354+00:00",
+      "published": "2026-11-13T15:01:42.819926+00:00",
       "deadline": "2026-11-13",
       "tags": [
         "grant"
@@ -282,7 +282,7 @@
       "link": "https://www.grants.gov/search-results-detail/363772",
       "summary": "Institute of Museum and Library Services | opportunity ALHC-FY27",
       "source": "Grants.gov",
-      "published": "2026-11-12T23:56:37.803956+00:00",
+      "published": "2026-11-13T15:01:42.819473+00:00",
       "deadline": "2026-11-13",
       "tags": [
         "grant"
@@ -299,7 +299,7 @@
       "link": "https://www.grants.gov/search-results-detail/363769",
       "summary": "Institute of Museum and Library Services | opportunity 21MP-FY27",
       "source": "Grants.gov",
-      "published": "2026-11-12T23:56:37.803584+00:00",
+      "published": "2026-11-13T15:01:42.819050+00:00",
       "deadline": "2026-11-13",
       "tags": [
         "grant"
@@ -316,7 +316,7 @@
       "link": "https://www.grants.gov/search-results-detail/363776",
       "summary": "Institute of Museum and Library Services | opportunity ME-FY27",
       "source": "Grants.gov",
-      "published": "2026-11-12T23:56:37.802886+00:00",
+      "published": "2026-11-13T15:01:42.818222+00:00",
       "deadline": "2026-11-13",
       "tags": [
         "grant"
@@ -333,7 +333,7 @@
       "link": "https://www.grants.gov/search-results-detail/363770",
       "summary": "Institute of Museum and Library Services | opportunity AAHC-FY27",
       "source": "Grants.gov",
-      "published": "2026-11-12T23:56:37.802500+00:00",
+      "published": "2026-11-13T15:01:42.817758+00:00",
       "deadline": "2026-11-13",
       "tags": [
         "grant"
@@ -350,7 +350,7 @@
       "link": "https://www.grants.gov/search-results-detail/363771",
       "summary": "Institute of Museum and Library Services | opportunity IGSM-FY27",
       "source": "Grants.gov",
-      "published": "2026-11-12T23:56:37.802081+00:00",
+      "published": "2026-11-13T15:01:42.817227+00:00",
       "deadline": "2026-11-13",
       "tags": [
         "grant"
@@ -367,7 +367,7 @@
       "link": "https://www.grants.gov/search-results-detail/362984",
       "summary": "National Endowment for the Arts | opportunity 2027FCAHDOM02",
       "source": "Grants.gov",
-      "published": "2026-11-12T23:56:37.048855+00:00",
+      "published": "2026-11-13T15:01:41.947973+00:00",
       "deadline": "2027-06-07",
       "tags": [
         "grant"
@@ -384,7 +384,7 @@
       "link": "https://www.grants.gov/search-results-detail/362982",
       "summary": "National Endowment for the Arts | opportunity 2027FCAHDOM01",
       "source": "Grants.gov",
-      "published": "2026-11-12T23:56:37.048469+00:00",
+      "published": "2026-11-13T15:01:41.947523+00:00",
       "deadline": "2026-12-07",
       "tags": [
         "grant"
@@ -401,7 +401,7 @@
       "link": "https://www.grants.gov/search-results-detail/362983",
       "summary": "National Endowment for the Arts | opportunity 2027FCAH02",
       "source": "Grants.gov",
-      "published": "2026-11-12T23:56:37.048073+00:00",
+      "published": "2026-11-13T15:01:41.947054+00:00",
       "deadline": "2027-03-08",
       "tags": [
         "grant"
@@ -418,7 +418,7 @@
       "link": "https://www.grants.gov/search-results-detail/361554",
       "summary": "Bureau Of Educational and Cultural Affairs | opportunity DFOP0017204",
       "source": "Grants.gov",
-      "published": "2026-11-12T23:56:37.046985+00:00",
+      "published": "2026-11-13T15:01:41.945863+00:00",
       "deadline": null,
       "tags": [
         "grant"
@@ -435,7 +435,7 @@
       "link": "https://www.grants.gov/search-results-detail/364245",
       "summary": "National Endowment for the Arts | opportunity NEAPANS26",
       "source": "Grants.gov",
-      "published": "2026-11-12T23:56:37.046495+00:00",
+      "published": "2026-11-13T15:01:41.945289+00:00",
       "deadline": "2027-01-14",
       "tags": [
         "grant"
@@ -452,7 +452,7 @@
       "link": "https://www.grants.gov/search-results-detail/364253",
       "summary": "National Endowment for the Arts | opportunity NEAPS2604",
       "source": "Grants.gov",
-      "published": "2026-11-12T23:56:37.046136+00:00",
+      "published": "2026-11-13T15:01:41.944879+00:00",
       "deadline": "2026-12-14",
       "tags": [
         "grant"
@@ -472,7 +472,7 @@
       "link": "https://artistcommunities.org/directory/residencies/alchemy-artists-residency",
       "summary": "ALCHEMY: a n artist-led international residency where food, art, and community come together.",
       "source": "Artist Communities Alliance",
-      "published": "2026-11-12T23:56:35.742359+00:00",
+      "published": "2026-11-13T15:01:40.519830+00:00",
       "deadline": null,
       "tags": [
         "residency"
@@ -505,7 +505,7 @@
       "link": "https://artistcommunities.org/directory/residencies/alaska-air-bunnell-street-arts-center-artist-residence",
       "summary": "Bunnell Street Arts Center's \"Alaska AIR\" Artist-in-Residency program seeks international, US and Alaska artists looking to create new work and deeply engage Bunnell’s community.",
       "source": "Artist Communities Alliance",
-      "published": "2026-11-12T23:56:35.742089+00:00",
+      "published": "2026-11-13T15:01:40.519538+00:00",
       "deadline": null,
       "tags": [
         "residency"
@@ -525,7 +525,7 @@
       "link": "https://artistcommunities.org/directory/residencies/alaska-chulitna-lodge-wilderness-retreat-creative-residency",
       "summary": "Chulitna Lodge Wilderness Retreat seeks to provide the time, space, clarity and facilities for all forms of creative professionals or enthusiastic hobbyists to make and meditate.",
       "source": "Artist Communities Alliance",
-      "published": "2026-11-12T23:56:35.741832+00:00",
+      "published": "2026-11-13T15:01:40.519275+00:00",
       "deadline": null,
       "tags": [
         "residency"
@@ -542,7 +542,7 @@
       "link": "https://artistcommunities.org/directory/residencies/al-mickey-quinlan-artist-residency",
       "summary": "Whitefish Bay, located on Wisconsin's Door Peninsula , has long been a creative haven for artists who were an important part of the local community and brought the process of creating art into daily life.",
       "source": "Artist Communities Alliance",
-      "published": "2026-11-12T23:56:35.741711+00:00",
+      "published": "2026-11-13T15:01:40.519150+00:00",
       "deadline": null,
       "tags": [
         "residency"
@@ -562,7 +562,7 @@
       "link": "https://artistcommunities.org/directory/residencies/airnewport",
       "summary": "The Newport artist residency, AiR/Newport is designed to encourage the creative, intellectual and personal growth of emerging to established visual artists and designers by giving them the time, space and solitude needed to create, apart from the daily demands of production and deadlines.",
       "source": "Artist Communities Alliance",
-      "published": "2026-11-12T23:56:35.740935+00:00",
+      "published": "2026-11-13T15:01:40.518344+00:00",
       "deadline": null,
       "tags": [
         "residency"
@@ -583,7 +583,7 @@
       "link": "https://artistcommunities.org/directory/residencies/adriftproject-residency-inc",
       "summary": "adriftproject hosts artist residencies aboard SV Hawa for up to two residents at a time as we transit the lovely and diverse US east coast following good weather.",
       "source": "Artist Communities Alliance",
-      "published": "2026-11-12T23:56:35.740379+00:00",
+      "published": "2026-11-13T15:01:40.517753+00:00",
       "deadline": null,
       "tags": [
         "residency"
@@ -603,7 +603,7 @@
       "link": "https://artistcommunities.org/directory/residencies/activate-residency",
       "summary": "Boston Center for the Arts’ ACTivate Residency will award seven-day residencies to individuals and small groups of artists to create site-responsive work in the historic Cyclorama. The work can be performative and/or visual in nature and is meant to activate artists and our spaces.",
       "source": "Artist Communities Alliance",
-      "published": "2026-11-12T23:56:35.740040+00:00",
+      "published": "2026-11-13T15:01:40.517342+00:00",
       "deadline": null,
       "tags": [
         "grant",
@@ -624,7 +624,7 @@
       "link": "https://artistcommunities.org/directory/residencies/acre-academic-and-creative-research-residency-programme",
       "summary": "The ACRE (Academic and Creative Research) Residency Programme invites artists, researchers, writers, and creative practitioners to live and work at Braziers Park while developing independent projects.",
       "source": "Artist Communities Alliance",
-      "published": "2026-11-12T23:56:35.739358+00:00",
+      "published": "2026-11-13T15:01:40.516637+00:00",
       "deadline": null,
       "tags": [
         "residency"
@@ -647,7 +647,7 @@
       "link": "https://artistcommunities.org/directory/residencies/acre",
       "summary": "ACRE’s Residency Program takes place every summer in the Driftless region of Wisconsin.",
       "source": "Artist Communities Alliance",
-      "published": "2026-11-12T23:56:35.739283+00:00",
+      "published": "2026-11-13T15:01:40.516553+00:00",
       "deadline": null,
       "tags": [
         "residency"
@@ -683,7 +683,7 @@
       "link": "https://artistcommunities.org/directory/residencies/ace-ashevillechicago-exchange-choreographic-fellowship",
       "summary": "An ACE Fellowship in Dance provides immersive creative time and space to selected artists, free of charge.",
       "source": "Artist Communities Alliance",
-      "published": "2026-11-12T23:56:35.739053+00:00",
+      "published": "2026-11-13T15:01:40.516298+00:00",
       "deadline": null,
       "tags": [
         "grant",
@@ -709,7 +709,7 @@
       "link": "https://artistcommunities.org/directory/residencies/aca-soundscape-field-station-canaveral-national-seashore",
       "summary": "ACA Soundscape Field Station at Canaveral National Seashore is a partnership between Atlantic Center for the Arts and Canaveral National Seashore.",
       "source": "Artist Communities Alliance",
-      "published": "2026-11-12T23:56:35.738489+00:00",
+      "published": "2026-11-13T15:01:40.515694+00:00",
       "deadline": null,
       "tags": [
         "residency"
@@ -733,7 +733,7 @@
       "link": "https://artistcommunities.org/directory/residencies/aca-sample-residency-0",
       "summary": "Description here.",
       "source": "Artist Communities Alliance",
-      "published": "2026-11-12T23:56:35.738229+00:00",
+      "published": "2026-11-13T15:01:40.515382+00:00",
       "deadline": null,
       "tags": [
         "residency"
@@ -756,7 +756,7 @@
       "link": "https://artistcommunities.org/directory/residencies/abbey-foundation-studio-grant",
       "summary": "Beginning in 2025, The Abbey Foundation will begin to offer 6 month residencies for day use of the 850 square foot studio space. There is also a screened in area attached to the indoor studio which is available for large scale works.",
       "source": "Artist Communities Alliance",
-      "published": "2026-11-12T23:56:35.737534+00:00",
+      "published": "2026-11-13T15:01:40.514647+00:00",
       "deadline": null,
       "tags": [
         "grant",
@@ -774,7 +774,7 @@
       "link": "https://artistcommunities.org/directory/residencies/ap-residency",
       "summary": "For 20 years, Proyecto´ace has welcomed thousands of artists from around the world.",
       "source": "Artist Communities Alliance",
-      "published": "2026-11-12T23:56:35.737149+00:00",
+      "published": "2026-11-13T15:01:40.514212+00:00",
       "deadline": null,
       "tags": [
         "residency"
@@ -799,7 +799,7 @@
       "link": "https://artistcommunities.org/directory/residencies/6okken-residency",
       "summary": "6okken is an artist-run residency in Oishi, a small village on the north shore of Lake Kawaguchi at the foot of Mt. Fuji, about two hours from Tokyo by bus. Six houses stand together, and the artists who run 6okken live and work in the same cluster.",
       "source": "Artist Communities Alliance",
-      "published": "2026-11-12T23:56:35.736401+00:00",
+      "published": "2026-11-13T15:01:40.513443+00:00",
       "deadline": null,
       "tags": [
         "residency"
@@ -819,7 +819,7 @@
       "link": "https://artistcommunities.org/directory/residencies/2027-eutopia-art-residencies-greece",
       "summary": "Eutopia — from the Greek εὖ (good) and τόπος (place). Not a utopia. A real place, with real conditions, designed for the kind of creative work that requires time, atmosphere, and human connection.",
       "source": "Artist Communities Alliance",
-      "published": "2026-11-12T23:56:35.735813+00:00",
+      "published": "2026-11-13T15:01:40.512813+00:00",
       "deadline": null,
       "tags": [
         "residency"
@@ -836,7 +836,7 @@
       "link": "https://artistcommunities.org/directory/residencies/2027-edgar-heap-birds-family-artist-residency",
       "summary": "The Tyler School of Art and Architecture invites applications for a spring 2027 residency in the Art Department, which encompasses undergraduate and graduate programs in Ceramics, Fibers and Material Studies, Glass, Metals/Jewelry/CAD-CAM, Painting, Photography, Printmaking, and Sculpture.",
       "source": "Artist Communities Alliance",
-      "published": "2026-11-12T23:56:35.734956+00:00",
+      "published": "2026-11-13T15:01:40.511936+00:00",
       "deadline": null,
       "tags": [
         "residency"
@@ -865,7 +865,7 @@
       "link": "https://artistcommunities.org/directory/residencies/2026-springsummer-ceramics-artist-residency-program",
       "summary": "The Eureka Springs School of the arts is looking for practicing ceramics artists who are seeking focused time to refine their skills, create work and/or explore new avenues within their medium.",
       "source": "Artist Communities Alliance",
-      "published": "2026-11-12T23:56:35.734279+00:00",
+      "published": "2026-11-13T15:01:40.511232+00:00",
       "deadline": null,
       "tags": [
         "residency"
@@ -888,7 +888,7 @@
       "link": "https://artistcommunities.org/directory/residencies/2026-mentored-woodworking-residency-doug-stowe",
       "summary": "The Eureka Springs School of the Arts is looking for practicing woodworkers and craftspeople seeking focused time to refine their abilities, create new work, and expand their knowledge in a Mentored Residency under Master Woodcrafter, Doug Stowe.",
       "source": "Artist Communities Alliance",
-      "published": "2026-11-12T23:56:35.733494+00:00",
+      "published": "2026-11-13T15:01:40.510433+00:00",
       "deadline": null,
       "tags": [
         "residency"
@@ -908,7 +908,7 @@
       "link": "https://artistcommunities.org/directory/residencies/2025-oolite-arts-liveinart-residency-program",
       "summary": "The Oolite Arts’ Live.In.Art Residency Program provides artists with the time, space, and resources to reach new levels of excellence.",
       "source": "Artist Communities Alliance",
-      "published": "2026-11-12T23:56:35.732864+00:00",
+      "published": "2026-11-13T15:01:40.509760+00:00",
       "deadline": null,
       "tags": [
         "residency"
@@ -932,7 +932,7 @@
       "link": "https://artistcommunities.org/directory/residencies/2025-artist-writer-residencies-gibraltar-point-toronto-island",
       "summary": "Are you an artist or writer seeking a space to focus on your next project? Look no further! We're thrilled to share that we have just opened applications for self-directed residencies for 2025.",
       "source": "Artist Communities Alliance",
-      "published": "2026-11-12T23:56:35.732166+00:00",
+      "published": "2026-11-13T15:01:40.509004+00:00",
       "deadline": null,
       "tags": [
         "residency"
@@ -952,7 +952,7 @@
       "link": "https://artistcommunities.org/directory/residencies/100-west-corsicana-artist-writer-residency",
       "summary": "CORSICANA ARTIST & WRITER RESIDENCY supports the creation and presentation of art and literature with generous provisions and historic space. Founded in 2012 at 100 West, and organized in 2017 as a 501(c)(3) nonprofit.",
       "source": "Artist Communities Alliance",
-      "published": "2026-11-12T23:56:35.731448+00:00",
+      "published": "2026-11-13T15:01:40.508230+00:00",
       "deadline": null,
       "tags": [
         "residency"
@@ -972,7 +972,7 @@
       "link": "https://artistcommunities.org/directory/residencies/kathmandu-international-artist-residency-kiar-2027",
       "summary": "Nestled between India and China, Nepal is a land of breathtaking landscapes, rich traditions, and diverse cultures. Home to the majestic Himalayas—including Mount Everest—Nepal offers everything from subtropical valleys with banana trees to alpine forests with grazing yaks.",
       "source": "Artist Communities Alliance",
-      "published": "2026-11-12T23:56:35.730635+00:00",
+      "published": "2026-11-13T15:01:40.507354+00:00",
       "deadline": null,
       "tags": [
         "residency"
@@ -992,7 +992,7 @@
       "link": "https://artistcommunities.org/directory/residencies/kala-yatra-artist-residency-nepal-2026-27",
       "summary": "Kala Yatra invites applications for its concept-driven, community-engaged artist residency program in Kathmandu, Nepal.",
       "source": "Artist Communities Alliance",
-      "published": "2026-11-12T23:56:35.730106+00:00",
+      "published": "2026-11-13T15:01:40.506795+00:00",
       "deadline": null,
       "tags": [
         "residency"
@@ -1023,7 +1023,7 @@
       "link": "https://artistcommunities.org/directory/residencies/artsindustry-residency",
       "summary": "For more than fifty years, Arts/Industry has been connecting artists with the resources, technology, and materials of Kohler Co., and providing a place to explore new ideas, processes, and perspectives. Artists from all disciplines are encouraged to apply.",
       "source": "Artist Communities Alliance",
-      "published": "2026-11-12T23:56:35.729274+00:00",
+      "published": "2026-11-13T15:01:40.505933+00:00",
       "deadline": null,
       "tags": [
         "residency"
@@ -2090,201 +2090,6 @@
       "image": null
     },
     {
-      "id": "9f5bdfdb71228a33b7fdf20c1f66fcdf542371d9",
-      "title": "CHANGE; The Gyre/CHAOS",
-      "link": "https://www.mta.info/agency/arts-design/collection/change-gyre-chaos",
-      "summary": "by Corinne Grondahl · At Mosholu Pkwy, artist Corinne Grondahl expanded her 2008 installation Metromorphosis/Birth of a Station with two glass artworks. The Gyre/CHAOS uses vivid blues and reds to refer · Mosholu Pkwy, New York · 2026",
-      "source": "MTA Permanent Art Catalog",
-      "published": "2026-01-01T00:00:00+00:00",
-      "deadline": null,
-      "tags": [
-        "public art"
-      ],
-      "region": "Northeast",
-      "kind": "archive",
-      "image": "https://www.mta.info/agency/arts-design/collection/change-gyre-chaos"
-    },
-    {
-      "id": "d2fa425d49f8b14d89e74e902a0ef53428d81b2c",
-      "title": "Harlem Reflections",
-      "link": "https://www.mta.info/arts-design/collection/harlem-reflections",
-      "summary": "by Michael A. Cummings · Harlem Reflections by Michael A. Cummings features thirty-six intricately crafted stainless steel panels integrated into the ADA-accessible ramp at Harlem-148 St station. Drawing o · Harlem-148 St, New York · 2026",
-      "source": "MTA Permanent Art Catalog",
-      "published": "2026-01-01T00:00:00+00:00",
-      "deadline": null,
-      "tags": [
-        "public art"
-      ],
-      "region": "Northeast",
-      "kind": "archive",
-      "image": "https://www.mta.info/arts-design/collection/harlem-reflections"
-    },
-    {
-      "id": "dbaa1921c2f5f70a42388f08d5878dd0116c015a",
-      "title": "If you don't want your children to know the truth about life don't send 'em to the theater",
-      "link": "https://www.mta.info/agency/arts-design/collection/truth-about-life",
-      "summary": "by Christopher Myers · Titled If you don’t want your children to know the truth about life don’t send ’em to the theater, Christopher Myers’s artwork at Church Av brings together Flatbush’s theatrical hi · Church Av, New York · 2026",
-      "source": "MTA Permanent Art Catalog",
-      "published": "2026-01-01T00:00:00+00:00",
-      "deadline": null,
-      "tags": [
-        "public art"
-      ],
-      "region": "Northeast",
-      "kind": "archive",
-      "image": "https://www.mta.info/agency/arts-design/collection/truth-about-life"
-    },
-    {
-      "id": "d263c8064ef2e7ef983e8d66a98f115a4c209618",
-      "title": "Initium (beginning)",
-      "link": "https://www.mta.info/agency/arts-design/collection/initium-beginning",
-      "summary": "by Karen Arm · Karen Arm’s mosaic welcomes visitors to the LIRR Yaphank-BNL Station with a radiant depiction of a globular cluster—a tightly bound group of millions of stars. Inspired by the scie · Yaphank-BNL, New York · 2026",
-      "source": "MTA Permanent Art Catalog",
-      "published": "2026-01-01T00:00:00+00:00",
-      "deadline": null,
-      "tags": [
-        "public art"
-      ],
-      "region": "Northeast",
-      "kind": "archive",
-      "image": "https://www.mta.info/agency/arts-design/collection/initium-beginning"
-    },
-    {
-      "id": "21769802abe154c7ec895ed70d5825a14ec61653",
-      "title": "Harlem Melodic Moments",
-      "link": "https://www.mta.info/agency/arts-design/collection/harlem-melodic-moments",
-      "summary": "by Jorge Luis Rodriguez · Harlem Melodic Moments celebrates East Harlem’s rich musical legacy through large-scale aluminum sculptures featuring concentric interlocking rings and gold-outlined medallions dep · 116 St-Park Av Viaduct, New York · 2025",
-      "source": "MTA Permanent Art Catalog",
-      "published": "2025-01-01T00:00:00+00:00",
-      "deadline": null,
-      "tags": [
-        "public art"
-      ],
-      "region": "Northeast",
-      "kind": "archive",
-      "image": "https://www.mta.info/agency/arts-design/collection/harlem-melodic-moments"
-    },
-    {
-      "id": "071d3125e30af614dfe2101efdaebb71d2b15811",
-      "title": "Abstract Futures",
-      "link": "https://www.mta.info/agency/arts-design/collection/abstract-futures",
-      "summary": "by Hilma's Ghost · MTA Arts & Design announces Abstract Futures, a new artwork by Hilmaï¿½s Ghost, at 42 St-Grand Central Station. The 600-square foot glass mosaic is installed at the 42nd Street/3rd · Grand Central-42 St, New York · 2025",
-      "source": "MTA Permanent Art Catalog",
-      "published": "2025-01-01T00:00:00+00:00",
-      "deadline": null,
-      "tags": [
-        "public art"
-      ],
-      "region": "Northeast",
-      "kind": "archive",
-      "image": "https://www.mta.info/agency/arts-design/collection/abstract-futures"
-    },
-    {
-      "id": "094ba5c75c39fbb7359d06887bfaad0f27ffd84b",
-      "title": "May Your Road Be Light and Fun",
-      "link": "https://www.mta.info/agency/arts-design/collection/be-light-and-fun",
-      "summary": "by Ruby Onyinyechi Amanze · May Your Road Be Light and Fun, an expansive mosaic by ruby onyinyechi amanze at Borough Hall, transforms the passageway connecting the 2, 3, 4, and 5 subway lines into a playful w · Borough Hall, New York · 2025",
-      "source": "MTA Permanent Art Catalog",
-      "published": "2025-01-01T00:00:00+00:00",
-      "deadline": null,
-      "tags": [
-        "public art"
-      ],
-      "region": "Northeast",
-      "kind": "archive",
-      "image": "https://www.mta.info/agency/arts-design/collection/be-light-and-fun"
-    },
-    {
-      "id": "83398718e7adfabc2c40c510f566d4b6bf456a16",
-      "title": "Selva adentro",
-      "link": "https://www.mta.info/agency/arts-design/collection/selva-adentro",
-      "summary": "by Tatiana Arocha · Selva adentro (The Jungle Inside) by Tatiana Arocha brings the biodiversity of her native Colombia to Cypress Hills through six digitally printed murals integrated into the station · Cypress Hills, New York · 2025",
-      "source": "MTA Permanent Art Catalog",
-      "published": "2025-01-01T00:00:00+00:00",
-      "deadline": null,
-      "tags": [
-        "public art"
-      ],
-      "region": "Northeast",
-      "kind": "archive",
-      "image": "https://www.mta.info/agency/arts-design/collection/selva-adentro"
-    },
-    {
-      "id": "f9734814dd2879c477d38caa61936d4468d78e09",
-      "title": "Perspective",
-      "link": "https://www.mta.info/agency/arts-design/collection/perspective",
-      "summary": "by Heejung Cho · Perspective by Heejung Cho celebrates the diverse communities of Woodhaven and Cypress Hills through six vibrant murals composed of digitally printed laminated glass panels. Inspir · 85 St-Forest Pkwy, New York · 2025",
-      "source": "MTA Permanent Art Catalog",
-      "published": "2025-01-01T00:00:00+00:00",
-      "deadline": null,
-      "tags": [
-        "public art"
-      ],
-      "region": "Northeast",
-      "kind": "archive",
-      "image": "https://www.mta.info/agency/arts-design/collection/perspective"
-    },
-    {
-      "id": "51610e966f0a10b507deea9a883dc971ae508b42",
-      "title": "Liminal",
-      "link": "https://www.mta.info/agency/arts-design/collection/liminal",
-      "summary": "by Angie Drakopoulos · Liminal by Angie Drakopoulos explores travel and the subway commute as spaces for contemplation and transformation. Inspired by the Latin word limen, meaning a threshold between st · 75 St-Elderts Ln, New York · 2025",
-      "source": "MTA Permanent Art Catalog",
-      "published": "2025-01-01T00:00:00+00:00",
-      "deadline": null,
-      "tags": [
-        "public art"
-      ],
-      "region": "Northeast",
-      "kind": "archive",
-      "image": "https://www.mta.info/agency/arts-design/collection/liminal"
-    },
-    {
-      "id": "0001a9e6f73858783c1ca89cc8e6b17363622b61",
-      "title": "Urban Nature",
-      "link": "https://www.mta.info/agency/arts-design/collection/urban-nature",
-      "summary": "by Marco Gallotta · Urban Nature by Marco Gallotta celebrates the diverse communities, landmarks, and natural landscapes of Corona, Queens. Inspired by nearby Flushing Meadows Corona Park, the artwork · 111 St, New York · 2025",
-      "source": "MTA Permanent Art Catalog",
-      "published": "2025-01-01T00:00:00+00:00",
-      "deadline": null,
-      "tags": [
-        "public art"
-      ],
-      "region": "Northeast",
-      "kind": "archive",
-      "image": "https://www.mta.info/agency/arts-design/collection/urban-nature"
-    },
-    {
-      "id": "4b4b331281b03c6600eb13b266250c1e5181ec00",
-      "title": "Feasts in Motion",
-      "link": "https://www.mta.info/agency/arts-design/collection/feasts-in-motion",
-      "summary": "by Kira Nam Greene · Feasts in Motion by Kira Nam Greene celebrates the diverse cultures and culinary traditions of Jackson Heights. Inspired by conversations with local residents, the artwork features · 82 St-Jackson Hts, New York · 2025",
-      "source": "MTA Permanent Art Catalog",
-      "published": "2025-01-01T00:00:00+00:00",
-      "deadline": null,
-      "tags": [
-        "public art"
-      ],
-      "region": "Northeast",
-      "kind": "archive",
-      "image": "https://www.mta.info/agency/arts-design/collection/feasts-in-motion"
-    },
-    {
-      "id": "62c577bf791832f8241eaed00b16708a3688850b",
-      "title": "Woodside Window",
-      "link": "https://www.mta.info/agency/arts-design/collection/woodside-window",
-      "summary": "by Oscar Oiwa · Woodside Window by Oscar Oiwa features three mosaic murals at Northern Blvd station that blend hyperrealism with dreamlike fantasy. The artwork reimagines the neighborhood through  · Northern Blvd, New York · 2025",
-      "source": "MTA Permanent Art Catalog",
-      "published": "2025-01-01T00:00:00+00:00",
-      "deadline": null,
-      "tags": [
-        "public art"
-      ],
-      "region": "Northeast",
-      "kind": "archive",
-      "image": "https://www.mta.info/agency/arts-design/collection/woodside-window"
-    },
-    {
       "id": "9292e9f2bf18d498d35495b47ab2a1e720601b29",
       "title": "THE RAZZ",
       "link": "https://data.cityofchicago.org/d/we8h-apcf",
@@ -2298,231 +2103,6 @@
       "region": "Midwest",
       "kind": "archive",
       "image": null
-    },
-    {
-      "id": "e8abcf66e7bef2be9fe7fbee01570c865eb7093e",
-      "title": "The Land Between Open Water",
-      "link": "https://www.mta.info/agency/arts-design/collection/land-between-open-water",
-      "summary": "by Shervone Neckles · Shervone Necklesï¿½ artwork at the Westchester Sq-East Tremont Av station honors the indigenous Siwanoy population, a band of Munsee-speaking Lenape, who lived for centuries in the · Westchester Sq-E Tremont Av, New York · 2024",
-      "source": "MTA Permanent Art Catalog",
-      "published": "2024-01-01T00:00:00+00:00",
-      "deadline": null,
-      "tags": [
-        "public art"
-      ],
-      "region": "Northeast",
-      "kind": "archive",
-      "image": "https://www.mta.info/agency/arts-design/collection/land-between-open-water"
-    },
-    {
-      "id": "3789a14ff3c99d1c1809a1d354bfb32f94a05f8d",
-      "title": "Wild Things",
-      "link": "https://www.mta.info/agency/arts-design/collection/wild-things",
-      "summary": "by Fred Tomaselli · ï¿½Wild Things,ï¿½ a suite of six mosaics by artist Fred Tomaselli, brings some of the nature of New York City down into the underground at the 14 St Station Complex ??????, connec · 14 St-6 Av and 14 St-7 Av, New York · 2024",
-      "source": "MTA Permanent Art Catalog",
-      "published": "2024-01-01T00:00:00+00:00",
-      "deadline": null,
-      "tags": [
-        "public art"
-      ],
-      "region": "Northeast",
-      "kind": "archive",
-      "image": "https://www.mta.info/agency/arts-design/collection/wild-things"
-    },
-    {
-      "id": "b1b5beb220fd18f9e5945aa532471df2c90c3e5f",
-      "title": "Tempestuous Terrain; Liminal Location",
-      "link": "https://www.mta.info/agency/arts-design/collection/tempestuous-terrain-liminal-location",
-      "summary": "by Lisa Corinne Davis · The artwork at 68 St-Hunter College station by Lisa Corinne Davis includes three glass mosaics rendered in the artistï¿½s abstract style. Webbed lines cross bright patches of color · 68 St-Hunter College, New York · 2024",
-      "source": "MTA Permanent Art Catalog",
-      "published": "2024-01-01T00:00:00+00:00",
-      "deadline": null,
-      "tags": [
-        "public art"
-      ],
-      "region": "Northeast",
-      "kind": "archive",
-      "image": "https://www.mta.info/agency/arts-design/collection/tempestuous-terrain-liminal-location"
-    },
-    {
-      "id": "3857876c8467a5d926e8caecb2bf088862d9b912",
-      "title": "Signs of Life",
-      "link": "https://www.mta.info/agency/arts-design/collection/signs-of-life",
-      "summary": "by Jackie Chang · Inspired by traditional Chinese writing in which the meaning of the character can be deciphered through its pictorial resemblance to a physical object or sign, Jackie Chang's \"Sign · Metropolitan Av, New York · 2024",
-      "source": "MTA Permanent Art Catalog",
-      "published": "2024-01-01T00:00:00+00:00",
-      "deadline": null,
-      "tags": [
-        "public art"
-      ],
-      "region": "Northeast",
-      "kind": "archive",
-      "image": "https://www.mta.info/agency/arts-design/collection/signs-of-life"
-    },
-    {
-      "id": "7586467a726e4dd97f962fa0bb8d97bddbd7e39d",
-      "title": "Points of Observation",
-      "link": "https://www.mta.info/agency/arts-design/collection/five-points-of-observation",
-      "summary": "by Kathleen McCarthy · Points of Observation by Kathleen McCarthy includes 15 laminated glass panels featuring patterns inspired by natural forms, including the radial structure of a pine seedling stem,  · Woodhaven Blvd, New York · 2024",
-      "source": "MTA Permanent Art Catalog",
-      "published": "2024-01-01T00:00:00+00:00",
-      "deadline": null,
-      "tags": [
-        "public art"
-      ],
-      "region": "Northeast",
-      "kind": "archive",
-      "image": "https://www.mta.info/agency/arts-design/collection/five-points-of-observation"
-    },
-    {
-      "id": "2a63ae6b13507b02ecbcf4df655e33dda00130fe",
-      "title": "All That Was South Is East of Me Now",
-      "link": "https://www.mta.info/agency/arts-design/collection/all-that-was-south",
-      "summary": "by Duke Riley · Metal and glass artwork at Long Island Rail Road Northport station by artist Duke Riley playfully interrogates the townï¿½s nautical and farming histories in the artistï¿½s iconic  · Northport, New York · 2024",
-      "source": "MTA Permanent Art Catalog",
-      "published": "2024-01-01T00:00:00+00:00",
-      "deadline": null,
-      "tags": [
-        "public art"
-      ],
-      "region": "Northeast",
-      "kind": "archive",
-      "image": "https://www.mta.info/agency/arts-design/collection/all-that-was-south"
-    },
-    {
-      "id": "4156b3557a8942ace27e5979fd487f7d67caa8ae",
-      "title": "Great Waves of Immigration",
-      "link": "https://mta.info/agency/arts-design/collection/great-waves-of-immigration",
-      "summary": "by Carmen Lizardo · Ã’Great Waves of ImmigrationÃ“ by artist Carmen Lizardo invites commuters to reflect on the generations who have made New York City and the Washington Heights neighborhood home thr · 181 St, New York · 2023",
-      "source": "MTA Permanent Art Catalog",
-      "published": "2023-01-01T00:00:00+00:00",
-      "deadline": null,
-      "tags": [
-        "public art"
-      ],
-      "region": "Northeast",
-      "kind": "archive",
-      "image": "https://mta.info/agency/arts-design/collection/great-waves-of-immigration"
-    },
-    {
-      "id": "406798ac3e803ed0e0512fe2b2fabb10bc30be11",
-      "title": "Personal Choice #5",
-      "link": "https://www.mta.info/agency/arts-design/collection/personal-choice-5",
-      "summary": "by Chloë Bass · “Personal Choice #5” by Chloë Bass is a three-part mosaic installation at Lorimer Street Station that explores connection, memory, and the shared experience of public life in New Y · Lorimer St, New York · 2023",
-      "source": "MTA Permanent Art Catalog",
-      "published": "2023-01-01T00:00:00+00:00",
-      "deadline": null,
-      "tags": [
-        "public art"
-      ],
-      "region": "Northeast",
-      "kind": "archive",
-      "image": "https://www.mta.info/agency/arts-design/collection/personal-choice-5"
-    },
-    {
-      "id": "624bc3d8b4d738adaa2f325cf5e67a7405ae9525",
-      "title": "Gratitudes off Grand",
-      "link": "https://mta.info/agency/arts-design/collection/gratitudes-off-grand",
-      "summary": "by Glendalys Medina · In the mosaic artwork Gratitudes off Grand at the upgraded Grand Street (L) station in Brooklyn, Glendalys Medina reflects on their COVID-19 pandemic practice of taking 15-minute w · Grand St, New York · 2023",
-      "source": "MTA Permanent Art Catalog",
-      "published": "2023-01-01T00:00:00+00:00",
-      "deadline": null,
-      "tags": [
-        "public art"
-      ],
-      "region": "Northeast",
-      "kind": "archive",
-      "image": "https://mta.info/agency/arts-design/collection/gratitudes-off-grand"
-    },
-    {
-      "id": "c53be27f768d70e03f2910356710361a489de1d4",
-      "title": "Bronx River",
-      "link": "https://mta.info/agency/arts-design/collection/bronx-river",
-      "summary": "by Glenn Goldberg · At the E 149 St station, the mosaic artwork \"Bronx River\" by Glenn Goldberg unfolds across two sections located on the mezzanine level. Goldberg was inspired by the recent efforts  · E 149 St, New York · 2023",
-      "source": "MTA Permanent Art Catalog",
-      "published": "2023-01-01T00:00:00+00:00",
-      "deadline": null,
-      "tags": [
-        "public art"
-      ],
-      "region": "Northeast",
-      "kind": "archive",
-      "image": "https://mta.info/agency/arts-design/collection/bronx-river"
-    },
-    {
-      "id": "c74dd2afb4b15e900dd344bff1ad7c784394f41c",
-      "title": "Landscapes adrift—cosmically woven and earthly bonded",
-      "link": "https://www.mta.info/agency/arts-design/collection/landscapes-adrift",
-      "summary": "by David Rios Ferreira · Landscapes adrift—cosmically woven and earthly bonded by David Rios Ferreira brings together science fiction, nature, architecture, and Indigenous cultural traditions in mosaic art · 7 Av, New York · 2023",
-      "source": "MTA Permanent Art Catalog",
-      "published": "2023-01-01T00:00:00+00:00",
-      "deadline": null,
-      "tags": [
-        "public art"
-      ],
-      "region": "Northeast",
-      "kind": "archive",
-      "image": "https://www.mta.info/agency/arts-design/collection/landscapes-adrift"
-    },
-    {
-      "id": "2d8a6738a298a19668367bddefbfb72335e7c4d8",
-      "title": "The Time Telling",
-      "link": "https://mta.info/agency/arts-design/collection/arches-of-old-penn-station",
-      "summary": "by Diana Al-Hadid · Need The Time Telling update · 34 St-Penn Station, New York · 2023",
-      "source": "MTA Permanent Art Catalog",
-      "published": "2023-01-01T00:00:00+00:00",
-      "deadline": null,
-      "tags": [
-        "public art"
-      ],
-      "region": "Northeast",
-      "kind": "archive",
-      "image": "https://mta.info/agency/arts-design/collection/arches-of-old-penn-station"
-    },
-    {
-      "id": "5b784c5aa54f8ee8e2ef9ed2205f7f10f2c8a2db",
-      "title": "Creeping on Where Time Has Been",
-      "link": "https://www.mta.info/agency/arts-design/collection/creeping-on-where-time-has-been",
-      "summary": "by Keri Sheheen · Creeping On Where Time Has Been by Keri Sheheen celebrates New Dorp’s natural landscapes and architectural history through glass and metal artwork. Inspired by historic photographs · New Dorp, New York · 2023",
-      "source": "MTA Permanent Art Catalog",
-      "published": "2023-01-01T00:00:00+00:00",
-      "deadline": null,
-      "tags": [
-        "public art"
-      ],
-      "region": "Northeast",
-      "kind": "archive",
-      "image": "https://www.mta.info/agency/arts-design/collection/creeping-on-where-time-has-been"
-    },
-    {
-      "id": "8c5d1030841fa92e74f00d9b2ac39fd36b405082",
-      "title": "Bessie and Roxey",
-      "link": "https://mta.info/agency/arts-design/collection/bessie-and-roxey",
-      "summary": "by Donald Lipski · At the LIRR Mineola station, a majestic 20-feet tall bronze sculpture titled Ã’Bessie and RoxeyÃ“ by the artist Donald Lipski playfully commemorates two separate but interconnected · Mineola, New York · 2023",
-      "source": "MTA Permanent Art Catalog",
-      "published": "2023-01-01T00:00:00+00:00",
-      "deadline": null,
-      "tags": [
-        "public art"
-      ],
-      "region": "Northeast",
-      "kind": "archive",
-      "image": "https://mta.info/agency/arts-design/collection/bessie-and-roxey"
-    },
-    {
-      "id": "8b853b12c8fe7592defc8d257a7d3313760b7b18",
-      "title": "Double Take",
-      "link": "https://mta.info/agency/arts-design/collection/double-take",
-      "summary": "by Diana Cooper · Located on Roosevelt Island, the permanent artwork by Diana Cooper, Double Take, is visible from the F train subway stop and is part of the East Side Access project that brought Lo · Roosevelt Island Ventilation Structure, New York · 2023",
-      "source": "MTA Permanent Art Catalog",
-      "published": "2023-01-01T00:00:00+00:00",
-      "deadline": null,
-      "tags": [
-        "public art"
-      ],
-      "region": "Northeast",
-      "kind": "archive",
-      "image": "https://mta.info/agency/arts-design/collection/double-take"
     },
     {
       "id": "ddf57f34efdef4869e9a0c19c6e97ebae72487cf",
@@ -2570,96 +2150,6 @@
       "image": null
     },
     {
-      "id": "c860d91985c11c54cf348de280d989e479c60f9c",
-      "title": "Each One, Every One, Equal All",
-      "link": "https://mta.info/agency/arts-design/collection/each-one-every-one-equal-all",
-      "summary": "by Nick Cave · “Each One, Every One, Equal All” (2022) by Nick Cave is a three-part mosaic installation at Times Square–42nd Street featuring nearly fifty colorful, expressive Soundsuits—full-bod · Times Sq-42 St, New York · 2022",
-      "source": "MTA Permanent Art Catalog",
-      "published": "2022-01-01T00:00:00+00:00",
-      "deadline": null,
-      "tags": [
-        "public art"
-      ],
-      "region": "Northeast",
-      "kind": "archive",
-      "image": "https://mta.info/agency/arts-design/collection/each-one-every-one-equal-all"
-    },
-    {
-      "id": "5e86a639ba032e9ed6360d3646eb8d3a5d5d2434",
-      "title": "Uptown New York",
-      "link": "https://mta.info/arts-and-design/collections/uptown-new-york",
-      "summary": "by Frank Leslie Hampton · Added 2022 refabrication sentence to web text 11/22/2023. · Tremont Av, New York · 2022",
-      "source": "MTA Permanent Art Catalog",
-      "published": "2022-01-01T00:00:00+00:00",
-      "deadline": null,
-      "tags": [
-        "public art"
-      ],
-      "region": "Northeast",
-      "kind": "archive",
-      "image": "https://mta.info/arts-and-design/collections/uptown-new-york"
-    },
-    {
-      "id": "4ce0b9d661306df070b6264a37f6a0509e4db55d",
-      "title": "Cyclical Everything",
-      "link": "https://mta.info/agency/arts-design/collection/cyclical-everything",
-      "summary": "by Shawna X · At the Elmont-UBS Arena Station, a series of vibrant glass panels and geometric metal railings by the graphic artist Shawna X enliven the first new Long Island Rail Road station bu · Elmont-UBS Arena, New York · 2022",
-      "source": "MTA Permanent Art Catalog",
-      "published": "2022-01-01T00:00:00+00:00",
-      "deadline": null,
-      "tags": [
-        "public art"
-      ],
-      "region": "Northeast",
-      "kind": "archive",
-      "image": "https://mta.info/agency/arts-design/collection/cyclical-everything"
-    },
-    {
-      "id": "cb1bb76e471fae24192797edb33066be61758868",
-      "title": "River Light; The Presence; The Spring; The Sound; The Water's Way",
-      "link": "https://mta.info/agency/arts-design/collection/river-light-presence-spring-sound-waters-way",
-      "summary": "by Kiki Smith · Since the 1980s, Kiki Smith has been known for her multidisciplinary work that explores embodiment and the natural world. Five individual mosaics by the acclaimed artist are locate · Grand Central Madison, New York · 2022",
-      "source": "MTA Permanent Art Catalog",
-      "published": "2022-01-01T00:00:00+00:00",
-      "deadline": null,
-      "tags": [
-        "public art"
-      ],
-      "region": "Northeast",
-      "kind": "archive",
-      "image": "https://mta.info/agency/arts-design/collection/river-light-presence-spring-sound-waters-way"
-    },
-    {
-      "id": "69e56120056fb6c64663a9ec873d569cd09e437b",
-      "title": "A Message of Love, Directly from My Heart unto the Universe",
-      "link": "https://mta.info/agency/arts-design/collection/a-message-of-love-directly-from-my-heart-unto-the-universe",
-      "summary": "by Yayoi Kusama · \"A Message of Love, Directly from My Heart unto the Universe (2022),\" by internationall renowned artist Yayoi Kusama, is located in Grand Central Madison, on the Madison Concourse  · Grand Central Madison, New York · 2022",
-      "source": "MTA Permanent Art Catalog",
-      "published": "2022-01-01T00:00:00+00:00",
-      "deadline": null,
-      "tags": [
-        "public art"
-      ],
-      "region": "Northeast",
-      "kind": "archive",
-      "image": "https://mta.info/agency/arts-design/collection/a-message-of-love-directly-from-my-heart-unto-the-universe"
-    },
-    {
-      "id": "fa17a7b8a2bb8e56106ed91f8c2e1ffd2719b5b4",
-      "title": "Illuminations",
-      "link": "https://mta.info/agency/arts-design/collection/illuminations",
-      "summary": "by Darryl Westly · At Westbury Station, artwork by Darryl Westly, \"Illuminations,\" pays homage to important moments in the areaÃ•s history. Westly blends archival imagery and motifs from WestburyÃ•s  · Westbury, New York · 2022",
-      "source": "MTA Permanent Art Catalog",
-      "published": "2022-01-01T00:00:00+00:00",
-      "deadline": null,
-      "tags": [
-        "public art"
-      ],
-      "region": "Northeast",
-      "kind": "archive",
-      "image": "https://mta.info/agency/arts-design/collection/illuminations"
-    },
-    {
       "id": "fffe7f5cc87880ccc41db4f4db6e11600502641f",
       "title": "Dragon Gate",
       "link": "https://data.cityofchicago.org/d/we8h-apcf",
@@ -2703,96 +2193,6 @@
       "region": "Midwest",
       "kind": "archive",
       "image": null
-    },
-    {
-      "id": "8d54e493228a5bd07e4c88e4899784d08c98a84d",
-      "title": "Heydays",
-      "link": "https://mta.info/agency/arts-design/collection/heydays",
-      "summary": "by Amy Bennett · A glass mosaic mural installed within the mezzanine wall of the 86 St station, \"Heydays\" celebrates the past and present of Bay Ridge, which is always evolving. The work is based o · 86 St, New York · 2021",
-      "source": "MTA Permanent Art Catalog",
-      "published": "2021-01-01T00:00:00+00:00",
-      "deadline": null,
-      "tags": [
-        "public art"
-      ],
-      "region": "Northeast",
-      "kind": "archive",
-      "image": "https://mta.info/agency/arts-design/collection/heydays"
-    },
-    {
-      "id": "6f6a1322321f91d4d74ce1508c7521c014b76419",
-      "title": "Queens of the Night; Superhero Responds",
-      "link": "https://mta.info/agency/arts-design/collection/queens-of-the-night",
-      "summary": "by Katherine Bradford · Katherine BradfordÃ•s artwork reflects on the community that uses the 1 Av station. Her vibrant compositions, fabricated in glass mosaic by Mayer of Munich, are located in the nort · 1 Av, New York · 2021",
-      "source": "MTA Permanent Art Catalog",
-      "published": "2021-01-01T00:00:00+00:00",
-      "deadline": null,
-      "tags": [
-        "public art"
-      ],
-      "region": "Northeast",
-      "kind": "archive",
-      "image": "https://mta.info/agency/arts-design/collection/queens-of-the-night"
-    },
-    {
-      "id": "b1963d9cbf119439e1a1dd95175db1b9276408c5",
-      "title": "No Less Than Everything Comes Together",
-      "link": "https://mta.info/agency/arts-design/collection/no-less-than-everything-comes-together",
-      "summary": "by Marcel Dzama · Marcel Dzama depicts the hopeful beauty of the sun and the moonÃ•s illuminated mysteries in four mosaic panels at the Bedford Av station. Inspired by Walt Whitman's \"Crossing Brook · Bedford Av, New York · 2021",
-      "source": "MTA Permanent Art Catalog",
-      "published": "2021-01-01T00:00:00+00:00",
-      "deadline": null,
-      "tags": [
-        "public art"
-      ],
-      "region": "Northeast",
-      "kind": "archive",
-      "image": "https://mta.info/agency/arts-design/collection/no-less-than-everything-comes-together"
-    },
-    {
-      "id": "458417d271a3090942881d80549c064cd73a767f",
-      "title": "Day Into Night Into Day",
-      "link": "https://mta.info/agency/arts-design/collection/day-into-night-into-day",
-      "summary": "by Amy Pryor · Amy Pryor's mosaic artwork \"Day Into Night Into Day\" depicts the shifting hours of daylight and darkness over four seasons. Based on a 24-hour clock and reminiscent of pie charts,  · 138 St-Grand Concourse, New York · 2021",
-      "source": "MTA Permanent Art Catalog",
-      "published": "2021-01-01T00:00:00+00:00",
-      "deadline": null,
-      "tags": [
-        "public art"
-      ],
-      "region": "Northeast",
-      "kind": "archive",
-      "image": "https://mta.info/agency/arts-design/collection/day-into-night-into-day"
-    },
-    {
-      "id": "d20547aba221fb69fa48204ca88d9a12fda17071",
-      "title": "40˚54’37.9”N 73˚50’33.5”W",
-      "link": "https://www.mta.info/agency/arts-design/collection/mark-fox-mount-vernon",
-      "summary": "by Mark Fox · Mark Fox’s 40˚54’37.9”N 73˚50’33.5”W covers the west side of the 10th Avenue bridge in Mount Vernon with 14 waterjet-cut panels filled with flowing, decorative text. Using informat · Mount Vernon 10th Avenue Bridge, New York · 2021",
-      "source": "MTA Permanent Art Catalog",
-      "published": "2021-01-01T00:00:00+00:00",
-      "deadline": null,
-      "tags": [
-        "public art"
-      ],
-      "region": "Northeast",
-      "kind": "archive",
-      "image": "https://www.mta.info/agency/arts-design/collection/mark-fox-mount-vernon"
-    },
-    {
-      "id": "0533c44b2108c166872219412991113a30f6122b",
-      "title": "Empirical Evidence",
-      "link": "https://mta.info/agency/arts-design/collection/empirical-evidence",
-      "summary": "by Damien Davis · Damien DavisÃ• artwork for the 3rd Avenue bridge in Mount Vernon, \"Empirical Evidence,\" references ancient and contemporary cultures through non-linear abstracted and stylized symb · Mount Vernon 3rd Avenue Bridge, New York · 2021",
-      "source": "MTA Permanent Art Catalog",
-      "published": "2021-01-01T00:00:00+00:00",
-      "deadline": null,
-      "tags": [
-        "public art"
-      ],
-      "region": "Northeast",
-      "kind": "archive",
-      "image": "https://mta.info/agency/arts-design/collection/empirical-evidence"
     },
     {
       "id": "392d6dd74845d27ffee95ad3c5b0989a649a69d0",
