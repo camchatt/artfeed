@@ -3,7 +3,7 @@
 <title>Creative Opportunities</title>
 <link>https://example.com</link>
 <description>Jobs, grants, RFPs, residencies and calls for artists</description>
-<lastBuildDate>Tue, 17 Nov 2026 02:15:23 +0000</lastBuildDate>
+<lastBuildDate>Tue, 17 Nov 2026 16:38:23 +0000</lastBuildDate>
 <item>
 <title>Endowments for Advancing the Humanities</title>
 <link>https://www.grants.gov/search-results-detail/364195</link>
@@ -278,6 +278,13 @@
 <category>residency</category>
 </item>
 <item>
+<title>Off Grid Art Residency in Mexico</title>
+<link>https://artdeadline.com/ops/la-manchoza/</link>
+<guid isPermaLink="false">445d660dc3bd50ce92e9e32d1a5076f2eee70663</guid>
+<description>Deadline 2027-01-31. International Deadline: January 31, 2027 - La Manchoza is an independent, artist-run residency and off-grid homestead located in the mountains of Jalisco, Mexico. Rooted in the philosophy of Living with the Land, it offers artists an opportunity to develop their practice while experiencing...</description>
+<category>opportunity, residency</category>
+</item>
+<item>
 <title>Belfast Photo Festival</title>
 <link>https://artdeadline.com/ops/belfast-photo-festival/</link>
 <guid isPermaLink="false">5fb24f0a02c02ba9e36af11a45b56239f0a8d331</guid>
@@ -411,13 +418,6 @@
 <category>grant, opportunity</category>
 </item>
 <item>
-<title>Designer Now 2027: The International Exhibition at CICA Museum</title>
-<link>https://artdeadline.com/ops/cica-2/</link>
-<guid isPermaLink="false">8a3c1f4479d80bd80ddc6de5eb7d0461f2f19b22</guid>
-<description>Deadline 2026-11-24. International Deadline: November 24, 2026 – CICA Museum invites designers, artists, illustrators, and content creators from around the world to participate in “Designer Now 2027,” an international exhibition. We welcome photography, 2D digital art...</description>
-<category>opportunity</category>
-</item>
-<item>
 <title>Opportunities in September 2026</title>
 <link>https://hyperallergic.com/opportunities-in-september-2026/</link>
 <guid isPermaLink="false">43deb4ec99decb46b680c5ee4ad473b2363ccddb</guid>
@@ -437,12 +437,5 @@
 <guid isPermaLink="false">d83463d44b81bb0ad1b4d78af00765d7e4a96475</guid>
 <description>Residencies, fellowships, grants, and open calls from the Erie Canal Museum, Jentel Artist Residency, Princeton University, and more in our monthly list of opportunities for artists, writers, and art workers.</description>
 <category>grant, opportunity, residency</category>
-</item>
-<item>
-<title>Open Call 2027: Jentel Artist Residency</title>
-<link>https://hyperallergic.com/open-call-2027-jentel-artist-residency/</link>
-<guid isPermaLink="false">a5d814ef321fe5b6105af776892ea864edc48870</guid>
-<description>A Mountain West residency for artists, writers, and composers.</description>
-<category>opportunity, residency</category>
 </item>
 </channel></rss>
