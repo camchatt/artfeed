@@ -3,7 +3,7 @@
 <title>Creative Opportunities</title>
 <link>https://example.com</link>
 <description>Jobs, grants, RFPs, residencies and calls for artists</description>
-<lastBuildDate>Sat, 21 Nov 2026 23:41:04 +0000</lastBuildDate>
+<lastBuildDate>Sun, 22 Nov 2026 14:59:59 +0000</lastBuildDate>
 <item>
 <title>Endowments for Advancing the Humanities</title>
 <link>https://www.grants.gov/search-results-detail/364195</link>
@@ -103,13 +103,6 @@
 <category>grant</category>
 </item>
 <item>
-<title>Alchemy Artists Residency</title>
-<link>https://artistcommunities.org/directory/residencies/alchemy-artists-residency</link>
-<guid isPermaLink="false">76906cb466136d6740ec1d02c88a5158b3e481ab</guid>
-<description>ALCHEMY: a n artist-led international residency where food, art, and community come together.</description>
-<category>residency</category>
-</item>
-<item>
 <title>Alaska AIR - Bunnell Street Arts Center Artist in Residence</title>
 <link>https://artistcommunities.org/directory/residencies/alaska-air-bunnell-street-arts-center-artist-residence</link>
 <guid isPermaLink="false">fc142072a9eae2680ae9730719c4650ac1a68a58</guid>
@@ -184,6 +177,13 @@
 <link>https://artistcommunities.org/directory/residencies/aca-sample-residency-0</link>
 <guid isPermaLink="false">ec8188adc8ee9db39df04fe7e322dde77b791435</guid>
 <description>Description here.</description>
+<category>residency</category>
+</item>
+<item>
+<title>Abbey Scholarship in Painting</title>
+<link>https://artistcommunities.org/directory/residencies/abbey-scholarship-painting</link>
+<guid isPermaLink="false">35f576ca0c741e2c134dad94853775ed3ece95b2</guid>
+<description>Abbey Awards offers residencies for painters at the British School at Rome, selected from an annual submission, open to UK and US citizens and residents. Artists of all nationalities who have lived in the UK or US for 5 years are eligible to apply.</description>
 <category>residency</category>
 </item>
 <item>
