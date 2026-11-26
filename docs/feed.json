@@ -1,8 +1,8 @@
 {
   "contract_version": "artelier_opportunities_feed_v1",
   "title": "Creative Opportunities",
-  "updated": "2026-11-26T02:00:49.736900+00:00",
-  "count": 227,
+  "updated": "2026-11-26T17:29:08.047477+00:00",
+  "count": 262,
   "items": [
     {
       "id": "a8d6b3cb769fda5cc6fad64bef2261302ce074f5",
@@ -10,7 +10,7 @@
       "link": "https://www.grants.gov/search-results-detail/364195",
       "summary": "National Endowment for the Humanities | opportunity 20270113-CHE",
       "source": "Grants.gov",
-      "published": "2026-11-26T02:00:12.259053+00:00",
+      "published": "2026-11-26T17:28:34.988343+00:00",
       "deadline": "2027-01-13",
       "tags": [
         "grant"
@@ -27,7 +27,7 @@
       "link": "https://www.grants.gov/search-results-detail/364098",
       "summary": "National Endowment for the Humanities | opportunity 20261209-GE-GI-BP-BR-GGX",
       "source": "Grants.gov",
-      "published": "2026-11-26T02:00:12.258588+00:00",
+      "published": "2026-11-26T17:28:34.987903+00:00",
       "deadline": "2026-12-16",
       "tags": [
         "grant"
@@ -44,7 +44,7 @@
       "link": "https://www.grants.gov/search-results-detail/364030",
       "summary": "National Endowment for the Humanities | opportunity 20270113-PJ",
       "source": "Grants.gov",
-      "published": "2026-11-26T02:00:12.258081+00:00",
+      "published": "2026-11-26T17:28:34.987466+00:00",
       "deadline": "2027-01-13",
       "tags": [
         "grant"
@@ -61,7 +61,7 @@
       "link": "https://www.grants.gov/search-results-detail/363880",
       "summary": "National Endowment for the Humanities | opportunity 20261209-EDK-EDU",
       "source": "Grants.gov",
-      "published": "2026-11-26T02:00:12.257536+00:00",
+      "published": "2026-11-26T17:28:34.986964+00:00",
       "deadline": "2026-12-09",
       "tags": [
         "grant"
@@ -78,7 +78,7 @@
       "link": "https://www.grants.gov/search-results-detail/361480",
       "summary": "National Endowment for the Humanities | opportunity 20260511-PCS",
       "source": "Grants.gov",
-      "published": "2026-11-26T02:00:12.257058+00:00",
+      "published": "2026-11-26T17:28:34.986539+00:00",
       "deadline": "2026-12-15",
       "tags": [
         "grant"
@@ -95,7 +95,7 @@
       "link": "https://www.grants.gov/search-results-detail/363225",
       "summary": "Bureau Of Educational and Cultural Affairs | opportunity DFOP0017180",
       "source": "Grants.gov",
-      "published": "2026-11-26T02:00:12.256226+00:00",
+      "published": "2026-11-26T17:28:34.985780+00:00",
       "deadline": null,
       "tags": [
         "grant"
@@ -112,7 +112,7 @@
       "link": "https://www.grants.gov/search-results-detail/364309",
       "summary": "National Endowment for the Humanities | opportunity 20270505-TD-TR",
       "source": "Grants.gov",
-      "published": "2026-11-26T02:00:12.255647+00:00",
+      "published": "2026-11-26T17:28:34.985240+00:00",
       "deadline": null,
       "tags": [
         "grant"
@@ -129,7 +129,7 @@
       "link": "https://www.grants.gov/search-results-detail/364310",
       "summary": "National Endowment for the Humanities | opportunity 20270505-ECD",
       "source": "Grants.gov",
-      "published": "2026-11-26T02:00:11.414938+00:00",
+      "published": "2026-11-26T17:28:34.311399+00:00",
       "deadline": null,
       "tags": [
         "grant"
@@ -146,7 +146,7 @@
       "link": "https://www.grants.gov/search-results-detail/322314",
       "summary": "U.S. Mission to Cambodia | opportunity PAS-CB-600-20-PAS-0003",
       "source": "Grants.gov",
-      "published": "2026-11-26T02:00:10.623232+00:00",
+      "published": "2026-11-26T17:28:33.686235+00:00",
       "deadline": null,
       "tags": [
         "grant"
@@ -163,7 +163,7 @@
       "link": "https://www.grants.gov/search-results-detail/364205",
       "summary": "National Aeronautics and Space Administration | opportunity NNH27ZHA002C",
       "source": "Grants.gov",
-      "published": "2026-11-26T02:00:10.622314+00:00",
+      "published": "2026-11-26T17:28:33.685468+00:00",
       "deadline": "2027-02-01",
       "tags": [
         "grant"
@@ -180,7 +180,7 @@
       "link": "https://www.grants.gov/search-results-detail/362984",
       "summary": "National Endowment for the Arts | opportunity 2027FCAHDOM02",
       "source": "Grants.gov",
-      "published": "2026-11-26T02:00:09.835037+00:00",
+      "published": "2026-11-26T17:28:33.032995+00:00",
       "deadline": "2027-06-07",
       "tags": [
         "grant"
@@ -197,7 +197,7 @@
       "link": "https://www.grants.gov/search-results-detail/362982",
       "summary": "National Endowment for the Arts | opportunity 2027FCAHDOM01",
       "source": "Grants.gov",
-      "published": "2026-11-26T02:00:09.834452+00:00",
+      "published": "2026-11-26T17:28:33.032487+00:00",
       "deadline": "2026-12-07",
       "tags": [
         "grant"
@@ -214,7 +214,7 @@
       "link": "https://www.grants.gov/search-results-detail/362983",
       "summary": "National Endowment for the Arts | opportunity 2027FCAH02",
       "source": "Grants.gov",
-      "published": "2026-11-26T02:00:09.833885+00:00",
+      "published": "2026-11-26T17:28:33.031942+00:00",
       "deadline": "2027-03-08",
       "tags": [
         "grant"
@@ -231,7 +231,7 @@
       "link": "https://www.grants.gov/search-results-detail/361554",
       "summary": "Bureau Of Educational and Cultural Affairs | opportunity DFOP0017204",
       "source": "Grants.gov",
-      "published": "2026-11-26T02:00:09.832288+00:00",
+      "published": "2026-11-26T17:28:33.030504+00:00",
       "deadline": null,
       "tags": [
         "grant"
@@ -248,7 +248,7 @@
       "link": "https://www.grants.gov/search-results-detail/364245",
       "summary": "National Endowment for the Arts | opportunity NEAPANS26",
       "source": "Grants.gov",
-      "published": "2026-11-26T02:00:09.831621+00:00",
+      "published": "2026-11-26T17:28:33.029857+00:00",
       "deadline": "2027-01-14",
       "tags": [
         "grant"
@@ -265,7 +265,7 @@
       "link": "https://www.grants.gov/search-results-detail/364303",
       "summary": "National Endowment for the Arts | opportunity NEAPS2605",
       "source": "Grants.gov",
-      "published": "2026-11-26T02:00:09.831010+00:00",
+      "published": "2026-11-26T17:28:33.029352+00:00",
       "deadline": "2027-01-14",
       "tags": [
         "grant"
@@ -282,7 +282,7 @@
       "link": "https://www.grants.gov/search-results-detail/364253",
       "summary": "National Endowment for the Arts | opportunity NEAPS2604",
       "source": "Grants.gov",
-      "published": "2026-11-26T02:00:09.830425+00:00",
+      "published": "2026-11-26T17:28:33.028879+00:00",
       "deadline": "2026-12-14",
       "tags": [
         "grant"
@@ -302,7 +302,7 @@
       "link": "https://artistcommunities.org/directory/residencies/alaska-air-bunnell-street-arts-center-artist-residence",
       "summary": "Bunnell Street Arts Center's \"Alaska AIR\" Artist-in-Residency program seeks international, US and Alaska artists looking to create new work and deeply engage Bunnell’s community.",
       "source": "Artist Communities Alliance",
-      "published": "2026-11-26T02:00:08.497136+00:00",
+      "published": "2026-11-26T17:28:32.074154+00:00",
       "deadline": null,
       "tags": [
         "residency"
@@ -322,7 +322,7 @@
       "link": "https://artistcommunities.org/directory/residencies/alaska-chulitna-lodge-wilderness-retreat-creative-residency",
       "summary": "Chulitna Lodge Wilderness Retreat seeks to provide the time, space, clarity and facilities for all forms of creative professionals or enthusiastic hobbyists to make and meditate.",
       "source": "Artist Communities Alliance",
-      "published": "2026-11-26T02:00:08.496800+00:00",
+      "published": "2026-11-26T17:28:32.073827+00:00",
       "deadline": null,
       "tags": [
         "residency"
@@ -339,7 +339,7 @@
       "link": "https://artistcommunities.org/directory/residencies/al-mickey-quinlan-artist-residency",
       "summary": "Whitefish Bay, located on Wisconsin's Door Peninsula , has long been a creative haven for artists who were an important part of the local community and brought the process of creating art into daily life.",
       "source": "Artist Communities Alliance",
-      "published": "2026-11-26T02:00:08.496636+00:00",
+      "published": "2026-11-26T17:28:32.073678+00:00",
       "deadline": null,
       "tags": [
         "residency"
@@ -359,7 +359,7 @@
       "link": "https://artistcommunities.org/directory/residencies/airnewport",
       "summary": "The Newport artist residency, AiR/Newport is designed to encourage the creative, intellectual and personal growth of emerging to established visual artists and designers by giving them the time, space and solitude needed to create, apart from the daily demands of production and deadlines.",
       "source": "Artist Communities Alliance",
-      "published": "2026-11-26T02:00:08.495564+00:00",
+      "published": "2026-11-26T17:28:32.072700+00:00",
       "deadline": null,
       "tags": [
         "residency"
@@ -380,7 +380,7 @@
       "link": "https://artistcommunities.org/directory/residencies/adriftproject-residency-inc",
       "summary": "adriftproject hosts artist residencies aboard SV Hawa for up to two residents at a time as we transit the lovely and diverse US east coast following good weather.",
       "source": "Artist Communities Alliance",
-      "published": "2026-11-26T02:00:08.494775+00:00",
+      "published": "2026-11-26T17:28:32.071885+00:00",
       "deadline": null,
       "tags": [
         "residency"
@@ -400,7 +400,7 @@
       "link": "https://artistcommunities.org/directory/residencies/activate-residency",
       "summary": "Boston Center for the Arts’ ACTivate Residency will award seven-day residencies to individuals and small groups of artists to create site-responsive work in the historic Cyclorama. The work can be performative and/or visual in nature and is meant to activate artists and our spaces.",
       "source": "Artist Communities Alliance",
-      "published": "2026-11-26T02:00:08.494276+00:00",
+      "published": "2026-11-26T17:28:32.071440+00:00",
       "deadline": null,
       "tags": [
         "grant",
@@ -421,7 +421,7 @@
       "link": "https://artistcommunities.org/directory/residencies/acre-academic-and-creative-research-residency-programme",
       "summary": "The ACRE (Academic and Creative Research) Residency Programme invites artists, researchers, writers, and creative practitioners to live and work at Braziers Park while developing independent projects.",
       "source": "Artist Communities Alliance",
-      "published": "2026-11-26T02:00:08.493322+00:00",
+      "published": "2026-11-26T17:28:32.070573+00:00",
       "deadline": null,
       "tags": [
         "residency"
@@ -444,7 +444,7 @@
       "link": "https://artistcommunities.org/directory/residencies/acre",
       "summary": "ACRE’s Residency Program takes place every summer in the Driftless region of Wisconsin.",
       "source": "Artist Communities Alliance",
-      "published": "2026-11-26T02:00:08.493216+00:00",
+      "published": "2026-11-26T17:28:32.070477+00:00",
       "deadline": null,
       "tags": [
         "residency"
@@ -480,7 +480,7 @@
       "link": "https://artistcommunities.org/directory/residencies/ace-ashevillechicago-exchange-choreographic-fellowship",
       "summary": "An ACE Fellowship in Dance provides immersive creative time and space to selected artists, free of charge.",
       "source": "Artist Communities Alliance",
-      "published": "2026-11-26T02:00:08.492888+00:00",
+      "published": "2026-11-26T17:28:32.070182+00:00",
       "deadline": null,
       "tags": [
         "grant",
@@ -506,7 +506,7 @@
       "link": "https://artistcommunities.org/directory/residencies/aca-soundscape-field-station-canaveral-national-seashore",
       "summary": "ACA Soundscape Field Station at Canaveral National Seashore is a partnership between Atlantic Center for the Arts and Canaveral National Seashore.",
       "source": "Artist Communities Alliance",
-      "published": "2026-11-26T02:00:08.492080+00:00",
+      "published": "2026-11-26T17:28:32.069426+00:00",
       "deadline": null,
       "tags": [
         "residency"
@@ -530,7 +530,7 @@
       "link": "https://artistcommunities.org/directory/residencies/aca-sample-residency-0",
       "summary": "Description here.",
       "source": "Artist Communities Alliance",
-      "published": "2026-11-26T02:00:08.491695+00:00",
+      "published": "2026-11-26T17:28:32.069084+00:00",
       "deadline": null,
       "tags": [
         "residency"
@@ -553,7 +553,7 @@
       "link": "https://artistcommunities.org/directory/residencies/abbey-scholarship-painting",
       "summary": "Abbey Awards offers residencies for painters at the British School at Rome, selected from an annual submission, open to UK and US citizens and residents. Artists of all nationalities who have lived in the UK or US for 5 years are eligible to apply.",
       "source": "Artist Communities Alliance",
-      "published": "2026-11-26T02:00:08.490645+00:00",
+      "published": "2026-11-26T17:28:32.068146+00:00",
       "deadline": null,
       "tags": [
         "residency"
@@ -573,7 +573,7 @@
       "link": "https://artistcommunities.org/directory/residencies/abbey-foundation-studio-grant",
       "summary": "Beginning in 2025, The Abbey Foundation will begin to offer 6 month residencies for day use of the 850 square foot studio space. There is also a screened in area attached to the indoor studio which is available for large scale works.",
       "source": "Artist Communities Alliance",
-      "published": "2026-11-26T02:00:08.489654+00:00",
+      "published": "2026-11-26T17:28:32.067246+00:00",
       "deadline": null,
       "tags": [
         "grant",
@@ -591,7 +591,7 @@
       "link": "https://artistcommunities.org/directory/residencies/ap-residency",
       "summary": "For 20 years, Proyecto´ace has welcomed thousands of artists from around the world.",
       "source": "Artist Communities Alliance",
-      "published": "2026-11-26T02:00:08.489092+00:00",
+      "published": "2026-11-26T17:28:32.066746+00:00",
       "deadline": null,
       "tags": [
         "residency"
@@ -616,7 +616,7 @@
       "link": "https://artistcommunities.org/directory/residencies/6okken-residency",
       "summary": "6okken is an artist-run residency in Oishi, a small village on the north shore of Lake Kawaguchi at the foot of Mt. Fuji, about two hours from Tokyo by bus. Six houses stand together, and the artists who run 6okken live and work in the same cluster.",
       "source": "Artist Communities Alliance",
-      "published": "2026-11-26T02:00:08.488072+00:00",
+      "published": "2026-11-26T17:28:32.065801+00:00",
       "deadline": null,
       "tags": [
         "residency"
@@ -636,7 +636,7 @@
       "link": "https://artistcommunities.org/directory/residencies/2027-eutopia-art-residencies-greece",
       "summary": "Eutopia — from the Greek εὖ (good) and τόπος (place). Not a utopia. A real place, with real conditions, designed for the kind of creative work that requires time, atmosphere, and human connection.",
       "source": "Artist Communities Alliance",
-      "published": "2026-11-26T02:00:08.487239+00:00",
+      "published": "2026-11-26T17:28:32.065027+00:00",
       "deadline": null,
       "tags": [
         "residency"
@@ -653,7 +653,7 @@
       "link": "https://artistcommunities.org/directory/residencies/2027-edgar-heap-birds-family-artist-residency",
       "summary": "The Tyler School of Art and Architecture invites applications for a spring 2027 residency in the Art Department, which encompasses undergraduate and graduate programs in Ceramics, Fibers and Material Studies, Glass, Metals/Jewelry/CAD-CAM, Painting, Photography, Printmaking, and Sculpture.",
       "source": "Artist Communities Alliance",
-      "published": "2026-11-26T02:00:08.486037+00:00",
+      "published": "2026-11-26T17:28:32.063948+00:00",
       "deadline": null,
       "tags": [
         "residency"
@@ -682,7 +682,7 @@
       "link": "https://artistcommunities.org/directory/residencies/2026-springsummer-ceramics-artist-residency-program",
       "summary": "The Eureka Springs School of the arts is looking for practicing ceramics artists who are seeking focused time to refine their skills, create work and/or explore new avenues within their medium.",
       "source": "Artist Communities Alliance",
-      "published": "2026-11-26T02:00:08.485097+00:00",
+      "published": "2026-11-26T17:28:32.063120+00:00",
       "deadline": null,
       "tags": [
         "residency"
@@ -705,7 +705,7 @@
       "link": "https://artistcommunities.org/directory/residencies/2026-mentored-woodworking-residency-doug-stowe",
       "summary": "The Eureka Springs School of the Arts is looking for practicing woodworkers and craftspeople seeking focused time to refine their abilities, create new work, and expand their knowledge in a Mentored Residency under Master Woodcrafter, Doug Stowe.",
       "source": "Artist Communities Alliance",
-      "published": "2026-11-26T02:00:08.484025+00:00",
+      "published": "2026-11-26T17:28:32.062158+00:00",
       "deadline": null,
       "tags": [
         "residency"
@@ -725,7 +725,7 @@
       "link": "https://artistcommunities.org/directory/residencies/2025-oolite-arts-liveinart-residency-program",
       "summary": "The Oolite Arts’ Live.In.Art Residency Program provides artists with the time, space, and resources to reach new levels of excellence.",
       "source": "Artist Communities Alliance",
-      "published": "2026-11-26T02:00:08.483134+00:00",
+      "published": "2026-11-26T17:28:32.061372+00:00",
       "deadline": null,
       "tags": [
         "residency"
@@ -749,7 +749,7 @@
       "link": "https://artistcommunities.org/directory/residencies/2025-artist-writer-residencies-gibraltar-point-toronto-island",
       "summary": "Are you an artist or writer seeking a space to focus on your next project? Look no further! We're thrilled to share that we have just opened applications for self-directed residencies for 2025.",
       "source": "Artist Communities Alliance",
-      "published": "2026-11-26T02:00:08.482104+00:00",
+      "published": "2026-11-26T17:28:32.060458+00:00",
       "deadline": null,
       "tags": [
         "residency"
@@ -769,7 +769,7 @@
       "link": "https://artistcommunities.org/directory/residencies/100-west-corsicana-artist-writer-residency",
       "summary": "CORSICANA ARTIST & WRITER RESIDENCY supports the creation and presentation of art and literature with generous provisions and historic space. Founded in 2012 at 100 West, and organized in 2017 as a 501(c)(3) nonprofit.",
       "source": "Artist Communities Alliance",
-      "published": "2026-11-26T02:00:08.481104+00:00",
+      "published": "2026-11-26T17:28:32.059498+00:00",
       "deadline": null,
       "tags": [
         "residency"
@@ -789,7 +789,7 @@
       "link": "https://artistcommunities.org/directory/residencies/kathmandu-international-artist-residency-kiar-2027",
       "summary": "Nestled between India and China, Nepal is a land of breathtaking landscapes, rich traditions, and diverse cultures. Home to the majestic Himalayas—including Mount Everest—Nepal offers everything from subtropical valleys with banana trees to alpine forests with grazing yaks.",
       "source": "Artist Communities Alliance",
-      "published": "2026-11-26T02:00:08.479819+00:00",
+      "published": "2026-11-26T17:28:32.058465+00:00",
       "deadline": null,
       "tags": [
         "residency"
@@ -809,7 +809,7 @@
       "link": "https://artistcommunities.org/directory/residencies/kala-yatra-artist-residency-nepal-2026-27",
       "summary": "Kala Yatra invites applications for its concept-driven, community-engaged artist residency program in Kathmandu, Nepal.",
       "source": "Artist Communities Alliance",
-      "published": "2026-11-26T02:00:08.478971+00:00",
+      "published": "2026-11-26T17:28:32.057767+00:00",
       "deadline": null,
       "tags": [
         "residency"
@@ -840,7 +840,7 @@
       "link": "https://artistcommunities.org/directory/residencies/artsindustry-residency",
       "summary": "For more than fifty years, Arts/Industry has been connecting artists with the resources, technology, and materials of Kohler Co., and providing a place to explore new ideas, processes, and perspectives. Artists from all disciplines are encouraged to apply.",
       "source": "Artist Communities Alliance",
-      "published": "2026-11-26T02:00:08.477768+00:00",
+      "published": "2026-11-26T17:28:32.056706+00:00",
       "deadline": null,
       "tags": [
         "residency"
@@ -853,6 +853,23 @@
       "required_roles": [
         "Artist"
       ]
+    },
+    {
+      "id": "2c3c990d84380cda53532941024919ce73e50a2d",
+      "title": "A Spoon for a Century — Art & Creative Open Call 2026",
+      "link": "https://artdeadline.com/ops/merci/",
+      "summary": "International Deadline: December 31, 2026 – Presented by Merci Magazine and curated by Peggy Lui, this international, non-competitive contemporary art initiative invites people from all creative disciplines to explore what a single spoon can hold across a lifetime. A memory, a feeling, a story…",
+      "source": "ArtDeadline",
+      "published": "2026-11-26T08:00:50+00:00",
+      "deadline": "2026-12-31",
+      "tags": [
+        "opportunity"
+      ],
+      "region": null,
+      "kind": "opportunity",
+      "description": "International Deadline: December 31, 2026 – Presented by Merci Magazine and curated by Peggy Lui, this international, non-competitive contemporary art initiative invites people from all creative disciplines to explore what a single spoon can hold across a lifetime. A memory, a feeling, a story…",
+      "opportunity_type": "call_for_artists",
+      "location_mode": "not_specified"
     },
     {
       "id": "e6bcd958428d34a9c4b2c6cd864e2352e171d00a",
@@ -1058,25 +1075,6 @@
       ]
     },
     {
-      "id": "fc2185992b0dced4c210d6dfdb5b8a92b3621791",
-      "title": "Artist Spotlight: Featured Interview Opportunity",
-      "link": "https://artdeadline.com/ops/pjas/",
-      "summary": "International Deadline: December 29, 2026 - Every artist has a story worth telling. The Pennsylvania Journal of Arts & Sciences (PJAS) invites artists to share the inspiration, experiences, and creative perspectives behind their work through our Artist Spotlight Interview Series...",
-      "source": "ArtDeadline",
-      "published": "2026-10-16T07:02:43+00:00",
-      "deadline": "2026-12-29",
-      "tags": [
-        "opportunity"
-      ],
-      "region": "Northeast",
-      "kind": "opportunity",
-      "description": "International Deadline: December 29, 2026 - Every artist has a story worth telling. The Pennsylvania Journal of Arts & Sciences (PJAS) invites artists to share the inspiration, experiences, and creative perspectives behind their work through our Artist Spotlight Interview Series...",
-      "location_mode": "not_specified",
-      "required_roles": [
-        "Artist"
-      ]
-    },
-    {
       "id": "3cf3d2bde7cde72ee48763c836409d1cf50491ae",
       "title": "Black Box Gallery : Trees & Water",
       "link": "https://artdeadline.com/ops/black-box/",
@@ -1110,7 +1108,7 @@
       ],
       "region": "South",
       "kind": "opportunity",
-      "description": "ArtFields 9 October 2026 Share \"Staring Into the Eyes of the New Ophanim\" (detail) by Kate Burke on display during the 2026 ArtFields Festival Share A small town in South Carolina may not be the first place you think of when it comes to the Southʼs art scene, but each spring Lake City proves otherwise. For three weeks, storefronts, restaurants, and galleries become a town-wide exhibition during the ArtFields Festival, which returns April 15 – May 1, 2027 . \"Dissonance\" (detail), porcelain, by Risa Hricovsky won a 2025 Merit Award Now celebrating its 15th year, ArtFields invites emerging and established artists from across the Southeast to apply . From now through November 1, 2026, artists working in any medium and living in Alabama, Arkansas, Florida, Georgia, Kentucky, Louisiana, Mississippi, North Carolina, South Carolina, Tennessee, Virginia, or West Virginia can submit one 2D or 3D work to the festivalʼs signature juried competition. Around 400 works are selected for exhibition, competing for more than $100,000 in cash prizes, including a $50,000 Grand Prize. The entry fee is $25. For the first time, ArtFields is also accepting public art proposals during the same window. Artists with an idea for an outdoor, large-scale, site-specific installation —the kind of project that needs more room than a gallery wall— can propose it for the streets and spaces of Lake City by the same November 1 deadline. There is no fee to apply. \"Holm, Home, Homme\" (detail) by Nathan Grimes Since 2013, ArtFields has grown from a bold idea to elevate artists living and working in the South into a year-round arts organization, awarding more than $1 million in prize money along the way. The festival also features a live portrait contest, plein air painting, and more, with details available on the ArtFields website . For more information and to apply, visit artfieldssc.org . Trump Hits New Low With Bizarre Nvidia CEO Meme For Some Artists, Residency-Hopping Is a Form of Survival Trump Staffer Unwittingly Reveals Smithsonian Takeover Plan Is GTA VI the Art Miami Deserves? So You Want to Run an Artist’s Estate? Sponsored The Documenta Certificate in Philosophy and Art: Thinking in the Present Tense An intensive four-day residency in Kassel, Germany, with the Institute for Doctoral Studies in the Visual Arts. Sponsored Iconic and Independent: New York Studio School's MFA Program NYSS is now accepting applications from independent thinkers and experimenters in the arts.",
+      "description": "ArtFields 9 October 2026 Share \"Staring Into the Eyes of the New Ophanim\" (detail) by Kate Burke on display during the 2026 ArtFields Festival Share A small town in South Carolina may not be the first place you think of when it comes to the Southʼs art scene, but each spring Lake City proves otherwise. For three weeks, storefronts, restaurants, and galleries become a town-wide exhibition during the ArtFields Festival, which returns April 15 – May 1, 2027 . \"Dissonance\" (detail), porcelain, by Risa Hricovsky won a 2025 Merit Award Now celebrating its 15th year, ArtFields invites emerging and established artists from across the Southeast to apply . From now through November 1, 2026, artists working in any medium and living in Alabama, Arkansas, Florida, Georgia, Kentucky, Louisiana, Mississippi, North Carolina, South Carolina, Tennessee, Virginia, or West Virginia can submit one 2D or 3D work to the festivalʼs signature juried competition. Around 400 works are selected for exhibition, competing for more than $100,000 in cash prizes, including a $50,000 Grand Prize. The entry fee is $25. For the first time, ArtFields is also accepting public art proposals during the same window. Artists with an idea for an outdoor, large-scale, site-specific installation —the kind of project that needs more room than a gallery wall— can propose it for the streets and spaces of Lake City by the same November 1 deadline. There is no fee to apply. \"Holm, Home, Homme\" (detail) by Nathan Grimes Since 2013, ArtFields has grown from a bold idea to elevate artists living and working in the South into a year-round arts organization, awarding more than $1 million in prize money along the way. The festival also features a live portrait contest, plein air painting, and more, with details available on the ArtFields website . For more information and to apply, visit artfieldssc.org . Thelma Golden Stepping Down as Studio Museum Director After 21 Years How Alison Luchs, the “Museum Rizzler,” Became Gen Z’s Goated Art Historian Trump Hits New Low With Bizarre Nvidia CEO Meme For Some Artists, Residency-Hopping Is a Form of Survival Joni Mitchell Has Some News Sponsored The Documenta Certificate in Philosophy and Art: Thinking in the Present Tense An intensive four-day residency in Kassel, Germany, with the Institute for Doctoral Studies in the Visual Arts. Sponsored Iconic and Independent: New York Studio School's MFA Program NYSS is now accepting applications from independent thinkers and experimenters in the arts.",
       "opportunity_type": "residency",
       "location_mode": "not_specified",
       "required_roles": [
@@ -1174,7 +1172,7 @@
       ],
       "region": null,
       "kind": "opportunity",
-      "description": "Smithsonian American Art Museum 8 September 2026 Share (Credit: Photo by Norwood Photography) Share The Smithsonian American Art Museum (SAAM) and its Renwick Gallery invite applications to its premier fellowship program , the oldest and largest in American art. Scholars from any discipline whose research engages the art, craft, and visual culture of the United States are encouraged to apply, as are those who foreground new perspectives, materials, and methodologies. Fellowships are residential and support full-time research in the Smithsonian collections. SAAM is devoted to advancing excellence in art history and encourages candidates from all backgrounds to apply. Resources Each fellow is provided a carrel in SAAM’s Research and Scholars Center. There, they have access to the museum’s collection of over 47,600 works, specialized study collections and databases, the Smithsonian’s Archives of American Art, and an 180,000-volume branch library specializing in American art. The Research and Scholars Center is a short walk from other Smithsonian museums and libraries, the Library of Congress, the National Archives, and the National Gallery of Art. Regular workshops, seminars, and lectures provide a forum for lively scholarly exchange and professional advancement. Fellowships Available Candidates may apply to one or more of the following three opportunities: SIFP Fellowships at SAAM : SAAM hosts fellows through the Smithsonian Institution Fellowship Program (SIFP) and awards a number of named fellowships to predoctoral, postdoctoral, and senior candidates from this general pool. Deadline: October 15, 2026 The Betsy James Wyeth Fellowship in Native American Art : This joint fellowship at SAAM and the National Museum of the American Indian is awarded for a twelve-month term at the predoctoral level or a nine-month term at the postdoctoral or senior level. Deadline: October 15, 2026 The Audrey Flack Short-Term Fellowship : One fellowship is awarded annually at the predoctoral, postdoctoral, or senior level for a one-month term. Deadline: February 1, 2027 For more information, visit americanart.si.edu/fellowships or email saamfellowships@si.edu . Trump Hits New Low With Bizarre Nvidia CEO Meme For Some Artists, Residency-Hopping Is a Form of Survival Trump Staffer Unwittingly Reveals Smithsonian Takeover Plan Is GTA VI the Art Miami Deserves? So You Want to Run an Artist’s Estate? Sponsored The Documenta Certificate in Philosophy and Art: Thinking in the Present Tense An intensive four-day residency in Kassel, Germany, with the Institute for Doctoral Studies in the Visual Arts. Sponsored Iconic and Independent: New York Studio School's MFA Program NYSS is now accepting applications from independent thinkers and experimenters in the arts.",
+      "description": "Smithsonian American Art Museum 8 September 2026 Share (Credit: Photo by Norwood Photography) Share The Smithsonian American Art Museum (SAAM) and its Renwick Gallery invite applications to its premier fellowship program , the oldest and largest in American art. Scholars from any discipline whose research engages the art, craft, and visual culture of the United States are encouraged to apply, as are those who foreground new perspectives, materials, and methodologies. Fellowships are residential and support full-time research in the Smithsonian collections. SAAM is devoted to advancing excellence in art history and encourages candidates from all backgrounds to apply. Resources Each fellow is provided a carrel in SAAM’s Research and Scholars Center. There, they have access to the museum’s collection of over 47,600 works, specialized study collections and databases, the Smithsonian’s Archives of American Art, and an 180,000-volume branch library specializing in American art. The Research and Scholars Center is a short walk from other Smithsonian museums and libraries, the Library of Congress, the National Archives, and the National Gallery of Art. Regular workshops, seminars, and lectures provide a forum for lively scholarly exchange and professional advancement. Fellowships Available Candidates may apply to one or more of the following three opportunities: SIFP Fellowships at SAAM : SAAM hosts fellows through the Smithsonian Institution Fellowship Program (SIFP) and awards a number of named fellowships to predoctoral, postdoctoral, and senior candidates from this general pool. Deadline: October 15, 2026 The Betsy James Wyeth Fellowship in Native American Art : This joint fellowship at SAAM and the National Museum of the American Indian is awarded for a twelve-month term at the predoctoral level or a nine-month term at the postdoctoral or senior level. Deadline: October 15, 2026 The Audrey Flack Short-Term Fellowship : One fellowship is awarded annually at the predoctoral, postdoctoral, or senior level for a one-month term. Deadline: February 1, 2027 For more information, visit americanart.si.edu/fellowships or email saamfellowships@si.edu . Thelma Golden Stepping Down as Studio Museum Director After 21 Years How Alison Luchs, the “Museum Rizzler,” Became Gen Z’s Goated Art Historian Trump Hits New Low With Bizarre Nvidia CEO Meme For Some Artists, Residency-Hopping Is a Form of Survival Joni Mitchell Has Some News Sponsored The Documenta Certificate in Philosophy and Art: Thinking in the Present Tense An intensive four-day residency in Kassel, Germany, with the Institute for Doctoral Studies in the Visual Arts. Sponsored Iconic and Independent: New York Studio School's MFA Program NYSS is now accepting applications from independent thinkers and experimenters in the arts.",
       "opportunity_type": "fellowship",
       "location_mode": "not_specified",
       "required_roles": [
@@ -1223,7 +1221,7 @@
       ],
       "region": "South",
       "kind": "opportunity",
-      "description": "Harry Ransom Center 21 August 2026 Share John Bingley Garland, Durenstein! (1854), Evelyn Waugh Collection, Harry Ransom Center, the University of Texas at Austin. Share The Harry Ransom Center at the University of Texas at Austin invites applications for its 2027–2028 research fellowship program . Up to 50 fellowships will be awarded to support projects that require substantial on-site use of the center’s internationally renowned collections in the humanities. Fellowships are open to graduate students, current and former academic faculty at any career stage, and independent researchers — including journalists and artists — whose work engages deeply with archival materials. Residency lengths range from one week to two months, with stipends provided to support travel and research. The center’s collections span literature, photography, film, art, and cultural history, offering rich opportunities for interdisciplinary exploration. Recent acquisitions that are now accessible to researchers include the Lorne Michaels Collection , Ethel Waters Papers , and Irwin Winkler Papers . Research conducted by humanities scholars contributes to a dynamic body of knowledge that reshapes our understanding of what is preserved and valued in our communities. Applicants are encouraged to review the individual residency types and qualifications outlined in the application instructions. The deadline to apply is 5:00 pm, CST on November 6, 2026. About the Center The Harry Ransom Center is a humanities research library and museum that supports discovery, creativity, and scholarship. Its collections include nearly 45 million literary manuscripts, one million rare books, five million photographs, and more than 100,000 works of art. To learn more, visit ransom.center/fellowships . Trump Hits New Low With Bizarre Nvidia CEO Meme For Some Artists, Residency-Hopping Is a Form of Survival Trump Staffer Unwittingly Reveals Smithsonian Takeover Plan Is GTA VI the Art Miami Deserves? So You Want to Run an Artist’s Estate? Sponsored The Documenta Certificate in Philosophy and Art: Thinking in the Present Tense An intensive four-day residency in Kassel, Germany, with the Institute for Doctoral Studies in the Visual Arts. Sponsored Iconic and Independent: New York Studio School's MFA Program NYSS is now accepting applications from independent thinkers and experimenters in the arts.",
+      "description": "Harry Ransom Center 21 August 2026 Share John Bingley Garland, Durenstein! (1854), Evelyn Waugh Collection, Harry Ransom Center, the University of Texas at Austin. Share The Harry Ransom Center at the University of Texas at Austin invites applications for its 2027–2028 research fellowship program . Up to 50 fellowships will be awarded to support projects that require substantial on-site use of the center’s internationally renowned collections in the humanities. Fellowships are open to graduate students, current and former academic faculty at any career stage, and independent researchers — including journalists and artists — whose work engages deeply with archival materials. Residency lengths range from one week to two months, with stipends provided to support travel and research. The center’s collections span literature, photography, film, art, and cultural history, offering rich opportunities for interdisciplinary exploration. Recent acquisitions that are now accessible to researchers include the Lorne Michaels Collection , Ethel Waters Papers , and Irwin Winkler Papers . Research conducted by humanities scholars contributes to a dynamic body of knowledge that reshapes our understanding of what is preserved and valued in our communities. Applicants are encouraged to review the individual residency types and qualifications outlined in the application instructions. The deadline to apply is 5:00 pm, CST on November 6, 2026. About the Center The Harry Ransom Center is a humanities research library and museum that supports discovery, creativity, and scholarship. Its collections include nearly 45 million literary manuscripts, one million rare books, five million photographs, and more than 100,000 works of art. To learn more, visit ransom.center/fellowships . Thelma Golden Stepping Down as Studio Museum Director After 21 Years How Alison Luchs, the “Museum Rizzler,” Became Gen Z’s Goated Art Historian Trump Hits New Low With Bizarre Nvidia CEO Meme For Some Artists, Residency-Hopping Is a Form of Survival Joni Mitchell Has Some News Sponsored The Documenta Certificate in Philosophy and Art: Thinking in the Present Tense An intensive four-day residency in Kassel, Germany, with the Institute for Doctoral Studies in the Visual Arts. Sponsored Iconic and Independent: New York Studio School's MFA Program NYSS is now accepting applications from independent thinkers and experimenters in the arts.",
       "opportunity_type": "fellowship",
       "location_mode": "onsite",
       "required_roles": [
@@ -1277,6 +1275,531 @@
       "project_types": [
         "Exhibition"
       ]
+    },
+    {
+      "id": "b2d70494f6cd6e97cc6bea7865ab04c3c062ae69",
+      "title": "DUMBO Decked Out",
+      "link": "https://data.cityofnewyork.us/d/3r2x-bnmj",
+      "summary": "by Augenblick Studios and Katie Wendt · Projection · Manhattan Bridge Anchorage at Anchorage Place between Water Street and Front Street and at Adams Street between Water Street and Front Street as well as onto the Brooklyn-Queens Expressway at Project Street and Jay Street, New York · 2026",
+      "source": "NYC Temporary Public Art",
+      "published": "2026-01-01T00:00:00+00:00",
+      "deadline": null,
+      "tags": [
+        "public art"
+      ],
+      "region": "Northeast",
+      "kind": "archive",
+      "image": null
+    },
+    {
+      "id": "e96a97e2011945fe93d614fda6e2c98c68fea05c",
+      "title": "Chromatic Rhythm",
+      "link": "https://data.cityofnewyork.us/d/3r2x-bnmj",
+      "summary": "by Vanesa Alvarez Diaz · Mural · Troy Avenue between Prospect Place and St Marks Place, New York · 2026",
+      "source": "NYC Temporary Public Art",
+      "published": "2026-01-01T00:00:00+00:00",
+      "deadline": null,
+      "tags": [
+        "public art"
+      ],
+      "region": "Northeast",
+      "kind": "archive",
+      "image": null
+    },
+    {
+      "id": "88c5ce1f3f0670cdfead3e9b944cdcf462351fe4",
+      "title": "Day by Day",
+      "link": "https://data.cityofnewyork.us/d/3r2x-bnmj",
+      "summary": "by Marc-Olivier Lamothe · Signage · Flatbush Avenue busway between Atlantic Avenue and Park Place, New York · 2026",
+      "source": "NYC Temporary Public Art",
+      "published": "2026-01-01T00:00:00+00:00",
+      "deadline": null,
+      "tags": [
+        "public art"
+      ],
+      "region": "Northeast",
+      "kind": "archive",
+      "image": null
+    },
+    {
+      "id": "8e7319da2956793d4c21ccaa5c3ad9449df845f1",
+      "title": "Plant it Forward",
+      "link": "https://data.cityofnewyork.us/d/3r2x-bnmj",
+      "summary": "by Husam Ghanem + Ahmad Talat · Vinyl Display Structure · St. Andrews Plaza at Centre and Duane Street, New York · 2026",
+      "source": "NYC Temporary Public Art",
+      "published": "2026-01-01T00:00:00+00:00",
+      "deadline": null,
+      "tags": [
+        "public art"
+      ],
+      "region": "Northeast",
+      "kind": "archive",
+      "image": null
+    },
+    {
+      "id": "3b998180392e60ae5f1219f1c147f3efc4106361",
+      "title": "Clouds",
+      "link": "https://data.cityofnewyork.us/d/3r2x-bnmj",
+      "summary": "by Olaf Breuning · Sculpture · Broadway Boulevard Plaza between 39th Street and 40th Street, New York · 2026",
+      "source": "NYC Temporary Public Art",
+      "published": "2026-01-01T00:00:00+00:00",
+      "deadline": null,
+      "tags": [
+        "public art"
+      ],
+      "region": "Northeast",
+      "kind": "archive",
+      "image": null
+    },
+    {
+      "id": "96f4e8da6d11e3961378dd44ddeed37046433a6a",
+      "title": "AQUA COSMOS: The Hudson Canyon",
+      "link": "https://data.cityofnewyork.us/d/3r2x-bnmj",
+      "summary": "by Anita Glesta · Projection · Brooklyn Bridge abutment at Brooklyn Bridge Park, New York · 2026",
+      "source": "NYC Temporary Public Art",
+      "published": "2026-01-01T00:00:00+00:00",
+      "deadline": null,
+      "tags": [
+        "public art"
+      ],
+      "region": "Northeast",
+      "kind": "archive",
+      "image": null
+    },
+    {
+      "id": "34a8475b18f9e01e307e5f3f13d2f95f875d98bc",
+      "title": "Public Address",
+      "link": "https://data.cityofnewyork.us/d/3r2x-bnmj",
+      "summary": "by Alex Strada · Signage · Various Streetlight poles and drive rails, New York · 2026",
+      "source": "NYC Temporary Public Art",
+      "published": "2026-01-01T00:00:00+00:00",
+      "deadline": null,
+      "tags": [
+        "public art"
+      ],
+      "region": "Northeast",
+      "kind": "archive",
+      "image": null
+    },
+    {
+      "id": "86e12310e0f93479fe534eb56ba6b9e43544ecaf",
+      "title": "NYC In Motion: NYC Art Stop Letters",
+      "link": "https://data.cityofnewyork.us/d/3r2x-bnmj",
+      "summary": "by Grace Park · Digital Illustration · Summer Streets routes, New York · 2026",
+      "source": "NYC Temporary Public Art",
+      "published": "2026-01-01T00:00:00+00:00",
+      "deadline": null,
+      "tags": [
+        "public art"
+      ],
+      "region": "Northeast",
+      "kind": "archive",
+      "image": null
+    },
+    {
+      "id": "81a9ffa01e4264eb3c2f2b5034ea355c618f9294",
+      "title": "Saturation: NYC Art Stop Letters",
+      "link": "https://data.cityofnewyork.us/d/3r2x-bnmj",
+      "summary": "by Amanda Lobos · Digital Illustration · Summer Streets routes, New York · 2026",
+      "source": "NYC Temporary Public Art",
+      "published": "2026-01-01T00:00:00+00:00",
+      "deadline": null,
+      "tags": [
+        "public art"
+      ],
+      "region": "Northeast",
+      "kind": "archive",
+      "image": null
+    },
+    {
+      "id": "701aad8ab5f9c09d15e48acb3fe8a32030024fc1",
+      "title": "Shakespeare Step Street",
+      "link": "https://data.cityofnewyork.us/d/3r2x-bnmj",
+      "summary": "by Fiona Agababian · Mural · West 167th street between Anderson Avenue and Shakespeare Avenue, New York · 2026",
+      "source": "NYC Temporary Public Art",
+      "published": "2026-01-01T00:00:00+00:00",
+      "deadline": null,
+      "tags": [
+        "public art"
+      ],
+      "region": "Northeast",
+      "kind": "archive",
+      "image": null
+    },
+    {
+      "id": "e022a105cf1ece23b9c6a4ba0400a9044e0ba73f",
+      "title": "The Bower",
+      "link": "https://data.cityofnewyork.us/d/3r2x-bnmj",
+      "summary": "by Elsa Ponce · Sculpture · Foley Square, New York · 2026",
+      "source": "NYC Temporary Public Art",
+      "published": "2026-01-01T00:00:00+00:00",
+      "deadline": null,
+      "tags": [
+        "public art"
+      ],
+      "region": "Northeast",
+      "kind": "archive",
+      "image": null
+    },
+    {
+      "id": "e4e8a29c0ca1eab2be21155a15886c08f9c5111c",
+      "title": "Big Spinning Wheels",
+      "link": "https://data.cityofnewyork.us/d/3r2x-bnmj",
+      "summary": "by Josh Cohen · Sculpture · 31st and Vernon Blvd, New York · 2026",
+      "source": "NYC Temporary Public Art",
+      "published": "2026-01-01T00:00:00+00:00",
+      "deadline": null,
+      "tags": [
+        "public art"
+      ],
+      "region": "Northeast",
+      "kind": "archive",
+      "image": null
+    },
+    {
+      "id": "30cc02f9141b564f4be815190c113de8882e8075",
+      "title": "Tropical Passage",
+      "link": "https://data.cityofnewyork.us/d/3r2x-bnmj",
+      "summary": "by Nancy Mendez · Mural · Stairwell at West 168th Street Step Street, New York · 2026",
+      "source": "NYC Temporary Public Art",
+      "published": "2026-01-01T00:00:00+00:00",
+      "deadline": null,
+      "tags": [
+        "public art"
+      ],
+      "region": "Northeast",
+      "kind": "archive",
+      "image": null
+    },
+    {
+      "id": "c1f692cd5d8e1025b044c53805834ee9df0fb2f1",
+      "title": "4 Windows",
+      "link": "https://data.cityofnewyork.us/d/3r2x-bnmj",
+      "summary": "by Stereotank · Sculpture · SE Corner of West 110th Street & Columbus Avenue, New York · 2026",
+      "source": "NYC Temporary Public Art",
+      "published": "2026-01-01T00:00:00+00:00",
+      "deadline": null,
+      "tags": [
+        "public art"
+      ],
+      "region": "Northeast",
+      "kind": "archive",
+      "image": null
+    },
+    {
+      "id": "a4df78455ad8470ffa0ff759185e90965632ecec",
+      "title": "Island Layers",
+      "link": "https://data.cityofnewyork.us/d/3r2x-bnmj",
+      "summary": "by Cindy Lozito · Mural · Park Avenue between East 168th and 169th Streets, New York · 2026",
+      "source": "NYC Temporary Public Art",
+      "published": "2026-01-01T00:00:00+00:00",
+      "deadline": null,
+      "tags": [
+        "public art"
+      ],
+      "region": "Northeast",
+      "kind": "archive",
+      "image": null
+    },
+    {
+      "id": "16d32613094a815161ee452f1cf1e646c2f625be",
+      "title": "See You on the Greenway",
+      "link": "https://data.cityofnewyork.us/d/3r2x-bnmj",
+      "summary": "by Laura Alvarez · Mural · Depot Pl, New York · 2026",
+      "source": "NYC Temporary Public Art",
+      "published": "2026-01-01T00:00:00+00:00",
+      "deadline": null,
+      "tags": [
+        "public art"
+      ],
+      "region": "Northeast",
+      "kind": "archive",
+      "image": null
+    },
+    {
+      "id": "4c3356df0d33acaf32bc5f5012e47f66e136c352",
+      "title": "Threads",
+      "link": "https://data.cityofnewyork.us/d/3r2x-bnmj",
+      "summary": "by Sage Cotignola · Mural · Tranto Pl, between Walker St and Hooker Pl, New York · 2026",
+      "source": "NYC Temporary Public Art",
+      "published": "2026-01-01T00:00:00+00:00",
+      "deadline": null,
+      "tags": [
+        "public art"
+      ],
+      "region": "Northeast",
+      "kind": "archive",
+      "image": null
+    },
+    {
+      "id": "75422872d152813e583731303adabb9e38a9db5f",
+      "title": "Bead Maze",
+      "link": "https://data.cityofnewyork.us/d/3r2x-bnmj",
+      "summary": "by Fashion Institute of Technology with Scale Rule · Sculpture · University Plaza between 13th and 14th Streets, New York · 2026",
+      "source": "NYC Temporary Public Art",
+      "published": "2026-01-01T00:00:00+00:00",
+      "deadline": null,
+      "tags": [
+        "public art"
+      ],
+      "region": "Northeast",
+      "kind": "archive",
+      "image": null
+    },
+    {
+      "id": "2b31765dcf0121f83191cb64116fbbdbfa6878cc",
+      "title": "Becoming",
+      "link": "https://data.cityofnewyork.us/d/3r2x-bnmj",
+      "summary": "by Kevin Cincotta · Asphalt Mural and Barrier Mural · McGuinness Boulevard and Driggs Avenue, New York · 2026",
+      "source": "NYC Temporary Public Art",
+      "published": "2026-01-01T00:00:00+00:00",
+      "deadline": null,
+      "tags": [
+        "public art"
+      ],
+      "region": "Northeast",
+      "kind": "archive",
+      "image": null
+    },
+    {
+      "id": "b860df682bdffe56586c9e08a65d8d9ba6b96714",
+      "title": "Side by Side",
+      "link": "https://data.cityofnewyork.us/d/3r2x-bnmj",
+      "summary": "by Ellie Balk · Wall Mural · Hudson Boulevard West between 36th and 37th Streets, New York · 2026",
+      "source": "NYC Temporary Public Art",
+      "published": "2026-01-01T00:00:00+00:00",
+      "deadline": null,
+      "tags": [
+        "public art"
+      ],
+      "region": "Northeast",
+      "kind": "archive",
+      "image": null
+    },
+    {
+      "id": "638a8273d685fe64ff8910c23f314d88d497c468",
+      "title": "Myrtle Meadows",
+      "link": "https://data.cityofnewyork.us/d/3r2x-bnmj",
+      "summary": "by Sophia Livecchi · Asphalt Mural · 55-46 Myrtle Avenue,58-02 Myrtle Avenue, 58-01 Myrtle Avenue,60-40 Myrtle Avenue, New York · 2026",
+      "source": "NYC Temporary Public Art",
+      "published": "2026-01-01T00:00:00+00:00",
+      "deadline": null,
+      "tags": [
+        "public art"
+      ],
+      "region": "Northeast",
+      "kind": "archive",
+      "image": null
+    },
+    {
+      "id": "7229ec3a85e193966b1638f9339f1a3d09ce25d7",
+      "title": "Little Senegal Mural",
+      "link": "https://data.cityofnewyork.us/d/3r2x-bnmj",
+      "summary": "by Matthew Vidmar · Asphalt Mural · 7th Avenue, St. Nicholas Avenue, and West 116th Street, New York · 2026",
+      "source": "NYC Temporary Public Art",
+      "published": "2026-01-01T00:00:00+00:00",
+      "deadline": null,
+      "tags": [
+        "public art"
+      ],
+      "region": "Northeast",
+      "kind": "archive",
+      "image": null
+    },
+    {
+      "id": "090f466caf52a10235908680c4e3a2d3c1e5112a",
+      "title": "Buckyball",
+      "link": "https://data.cityofnewyork.us/d/3r2x-bnmj",
+      "summary": "by Leo Villareal · Asphalt Mural · 14th Street Square (14th Street at Ninth Ave), New York · 2026",
+      "source": "NYC Temporary Public Art",
+      "published": "2026-01-01T00:00:00+00:00",
+      "deadline": null,
+      "tags": [
+        "public art"
+      ],
+      "region": "Northeast",
+      "kind": "archive",
+      "image": null
+    },
+    {
+      "id": "53bb6168b528e95c307af763377abf779018000d",
+      "title": "Urban Flow",
+      "link": "https://data.cityofnewyork.us/d/3r2x-bnmj",
+      "summary": "by Dasic Fernandez · Asphalt Mural · Little Sixth Avenue between Spring St & Dominick St (Hudson Square Plaza), New York · 2026",
+      "source": "NYC Temporary Public Art",
+      "published": "2026-01-01T00:00:00+00:00",
+      "deadline": null,
+      "tags": [
+        "public art"
+      ],
+      "region": "Northeast",
+      "kind": "archive",
+      "image": null
+    },
+    {
+      "id": "b06d0347a1d2cc3f91d3318db0367e4e8262b6c0",
+      "title": "The Runway Routine",
+      "link": "https://data.cityofnewyork.us/d/3r2x-bnmj",
+      "summary": "by Cazorla + Saleme · Asphalt Mural · Garment District Plazas, Broadway between 39th and 40th Streets, New York · 2026",
+      "source": "NYC Temporary Public Art",
+      "published": "2026-01-01T00:00:00+00:00",
+      "deadline": null,
+      "tags": [
+        "public art"
+      ],
+      "region": "Northeast",
+      "kind": "archive",
+      "image": null
+    },
+    {
+      "id": "7d399e3471bb5bc0c0a7452f743659935234c16a",
+      "title": "A Day in the Life",
+      "link": "https://data.cityofnewyork.us/d/3r2x-bnmj",
+      "summary": "by Jasminia Otero & Christopher Rios · Pedestrian Tunnel Mural · Mosholu Parkway Pedestrian Pathways - by entrance to the Grand Concourse, New York · 2026",
+      "source": "NYC Temporary Public Art",
+      "published": "2026-01-01T00:00:00+00:00",
+      "deadline": null,
+      "tags": [
+        "public art"
+      ],
+      "region": "Northeast",
+      "kind": "archive",
+      "image": null
+    },
+    {
+      "id": "0d2965ded42dac619b6e66b78a598adc5b21492b",
+      "title": "Art of the Game",
+      "link": "https://data.cityofnewyork.us/d/3r2x-bnmj",
+      "summary": "by Gabriel Lester · Sculpture · Paseo Park, New York · 2026",
+      "source": "NYC Temporary Public Art",
+      "published": "2026-01-01T00:00:00+00:00",
+      "deadline": null,
+      "tags": [
+        "public art"
+      ],
+      "region": "Northeast",
+      "kind": "archive",
+      "image": null
+    },
+    {
+      "id": "ef0d4209bddfa8e35f71b77c2f35a066ece08bf2",
+      "title": "Brooklyn Blossoms",
+      "link": "https://data.cityofnewyork.us/d/3r2x-bnmj",
+      "summary": "by Carla Torres · Asphalt Mural · Pearl Street between Fulton Street and Willoughby Street, Jay Street between Willoughby Street and Johnson Street, Bridge Street between Fulton Street and Willoughby Street, Hoyt Street between Livingston Street and Fulton Street, Elm Place between Livingston Street and Fulton Street, and Willoughby Street between Pearl Street and Jay Street., New York · 2026",
+      "source": "NYC Temporary Public Art",
+      "published": "2026-01-01T00:00:00+00:00",
+      "deadline": null,
+      "tags": [
+        "public art"
+      ],
+      "region": "Northeast",
+      "kind": "archive",
+      "image": null
+    },
+    {
+      "id": "9b332c68956ce5a9040fd7c19fe8a82a89f5182f",
+      "title": "Dreams and Doodles",
+      "link": "https://data.cityofnewyork.us/d/3r2x-bnmj",
+      "summary": "by Ian Sullivan · Footbridge Mural · Footbridge at West 235th Street & Henry Hudson Parkway, New York · 2026",
+      "source": "NYC Temporary Public Art",
+      "published": "2026-01-01T00:00:00+00:00",
+      "deadline": null,
+      "tags": [
+        "public art"
+      ],
+      "region": "Northeast",
+      "kind": "archive",
+      "image": null
+    },
+    {
+      "id": "9091040739c3aefda2656d500f5638efc8f455ef",
+      "title": "Let Spirits Flow â€“ The Yangtze Dragon",
+      "link": "https://data.cityofnewyork.us/d/3r2x-bnmj",
+      "summary": "by SMOE Studio + Artolution · Asphalt Mural · Doyers Street, New York · 2026",
+      "source": "NYC Temporary Public Art",
+      "published": "2026-01-01T00:00:00+00:00",
+      "deadline": null,
+      "tags": [
+        "public art"
+      ],
+      "region": "Northeast",
+      "kind": "archive",
+      "image": null
+    },
+    {
+      "id": "3d28e3f45ffe23fa93087ef529b50261da4321c0",
+      "title": "Tompkinsville Lightway",
+      "link": "https://data.cityofnewyork.us/d/3r2x-bnmj",
+      "summary": "by A + A + A and Urechi Ogugo · Lighting Intervention · Victory Boulevard and Bay Street, New York · 2026",
+      "source": "NYC Temporary Public Art",
+      "published": "2026-01-01T00:00:00+00:00",
+      "deadline": null,
+      "tags": [
+        "public art"
+      ],
+      "region": "Northeast",
+      "kind": "archive",
+      "image": null
+    },
+    {
+      "id": "3dc318ae54b73c4b4f3ee4ec0a3cb820b79f76e4",
+      "title": "Pink Clouds",
+      "link": "https://data.cityofnewyork.us/d/3r2x-bnmj",
+      "summary": "by Haemee Han · Intervention · Hillel Place Plaza on Hillel Place between Flatbush Avenue and Kenilworth Place, New York · 2026",
+      "source": "NYC Temporary Public Art",
+      "published": "2026-01-01T00:00:00+00:00",
+      "deadline": null,
+      "tags": [
+        "public art"
+      ],
+      "region": "Northeast",
+      "kind": "archive",
+      "image": null
+    },
+    {
+      "id": "f2de93b92a7a1f626cc2db48b7eb63dfc0f8ca78",
+      "title": "DUMBO Projection Project Vol. 7",
+      "link": "https://data.cityofnewyork.us/d/3r2x-bnmj",
+      "summary": "by Students from the NYU Interactive Telecommunications Program · Projection · Manhattan Bridge Anchorage at Pearl Street and Water Street, Manhattan Bridge Anchorage at Adams Street, Brooklyn-Queens Expressway wall, New York · 2026",
+      "source": "NYC Temporary Public Art",
+      "published": "2026-01-01T00:00:00+00:00",
+      "deadline": null,
+      "tags": [
+        "public art"
+      ],
+      "region": "Northeast",
+      "kind": "archive",
+      "image": null
+    },
+    {
+      "id": "cb6fd5e5c25cc7efd672fc7cd82abab22652550a",
+      "title": "Hurley Whirly",
+      "link": "https://data.cityofnewyork.us/d/3r2x-bnmj",
+      "summary": "by David Barthold · Sculpture · Fourth Avenue at Second Street, New York · 2026",
+      "source": "NYC Temporary Public Art",
+      "published": "2026-01-01T00:00:00+00:00",
+      "deadline": null,
+      "tags": [
+        "public art"
+      ],
+      "region": "Northeast",
+      "kind": "archive",
+      "image": null
+    },
+    {
+      "id": "466fbc4498d51da2b4b28306317718f9d92df16a",
+      "title": "The Plastic Sea",
+      "link": "https://data.cityofnewyork.us/d/3r2x-bnmj",
+      "summary": "by Frahydel Falczuk · Car Free Earth Day · Flatiron Plaza North on Broadway between 23rd Street and 24th Street, New York · 2026",
+      "source": "NYC Temporary Public Art",
+      "published": "2026-01-01T00:00:00+00:00",
+      "deadline": null,
+      "tags": [
+        "public art"
+      ],
+      "region": "Northeast",
+      "kind": "archive",
+      "image": null
     },
     {
       "id": "9f5bdfdb71228a33b7fdf20c1f66fcdf542371d9",
